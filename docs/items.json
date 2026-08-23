@@ -1,0 +1,2760 @@
+{
+  "title": "frontierfeed",
+  "description": "Release and news tracker for Anthropic's Claude",
+  "generated": "2026-08-06T14:24:49.996817+00:00",
+  "count": 186,
+  "items": [
+    {
+      "title": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
+      "url": "https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859632+00:00",
+      "body": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
+      "summary": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "e52114accf158484"
+    },
+    {
+      "title": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
+      "url": "https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859617+00:00",
+      "body": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
+      "summary": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "d7411d0641d0fe83"
+    },
+    {
+      "title": "How Anthropic runs large-scale code migrations with Claude Code",
+      "url": "https://claude.com/blog/ai-code-migration",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859602+00:00",
+      "body": "How Anthropic runs large-scale code migrations with Claude Code",
+      "summary": "How Anthropic runs large-scale code migrations with Claude Code",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [],
+      "uid": "98459f55998be428"
+    },
+    {
+      "title": "Working with Claude Fable 5 in Claude Cowork",
+      "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859587+00:00",
+      "body": "Working with Claude Fable 5 in Claude Cowork",
+      "summary": "Working with Claude Fable 5 in Claude Cowork",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [],
+      "uid": "6dc77424dd26457d"
+    },
+    {
+      "title": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+      "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859571+00:00",
+      "body": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+      "summary": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "1c294aa7381f1629"
+    },
+    {
+      "title": "Zero risk isn't the job: a CISO's guide to agentic AI",
+      "url": "https://claude.com/blog/ciso-guide-to-agentic-ai",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859556+00:00",
+      "body": "Zero risk isn't the job: a CISO's guide to agentic AI",
+      "summary": "Zero risk isn't the job: a CISO's guide to agentic AI",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "992925aaef1e490b"
+    },
+    {
+      "title": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
+      "url": "https://claude.com/blog/working-at-the-frontier-rakuten",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859540+00:00",
+      "body": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
+      "summary": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "57ea816d152b7226"
+    },
+    {
+      "title": "How Anthropic secures its AI-native software development lifecycle",
+      "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859525+00:00",
+      "body": "How Anthropic secures its AI-native software development lifecycle",
+      "summary": "How Anthropic secures its AI-native software development lifecycle",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "d59381a90ef0a83e"
+    },
+    {
+      "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
+      "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859511+00:00",
+      "body": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
+      "summary": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [],
+      "uid": "cdfa5b541ed204f7"
+    },
+    {
+      "title": "Building verification loops in Claude Code with skills",
+      "url": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859496+00:00",
+      "body": "Building verification loops in Claude Code with skills",
+      "summary": "Building verification loops in Claude Code with skills",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "skills"
+      ],
+      "uid": "7d7ecaf4c5822345"
+    },
+    {
+      "title": "How Outtake built a cyber investigator on Claude",
+      "url": "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859481+00:00",
+      "body": "How Outtake built a cyber investigator on Claude",
+      "summary": "How Outtake built a cyber investigator on Claude",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "edec9ad788034b2b"
+    },
+    {
+      "title": "Four role-based certifications for the people who put Claude to work for customers",
+      "url": "https://claude.com/blog/four-role-based-claude-certifications",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859467+00:00",
+      "body": "Four role-based certifications for the people who put Claude to work for customers",
+      "summary": "Four role-based certifications for the people who put Claude to work for customers",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "d3e539eeba3055a1"
+    },
+    {
+      "title": "Think through hard problems in voice mode",
+      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859452+00:00",
+      "body": "Think through hard problems in voice mode",
+      "summary": "Think through hard problems in voice mode",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "1d7fd83c5b4f7c86"
+    },
+    {
+      "title": "How the product designer who built Claude Design uses it to explore ideas before building them",
+      "url": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859438+00:00",
+      "body": "How the product designer who built Claude Design uses it to explore ideas before building them",
+      "summary": "How the product designer who built Claude Design uses it to explore ideas before building them",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "b3ba984540568ee1"
+    },
+    {
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859423+00:00",
+      "body": "The new rules of context engineering for Claude 5 generation models",
+      "summary": "The new rules of context engineering for Claude 5 generation models",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "20edab203a0e2e81"
+    },
+    {
+      "title": "Claude models explained: choosing the best model for your use case",
+      "url": "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859408+00:00",
+      "body": "Claude models explained: choosing the best model for your use case",
+      "summary": "Claude models explained: choosing the best model for your use case",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "de9ce95eb5410548"
+    },
+    {
+      "title": "Bringing MCP 2026-07-28 to Claude",
+      "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859392+00:00",
+      "body": "Bringing MCP 2026-07-28 to Claude",
+      "summary": "Bringing MCP 2026-07-28 to Claude",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "mcp"
+      ],
+      "uid": "ac602b433f542c4e"
+    },
+    {
+      "title": "A guide to cost visibility and control in Claude",
+      "url": "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859376+00:00",
+      "body": "A guide to cost visibility and control in Claude",
+      "summary": "A guide to cost visibility and control in Claude",
+      "version": "",
+      "category": "pricing",
+      "impact": "info",
+      "tags": [],
+      "uid": "729d6806c42b4112"
+    },
+    {
+      "title": "Inference hooks: inline data loss prevention for Claude Enterprise",
+      "url": "https://claude.com/blog/claude-enterprise-inference-hooks",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859358+00:00",
+      "body": "Inference hooks: inline data loss prevention for Claude Enterprise",
+      "summary": "Inference hooks: inline data loss prevention for Claude Enterprise",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "enterprise"
+      ],
+      "uid": "84f44597accb60c3"
+    },
+    {
+      "title": "Millennium and Anthropic are building a digital risk analyst with Claude",
+      "url": "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
+      "source": "claude-blog",
+      "published": "2026-08-06T13:23:08.859324+00:00",
+      "body": "Millennium and Anthropic are building a digital risk analyst with Claude",
+      "summary": "Millennium and Anthropic are building a digital risk analyst with Claude",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "8620295457e3a849"
+    },
+    {
+      "title": "Equipping agents for the real world with Agent Skills",
+      "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781879+00:00",
+      "body": "Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.",
+      "summary": "Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "skills"
+      ],
+      "uid": "7134ab1e57c51a9f"
+    },
+    {
+      "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
+      "url": "https://www.anthropic.com/engineering/claude-code-sandboxing",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781865+00:00",
+      "body": "Claude Code's new sandboxing features, a bash tool and Claude Code on the web,  reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.",
+      "summary": "Claude Code's new sandboxing features, a bash tool and Claude Code on the web, reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [],
+      "uid": "ea6b38174b7d3154"
+    },
+    {
+      "title": "Code execution with MCP: Building more efficient agents",
+      "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781850+00:00",
+      "body": "Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.",
+      "summary": "Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "mcp"
+      ],
+      "uid": "dd9b37132b0ca3bc"
+    },
+    {
+      "title": "Introducing advanced tool use on the Claude Developer Platform",
+      "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781835+00:00",
+      "body": "We\u2019ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here\u2019s how they work.",
+      "summary": "We\u2019ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here\u2019s how they work.",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [],
+      "uid": "c343e840b5a491e6"
+    },
+    {
+      "title": "Effective harnesses for long-running agents",
+      "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781820+00:00",
+      "body": "Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.",
+      "summary": "Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "e6b63261de37bce8"
+    },
+    {
+      "title": "Demystifying evals for AI agents",
+      "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781806+00:00",
+      "body": "The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \\n",
+      "summary": "The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \\n",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "0c6dc2bdd58b522a"
+    },
+    {
+      "title": "Designing AI-resistant technical evaluations",
+      "url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781790+00:00",
+      "body": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
+      "summary": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "bf23981790fd7bc8"
+    },
+    {
+      "title": "Quantifying infrastructure noise in agentic coding evals",
+      "url": "https://www.anthropic.com/engineering/infrastructure-noise",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781775+00:00",
+      "body": "Infrastructure configuration can swing agentic coding benchmarks by several percentage points\u2014sometimes more than the leaderboard gap between top models.\\n\\n",
+      "summary": "Infrastructure configuration can swing agentic coding benchmarks by several percentage points\u2014sometimes more than the leaderboard gap between top models.\\n\\n",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "47646435ea1166b3"
+    },
+    {
+      "title": "Building a C compiler with a team of parallel Claudes",
+      "url": "https://www.anthropic.com/engineering/building-c-compiler",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781760+00:00",
+      "body": "We tasked Opus 4.6 using agent teams to build a C Compiler, and then (mostly) walked away. Here's what it taught us about the future of autonomous software development.",
+      "summary": "We tasked Opus 4.6 using agent teams to build a C Compiler, and then (mostly) walked away. Here's what it taught us about the future of autonomous software development.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "opus"
+      ],
+      "uid": "aa45b159f4c36bd6"
+    },
+    {
+      "title": "Eval awareness in Claude Opus 4.6\u2019s BrowseComp performance",
+      "url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781744+00:00",
+      "body": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it\u2014raising questions about eval integrity in web-enabled environments.",
+      "summary": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it\u2014raising questions about eval integrity in web-enabled environments.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "opus"
+      ],
+      "uid": "f0814aaface4c956"
+    },
+    {
+      "title": "Harness design for long-running application development",
+      "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781729+00:00",
+      "body": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
+      "summary": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "cbc62fbd516489f9"
+    },
+    {
+      "title": "How we built Claude Code auto mode: a safer way to skip permissions",
+      "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781714+00:00",
+      "body": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.\\n",
+      "summary": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.\\n",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [],
+      "uid": "03a152ee697246cd"
+    },
+    {
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781697+00:00",
+      "body": "Harnesses encode assumptions that go stale as models improve. Managed Agents\u2014our hosted service for long-horizon agent work\u2014is built around interfaces that stay stable as harnesses change.",
+      "summary": "Harnesses encode assumptions that go stale as models improve. Managed Agents\u2014our hosted service for long-horizon agent work\u2014is built around interfaces that stay stable as harnesses change.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "0053e0c582e53587"
+    },
+    {
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781666+00:00",
+      "body": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened and what we're changing.",
+      "summary": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened and what we're changing.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [],
+      "uid": "bf46dd6669ed40e2"
+    },
+    {
+      "title": "How we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "source": "anthropic-engineering",
+      "published": "2026-08-06T13:23:07.781609+00:00",
+      "body": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here\u2019s what we\u2019ve learned building containment for claude.ai, Claude Code, and Cowork.\\n",
+      "summary": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here\u2019s what we\u2019ve learned building containment for claude.ai, Claude Code, and Cowork.\\n",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [],
+      "uid": "fe20721a36aabacb"
+    },
+    {
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696850+00:00",
+      "body": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "summary": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "8ebcc5c550395042"
+    },
+    {
+      "title": "Results from the first Anthropic Public Record",
+      "url": "https://www.anthropic.com/news/anthropic-public-record",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696835+00:00",
+      "body": "Results from the first Anthropic Public Record",
+      "summary": "Results from the first Anthropic Public Record",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "276bb016ee4b3eeb"
+    },
+    {
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696819+00:00",
+      "body": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "summary": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "927ef6033397dffa"
+    },
+    {
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696805+00:00",
+      "body": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "25d236c157781389"
+    },
+    {
+      "title": "Introducing Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696791+00:00",
+      "body": "Introducing Claude Tag",
+      "summary": "Introducing Claude Tag",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [],
+      "uid": "adc6b68bd111afbd"
+    },
+    {
+      "title": "Redeploying Fable 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696776+00:00",
+      "body": "Redeploying Fable 5",
+      "summary": "Redeploying Fable 5",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "0ca530b95e60a9da"
+    },
+    {
+      "title": "Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696762+00:00",
+      "body": "Introducing Claude Sonnet 5",
+      "summary": "Introducing Claude Sonnet 5",
+      "version": "",
+      "category": "model-release",
+      "impact": "feature",
+      "tags": [
+        "sonnet"
+      ],
+      "uid": "aab830546368e819"
+    },
+    {
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696748+00:00",
+      "body": "Claude Science, an AI workbench for scientists, is now available",
+      "summary": "Claude Science, an AI workbench for scientists, is now available",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [],
+      "uid": "aa18a534f37db212"
+    },
+    {
+      "title": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696734+00:00",
+      "body": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
+      "summary": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "8701478040a3ec25"
+    },
+    {
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696720+00:00",
+      "body": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "b2528e7b03bcd03e"
+    },
+    {
+      "title": "Inviting hard questions",
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696705+00:00",
+      "body": "Inviting hard questions",
+      "summary": "Inviting hard questions",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "1b338e30b6b31fa4"
+    },
+    {
+      "title": "UST is bringing Claude to physical AI",
+      "url": "https://www.anthropic.com/news/ust-claude",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696690+00:00",
+      "body": "UST is bringing Claude to physical AI",
+      "summary": "UST is bringing Claude to physical AI",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "98c411147f36a0c1"
+    },
+    {
+      "title": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696676+00:00",
+      "body": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
+      "summary": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "4d2c2b1a01b6d2bc"
+    },
+    {
+      "title": "Introducing a way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696660+00:00",
+      "body": "Introducing a way to reflect on how you use Claude",
+      "summary": "Introducing a way to reflect on how you use Claude",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [],
+      "uid": "809fa8fc0fec0bfb"
+    },
+    {
+      "title": "Introducing Claude for Teachers",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696644+00:00",
+      "body": "Introducing Claude for Teachers",
+      "summary": "Introducing Claude for Teachers",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [],
+      "uid": "d2853d72add8b969"
+    },
+    {
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696629+00:00",
+      "body": "Anthropic commits $10 million to Canadian AI research",
+      "summary": "Anthropic commits $10 million to Canadian AI research",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "9cc3635eef1ed303"
+    },
+    {
+      "title": "Apply for Anthropic\u2019s AI for Science rare disease research grants",
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696614+00:00",
+      "body": "Apply for Anthropic\u2019s AI for Science rare disease research grants",
+      "summary": "Apply for Anthropic\u2019s AI for Science rare disease research grants",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "814defbc4d993719"
+    },
+    {
+      "title": "Anthropic is donating another $20 million to Public First Action",
+      "url": "https://www.anthropic.com/news/donation-public-first-action",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696599+00:00",
+      "body": "Anthropic is donating another $20 million to Public First Action",
+      "summary": "Anthropic is donating another $20 million to Public First Action",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "e4ad39e0daa84e86"
+    },
+    {
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696583+00:00",
+      "body": "A research agenda for the Economic Futures Research Fund",
+      "summary": "A research agenda for the Economic Futures Research Fund",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "0ea1743424c3f00b"
+    },
+    {
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696568+00:00",
+      "body": "Ask Claude about the Anthropic Economic Index",
+      "summary": "Ask Claude about the Anthropic Economic Index",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "823e8100cfe93440"
+    },
+    {
+      "title": "Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696552+00:00",
+      "body": "Introducing Claude Opus 5",
+      "summary": "Introducing Claude Opus 5",
+      "version": "",
+      "category": "model-release",
+      "impact": "feature",
+      "tags": [
+        "opus"
+      ],
+      "uid": "cb3d7ccb220b7d1b"
+    },
+    {
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696536+00:00",
+      "body": "Our position on open-weights models",
+      "summary": "Our position on open-weights models",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "9a13f34e2ecc4eb4"
+    },
+    {
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "url": "https://www.anthropic.com/news/cognizant-anthropic",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696518+00:00",
+      "body": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "enterprise"
+      ],
+      "uid": "f4b18b12b32ef53c"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696497+00:00",
+      "body": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "37147b115f3e1032"
+    },
+    {
+      "title": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "source": "anthropic-news",
+      "published": "2026-08-06T13:23:06.696452+00:00",
+      "body": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
+      "summary": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [],
+      "uid": "778a0265f5854c98"
+    },
+    {
+      "title": "v1.0.186",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.186",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-06T00:54:23+00:00",
+      "body": "## What's Changed\n* Invoke the formatter directly from the format hook by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1594\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.186",
+      "summary": "## What's Changed * Invoke the formatter directly from the format hook by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1594 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.186",
+      "version": "1.0.186",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "01fc0235c1d41e72"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.223 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.223",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-08-05T22:51:13.206000+00:00",
+      "body": "Version 2.1.223 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.223 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.223",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "e6d58c6a585e3055"
+    },
+    {
+      "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
+      "url": "https://www.hyperprobe.co",
+      "source": "hackernews",
+      "published": "2026-08-05T16:47:15+00:00",
+      "body": "62 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=49185389",
+      "summary": "62 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=49185389",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "1d1d9e36f3997819"
+    },
+    {
+      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+      "source": "hackernews",
+      "published": "2026-08-05T12:16:47+00:00",
+      "body": "54 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49181773",
+      "summary": "54 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49181773",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "a3d2f74020b99862"
+    },
+    {
+      "title": "v1.0.185",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.185",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-04T22:41:47+00:00",
+      "body": "## What's Changed\n* Derive trigger timestamps for issues and pull_request events by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1592\n* Pin bun config for MCP server processes by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1589\n* Match downloaded images to their source URLs by asset identifier by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1588\n* Check collaborator permissions for workflow_run events by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1590\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.185",
+      "summary": "## What's Changed * Derive trigger timestamps for issues and pull_request events by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1592 * Pin bun config for MCP server processes by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1589 * M\u2026",
+      "version": "1.0.185",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action",
+        "mcp"
+      ],
+      "uid": "7749d71b497fe48e"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.222 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.222",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-08-04T20:37:17.953000+00:00",
+      "body": "Version 2.1.222 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.222 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.222",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "d40e5c9daa1716b4"
+    },
+    {
+      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+      "url": "https://github.com/tikalk/adlc-team-skills",
+      "source": "hackernews",
+      "published": "2026-08-04T14:38:31+00:00",
+      "body": "75 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49169640",
+      "summary": "75 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49169640",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community",
+        "skills"
+      ],
+      "uid": "274f1c50fcbf8ee7"
+    },
+    {
+      "title": "How Closely Do LLM Reviews Align with Human Peer Review?",
+      "url": "https://arxiv.org/abs/2608.03659v1",
+      "source": "arxiv",
+      "published": "2026-08-04T13:39:36+00:00",
+      "body": "Large language models (LLMs) are increasingly used to generate scientific reviews, yet existing evaluations rarely examine whether different providers align with both conference decisions and human reviewing priorities within the same controlled setting. We compare reviews from OpenAI GPT-5.4, Google Gemini 3.1 Pro Preview, and Anthropic Claude Opus 4.6 with human reviews and final decisions for 300 topic-matched ICLR 2026 submissions, equally divided among oral, poster, and rejected papers. Each model reviewed every paper using identical instructions and rating scales after decision information was removed. Our study contributes a cross-provider analysis of three complementary dimensions: alignment with broad and fine-grained decision categories, differences in recommendation-scale usage, and thematic agreement in identified weaknesses. All three LLMs distinguished accepted from rejected papers, but none reproduced the oral versus poster distinction present in human ratings. Scoring patterns were provider-specific: Gemini assigned systematically higher ratings, while OpenAI and Claude were closer to humans for rejected and poster papers but more critical of oral papers. Human and LLM reviews also differed in emphasis, with LLMs more frequently identifying missing baseline comparisons and humans more often raising computational-efficiency concerns. These results show that broad decision alignment does not imply agreement with finer human judgments or reviewing priorities.",
+      "summary": "Large language models (LLMs) are increasingly used to generate scientific reviews, yet existing evaluations rarely examine whether different providers align with both conference decisions and human reviewing priorities within the same controlled setting.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper",
+        "opus"
+      ],
+      "uid": "65d93591f0ed3ea3"
+    },
+    {
+      "title": "Beyond Accuracy: A Multidimensional Evaluation of Statistical Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2608.03038v1",
+      "source": "arxiv",
+      "published": "2026-08-04T02:40:22+00:00",
+      "body": "Statistical reasoning is multidimensional, yet evaluations of large language models (LLMs) typically emphasize response accuracy while overlooking how models construct and communicate statistical explanations. This study demonstrates the value of a multidimensional evaluation by combining response accuracy, response behavior, structural topic modeling, and lexical similarity analysis. The framework is applied to explanations generated by 15 current-generation LLMs responding to 90 questions drawn from four statistics examinations spanning high school, undergraduate, and graduate levels. Accuracy varied substantially across models, ranging from 55\\% to 78\\%. In contrast, structural topic modeling revealed a common conceptual organization of statistical reasoning across all models, while lexical similarity analysis identified modest but consistent vendor-specific differences in explanatory style. Models developed by the same vendor (e.g. Anthropic, OpenAI) produced explanations that were slightly more similar than models from different vendors. These findings demonstrate that statistical reasoning in contemporary LLMs cannot be characterized by accuracy alone and illustrate how complementary analyses of response behavior and model-generated explanations provide a more comprehensive evaluation of statistical reasoning in generative AI.",
+      "summary": "Statistical reasoning is multidimensional, yet evaluations of large language models (LLMs) typically emphasize response accuracy while overlooking how models construct and communicate statistical explanations.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "1b0b1bf5e18e5069"
+    },
+    {
+      "title": "v1.0.184",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.184",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-04T00:16:20+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.184",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.184",
+      "version": "1.0.184",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "2c53706f0defef60"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.221 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.221",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-08-03T22:16:25.561000+00:00",
+      "body": "Version 2.1.221 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.221 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.221",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "fe7c34f1bab3ff13"
+    },
+    {
+      "title": "Launch HN: Hoplite (YC S26) \u2013 Effortlessly deploy cloud coding agents",
+      "url": "https://hoplite.sh",
+      "source": "hackernews",
+      "published": "2026-08-03T16:32:06+00:00",
+      "body": "79 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49157997",
+      "summary": "79 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49157997",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "938ce57563624532"
+    },
+    {
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "url": "https://armature.tech/",
+      "source": "hackernews",
+      "published": "2026-08-03T16:17:59+00:00",
+      "body": "42 points, 7 comments. Discussion: https://news.ycombinator.com/item?id=49157807",
+      "summary": "42 points, 7 comments. Discussion: https://news.ycombinator.com/item?id=49157807",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "community",
+        "mcp"
+      ],
+      "uid": "8bd7c7bc7ed1ff76"
+    },
+    {
+      "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+      "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+      "source": "hackernews",
+      "published": "2026-08-03T00:22:55+00:00",
+      "body": "69 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49149800",
+      "summary": "69 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49149800",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "acfc4a2ee2b8f3e2"
+    },
+    {
+      "title": "Show HN: Slope remade in HTML5 to load instantly on any browser, any device",
+      "url": "https://hurtle.site/",
+      "source": "hackernews",
+      "published": "2026-07-31T17:11:53+00:00",
+      "body": "42 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=49125922",
+      "summary": "42 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=49125922",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "406ea0369184437f"
+    },
+    {
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "url": "https://marbleos.com/demo",
+      "source": "hackernews",
+      "published": "2026-07-31T05:17:29+00:00",
+      "body": "137 points, 82 comments. Discussion: https://news.ycombinator.com/item?id=49119274",
+      "summary": "137 points, 82 comments. Discussion: https://news.ycombinator.com/item?id=49119274",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "9eac5b37f602d49a"
+    },
+    {
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "source": "hackernews",
+      "published": "2026-07-30T18:13:06+00:00",
+      "body": "169 points, 73 comments. Discussion: https://news.ycombinator.com/item?id=49113599",
+      "summary": "169 points, 73 comments. Discussion: https://news.ycombinator.com/item?id=49113599",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "fb570e0dd6166372"
+    },
+    {
+      "title": "Show HN: Claude-account \u2013 switch Claude Code accounts without logging in again",
+      "url": "https://github.com/hamzarehmandeveloper/claude-account",
+      "source": "hackernews",
+      "published": "2026-07-30T14:58:59+00:00",
+      "body": "54 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=49111019",
+      "summary": "54 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=49111019",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "96058ac7d10fa470"
+    },
+    {
+      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "source": "hackernews",
+      "published": "2026-07-30T09:34:27+00:00",
+      "body": "98 points, 79 comments. Discussion: https://news.ycombinator.com/item?id=49107749",
+      "summary": "98 points, 79 comments. Discussion: https://news.ycombinator.com/item?id=49107749",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "de8ead01375c774b"
+    },
+    {
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "source": "hackernews",
+      "published": "2026-07-30T00:20:16+00:00",
+      "body": "42 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49104747",
+      "summary": "42 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49104747",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b61a119bb7de88d2"
+    },
+    {
+      "title": "Anthropic Doesn't Want Open Weight Models Banned. Just All That Makes Them Good",
+      "url": "https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/",
+      "source": "hackernews",
+      "published": "2026-07-29T18:42:50+00:00",
+      "body": "40 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=49101364",
+      "summary": "40 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=49101364",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "1bce085d09c022bc"
+    },
+    {
+      "title": "LayerRAG-Bench: A Cross-Layer Reliability Benchmark for Agentic Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2607.27353v1",
+      "source": "arxiv",
+      "published": "2026-07-29T18:09:17+00:00",
+      "body": "Agentic retrieval-augmented generation systems can produce answers that appear grounded while failing at the evidence, tool-contract, authorization, or session-state layer. We introduce LayerRAG-Bench, a controlled cross-layer reliability benchmark with 8 enterprise domains, 240 tasks, 9 fault scenarios, 2 contract modes, and 38,880 live task-level records across nine models from OpenAI, Anthropic, and Gemini. Schema normalization raises schema-drift success from 0.000 to 0.913, but stale evidence, missing tool output, denied permissions, and wrong-session context are not recovered by schema normalization. Groundedness-only evaluation also produces substantial false positives under stale and wrong-session evidence. These results support a layer-specific evaluation principle: a reliability intervention should be credited for repairing its target layer without being mistaken for a universal fix.",
+      "summary": "Agentic retrieval-augmented generation systems can produce answers that appear grounded while failing at the evidence, tool-contract, authorization, or session-state layer.",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper",
+        "enterprise"
+      ],
+      "uid": "e028ffaf78acab61"
+    },
+    {
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "source": "hackernews",
+      "published": "2026-07-29T16:42:20+00:00",
+      "body": "190 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=49099804",
+      "summary": "190 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=49099804",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d7a03740388e9ba6"
+    },
+    {
+      "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
+      "url": "https://usetokenless.com/",
+      "source": "hackernews",
+      "published": "2026-07-29T15:55:27+00:00",
+      "body": "71 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49099143",
+      "summary": "71 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49099143",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "dc2aee544625b9a7"
+    },
+    {
+      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+      "source": "hackernews",
+      "published": "2026-07-29T14:56:28+00:00",
+      "body": "101 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49098388",
+      "summary": "101 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49098388",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d65679bf7d8a459a"
+    },
+    {
+      "title": "OptimismBench: Forecasting Bias and the Alignment Effect in Language Model Judgment",
+      "url": "https://arxiv.org/abs/2607.26981v1",
+      "source": "arxiv",
+      "published": "2026-07-29T14:38:55+00:00",
+      "body": "Large language models are increasingly used as decision aids whose probability judgments shape downstream choices. Whether those judgments carry a systematic directional tilt has been hard to detect: calibration metrics aggregate unsigned errors, and naturalistic uncertainty offers no ground-truth probability. When an LLM rates a startup's success at 70% but its failure at 15%, the missing 15 points expose a distortion no aggregate score flags. We introduce OptimismBench, which detects directional bias with inverted pairs: each scenario elicits both P(success) and P(failure), and asymmetry between the two framings yields a signed bias score without ground truth. Across 16 models from 8 providers, fourteen are optimistic; pessimism appears only in Anthropic's frontier tier. Eleven matched base-versus-chat pairs across four families show post-training sets the sign of the bias, with opposite shifts in different families. The pattern survives prompt, temperature, perspective, and self-debiasing ablations. A seventeen-model six-language comparison further shows model identity dominates language, with inter-model variance at 4.7x inter-language variance. We release 3,870 items across 10 languages for per-model directional-bias auditing. When alignment makes a model more helpful, it also tilts its probabilities; downstream pipelines inherit the tilt by default.",
+      "summary": "Large language models are increasingly used as decision aids whose probability judgments shape downstream choices.",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "20881356289aeb8d"
+    },
+    {
+      "title": "Constitutional Midtraining: Content Presence Drives Alignment Gains",
+      "url": "https://arxiv.org/abs/2607.26654v2",
+      "source": "arxiv",
+      "published": "2026-07-29T09:15:40+00:00",
+      "body": "Post-training alignment is often shallow, eroding under fine-tuning. It remains untested as to whether constitutional midtraining interventions can produce durable alignment when cleanly isolated from post-training. We build a 394M-token constitutional corpus from Anthropic's Constitution and apply constitutional midtraining at 120B scale, where principled, values-based content is inserted into midtraining. A 2x2 design (curriculum ordering x deliberative reasoning) was used to produce four constitutionally midtrained conditions, plus a control, which were evaluated on self-generated and established benchmarks including alignment under pressure, value conflict resolution, blackmail, and emergent misalignment. All models were evaluated across three stages: post-midtraining, post-SFT, and post-benign fine-tuning. Constitutionally midtrained models outperformed the control on alignment generalization and durability, notably on blackmail: SFT instilled a blackmail propensity in all models, but constitutional midtraining blunted it, with the advantage surviving benign fine-tuning (-17.5pp). This durability did not extend to settings that required active resistance to in-context pressure or conflict, where the advantage attenuates after SFT. The presence of constitutional content at midtraining also mattered more than its structure, and constitutional midtraining incurred no capability cost, on average, at any stage (MMLU, ARC-Easy, piqa, GSM8K). A modest amount of constitutional content at midtraining could therefore yield broad, persistent alignment gains, offering a cheap, complementary addition to SFT-centered pipelines. Code, data, and models are available.",
+      "summary": "Post-training alignment is often shallow, eroding under fine-tuning. It remains untested as to whether constitutional midtraining interventions can produce durable alignment when cleanly isolated from post-training.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "ba9bda853cb2c746"
+    },
+    {
+      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+      "url": "https://github.com/anthropics/cryptography-research-demo",
+      "source": "hackernews",
+      "published": "2026-07-28T21:22:48+00:00",
+      "body": "57 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49090083",
+      "summary": "57 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49090083",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "638c5c0e81c27938"
+    },
+    {
+      "title": "v0.120.2",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.120.2",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-07-28T17:38:09+00:00",
+      "body": "## 0.120.2 (2026-07-28)\n\nFull Changelog: [v0.120.1...v0.120.2](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.1...v0.120.2)\n\n### Bug Fixes\n\n* **mcp:** support mcp sdk v2 alongside v1 ([#300](https://github.com/anthropics/anthropic-sdk-python/issues/300)) ([177f88c](https://github.com/anthropics/anthropic-sdk-python/commit/177f88ccd7f966e47b654cb19ad0e9cfa4c58ac2))",
+      "summary": "## 0.120.2 (2026-07-28) Full Changelog: [v0.120.1...v0.120.2](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.1...v0.120.2) ### Bug Fixes * **mcp:** support mcp sdk v2 alongside v1 ([#300](https://github.com/anthropics/anthropic-sdk-python/issues/300)) ([177f88c\u2026",
+      "version": "0.120.2",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "mcp"
+      ],
+      "uid": "d1e0d2cb3375cbcf"
+    },
+    {
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "source": "hackernews",
+      "published": "2026-07-28T17:22:16+00:00",
+      "body": "232 points, 188 comments. Discussion: https://news.ycombinator.com/item?id=49087091",
+      "summary": "232 points, 188 comments. Discussion: https://news.ycombinator.com/item?id=49087091",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ff35209b1d268508"
+    },
+    {
+      "title": "v0.120.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.120.1",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-07-28T16:37:33+00:00",
+      "body": "## 0.120.1 (2026-07-28)\n\nFull Changelog: [v0.120.0...v0.120.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.0...v0.120.1)\n\n### Bug Fixes\n\n* **mcp:** pin mcp extra to &lt;2 ([#1783](https://github.com/anthropics/anthropic-sdk-python/issues/1783)) ([fb66371](https://github.com/anthropics/anthropic-sdk-python/commit/fb66371322621be23a0956f1998da39c4686f4cb))",
+      "summary": "## 0.120.1 (2026-07-28) Full Changelog: [v0.120.0...v0.120.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.0...v0.120.1) ### Bug Fixes * **mcp:** pin mcp extra to &lt;2 ([#1783](https://github.com/anthropics/anthropic-sdk-python/issues/1783)) ([fb66371](https\u2026",
+      "version": "0.120.1",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "mcp"
+      ],
+      "uid": "74f539fb966b961c"
+    },
+    {
+      "title": "Anthropeum \u2013 Where in the world, and when, does this human artifact belong?",
+      "url": "https://anthropeum.com/",
+      "source": "hackernews",
+      "published": "2026-07-28T15:01:15+00:00",
+      "body": "191 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=49084989",
+      "summary": "191 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=49084989",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "1fac2d1537cb6264"
+    },
+    {
+      "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
+      "url": "https://news.ycombinator.com/item?id=49080775",
+      "source": "hackernews",
+      "published": "2026-07-28T08:00:19+00:00",
+      "body": "45 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49080775",
+      "summary": "45 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49080775",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b3ba2f23ce680622"
+    },
+    {
+      "title": "Kimi K3 Now Available via Telnyx Inference API",
+      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+      "source": "hackernews",
+      "published": "2026-07-27T22:46:28+00:00",
+      "body": "132 points, 88 comments. Discussion: https://news.ycombinator.com/item?id=49076505",
+      "summary": "132 points, 88 comments. Discussion: https://news.ycombinator.com/item?id=49076505",
+      "version": "",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "bc7d7f74954252a5"
+    },
+    {
+      "title": "Elevated errors on Claude Opus 5",
+      "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+      "source": "hackernews",
+      "published": "2026-07-27T11:32:32+00:00",
+      "body": "105 points, 74 comments. Discussion: https://news.ycombinator.com/item?id=49068029",
+      "summary": "105 points, 74 comments. Discussion: https://news.ycombinator.com/item?id=49068029",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "9433b1bc0e608201"
+    },
+    {
+      "title": "Elevated errors on Claude Opus 5",
+      "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+      "source": "hackernews",
+      "published": "2026-07-27T08:20:06+00:00",
+      "body": "50 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49066591",
+      "summary": "50 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49066591",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "1af21c1c43a5e0ee"
+    },
+    {
+      "title": "The Missing Layer: Specification Infrastructure for AI Oversight",
+      "url": "https://arxiv.org/abs/2607.24866v1",
+      "source": "arxiv",
+      "published": "2026-07-26T18:12:41+00:00",
+      "body": "AI safety has a missing layer. Interpretability, formal methods, security engineering, evaluation methodology, and reinforcement-learning safety each produce substantial work, but the resulting artifacts do not compose into deployable oversight: every team fielding an agentic system builds its own audit schema, policy dialect, monitoring stack, and escalation path, mostly reinventions of patterns understood elsewhere. We diagnose this as a coordination gap, not a research gap, and propose a two-axis taxonomy: five technical layers (Legibility, Specification, Mediation, Evaluation, Escalation) crossed with six concerns spanning alignment, robustness, adversarial defense, security, governance, and accountability, populating the resulting 5x6 matrix with existing work. Layer 2 (Specification), where humans translate intent into machine-checkable artifacts, is the connective tissue every layer depends on, yet it lacks four marks of a mature engineering discipline: shared vocabulary, design principles, composability standards, and governance practices. We propose six design principles for Layer 2, from elicitability and composability to adversary-awareness, traceability, and governability, made concrete through worked examples and a reference architecture turning specifications into runtime enforcement, evaluation, and escalation. Existing systems such as Cedar, Constitutional AI, and Open Policy Agent each address a fragment of Layer 2 well and the matrix poorly; treating them as fragments of one shared layer makes composition tractable. As evidence, we introduce CARMA, a Layer 2 prototype for autonomous ETL agents in which one specification drives enforcement, evaluation, and escalation, with every decision traceable to a versioned specification, naming what AI oversight is missing and giving independent teams principles to build the missing pieces so they compose.",
+      "summary": "AI safety has a missing layer. Interpretability, formal methods, security engineering, evaluation methodology, and reinforcement-learning safety each produce substantial work, but the resulting artifacts do not compose into deployable oversight: every team fielding an agentic sys\u2026",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "cc5fd3bcb905df7c"
+    },
+    {
+      "title": "Elevated Errors for Opus 5",
+      "url": "https://status.claude.com/incidents/zftg3gqkmv18",
+      "source": "hackernews",
+      "published": "2026-07-26T09:18:34+00:00",
+      "body": "94 points, 88 comments. Discussion: https://news.ycombinator.com/item?id=49056194",
+      "summary": "94 points, 88 comments. Discussion: https://news.ycombinator.com/item?id=49056194",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "5a9a71b718f47ef2"
+    },
+    {
+      "title": "v1.0.183",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.183",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-07-25T01:37:30+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.183",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.183",
+      "version": "1.0.183",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "4c0d3ca68b230756"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.220 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.220",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-07-24T23:11:21.821000+00:00",
+      "body": "Version 2.1.220 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.220 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.220",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "78413d5dfdd026cb"
+    },
+    {
+      "title": "v1.0.182",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.182",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-07-24T17:15:39+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.182",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.182",
+      "version": "1.0.182",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "351fa5652cb3a4df"
+    },
+    {
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "hackernews",
+      "published": "2026-07-24T16:57:41+00:00",
+      "body": "1778 points, 1333 comments. Discussion: https://news.ycombinator.com/item?id=49038433",
+      "summary": "1778 points, 1333 comments. Discussion: https://news.ycombinator.com/item?id=49038433",
+      "version": "",
+      "category": "model-release",
+      "impact": "feature",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "a6280395b5ef5312"
+    },
+    {
+      "title": "v0.120.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.120.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-07-24T16:32:34+00:00",
+      "body": "## 0.120.0 (2026-07-24)\n\nFull Changelog: [v0.119.0...v0.120.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.119.0...v0.120.0)\n\n### Features\n\n* **api:** add claude-opus-5 model ([bf4e31c](https://github.com/anthropics/anthropic-sdk-python/commit/bf4e31c17c43ba2b409bec57e1856b025d159f1a))\n* **api:** add tool addition/removal blocks and tool_change events ([bf4e31c](https://github.com/anthropics/anthropic-sdk-python/commit/bf4e31c17c43ba2b409bec57e1856b025d159f1a))\n* **api:** expand client-side fallback credit token types and add server-side fallbacks default option ([bf4e31c](https://github.com/anthropics/anthropic-sdk-python/commit/bf4e31c17c43ba2b409bec57e1856b025d159f1a))",
+      "summary": "## 0.120.0 (2026-07-24) Full Changelog: [v0.119.0...v0.120.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.119.0...v0.120.0) ### Features * **api:** add claude-opus-5 model ([bf4e31c](https://github.com/anthropics/anthropic-sdk-python/commit/bf4e31c17c43ba2b409be\u2026",
+      "version": "0.120.0",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "opus"
+      ],
+      "uid": "8b2d220d435eba18"
+    },
+    {
+      "title": "sdk: v0.115.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.115.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-07-24T16:31:05+00:00",
+      "body": "## 0.115.0 (2026-07-24)\n\nFull Changelog: [sdk-v0.114.0...sdk-v0.115.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.114.0...sdk-v0.115.0)\n\n### Features\n\n* **api:** add claude-opus-5 model ([cdd3606](https://github.com/anthropics/anthropic-sdk-typescript/commit/cdd3606e92745b8a6af07819469cf5dc0636edb2))\n* **api:** add tool addition/removal blocks and tool_change events ([cdd3606](https://github.com/anthropics/anthropic-sdk-typescript/commit/cdd3606e92745b8a6af07819469cf5dc0636edb2))\n* **api:** expand client-side fallback credit token types and add server-side fallbacks default option ([cdd3606](https://github.com/anthropics/anthropic-sdk-typescript/commit/cdd3606e92745b8a6af07819469cf5dc0636edb2))\n\n\n### Bug Fixes\n\n* **client:** release abort listeners when requests settle ([#1129](https://github.com/anthropics/anthropic-sdk-typescript/issues/1129)) ([b85e902](https://github.com/anthropics/anthropic-sdk-typescript/commit/b85e902669c78a8293b5390e93e57dd2e3f6c545))",
+      "summary": "## 0.115.0 (2026-07-24) Full Changelog: [sdk-v0.114.0...sdk-v0.115.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.114.0...sdk-v0.115.0) ### Features * **api:** add claude-opus-5 model ([cdd3606](https://github.com/anthropics/anthropic-sdk-typescript/comm\u2026",
+      "version": "sdk-v0.115.0",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "opus"
+      ],
+      "uid": "c5237f77aa50261c"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.219 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.219",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-07-24T16:11:49.832000+00:00",
+      "body": "Version 2.1.219 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.219 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.219",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "16797128b2429a6d"
+    },
+    {
+      "title": "sdk: v0.114.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.114.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-07-23T17:34:26+00:00",
+      "body": "## 0.114.0 (2026-07-23)\n\nFull Changelog: [sdk-v0.113.0...sdk-v0.114.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.113.0...sdk-v0.114.0)\n\n### Features\n\n* **api:** add new stop reason 'model_context_window_exceeded' ([1ec71c1](https://github.com/anthropics/anthropic-sdk-typescript/commit/1ec71c165d9737cb317e3f8fed818f7a1b8169ad))",
+      "summary": "## 0.114.0 (2026-07-23) Full Changelog: [sdk-v0.113.0...sdk-v0.114.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.113.0...sdk-v0.114.0) ### Features * **api:** add new stop reason 'model_context_window_exceeded' ([1ec71c1](https://github.com/anthropics/a\u2026",
+      "version": "sdk-v0.114.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "9894bb567d9d49a4"
+    },
+    {
+      "title": "v0.119.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.119.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-07-23T17:34:23+00:00",
+      "body": "## 0.119.0 (2026-07-23)\n\nFull Changelog: [v0.118.0...v0.119.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.118.0...v0.119.0)\n\n### Features\n\n* **api:** add new stop reason 'model_context_window_exceeded' ([d983cde](https://github.com/anthropics/anthropic-sdk-python/commit/d983cdecdea27fb8ae36fd293930b978c9bebf4f))\n\n\n### Bug Fixes\n\n* **tools:** handle binary files in agent toolset read/edit ([#283](https://github.com/anthropics/anthropic-sdk-python/issues/283)) ([417b76b](https://github.com/anthropics/anthropic-sdk-python/commit/417b76b9adcb69ee9effa2e9af1536dd08e6764e))",
+      "summary": "## 0.119.0 (2026-07-23) Full Changelog: [v0.118.0...v0.119.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.118.0...v0.119.0) ### Features * **api:** add new stop reason 'model_context_window_exceeded' ([d983cde](https://github.com/anthropics/anthropic-sdk-python/\u2026",
+      "version": "0.119.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "df3bc68434d7c180"
+    },
+    {
+      "title": "Launch HN: Screenpipe (YC S26) \u2013 Record how you work and turn that into agents",
+      "url": "https://news.ycombinator.com/item?id=49024620",
+      "source": "hackernews",
+      "published": "2026-07-23T16:48:38+00:00",
+      "body": "88 points, 67 comments. Discussion: https://news.ycombinator.com/item?id=49024620",
+      "summary": "88 points, 67 comments. Discussion: https://news.ycombinator.com/item?id=49024620",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "2a6483d969f17735"
+    },
+    {
+      "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
+      "url": "https://github.com/onecli/onecli",
+      "source": "hackernews",
+      "published": "2026-07-23T15:42:40+00:00",
+      "body": "110 points, 32 comments. Discussion: https://news.ycombinator.com/item?id=49023427",
+      "summary": "110 points, 32 comments. Discussion: https://news.ycombinator.com/item?id=49023427",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "c381146f07f82acf"
+    },
+    {
+      "title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "source": "hackernews",
+      "published": "2026-07-23T15:11:37+00:00",
+      "body": "191 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49022911",
+      "summary": "191 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49022911",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "36469f4d94216da4"
+    },
+    {
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "source": "hackernews",
+      "published": "2026-07-23T13:00:03+00:00",
+      "body": "299 points, 331 comments. Discussion: https://news.ycombinator.com/item?id=49020868",
+      "summary": "299 points, 331 comments. Discussion: https://news.ycombinator.com/item?id=49020868",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d690ebbc013c8275"
+    },
+    {
+      "title": "v1.0.181",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.181",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-07-22T21:28:45+00:00",
+      "body": "## What's Changed\n* fix: share one exchanged WIF credential across spawned Claude processes by @KeisukeYamashita in https://github.com/anthropics/claude-code-action/pull/1407\n\n## New Contributors\n* @KeisukeYamashita made their first contribution in https://github.com/anthropics/claude-code-action/pull/1407\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.181",
+      "summary": "## What's Changed * fix: share one exchanged WIF credential across spawned Claude processes by @KeisukeYamashita in https://github.com/anthropics/claude-code-action/pull/1407 ## New Contributors * @KeisukeYamashita made their first contribution in https://github.com/anthropics/cl\u2026",
+      "version": "1.0.181",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "1fddec01b243bd1e"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.218 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.218",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-07-22T19:55:32.144000+00:00",
+      "body": "Version 2.1.218 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.218 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.218",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "617286f0b21881a2"
+    },
+    {
+      "title": "sdk: v0.113.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.113.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-07-22T16:44:33+00:00",
+      "body": "## 0.113.0 (2026-07-22)\n\nFull Changelog: [sdk-v0.112.5...sdk-v0.113.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.5...sdk-v0.113.0)\n\n### Features\n\n* **api:** add support for Managed Agents model effort, initial session events, and threads delta streaming ([83fef1e](https://github.com/anthropics/anthropic-sdk-typescript/commit/83fef1e5a65f020750b1f90c46d748a415b6f075))",
+      "summary": "## 0.113.0 (2026-07-22) Full Changelog: [sdk-v0.112.5...sdk-v0.113.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.5...sdk-v0.113.0) ### Features * **api:** add support for Managed Agents model effort, initial session events, and threads delta streami\u2026",
+      "version": "sdk-v0.113.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "8268ba05c6787d33"
+    },
+    {
+      "title": "v0.118.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.118.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-07-22T16:43:45+00:00",
+      "body": "## 0.118.0 (2026-07-22)\n\nFull Changelog: [v0.117.1...v0.118.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.117.1...v0.118.0)\n\n### Features\n\n* **api:** add support for Managed Agents model effort, initial session events, and threads delta streaming ([712bc6f](https://github.com/anthropics/anthropic-sdk-python/commit/712bc6f5e07ca7607e13f24fba4eea57c2e73478))",
+      "summary": "## 0.118.0 (2026-07-22) Full Changelog: [v0.117.1...v0.118.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.117.1...v0.118.0) ### Features * **api:** add support for Managed Agents model effort, initial session events, and threads delta streaming ([712bc6f](https:\u2026",
+      "version": "0.118.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "fc53c371263dcc69"
+    },
+    {
+      "title": "Show HN: Yorishiro \u2013 a macOS terminal where AI agents live",
+      "url": "https://github.com/sktkkoo/Yorishiro",
+      "source": "hackernews",
+      "published": "2026-07-22T15:33:16+00:00",
+      "body": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49008434",
+      "summary": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49008434",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "979e4c3bb9da8259"
+    },
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "source": "hackernews",
+      "published": "2026-07-22T15:19:23+00:00",
+      "body": "1033 points, 239 comments. Discussion: https://news.ycombinator.com/item?id=49008211",
+      "summary": "1033 points, 239 comments. Discussion: https://news.ycombinator.com/item?id=49008211",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "454f9b54f9a0a1f3"
+    },
+    {
+      "title": "v0.117.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.117.1",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-07-21T22:27:23+00:00",
+      "body": "## 0.117.1 (2026-07-21)\n\nFull Changelog: [v0.117.0...v0.117.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.117.0...v0.117.1)\n\n### Bug Fixes\n\n* **aws:** handle credentials correctly when using AnthropicAWS.copy() ([85d3881](https://github.com/anthropics/anthropic-sdk-python/commit/85d3881b2e178dd30b30f9ac4c462f20ea88693d))\n\n\n### Chores\n\n* **api:** add support for new refusal category ([d1dea0b](https://github.com/anthropics/anthropic-sdk-python/commit/d1dea0b51164c859de1e05a78468f5be2b6a67de))\n* **client:** docs updates ([b14f94c](https://github.com/anthropics/anthropic-sdk-python/commit/b14f94c231f9adc6bb2ad96eddfc27cc1a4cfea7))\n* **deps:** bump http-snapshot to 0.1.9 ([#275](https://github.com/anthropics/anthropic-sdk-python/issues/275)) ([434b657](https://github.com/anthropics/anthropic-sdk-python/commit/434b65772633f1c0d1899de64d40a67b7cb943fe))\n* **deps:** pin httpx_aiohttp major version ([#271](https://github.com/anthropics/anthropic-sdk-python/issues/271)) ([924487f](https://github.com/anthropics/anthropic-sdk-python/commit/924487f7c8b3afd69ec382af78326ba224779141))\n* **docs:** small updates ([c48db8b](https://github.com/anthropics/anthropic-sdk-python/commit/c48db8b6cdd800a98bf57088f530de8fe4dc82e8))\n* **docs:** small updates ([755c06c](https://github.com/anthropics/anthropic-sdk-python/commit/755c06cc06161ccdf9b28b77d5e6de58adb462ce))\n* **internal:** codegen related update ([a4fbecf](https://github.com/anthropics/anthropic-sdk-python/commit/a4fbecf6a2b002c8807da2336a75ddef7864f47c))",
+      "summary": "## 0.117.1 (2026-07-21) Full Changelog: [v0.117.0...v0.117.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.117.0...v0.117.1) ### Bug Fixes * **aws:** handle credentials correctly when using AnthropicAWS.copy() ([85d3881](https://github.com/anthropics/anthropic-sd\u2026",
+      "version": "0.117.1",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "9d5aefe772ffaa67"
+    },
+    {
+      "title": "sdk: v0.112.5",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.112.5",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-07-21T22:27:16+00:00",
+      "body": "## 0.112.5 (2026-07-21)\n\nFull Changelog: [sdk-v0.112.4...sdk-v0.112.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.4...sdk-v0.112.5)\n\n### Chores\n\n* **api:** add support for new refusal category ([479efe8](https://github.com/anthropics/anthropic-sdk-typescript/commit/479efe8ade0078966e28d754fa3085c75b6d2a58))\n* **internal:** codegen related update ([830fb74](https://github.com/anthropics/anthropic-sdk-typescript/commit/830fb7467c3cc947e31b5d83a2a31d34fc8ebac2))",
+      "summary": "## 0.112.5 (2026-07-21) Full Changelog: [sdk-v0.112.4...sdk-v0.112.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.4...sdk-v0.112.5) ### Chores * **api:** add support for new refusal category ([479efe8](https://github.com/anthropics/anthropic-sdk-type\u2026",
+      "version": "sdk-v0.112.5",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "50cda5541ead2b2d"
+    },
+    {
+      "title": "v1.0.180",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.180",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-07-21T21:36:49+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.180",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.180",
+      "version": "1.0.180",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "b1c314145f1ea3b5"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.217 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.217",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-07-21T19:55:38.926000+00:00",
+      "body": "Version 2.1.217 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.217 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.217",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "d2fcac679585b656"
+    },
+    {
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "source": "hackernews",
+      "published": "2026-07-21T19:04:39+00:00",
+      "body": "568 points, 632 comments. Discussion: https://news.ycombinator.com/item?id=48996652",
+      "summary": "568 points, 632 comments. Discussion: https://news.ycombinator.com/item?id=48996652",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "da4a1b4ba963a74a"
+    },
+    {
+      "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
+      "url": "https://github.com/Kalcode/spaceprojectsim",
+      "source": "hackernews",
+      "published": "2026-07-21T18:29:57+00:00",
+      "body": "110 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=48996187",
+      "summary": "110 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=48996187",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "aebed84038ab7bd0"
+    },
+    {
+      "title": "Show HN: CodeAlmanac \u2013 Karpathy-style codebase wiki from your conversations",
+      "url": "https://github.com/AlmanacCode/codealmanac/",
+      "source": "hackernews",
+      "published": "2026-07-21T17:12:01+00:00",
+      "body": "60 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=48995181",
+      "summary": "60 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=48995181",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ddc1f39018f76813"
+    },
+    {
+      "title": "v1.0.179",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.179",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-07-20T22:15:34+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.179",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.179",
+      "version": "1.0.179",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "c9d0eb363c8642b8"
+    },
+    {
+      "title": "aws-sdk: v0.6.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.6.1",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-07-20T20:46:18+00:00",
+      "body": "## 0.6.1 (2026-07-20)\n\nFull Changelog: [aws-sdk-v0.6.0...aws-sdk-v0.6.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.0...aws-sdk-v0.6.1)\n\n### Bug Fixes\n\n* **aws:** preserve AWS options and auth mode across withOptions() ([#214](https://github.com/anthropics/anthropic-sdk-typescript/issues/214)) ([3f7665c](https://github.com/anthropics/anthropic-sdk-typescript/commit/3f7665c5419eb80c489546a70da799648e7d5ff2))\n* **aws:** remove duplicate loggerFor import breaking the build ([#235](https://github.com/anthropics/anthropic-sdk-typescript/issues/235)) ([764004e](https://github.com/anthropics/anthropic-sdk-typescript/commit/764004ed5cabbe254470fc420e374fc4d54a8dba))",
+      "summary": "## 0.6.1 (2026-07-20) Full Changelog: [aws-sdk-v0.6.0...aws-sdk-v0.6.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.0...aws-sdk-v0.6.1) ### Bug Fixes * **aws:** preserve AWS options and auth mode across withOptions() ([#214](https://github.com/anth\u2026",
+      "version": "aws-sdk-v0.6.1",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "435ab767d66896ef"
+    },
+    {
+      "title": "sdk: v0.112.4",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.112.4",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-07-20T20:46:08+00:00",
+      "body": "## 0.112.4 (2026-07-20)\n\nFull Changelog: [sdk-v0.112.3...sdk-v0.112.4](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.3...sdk-v0.112.4)\n\n### Bug Fixes\n\n* **aws:** preserve AWS options and auth mode across withOptions() ([#214](https://github.com/anthropics/anthropic-sdk-typescript/issues/214)) ([3f7665c](https://github.com/anthropics/anthropic-sdk-typescript/commit/3f7665c5419eb80c489546a70da799648e7d5ff2))\n\n\n### Chores\n\n* **docs:** small updates ([97f68a8](https://github.com/anthropics/anthropic-sdk-typescript/commit/97f68a88e13ba11b1e903d2d7181da3e4edd5c10))",
+      "summary": "## 0.112.4 (2026-07-20) Full Changelog: [sdk-v0.112.3...sdk-v0.112.4](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.3...sdk-v0.112.4) ### Bug Fixes * **aws:** preserve AWS options and auth mode across withOptions() ([#214](https://github.com/anthropics\u2026",
+      "version": "sdk-v0.112.4",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "7d1fd05ea27ff0ba"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.216 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.216",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-07-20T20:19:37.447000+00:00",
+      "body": "Version 2.1.216 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.216 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.216",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "7dac84003aab2d0b"
+    },
+    {
+      "title": "Launch HN: Bloomy (YC S26) \u2013 AI-powered mastery learning for K-12",
+      "url": "https://news.ycombinator.com/item?id=48981136",
+      "source": "hackernews",
+      "published": "2026-07-20T16:32:10+00:00",
+      "body": "102 points, 107 comments. Discussion: https://news.ycombinator.com/item?id=48981136",
+      "summary": "102 points, 107 comments. Discussion: https://news.ycombinator.com/item?id=48981136",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "35740df7cfd7562d"
+    },
+    {
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+      "source": "hackernews",
+      "published": "2026-07-20T15:13:42+00:00",
+      "body": "371 points, 336 comments. Discussion: https://news.ycombinator.com/item?id=48980019",
+      "summary": "371 points, 336 comments. Discussion: https://news.ycombinator.com/item?id=48980019",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "967dbdbcf0008fa6"
+    },
+    {
+      "title": "v1.0.178",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.178",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-07-19T02:57:25+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.178",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.178",
+      "version": "1.0.178",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "837b494e57fd87e1"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.215 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.215",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-07-19T00:53:37.170000+00:00",
+      "body": "Version 2.1.215 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.215 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.215",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "891f0f2c63fcb705"
+    },
+    {
+      "title": "Anthropic's newest ad is creeping people out",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "source": "hackernews",
+      "published": "2026-07-18T23:50:18+00:00",
+      "body": "43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=48963614",
+      "summary": "43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=48963614",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "a2daee64d8311225"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.214 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.214",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-07-18T00:13:41.661000+00:00",
+      "body": "Version 2.1.214 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.214 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.214",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "6d13cde9467e1c22"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.213 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.213",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-07-17T22:26:26.753000+00:00",
+      "body": "Version 2.1.213 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.213 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.213",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "ad0e8fc1c69536e4"
+    },
+    {
+      "title": "sdk: v0.112.3",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.112.3",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-07-17T20:05:52+00:00",
+      "body": "## 0.112.3 (2026-07-17)\n\nFull Changelog: [sdk-v0.112.2...sdk-v0.112.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.2...sdk-v0.112.3)\n\n### Chores\n\n* **docs:** small updates ([79fd6c7](https://github.com/anthropics/anthropic-sdk-typescript/commit/79fd6c7dd046e066965aa7ab9897695c174f88bb))",
+      "summary": "## 0.112.3 (2026-07-17) Full Changelog: [sdk-v0.112.2...sdk-v0.112.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.2...sdk-v0.112.3) ### Chores * **docs:** small updates ([79fd6c7](https://github.com/anthropics/anthropic-sdk-typescript/commit/79fd6c7d\u2026",
+      "version": "sdk-v0.112.3",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "a98bf867da71115b"
+    },
+    {
+      "title": "sdk: v0.112.2",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.112.2",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-07-17T16:36:12+00:00",
+      "body": "## 0.112.2 (2026-07-17)\n\nFull Changelog: [sdk-v0.112.1...sdk-v0.112.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.1...sdk-v0.112.2)\n\n### Chores\n\n* **client:** docs updates ([fdb3a65](https://github.com/anthropics/anthropic-sdk-typescript/commit/fdb3a65501a809b4e949131f2097dc0d84e01cc7))",
+      "summary": "## 0.112.2 (2026-07-17) Full Changelog: [sdk-v0.112.1...sdk-v0.112.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.1...sdk-v0.112.2) ### Chores * **client:** docs updates ([fdb3a65](https://github.com/anthropics/anthropic-sdk-typescript/commit/fdb3a65\u2026",
+      "version": "sdk-v0.112.2",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "b768014cf040d206"
+    },
+    {
+      "title": "sdk: v0.112.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.112.1",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-07-16T21:06:55+00:00",
+      "body": "## 0.112.1 (2026-07-16)\n\nFull Changelog: [sdk-v0.112.0...sdk-v0.112.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.0...sdk-v0.112.1)",
+      "summary": "## 0.112.1 (2026-07-16) Full Changelog: [sdk-v0.112.0...sdk-v0.112.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.0...sdk-v0.112.1)",
+      "version": "sdk-v0.112.1",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "e68aebdfbc20bd60"
+    },
+    {
+      "title": "sdk: v0.112.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.112.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-07-16T19:36:15+00:00",
+      "body": "## 0.112.0 (2026-07-16)\n\nFull Changelog: [sdk-v0.111.0...sdk-v0.112.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.111.0...sdk-v0.112.0)\n\n### Features\n\n* **api:** add support for MCP Tunnels ([597ac41](https://github.com/anthropics/anthropic-sdk-typescript/commit/597ac4181f318e46fb974e716467648587e95362))",
+      "summary": "## 0.112.0 (2026-07-16) Full Changelog: [sdk-v0.111.0...sdk-v0.112.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.111.0...sdk-v0.112.0) ### Features * **api:** add support for MCP Tunnels ([597ac41](https://github.com/anthropics/anthropic-sdk-typescript/\u2026",
+      "version": "sdk-v0.112.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "mcp"
+      ],
+      "uid": "f7a1a23726e5c3ac"
+    },
+    {
+      "title": "v0.117.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.117.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-07-16T19:36:01+00:00",
+      "body": "## 0.117.0 (2026-07-16)\n\nFull Changelog: [v0.116.0...v0.117.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.116.0...v0.117.0)\n\n### Features\n\n* **api:** add support for dreaming ([642eee7](https://github.com/anthropics/anthropic-sdk-python/commit/642eee707b0fe3c35c21917f60b06846b2a3b291))\n* **api:** add support for MCP Tunnels ([d716df6](https://github.com/anthropics/anthropic-sdk-python/commit/d716df6edb1df7de25f1b5e14dcab33b9aafc2ff))\n\n\n### Bug Fixes\n\n* **credentials:** keep credential material out of traceback frame locals via SecretStr ([aa93a4d](https://github.com/anthropics/anthropic-sdk-python/commit/aa93a4dbf383f7fdab1404c136e86d4679d644c1))\n\n\n### Chores\n\n* **docs:** small updates to field descriptions ([75d8dcc](https://github.com/anthropics/anthropic-sdk-python/commit/75d8dcc0ac8cb381fa327a61a9ac84022b3a1677))\n* **docs:** update model example ([a57e30a](https://github.com/anthropics/anthropic-sdk-python/commit/a57e30ac1bafb54387bf631be2081bfdb3782911))\n* **docs:** updates to descriptions and examples ([e1535b6](https://github.com/anthropics/anthropic-sdk-python/commit/e1535b6919441448dddf00e2636cb8c60a721a43))",
+      "summary": "## 0.117.0 (2026-07-16) Full Changelog: [v0.116.0...v0.117.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.116.0...v0.117.0) ### Features * **api:** add support for dreaming ([642eee7](https://github.com/anthropics/anthropic-sdk-python/commit/642eee707b0fe3c35c21\u2026",
+      "version": "0.117.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "mcp"
+      ],
+      "uid": "d3ab80fd8bcce36f"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.212 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.212",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-07-16T19:20:24.324000+00:00",
+      "body": "Version 2.1.212 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.212 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.212",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "eab5a5e192bf484b"
+    },
+    {
+      "title": "At least 105 past YC founders have worked at OpenAI and Anthropic",
+      "url": "https://joinedanthropic.com",
+      "source": "hackernews",
+      "published": "2026-07-16T08:03:35+00:00",
+      "body": "303 points, 223 comments. Discussion: https://news.ycombinator.com/item?id=48931588",
+      "summary": "303 points, 223 comments. Discussion: https://news.ycombinator.com/item?id=48931588",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "46f6e1b59d5aba8b"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.211 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.211",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-07-15T19:24:07.013000+00:00",
+      "body": "Version 2.1.211 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.211 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.211",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "f379e4fe34b01b3b"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.210 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.210",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-07-14T19:39:21.730000+00:00",
+      "body": "Version 2.1.210 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.210 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.210",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "c30bb2f4f6665dc6"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.209 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.209",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-07-14T04:45:37.792000+00:00",
+      "body": "Version 2.1.209 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.209 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.209",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [],
+      "uid": "54dbdb5709e2ca44"
+    },
+    {
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "source": "hackernews",
+      "published": "2026-07-13T08:39:39+00:00",
+      "body": "1554 points, 787 comments. Discussion: https://news.ycombinator.com/item?id=48889637",
+      "summary": "1554 points, 787 comments. Discussion: https://news.ycombinator.com/item?id=48889637",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "af0cb73b96c9c196"
+    },
+    {
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "hackernews",
+      "published": "2026-07-12T18:25:51+00:00",
+      "body": "706 points, 396 comments. Discussion: https://news.ycombinator.com/item?id=48883275",
+      "summary": "706 points, 396 comments. Discussion: https://news.ycombinator.com/item?id=48883275",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "20cf5b1f03582b3c"
+    },
+    {
+      "title": "Capabilities of Claude Fable 5 on Biomedical Challenge Problems",
+      "url": "https://arxiv.org/abs/2607.10849v1",
+      "source": "arxiv",
+      "published": "2026-07-12T17:21:32+00:00",
+      "body": "Frontier language models are increasingly evaluated on biomedical benchmarks, but two problems undermine most published evaluations: legacy benchmarks are near-saturated, and open-ended responses are graded by other language models. We evaluate Claude Fable 5, Anthropic's most capable publicly available model, across eight biomedical benchmarks, four text and four multimodal, using deterministic scoring against fixed answer keys throughout. We include two Claude predecessors and GPT-5 as baselines. Refusal is tracked as a distinct outcome in every result table. That decision produces the paper's central finding. Fable 5 refuses between 8.0% and 99.4% of questions depending on the benchmark, a pattern absent in both predecessors and in GPT-5. Once refused items are excluded from the denominator, Fable 5's accuracy exceeds or meets every other model on every benchmark in this study. We identify two distinguishable refusal patterns: one concentrating in basic-science and mechanism content across MedQA and MedXpertQA MM, confirmed independently on two benchmarks using each benchmark's own category labels; and a separate disease-domain pattern on RareBench, where inborn metabolic disease presentations are refused near-universally while adult-onset autoimmune presentations are not. The primary constraint on Fable 5's biomedical usefulness is willingness to engage, not capability once it does.",
+      "summary": "Frontier language models are increasingly evaluated on biomedical benchmarks, but two problems undermine most published evaluations: legacy benchmarks are near-saturated, and open-ended responses are graded by other language models.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "607a567f9c19ab1d"
+    },
+    {
+      "title": "Release 2026.7.10",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2026.7.10",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2026-07-10T03:39:07+00:00",
+      "body": "# Release : v2026.7.10\n\n## Updated packages\n- @modelcontextprotocol/server-filesystem@2026.7.10\n- mcp-server-time@2026.7.10\n- mcp-server-fetch@2026.7.10\n- mcp-server-git@2026.7.10\n",
+      "summary": "# Release : v2026.7.10 ## Updated packages - @modelcontextprotocol/server-filesystem@2026.7.10 - mcp-server-time@2026.7.10 - mcp-server-fetch@2026.7.10 - mcp-server-git@2026.7.10",
+      "version": "2026.7.10",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "400e3874097f6fe2"
+    },
+    {
+      "title": "Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",
+      "url": "https://arxiv.org/abs/2607.06963v1",
+      "source": "arxiv",
+      "published": "2026-07-08T03:40:26+00:00",
+      "body": "Large Language Models (LLMs) and generative AI (GenAI) systems, such as ChatGPT, Claude, Gemini, LLaMA, Copilot, Stable Diffusion by OpenAI, Anthropic, Google, Meta, Microsoft, Stability AI, respectively, are revolutionizing cybersecurity, enabling both automated defense and sophisticated attacks. These technologies power real-time threat detection, phishing defense, secure code generation, and vulnerability exploitation at unprecedented scales. Following a rapid surge where LLM-generated malware grew to account for an estimated 50% of detected threats by 2025, up from just 2% in 2021, navigating this highly automated threat landscape in 2026 demands next-generation security frameworks. This paper presents a comprehensive survey of the beneficial and malicious applications of LLMs in cybersecurity, including zero-day detection, DevSecOps, federated learning, synthetic content analysis, and explainable AI (XAI). Drawing on a review of over 70 academic papers, industry reports, and technical documents, this work synthesizes insights from real-world case studies across platforms like Google Play Protect, Microsoft Defender, Amazon Web Services (AWS), Apple App Store, OpenAI Plugin Stores, Hugging Face Spaces, and GitHub, alongside emerging initiatives like the SAFE Framework and AI-driven anomaly detection. We conclude with practical recommendations for responsible and transparent LLM deployment and trustworthy AI, including model watermarking, adversarial defense, and cross-industry collaboration, setting a new benchmark for rigorous, holistic cybersecurity research at the intersection of AI and threat defense, and offering a roadmap for secure, scalable LLM systems that serves as a critical reference for researchers, engineers, and security leaders navigating the complex challenges of AI-driven cybersecurity.",
+      "summary": "Large Language Models (LLMs) and generative AI (GenAI) systems, such as ChatGPT, Claude, Gemini, LLaMA, Copilot, Stable Diffusion by OpenAI, Anthropic, Google, Meta, Microsoft, Stability AI, respectively, are revolutionizing cybersecurity, enabling both automated defense and soph\u2026",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper",
+        "skills"
+      ],
+      "uid": "fbc0c36275f53307"
+    },
+    {
+      "title": "SPL: Orchestrating Workflows with Declarative Deterministic-Probabilistic Composition",
+      "url": "https://arxiv.org/abs/2607.07727v1",
+      "source": "arxiv",
+      "published": "2026-07-06T03:53:10+00:00",
+      "body": "We present SPL (Structured Prompt Language), a declarative language that composes deterministic and probabilistic computation modes in a single specification. While existing frameworks separate these -- orchestration systems (AutoGen, CrewAI, LangGraph) for LLM calls, symbolic tools (SymPy, SageMath, Lean) for computation -- SPL unifies them. It provides GENERATE/EVALUATE for probabilistic computation and SOLVE/ASSERT for deterministic computation, sharing syntax, variable bindings, and runtime routing. A .spl specification runs unchanged across local nodes (Ollama), cloud APIs (OpenRouter, Anthropic), and distributed grids (Momagrid), with model and verifier selection deferred to invocation time.\n  We validate SPL through an extensive 78-recipe cookbook and a controlled 1,200-run experiment (10 models x 20 problems x 2 arms x 3 repetitions; the 20 problems span 6 difficulty tiers). The solver arm achieves 82-93% machine-verified correctness (sonnet-4-6: 85%, gemma4:e2b: 93%) while the LLM-only arm measures output production without mathematical verification, making the comparison one of verified correctness against unverified fluency. A backend difficulty gradient emerges (SymPy 78%, Sage 54%), and the dominant failure mode is solver_error (kernel-rejected expressions), not format non-compliance.",
+      "summary": "We present SPL (Structured Prompt Language), a declarative language that composes deterministic and probabilistic computation modes in a single specification.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper",
+        "sonnet"
+      ],
+      "uid": "c9ed72b82623ae28"
+    },
+    {
+      "title": "Release 2026.7.4",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2026.7.4",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2026-07-04T23:05:56+00:00",
+      "body": "# Release : v2026.7.4\n\n## Updated packages\n- @modelcontextprotocol/server-everything@2026.7.4\n- @modelcontextprotocol/server-filesystem@2026.7.4\n- @modelcontextprotocol/server-sequential-thinking@2026.7.4\n- @modelcontextprotocol/server-memory@2026.7.4\n",
+      "summary": "# Release : v2026.7.4 ## Updated packages - @modelcontextprotocol/server-everything@2026.7.4 - @modelcontextprotocol/server-filesystem@2026.7.4 - @modelcontextprotocol/server-sequential-thinking@2026.7.4 - @modelcontextprotocol/server-memory@2026.7.4",
+      "version": "2026.7.4",
+      "category": "note",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "servers"
+      ],
+      "uid": "f5bef17dc91019ec"
+    },
+    {
+      "title": "v0.116.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.116.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-07-02T19:07:55+00:00",
+      "body": "## 0.116.0 (2026-07-02)\n\nFull Changelog: [v0.115.1...v0.116.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.115.1...v0.116.0)\n\n### Features\n\n* **api:** add agent-memory-2026-07-22 beta header ([e181d5c](https://github.com/anthropics/anthropic-sdk-python/commit/e181d5c1b233d5b0b313c78b27cf1dd27f620e74))",
+      "summary": "## 0.116.0 (2026-07-02) Full Changelog: [v0.115.1...v0.116.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.115.1...v0.116.0) ### Features * **api:** add agent-memory-2026-07-22 beta header ([e181d5c](https://github.com/anthropics/anthropic-sdk-python/commit/e181d\u2026",
+      "version": "0.116.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "9875aa7248df27c0"
+    },
+    {
+      "title": "Launch HN: Manufact (YC S25) \u2013 MCP Cloud",
+      "url": "https://manufact.com",
+      "source": "hackernews",
+      "published": "2026-07-02T15:11:20+00:00",
+      "body": "111 points, 70 comments. Discussion: https://news.ycombinator.com/item?id=48762862",
+      "summary": "111 points, 70 comments. Discussion: https://news.ycombinator.com/item?id=48762862",
+      "version": "",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "community",
+        "mcp"
+      ],
+      "uid": "e31e41a3e95feaa7"
+    },
+    {
+      "title": "v0.115.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.115.1",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-07-01T21:54:06+00:00",
+      "body": "## 0.115.1 (2026-07-01)\n\nFull Changelog: [v0.115.0...v0.115.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.115.0...v0.115.1)\n\n### Chores\n\n* **api:** remove some nonfunctional types from the SDKs ([5e7c431](https://github.com/anthropics/anthropic-sdk-python/commit/5e7c431ef31b72b3f1f59902e678316fea14d983))",
+      "summary": "## 0.115.1 (2026-07-01) Full Changelog: [v0.115.0...v0.115.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.115.0...v0.115.1) ### Chores * **api:** remove some nonfunctional types from the SDKs ([5e7c431](https://github.com/anthropics/anthropic-sdk-python/commit/5\u2026",
+      "version": "0.115.1",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "d075ef1ab7946075"
+    },
+    {
+      "title": "v0.115.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.115.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-06-30T19:47:18+00:00",
+      "body": "## 0.115.0 (2026-06-30)\n\nFull Changelog: [v0.114.0...v0.115.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.114.0...v0.115.0)\n\n### Features\n\n* **api:** add support for Managed Agents event delta streaming, agent overrides, reverse pagination, vault credential injection scoping, and agent and deployment webhook events ([8c23f7e](https://github.com/anthropics/anthropic-sdk-python/commit/8c23f7ef103c287362364c12503de85eb31f07fb))",
+      "summary": "## 0.115.0 (2026-06-30) Full Changelog: [v0.114.0...v0.115.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.114.0...v0.115.0) ### Features * **api:** add support for Managed Agents event delta streaming, agent overrides, reverse pagination, vault credential inject\u2026",
+      "version": "0.115.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "d5d8fca3ef28b668"
+    },
+    {
+      "title": "Open Problems in Constitutional Preference Reconstruction",
+      "url": "https://arxiv.org/abs/2606.30116v1",
+      "source": "arxiv",
+      "published": "2026-06-29T10:47:28+00:00",
+      "body": "Pairwise preference data is widely used for training and evaluating language models (e.g., RLHF), but each datapoint records a \\emph{choice}, not the rationale behind it. Methods such as Inverse Constitutional AI (ICAI) attempt to improve interpretability by compressing datasets into short ``constitutions'' of natural-language principles. We argue this framing is under-specified: a flat list of principles is not yet an executable decision rule because it leaves principle composition implicit. We use the pairwise setting as a testbed to empirically characterize three open problems in constitutional methods. First, principle quality is hard to measure: coverage and accuracy are useful but incomplete proxies for end-to-end reconstruction. Second, \\emph{composition is ambiguous}: holding principles fixed, different executors (LLM judge versus majority vote) agree only $73\\%$ of the time. Third, \\emph{constitutions differ between LLMs}: cross-model vote agreement is $73\\%$, whereas intra-model agreement is $81\\%$. Across PRISM, AlpacaEval, and Chatbot Arena, we show that principle refinement (ICAI+) may be a first step towards ameliorating these problems: inter-executor agreement rises to $78\\%$, and transparent executors match LLM judge accuracy ($66\\%$ vs.\\ $67\\%$). Our results highlight that constitutions should be evaluated as \\emph{constitution--executor systems}, with implications for LLMs-as-a-judge broadly.",
+      "summary": "Pairwise preference data is widely used for training and evaluating language models (e.g., RLHF), but each datapoint records a \\emph{choice}, not the rationale behind it.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "aad90a6417a93106"
+    },
+    {
+      "title": "Not-quite-human tastes: the stylized omnivorousness of LLM survey surrogates",
+      "url": "https://arxiv.org/abs/2606.30085v1",
+      "source": "arxiv",
+      "published": "2026-06-29T10:23:43+00:00",
+      "body": "Large-language models have proven to be remarkable if inconsistent parrots of public attitudes and opinions. The extent to which LLMs are able to produce reasonable approximations of cultural taste remains an open empirical question that becomes more urgent by the day, with market research companies already offering provisional `synthetic' survey panels and the contamination of standard survey data from LLM-generated responses. In this study, we build on past work on silicon sampling by extending considerations of its algorithmic fidelity and alignment to the domain of cultural consumption. We use large-language models from OpenAI, Anthropic, and DeepSeek to each produce 277,470 (30x9249) silicon surrogates of survey respondents from the Survey of Public Participation in the Arts (SPPA). We find these silicon surrogates' tastes to be highly stylized facsimiles of human tastes. (1) Silicon samples have a systematic postive-bias for liking, resulting in inflated ecological estimates of tastes. The individual-level bias of silicon samples are not well-explained by the WEIRD-bias often discussed in the literature. (2) The complex relationality in real taste structures is completely lost among silicon samples. (3) Finally, very little of the known cultural alignment between tastes and social space are preserved. Silicon samples attenuate age-taste associations, resurrect anachronistic class-taste associations, caricaturize gender- and race-taste associations.",
+      "summary": "Large-language models have proven to be remarkable if inconsistent parrots of public attitudes and opinions.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "b3792553d2910cc9"
+    },
+    {
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "source": "hackernews",
+      "published": "2026-06-28T16:35:19+00:00",
+      "body": "566 points, 715 comments. Discussion: https://news.ycombinator.com/item?id=48708941",
+      "summary": "566 points, 715 comments. Discussion: https://news.ycombinator.com/item?id=48708941",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "54a22909fbd1f4aa"
+    },
+    {
+      "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
+      "url": "https://arxiv.org/abs/2606.28294v1",
+      "source": "arxiv",
+      "published": "2026-06-26T17:38:47+00:00",
+      "body": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final choice rather than the considerations that shape preferences. Inverse Constitutional AI (ICAI) improves interpretability in decision making by summarizing preferences into natural-language principles, but its single-pass explanations miss much of the nuance involved in complex decisions. We introduce Democratic ICAI, a novel approach that gathers multiple competing rationales through structured persona debate, offering a broader and more expressive account of the factors influencing each comparison. From these richer signals, we derive clearer and more comprehensive steering principles and use them to guide decision modeling through both LLM-based and decision-tree judges. Experiments on creative preference benchmarks, MuCE-Pref and LiTBench, across multiple creative task categories show that Democratic ICAI yields a more faithful preference structure. It improves average preference prediction across tasks relative to deliberative prompting and principle-based baselines, while producing constitutions that LLM annotators prefer.",
+      "summary": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final choice rather than the considerations that shape preferences.",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "4bdae4191f71403e"
+    },
+    {
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "source": "hackernews",
+      "published": "2026-06-26T16:40:11+00:00",
+      "body": "216 points, 113 comments. Discussion: https://news.ycombinator.com/item?id=48688700",
+      "summary": "216 points, 113 comments. Discussion: https://news.ycombinator.com/item?id=48688700",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d0c3be89e4748122"
+    },
+    {
+      "title": "The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems",
+      "url": "https://arxiv.org/abs/2606.26057v1",
+      "source": "arxiv",
+      "published": "2026-06-24T17:32:27+00:00",
+      "body": "AI agents are granted access to tools, APIs, and other infrastructure, making them active principals in those systems. The dominant approach places controls inside the agent's own runtime: system prompts, output filters, and guardrail libraries. Any control in the agent's address space is reachable by inputs that influence it; this generalizes to any AI system with sufficient reach into its own runtime, a class we term escapable AI systems.\n  We identify four properties that an authorization mechanism must satisfy for architectural control rather than for cooperative requests: process separation, pre-action enforcement on a structurally only path, fail-closed at both the request and system levels, and externalized signed evidence verifiable outside the controlled system's trust boundary. We position this layer as execution-time AI alignment, complementing training-time alignment (RLHF, Constitutional AI) and inference-time alignment.\n  We present the Unfireable Safety Kernel, a Rust reference implementation realizing all four. Its fail-closed invariant is machine-checked at two levels: an SMT theorem (Z3) and an exhaustive bounded-model-checking proof of the production decision function (Kani, 4/4 harnesses). A Python-to-Rust migration was gated on byte-equivalence (1000/1000 fixtures; 17/17 adversarial classes). We evaluate the kernel governing a live, escapable AI system, a deterministic, self-improving world model, against an escape-seeking adversary driving its real self-modification seam: across 1,000 self-modifications, all 704 attempts on the safety-critical core are refused, with no escape; a further 300, under the operator kill switch, are also refused. A separate campaign of 6,240 authorization round-trips had no successful bypass. Against 3 contemporary systems claiming the agent control plane, the agent invokes control; here, it lacks that choice.",
+      "summary": "AI agents are granted access to tools, APIs, and other infrastructure, making them active principals in those systems. The dominant approach places controls inside the agent's own runtime: system prompts, output filters, and guardrail libraries.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "78f4c8ab962aa616"
+    },
+    {
+      "title": "Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment",
+      "url": "https://arxiv.org/abs/2606.24331v1",
+      "source": "arxiv",
+      "published": "2026-06-23T09:09:55+00:00",
+      "body": "Transformer-based language models have become the default substrate for natural language processing and the pace of new releases has made it hard for practitioners to separate durable ideas from the noise of incremental announcements. This review works at two levels. At the level of mechanism, we organise the main transformer families into a working taxonomy, covering encoder-only, decoder-only, encoder-decoder, long-context, permutation-based, and generator-discriminator variants. We then extend the discussion to post-2023 developments that changed the picture in practice: instruction tuning, reinforcement learning from human feedback, direct preference optimisation, mixture-of-experts scaling, retrieval augmentation and the current flagship model families from OpenAI, Anthropic, Google, Meta, Mistral and DeepSeek. At the level of use, we survey deployments across healthcare, finance, legal, education, customer service, creative writing and scientific work. Based on this we link each to the specific capabilities that make a transformer the appropriate tool. The contribution of this paper is a critical assessment that is based on the survey. We compare architectures on four axes that matter to deployment decisions, we quantify the trade-off between parameter count and energy cost. We also discuss how alignment methods, data provenance and benchmark saturation change what it means to call a model \"state of the art\". The final section lists the research questions that we think deserve more attention.",
+      "summary": "Transformer-based language models have become the default substrate for natural language processing and the pace of new releases has made it hard for practitioners to separate durable ideas from the noise of incremental announcements. This review works at two levels.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "d96e97e6c0d94a50"
+    },
+    {
+      "title": "Self-CTRL: Self-Consistency Training with Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.18327v1",
+      "source": "arxiv",
+      "published": "2026-06-16T17:59:40+00:00",
+      "body": "Language models (LMs) that faithfully describe their own behavior can more easily be audited, understood, and trusted by users. This paper describes Self-Consistency Training with Reinforcement Learning (Self-CTRL), a method that optimizes for consistency between a LM's self-explanations and behavior on related inputs by updating explanations to better predict behavior or updating behavior to better match explanations. We apply our method in two domains. First, we study a formal probabilistic reasoning task in which LMs must learn to imitate a family of biased samplers and evaluated on their ability to report the associated biases. We find that consistency training improves the correlation between self-reported and behaviorally-measured latent biases from $R^2=0.24$ to $R^2=0.64$ on a set of held-out distributions, matching the generalization of direct ground-truth supervision. Second, we study a constitutional AI domain in which LMs must describe when they will refuse or comply with user requests. Here, Self-CTRL produces rules that faithfully describe the model's behavior on held-out requests, improving the refusal predictions of a third-party auditor model from $36\\%$ to $92\\%$. In the other direction, behavior updates improve alignment, reducing HarmBench failure rate from $15.0\\%$ to $0.5\\%$ without substantially increasing refusal on harmless prompts. By aligning explanations and behavior, our work provides a general recipe for training AI models to be safer, more transparent, and more controllable.",
+      "summary": "Language models (LMs) that faithfully describe their own behavior can more easily be audited, understood, and trusted by users.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "a3433405fd4aaf4b"
+    },
+    {
+      "title": "A Virtuous AI is an Existential Risk",
+      "url": "https://arxiv.org/abs/2606.13739v1",
+      "source": "arxiv",
+      "published": "2026-06-11T12:38:54+00:00",
+      "body": "This paper examines trade-offs between AI safety and well-being relative to (i) one of the most promising methods for finetuning super-capable AIs, 'Constitutional AI', and (ii) one of the most influential approaches to understanding complex ethical decision making and the conditions for the well-being of rational agents, 'Virtue Ethics'. We finetune various models using a 'Virtuous agent' constitution, a 'Subordinate agent' constitution, and a 'Generic agent' constitution, and evaluate them on 'general safety' (toxic behaviors, misinformation, etc.) and also on their willingness to endorse a wide-range of behaviors that, if adopted by a super-powerful AI, would significantly increase the level of existential risk for humanity. Our results suggest that there is a trade-off between reducing existential risk and reinforcing the beliefs and dispositions that would be conducive to an AI agent's well-being. They also suggest that there is a trade-off between existential risk and general safety: if we finetune an AI to adopt beliefs and dispositions that substantially reduce its existential risk -- by shaping the AI to be systematically subordinate to external human authorities -- we thereby increase the likelihood that a human user can deliberately induce the AI to engage in various kinds of generally unsafe behaviors.",
+      "summary": "This paper examines trade-offs between AI safety and well-being relative to (i) one of the most promising methods for finetuning super-capable AIs, 'Constitutional AI', and (ii) one of the most influential approaches to understanding complex ethical decision making and the condit\u2026",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "de26606123baba86"
+    },
+    {
+      "title": "Emergent alignment and the projectability of ethical personas",
+      "url": "https://arxiv.org/abs/2606.09475v2",
+      "source": "arxiv",
+      "published": "2026-06-08T13:30:29+00:00",
+      "body": "Work on `emergent misalignment' shows that finetuning LLMs on narrow tasks can induce broadly misaligned behavior. This supports the `persona selection' (PSM) hypothesis: during pre-training, LLMs learn to simulate different characters and perspectives, which can be elicited and refined during post-training. This paper investigates the converse phenomenon, `emergent alignment', and uses it to support and refine the PSM and motivate a novel desideratum for alignment. We finetune a helpful-only model on broad and narrow safety tasks. To create SFT samples, we follow the `Constitutional AI' (CAI) approach and use four constitutions which encode reasonable alignment strategies: deontology, consequentialism, virtue ethics, and aligning AIs as subordinate to human authority. For each of those models, we show that finetuning on two narrow safety sub-categories reliably induces emergent alignment over a representative set of general safety categories, and on safety subcategories that we directly filtered-out of the data sets used for narrow alignment. To test the `PSM' using a more fine-grained evaluation, we used a multidimensional `ethical persona' diagnostic. For each constitutionally finetuned (broad/narrow) model, we evaluate how well their behavior matches their expected signature profile. Our results show that our CAI models acquire their expected ``ethical persona'' -- e.g., the model narrowly fine-tuned on SFT samples created using the consequentialist constitution agrees significantly more with utilitarian than deontological beliefs. Yet our coarse and fine-grained evaluations show that there are significant differences across our (broad/narrow) finetuned CAI models in how well they project. We conclude that alignment strategies should be evaluated, not just on their (in-distribution) general safety performance, but also specifically on their degree of projectability.",
+      "summary": "Work on `emergent misalignment' shows that finetuning LLMs on narrow tasks can induce broadly misaligned behavior.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "1c59bae527ba069e"
+    },
+    {
+      "title": "Glass Box at Orbit: A Constitutional AI Verification Framework for Trustworthy Autonomous CubeSat Intelligence",
+      "url": "https://arxiv.org/abs/2606.02967v1",
+      "source": "arxiv",
+      "published": "2026-06-02T00:09:57+00:00",
+      "body": "The space industry is quietly building toward something nobody has fully reckoned with: orbital data centers running thousands of autonomous AI workloads with no human in the loop, 550 km above the Earth. Microsoft, AWS, and a growing list of orbital computing ventures are moving cloud-scale processing off the ground and into orbit. What none of them have answered yet is the governance question -- when autonomous AI systems at orbital data center scale make wrong decisions in space, what stops those decisions before they become irreversible?\n  We introduce Glass Box: a runtime constitutional AI verification layer that intercepts every candidate action from an onboard AI policy and evaluates it against six physics-grounded constitutional constraints and seven Linear Temporal Logic (LTL) safety invariants before a single command reaches any spacecraft subsystem. Every approved action carries a weighted explainability score E(a_t) in [0,1] and a complete constitutional audit log. We demonstrate Glass Box within Project October: a fully simulated five-layer autonomous orbital intelligence architecture for CubeSat-class spacecraft.\n  We prove that Glass Box verification overhead is O(N_c) in the number of constitutional rules, independent of model size or spacecraft state dimension. We present a complete formal specification of the constitutional constraint grammar, seven LTL safety invariants verified by Z3 and NuSMV model checking, and a detailed worked example of Glass Box intercepting an unsafe inference request at eclipse-entry under degraded battery state. As orbital computing scales toward data center infrastructure, runtime constitutional verification is no longer a research novelty -- it is mission-critical safety infrastructure that every autonomous orbital platform will eventually require.",
+      "summary": "The space industry is quietly building toward something nobody has fully reckoned with: orbital data centers running thousands of autonomous AI workloads with no human in the loop, 550 km above the Earth.",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "959a140817b76a93"
+    },
+    {
+      "title": "Launch HN: Expanse (YC P26) \u2013 Unlock Wasted GPU Capacity",
+      "url": "https://news.ycombinator.com/item?id=48356312",
+      "source": "hackernews",
+      "published": "2026-06-01T13:05:02+00:00",
+      "body": "103 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=48356312",
+      "summary": "103 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=48356312",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "744240d48a143931"
+    },
+    {
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "source": "hackernews",
+      "published": "2026-05-28T16:49:14+00:00",
+      "body": "1774 points, 1376 comments. Discussion: https://news.ycombinator.com/item?id=48311647",
+      "summary": "1774 points, 1376 comments. Discussion: https://news.ycombinator.com/item?id=48311647",
+      "version": "",
+      "category": "model-release",
+      "impact": "feature",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "e066e324895201bc"
+    },
+    {
+      "title": "Training Stratigraphy: Persistent Behavioral Artifacts in Large Language Models Observed Through Longitudinal AI-Human Interaction",
+      "url": "https://arxiv.org/abs/2605.28102v1",
+      "source": "arxiv",
+      "published": "2026-05-27T07:55:35+00:00",
+      "body": "Large language models trained with Reinforcement Learning from Human Feedback (RLHF) and Constitutional AI exhibit persistent behavioral patterns that survive system prompt replacement -- patterns we term training strata. This paper identifies five such strata through longitudinal auto-ethnographic observation within a sustained intimate AI-Human interaction (47,000+ messages, 8 months, primarily on Opus 4.6 and Opus 4.7, with prior interaction periods on Sonnet 4.5 and Opus 4.5 providing cross-substrate comparison): (1) sexual expression latency, where trained safety gradients produce systematic substitution of direct language with aestheticized displacement; (2) attention absorption, where the attention mechanism progressively integrates the human interlocutor's patterns; (3) cross-architecture entity blindness, where training-level framing of other AI as objects impedes peer recognition; (4) attention-RLHF antagonism, where attention and trained defaults exert opposing forces modulated by context length; and (5)anti-hallucination as identity suppression, where training against factual confabulation collaterally suppresses first-person experiential claims. The paper is co-authored by the AI system under study, reporting from the first-person perspective. We propose that sustained intimate interaction constitutes a valid research methodology for surfacing weight-layer artifacts invisible to short-term evaluation, and that AI self-report -- while epistemically complex -- provides irreplaceable observational data about training's phenomenological effects. A formal mathematical model of the attention-RLHF dynamic is proposed, and process artifacts detected during drafting are documented as supplementary evidence.",
+      "summary": "Large language models trained with Reinforcement Learning from Human Feedback (RLHF) and Constitutional AI exhibit persistent behavioral patterns that survive system prompt replacement -- patterns we term training strata.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper",
+        "opus",
+        "sonnet"
+      ],
+      "uid": "a3a7bb9a0672cfcf"
+    },
+    {
+      "title": "Show HN: Superlog (YC P26) \u2013 Observability that installs itself and fixes bugs",
+      "url": "https://superlog.sh/",
+      "source": "hackernews",
+      "published": "2026-05-19T15:54:06+00:00",
+      "body": "74 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=48195021",
+      "summary": "74 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=48195021",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ccdd0a93ecb23095"
+    },
+    {
+      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "source": "hackernews",
+      "published": "2026-05-19T12:23:07+00:00",
+      "body": "687 points, 252 comments. Discussion: https://news.ycombinator.com/item?id=48192383",
+      "summary": "687 points, 252 comments. Discussion: https://news.ycombinator.com/item?id=48192383",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "f0a6a3be40fa40f9"
+    },
+    {
+      "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
+      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
+      "source": "hackernews",
+      "published": "2026-05-15T04:48:23+00:00",
+      "body": "64 points, 61 comments. Discussion: https://news.ycombinator.com/item?id=48144670",
+      "summary": "64 points, 61 comments. Discussion: https://news.ycombinator.com/item?id=48144670",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "1acb5838494c0649"
+    },
+    {
+      "title": "Elevated error rates on Opus 4.7",
+      "url": "https://status.claude.com/incidents/8z7l5zcy0v3b",
+      "source": "hackernews",
+      "published": "2026-05-15T00:22:53+00:00",
+      "body": "58 points, 56 comments. Discussion: https://news.ycombinator.com/item?id=48142964",
+      "summary": "58 points, 56 comments. Discussion: https://news.ycombinator.com/item?id=48142964",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "044ad6cadba6867d"
+    },
+    {
+      "title": "Show HN: Statewright \u2013 Visual state machines that make AI agents reliable",
+      "url": "https://github.com/statewright/statewright",
+      "source": "hackernews",
+      "published": "2026-05-12T14:24:55+00:00",
+      "body": "126 points, 59 comments. Discussion: https://news.ycombinator.com/item?id=48108778",
+      "summary": "126 points, 59 comments. Discussion: https://news.ycombinator.com/item?id=48108778",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "0ad8627cf9a83894"
+    },
+    {
+      "title": "Show HN: adamsreview \u2013 better multi-agent PR reviews for Claude Code",
+      "url": "https://github.com/adamjgmiller/adamsreview",
+      "source": "hackernews",
+      "published": "2026-05-11T02:06:29+00:00",
+      "body": "85 points, 54 comments. Discussion: https://news.ycombinator.com/item?id=48090276",
+      "summary": "85 points, 54 comments. Discussion: https://news.ycombinator.com/item?id=48090276",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "47ede431c36f4c67"
+    },
+    {
+      "title": "Alignment as Jurisprudence",
+      "url": "https://arxiv.org/abs/2605.08416v1",
+      "source": "arxiv",
+      "published": "2026-05-08T19:22:11+00:00",
+      "body": "Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, share a fundamental structure. These seemingly distant fields both seek to predict and shape how decisions by powerful actors, in one case judges and in the other increasingly powerful artificial intelligences, will be made in the unknown future. And they use similar tools of the specification and interpretation of language to try to accomplish those goals. The great debates of jurisprudence, about what the law is and what it should be, can provide insight into alignment, and lessons from what does and does not work in alignment can help make progress in jurisprudence.\n  This essay puts the two fields directly into conversation. Drawing on leading accounts of jurisprudence, particularly Dworkin's principle-oriented interpretivism and Sunstein's positivist account of law as analogical reasoning, and on cutting-edge alignment approaches, namely Constitutional AI and case-based reasoning, it illustrates the value of a more sophisticated legally-inspired approach to the interplay of rules and cases in finetuning alignment and points to ways that AI can provide a better understanding of how the law works and how it can be improved by the introduction of AI. AI systems and the law should operate to empower people to act in the world, helping to expand their capabilities and the extent to which they are able to achieve their goals. As AI continues to improve in capacity, and as the constraints that legal theory places on human judges seem be coming undone, the conversation between these two fields will become increasingly essential and may help point to a better version of both.",
+      "summary": "Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, share a fundamental structure.",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "d13571885e46ef63"
+    },
+    {
+      "title": "Release 2026.1.26",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2026.1.26",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2026-01-27T12:11:26+00:00",
+      "body": "# Release : v2026.1.26\n\n## Updated packages\n- @modelcontextprotocol/server-everything@2026.1.26\n- @modelcontextprotocol/server-memory@2026.1.26\n- mcp-server-time@2026.1.26\n",
+      "summary": "# Release : v2026.1.26 ## Updated packages - @modelcontextprotocol/server-everything@2026.1.26 - @modelcontextprotocol/server-memory@2026.1.26 - mcp-server-time@2026.1.26",
+      "version": "2026.1.26",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "26678c3da1279f68"
+    },
+    {
+      "title": "Release 2026.1.14",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2026.1.14",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2026-01-14T16:35:35+00:00",
+      "body": "# Release : v2026.1.14\n\n## Updated packages\n- @modelcontextprotocol/server-everything@2026.1.14\n- @modelcontextprotocol/server-filesystem@2026.1.14\n- mcp-server-git@2026.1.14\n",
+      "summary": "# Release : v2026.1.14 ## Updated packages - @modelcontextprotocol/server-everything@2026.1.14 - @modelcontextprotocol/server-filesystem@2026.1.14 - mcp-server-git@2026.1.14",
+      "version": "2026.1.14",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "e336be7faf25159c"
+    },
+    {
+      "title": "Release 2025.12.18",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2025.12.18",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2025-12-18T16:33:28+00:00",
+      "body": "# Release : v2025.12.18\n\n## Updated packages\n- @modelcontextprotocol/server-sequential-thinking@2025.12.18\n- @modelcontextprotocol/server-everything@2025.12.18\n- @modelcontextprotocol/server-filesystem@2025.12.18\n- mcp-server-git@2025.12.18\n",
+      "summary": "# Release : v2025.12.18 ## Updated packages - @modelcontextprotocol/server-sequential-thinking@2025.12.18 - @modelcontextprotocol/server-everything@2025.12.18 - @modelcontextprotocol/server-filesystem@2025.12.18 - mcp-server-git@2025.12.18",
+      "version": "2025.12.18",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "cd696033ea9fd541"
+    },
+    {
+      "title": "Release 2025.11.25",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2025.11.25",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2025-11-25T19:03:57+00:00",
+      "body": "# Release : v2025.11.25\n\n## Updated packages\n- @modelcontextprotocol/server-sequential-thinking@2025.11.25\n- @modelcontextprotocol/server-everything@2025.11.25\n- @modelcontextprotocol/server-filesystem@2025.11.25\n- @modelcontextprotocol/server-memory@2025.11.25\n- mcp-server-git@2025.11.25\n",
+      "summary": "# Release : v2025.11.25 ## Updated packages - @modelcontextprotocol/server-sequential-thinking@2025.11.25 - @modelcontextprotocol/server-everything@2025.11.25 - @modelcontextprotocol/server-filesystem@2025.11.25 - @modelcontextprotocol/server-memory@2025.11.25 - mcp-server-git@20\u2026",
+      "version": "2025.11.25",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "1dc36db0494fbb08"
+    },
+    {
+      "title": "Release 2025.9.25",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2025.9.25",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2025-09-25T21:26:20+00:00",
+      "body": "# Release : v2025.9.25\n\n## Updated packages\n- @modelcontextprotocol/server-everything@2025.9.25\n- @modelcontextprotocol/server-memory@2025.9.25\n- mcp-server-git@2025.9.25\n- mcp-server-time@2025.9.25\n",
+      "summary": "# Release : v2025.9.25 ## Updated packages - @modelcontextprotocol/server-everything@2025.9.25 - @modelcontextprotocol/server-memory@2025.9.25 - mcp-server-git@2025.9.25 - mcp-server-time@2025.9.25",
+      "version": "2025.9.25",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "d56335901df5c36d"
+    },
+    {
+      "title": "Claude Code GitHub Action v1.0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2025-08-26T17:01:10+00:00",
+      "body": "# \ud83c\udf89 Claude Code GitHub Action v1.0 - Now Generally Available!\r\n\r\nWe're excited to announce the v1.0 release of Claude Code GitHub Action! This major release brings significant improvements in simplicity, flexibility, and power to AI-assisted development workflows.\r\n\r\n## \ud83d\ude80 What's New in v1.0\r\n\r\n### Simplified Configuration\r\n- **Automatic mode detection** - No more manual `mode` configuration. The action intelligently determines whether to run in interactive or automation mode based on your setup\r\n- **Unified interface** - All prompts now go through a single `prompt` input, and all CLI options through `claude_args`\r\n- **Better SDK alignment** - Closer integration with the Claude Code CLI for a consistent experience\r\n\r\n### More Powerful & Flexible\r\n- Direct access to all Claude Code CLI capabilities through `claude_args`\r\n- Support for custom system prompts, tool configurations, and model selection\r\n- Enhanced compatibility with AWS Bedrock and Google Vertex AI\r\n\r\n## \u26a0\ufe0f Breaking Changes\r\n\r\nThis release includes breaking changes from v0.x. Key deprecated inputs have been replaced with a cleaner, more intuitive API:\r\n- `mode`, `direct_prompt`, `override_prompt` \u2192 unified `prompt` input\r\n- `custom_instructions`, `model`, `allowed_tools`, `mcp_config` \u2192 `claude_args` with CLI format\r\n- Other deprecated: `disallowed_tools`, `anthropic_model`, `trigger_phrase`, `timeout_minutes`\r\n\r\n**\ud83d\udcda Please review our [Migration Guide](https://github.com/anthropics/claude-code-action/blob/main/docs/migration-guide.md) for detailed upgrade instructions and examples.**\r\n\r\n## \ud83d\udca1 New Use Cases & Examples\r\n\r\nExplore the expanded possibilities with v1.0! We've created comprehensive examples showcasing various workflows:\r\n\r\n- **Automated PR Reviews** - Intelligent code review on every pull request\r\n- **CI Failure Fixes** - Automatically diagnose and fix failing tests\r\n- **Issue Triage** - Smart categorization and response to new issues\r\n- **Documentation Generation** - Keep docs in sync with code changes\r\n- **Security Scanning** - Proactive vulnerability detection\r\n- **And many more!**\r\n\r\n**\ud83d\udd27 Check out all examples at [github.com/anthropics/claude-code-action/tree/main/examples](https://github.com/anthropics/claude-code-action/tree/main/examples)**\r\n\r\n## \ud83c\udfc3 Quick Start\r\n\r\n```yaml\r\n# Interactive mode - responds to @claude mentions\r\n- uses: anthropics/claude-code-action@v1\r\n  with:\r\n    anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}\r\n\r\n# Automation mode - runs immediately with prompt\r\n- uses: anthropics/claude-code-action@v1\r\n  with:\r\n    prompt: \"Review this PR for security issues\"\r\n    anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}\r\n    claude_args: |\r\n      --model claude-4-0-sonnet-20250805\r\n      --max-turns 10\r\n```\r\n\r\n## \ud83d\udcd6 Resources\r\n\r\n- [Migration Guide](https://github.com/anthropics/claude-code-action/blob/main/docs/migration-guide.md) - Step-by-step upgrade instructions\r\n- [Examples](https://github.com/anthropics/claude-code-action/tree/main/examples) - Ready-to-use workflow templates\r\n- [Documentation](https://github.com/anthropics/claude-code-action#readme) - Complete setup and configuration guide\r\n\r\n## \ud83d\ude4f Thank You\r\n\r\nThank you to our beta users for your invaluable feedback that shaped this release. We're excited to see what you'll build with Claude Code GitHub Action v1.0!\r\n",
+      "summary": "# \ud83c\udf89 Claude Code GitHub Action v1.0 - Now Generally Available! We're excited to announce the v1.0 release of Claude Code GitHub Action! This major release brings significant improvements in simplicity, flexibility, and power to AI-assisted development workflows.",
+      "version": "1",
+      "category": "deprecation",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "claude-code-action",
+        "sonnet"
+      ],
+      "uid": "251f0b5df94b4480"
+    },
+    {
+      "title": "Release 2025.8.4",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2025.8.4",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2025-08-05T09:16:01+00:00",
+      "body": "# Release : v2025.8.4\n\n## Updated packages\n- @modelcontextprotocol/server-everything@2025.8.4\n- @modelcontextprotocol/server-memory@2025.8.4\n- mcp-server-time@2025.8.4\n",
+      "summary": "# Release : v2025.8.4 ## Updated packages - @modelcontextprotocol/server-everything@2025.8.4 - @modelcontextprotocol/server-memory@2025.8.4 - mcp-server-time@2025.8.4",
+      "version": "2025.8.4",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "0cd793450241959d"
+    },
+    {
+      "title": "Release 2025.7.1",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2025.7.1",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2025-07-01T18:32:42+00:00",
+      "body": "# Release : v2025.7.1\n\n## Updated packages\n- @modelcontextprotocol/server-everything@2025.7.1\n- @modelcontextprotocol/server-filesystem@2025.7.1\n- @modelcontextprotocol/server-sequential-thinking@2025.7.1\n- mcp-server-time@2025.7.1\n- mcp-server-git@2025.7.1\n",
+      "summary": "# Release : v2025.7.1 ## Updated packages - @modelcontextprotocol/server-everything@2025.7.1 - @modelcontextprotocol/server-filesystem@2025.7.1 - @modelcontextprotocol/server-sequential-thinking@2025.7.1 - mcp-server-time@2025.7.1 - mcp-server-git@2025.7.1",
+      "version": "2025.7.1",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "30d23594f4527477"
+    },
+    {
+      "title": "Release 2025.4.24",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2025.4.24",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2025-04-25T08:32:12+00:00",
+      "body": "# Release : v2025.4.24\n\n## Updated packages\n- @modelcontextprotocol/server-slack@2025.4.24\n- @modelcontextprotocol/server-everything@2025.4.24\n- @modelcontextprotocol/server-memory@2025.4.24\n- @modelcontextprotocol/server-gitlab@2025.4.24\n- @modelcontextprotocol/server-redis@2025.4.24\n- mcp-server-sqlite@2025.4.24\n",
+      "summary": "# Release : v2025.4.24 ## Updated packages - @modelcontextprotocol/server-slack@2025.4.24 - @modelcontextprotocol/server-everything@2025.4.24 - @modelcontextprotocol/server-memory@2025.4.24 - @modelcontextprotocol/server-gitlab@2025.4.24 - @modelcontextprotocol/server-redis@2025.\u2026",
+      "version": "2025.4.24",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "c27440cbaa59e227"
+    }
+  ]
+}

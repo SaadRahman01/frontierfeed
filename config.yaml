@@ -1,0 +1,72 @@
+# Every source below is free and needs no API key.
+# Add or remove entries here rather than editing code.
+
+keep_items: 300
+
+sources:
+
+  # Fastest signal that a Claude Code build shipped. The registry publishes a
+  # version -> timestamp map as plain JSON, usually before the changelog page
+  # updates.
+  npm:
+    enabled: true
+    recent_versions: 15
+    packages:
+      - "@anthropic-ai/claude-code"
+
+  # GITHUB_TOKEN is provided free inside Actions and raises the rate limit
+  # from 60/hr to 5000/hr. Works without one, just closer to the ceiling.
+  github_releases:
+    enabled: true
+    per_repo: 10
+    repos:
+      - anthropics/anthropic-sdk-python
+      - anthropics/anthropic-sdk-typescript
+      - anthropics/claude-code-action
+      - modelcontextprotocol/servers
+
+  rss:
+    enabled: true
+    feeds:
+      # Anthropic publishes a native feed for this one.
+      - name: claude-code-changelog
+        url: https://docs.claude.com/en/release-notes/claude-code.rss
+        tags: [claude-code, official]
+        limit: 20
+
+      # The news page and engineering blog have no official feed as of
+      # August 2026, so these are community-regenerated mirrors. Replace them
+      # with the official URLs the moment Anthropic ships one — that is the
+      # entire reason each feed is a config line and not code.
+      - name: anthropic-news
+        url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml
+        tags: [official, news]
+        limit: 25
+
+      - name: anthropic-engineering
+        url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml
+        tags: [official, engineering]
+        limit: 15
+
+      - name: claude-blog
+        url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml
+        tags: [official, product]
+        limit: 20
+
+  # Community signal: outages, pricing reactions, third-party writeups that
+  # never reach an official feed. Raise min_points if it gets noisy.
+  hackernews:
+    enabled: true
+    min_points: 40
+    per_query: 20
+    queries:
+      - Anthropic
+      - Claude Code
+      - Claude Opus
+
+  arxiv:
+    enabled: true
+    per_query: 10
+    queries:
+      - 'all:"Anthropic" AND cat:cs.CL'
+      - 'all:"constitutional AI"'

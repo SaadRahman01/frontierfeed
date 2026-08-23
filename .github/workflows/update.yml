@@ -1,0 +1,57 @@
+name: Update feed
+
+on:
+  schedule:
+    # Hourly. GitHub delays scheduled runs under load, so never assume exact
+    # timing. Because this job commits, the repo stays active and GitHub will
+    # not auto-disable the schedule after 60 days of inactivity.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "config.yaml"
+      - "src/**"
+      - ".github/workflows/update.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch and render
+        env:
+          # Free, provided by Actions. Raises the GitHub API rate limit.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Entirely optional. Leave this secret unset and the feed uses
+          # rule-based summaries, which costs nothing. Set it only if you want
+          # AI-written blurbs and are happy to pay for your own tokens.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m src.main
+
+      - name: Commit changes
+        run: |
+          git config user.name  "frontierfeed-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs
+          if git diff --staged --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "feed: update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
