@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 24 Aug 2026 17:49:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 19:03:30 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</title>
@@ -14,6 +14,22 @@
 <pubDate>Mon, 24 Aug 2026 15:58:22 +0000</pubDate>
 <category>claude-code</category>
 <description>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</description>
+</item>
+<item>
+<title>Why is Anthropic&#x27;s public writing style so unlike Claude&#x27;s?</title>
+<link>https://cmart.blog/claude-writing/</link>
+<guid isPermaLink="false">frontierfeed:58581e14bcfdafe9</guid>
+<pubDate>Mon, 24 Aug 2026 03:32:42 +0000</pubDate>
+<category>note</category>
+<description>68 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49414934</description>
+</item>
+<item>
+<title>Anthropic&#x27;s best AI model struggles to attract users as cheaper tools thrive</title>
+<link>https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245</link>
+<guid isPermaLink="false">frontierfeed:c8fb2c7f7cdc021c</guid>
+<pubDate>Sun, 23 Aug 2026 18:16:37 +0000</pubDate>
+<category>note</category>
+<description>745 points, 651 comments. Discussion: https://news.ycombinator.com/item?id=49411102</description>
 </item>
 <item>
 <title>Run Claude Code sessions on your own compute</title>
@@ -790,22 +806,6 @@
 <pubDate>Fri, 07 Aug 2026 17:10:51 +0000</pubDate>
 <category>deprecation</category>
 <description>## 0.121.0 (2026-08-07) Full Changelog: [v0.120.2...v0.121.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.2...v0.121.0) ### Features * **api:** add `mid-conversation-tool-changes-2026-07-01` beta ([c7d1531](https://github.com/anthropics/anthropic-sdk-python/…</description>
-</item>
-<item>
-<title>Anthropic CEO reportedly worried new hires only care about money</title>
-<link>https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html</link>
-<guid isPermaLink="false">frontierfeed:b651d8b1199993e5</guid>
-<pubDate>Fri, 07 Aug 2026 05:15:27 +0000</pubDate>
-<category>note</category>
-<description>65 points, 83 comments. Discussion: https://news.ycombinator.com/item?id=49206115</description>
-</item>
-<item>
-<title>Working at the frontier: How Hebbia builds AI for financial diligence that can&#x27;t miss a detail</title>
-<link>https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail</link>
-<guid isPermaLink="false">frontierfeed:e52114accf158484</guid>
-<pubDate>Thu, 06 Aug 2026 13:23:08 +0000</pubDate>
-<category>note</category>
-<description>Working at the frontier: How Hebbia builds AI for financial diligence that can&#x27;t miss a detail</description>
 </item>
 </channel>
 </rss>

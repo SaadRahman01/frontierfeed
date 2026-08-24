@@ -17,6 +17,36 @@
       "uid": "e827e70e8f2157e7"
     },
     {
+      "title": "Why is Anthropic's public writing style so unlike Claude's?",
+      "url": "https://cmart.blog/claude-writing/",
+      "source": "hackernews",
+      "published": "2026-08-24T03:32:42+00:00",
+      "body": "68 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49414934",
+      "summary": "68 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49414934",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "58581e14bcfdafe9"
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "source": "hackernews",
+      "published": "2026-08-23T18:16:37+00:00",
+      "body": "745 points, 651 comments. Discussion: https://news.ycombinator.com/item?id=49411102",
+      "summary": "745 points, 651 comments. Discussion: https://news.ycombinator.com/item?id=49411102",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "c8fb2c7f7cdc021c"
+    },
+    {
       "title": "Run Claude Code sessions on your own compute",
       "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
       "source": "claude-blog",
