@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 24 Aug 2026 15:03:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 15:58:34 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</title>
+<link>https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep</link>
+<guid isPermaLink="false">frontierfeed:e827e70e8f2157e7</guid>
+<pubDate>Mon, 24 Aug 2026 15:58:22 +0000</pubDate>
+<category>claude-code</category>
+<description>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</description>
+</item>
 <item>
 <title>Run Claude Code sessions on your own compute</title>
 <link>https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</link>
@@ -798,14 +806,6 @@
 <pubDate>Thu, 06 Aug 2026 13:23:08 +0000</pubDate>
 <category>note</category>
 <description>Working at the frontier: How Hebbia builds AI for financial diligence that can&#x27;t miss a detail</description>
-</item>
-<item>
-<title>Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work</title>
-<link>https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work</link>
-<guid isPermaLink="false">frontierfeed:d7411d0641d0fe83</guid>
-<pubDate>Thu, 06 Aug 2026 13:23:08 +0000</pubDate>
-<category>note</category>
-<description>Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work</description>
 </item>
 </channel>
 </rss>

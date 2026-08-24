@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
+      "url": "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
+      "source": "claude-blog",
+      "published": "2026-08-24T15:58:22.915307+00:00",
+      "body": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
+      "summary": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "e827e70e8f2157e7"
+    },
+    {
       "title": "Run Claude Code sessions on your own compute",
       "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
       "source": "claude-blog",
