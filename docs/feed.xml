@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 24 Aug 2026 22:47:03 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 23:40:27 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>@anthropic-ai/claude-code 2.1.243 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.243</link>
+<guid isPermaLink="false">frontierfeed:2fd0f84ea6177ca2</guid>
+<pubDate>Mon, 24 Aug 2026 23:10:45 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.243 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>A Claude Code skill that recovers export-blocked Kindle highlights</title>
 <link>https://github.com/l3a0/claude-plugins</link>
@@ -798,14 +806,6 @@
 <pubDate>Sun, 09 Aug 2026 13:03:49 +0000</pubDate>
 <category>note</category>
 <description>55 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=49231022</description>
-</item>
-<item>
-<title>70% of AI revenue comes from OpenAI and Anthropic [video]</title>
-<link>https://www.youtube.com/watch?v=68X8yEatepQ</link>
-<guid isPermaLink="false">frontierfeed:35a038ff4d1e5341</guid>
-<pubDate>Sun, 09 Aug 2026 11:56:16 +0000</pubDate>
-<category>note</category>
-<description>76 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=49230605</description>
 </item>
 </channel>
 </rss>

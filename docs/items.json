@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-24T22:47:03.910182+00:00",
-  "count": 296,
+  "generated": "2026-08-24T23:40:27.454127+00:00",
+  "count": 297,
   "items": [
+    {
+      "title": "@anthropic-ai/claude-code 2.1.243 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.243",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-08-24T23:10:45.498000+00:00",
+      "body": "Version 2.1.243 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.243 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.243",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "2fd0f84ea6177ca2"
+    },
     {
       "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
       "url": "https://github.com/l3a0/claude-plugins",
