@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-24T19:03:30.191345+00:00",
-  "count": 292,
+  "generated": "2026-08-24T19:47:58.495200+00:00",
+  "count": 294,
   "items": [
+    {
+      "title": "@anthropic-ai/claude-code 2.1.242 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.242",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-08-24T19:16:14.767000+00:00",
+      "body": "Version 2.1.242 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.242 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.242",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "8f314fddaf59c308"
+    },
     {
       "title": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
       "url": "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
@@ -19,6 +35,21 @@
         "product"
       ],
       "uid": "e827e70e8f2157e7"
+    },
+    {
+      "title": "Anthropic Claude and API service outages",
+      "url": "https://status.claude.com/uptime",
+      "source": "hackernews",
+      "published": "2026-08-24T06:32:28+00:00",
+      "body": "73 points, 60 comments. Discussion: https://news.ycombinator.com/item?id=49415907",
+      "summary": "73 points, 60 comments. Discussion: https://news.ycombinator.com/item?id=49415907",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "c2c164e4f53d9b3d"
     },
     {
       "title": "Why is Anthropic's public writing style so unlike Claude's?",

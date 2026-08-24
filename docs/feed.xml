@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 24 Aug 2026 19:03:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 19:47:58 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>@anthropic-ai/claude-code 2.1.242 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.242</link>
+<guid isPermaLink="false">frontierfeed:8f314fddaf59c308</guid>
+<pubDate>Mon, 24 Aug 2026 19:16:14 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.242 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</title>
 <link>https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep</link>
@@ -14,6 +22,14 @@
 <pubDate>Mon, 24 Aug 2026 15:58:22 +0000</pubDate>
 <category>claude-code</category>
 <description>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</description>
+</item>
+<item>
+<title>Anthropic Claude and API service outages</title>
+<link>https://status.claude.com/uptime</link>
+<guid isPermaLink="false">frontierfeed:c2c164e4f53d9b3d</guid>
+<pubDate>Mon, 24 Aug 2026 06:32:28 +0000</pubDate>
+<category>api</category>
+<description>73 points, 60 comments. Discussion: https://news.ycombinator.com/item?id=49415907</description>
 </item>
 <item>
 <title>Why is Anthropic&#x27;s public writing style so unlike Claude&#x27;s?</title>
@@ -790,22 +806,6 @@
 <pubDate>Sat, 08 Aug 2026 15:34:49 +0000</pubDate>
 <category>claude-code</category>
 <description>173 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=49222824</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.226 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.226</link>
-<guid isPermaLink="false">frontierfeed:817132682b6a3dcf</guid>
-<pubDate>Sat, 08 Aug 2026 01:53:22 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.226 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v0.121.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.121.0</link>
-<guid isPermaLink="false">frontierfeed:ebb4afcdc7108157</guid>
-<pubDate>Fri, 07 Aug 2026 17:10:51 +0000</pubDate>
-<category>deprecation</category>
-<description>## 0.121.0 (2026-08-07) Full Changelog: [v0.120.2...v0.121.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.2...v0.121.0) ### Features * **api:** add `mid-conversation-tool-changes-2026-07-01` beta ([c7d1531](https://github.com/anthropics/anthropic-sdk-python/…</description>
 </item>
 </channel>
 </rss>
