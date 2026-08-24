@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 24 Aug 2026 21:46:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 22:47:03 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Claude Code skill that recovers export-blocked Kindle highlights</title>
+<link>https://github.com/l3a0/claude-plugins</link>
+<guid isPermaLink="false">frontierfeed:4246a9c40b541d8d</guid>
+<pubDate>Mon, 24 Aug 2026 19:32:18 +0000</pubDate>
+<category>claude-code</category>
+<description>43 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=49424758</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.242 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.242</link>
@@ -46,6 +54,14 @@
 <pubDate>Sun, 23 Aug 2026 18:16:37 +0000</pubDate>
 <category>note</category>
 <description>745 points, 651 comments. Discussion: https://news.ycombinator.com/item?id=49411102</description>
+</item>
+<item>
+<title>GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost</title>
+<link>https://reinvently.co.uk/tools/ed-o-meter/</link>
+<guid isPermaLink="false">frontierfeed:f861dec05f200b24</guid>
+<pubDate>Sun, 23 Aug 2026 16:24:21 +0000</pubDate>
+<category>pricing</category>
+<description>236 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=49410097</description>
 </item>
 <item>
 <title>Run Claude Code sessions on your own compute</title>
@@ -790,22 +806,6 @@
 <pubDate>Sun, 09 Aug 2026 11:56:16 +0000</pubDate>
 <category>note</category>
 <description>76 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=49230605</description>
-</item>
-<item>
-<title>Can Open-Weight Models Compete on Financial Text Comprehension?</title>
-<link>https://arxiv.org/abs/2608.08634v1</link>
-<guid isPermaLink="false">frontierfeed:f3885ca9db0aa616</guid>
-<pubDate>Sun, 09 Aug 2026 10:51:52 +0000</pubDate>
-<category>research</category>
-<description>Open-weight language models from Chinese AI labs caught up on benchmarks relative to proprietary frontier models in recent months. Yet their reliability on real-world financial tasks remains largely untested.</description>
-</item>
-<item>
-<title>Message your other Claude Code sessions</title>
-<link>https://code.claude.com/docs/en/cross-session-messaging</link>
-<guid isPermaLink="false">frontierfeed:1f0b469c7dc51d58</guid>
-<pubDate>Sat, 08 Aug 2026 15:34:49 +0000</pubDate>
-<category>claude-code</category>
-<description>173 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=49222824</description>
 </item>
 </channel>
 </rss>

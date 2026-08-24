@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+      "url": "https://github.com/l3a0/claude-plugins",
+      "source": "hackernews",
+      "published": "2026-08-24T19:32:18+00:00",
+      "body": "43 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=49424758",
+      "summary": "43 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=49424758",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community",
+        "skills"
+      ],
+      "uid": "4246a9c40b541d8d"
+    },
+    {
       "title": "@anthropic-ai/claude-code 2.1.242 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.242",
       "source": "npm:@anthropic-ai/claude-code",
@@ -76,6 +92,21 @@
         "community"
       ],
       "uid": "c8fb2c7f7cdc021c"
+    },
+    {
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models \u2013 for 1/5 the cost",
+      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+      "source": "hackernews",
+      "published": "2026-08-23T16:24:21+00:00",
+      "body": "236 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=49410097",
+      "summary": "236 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=49410097",
+      "version": "",
+      "category": "pricing",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "f861dec05f200b24"
     },
     {
       "title": "Run Claude Code sessions on your own compute",
