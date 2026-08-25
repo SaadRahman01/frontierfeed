@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-24T23:40:27.454127+00:00",
-  "count": 297,
+  "generated": "2026-08-25T01:55:43.135639+00:00",
+  "count": 298,
   "items": [
+    {
+      "title": "v1.0.202",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.202",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-24T23:43:03+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.201...v1.0.202",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.201...v1.0.202",
+      "version": "1.0.202",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "45655f76df53e19c"
+    },
     {
       "title": "@anthropic-ai/claude-code 2.1.243 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.243",

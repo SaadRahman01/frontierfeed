@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 24 Aug 2026 23:40:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 01:55:43 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>v1.0.202</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.202</link>
+<guid isPermaLink="false">frontierfeed:45655f76df53e19c</guid>
+<pubDate>Mon, 24 Aug 2026 23:43:03 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.201...v1.0.202</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.243 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.243</link>
@@ -798,14 +806,6 @@
 <pubDate>Mon, 10 Aug 2026 03:50:00 +0000</pubDate>
 <category>claude-code</category>
 <description>291 points, 313 comments. Discussion: https://news.ycombinator.com/item?id=49239021</description>
-</item>
-<item>
-<title>Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta</title>
-<link>https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html</link>
-<guid isPermaLink="false">frontierfeed:f54c2a3bb866bab2</guid>
-<pubDate>Sun, 09 Aug 2026 13:03:49 +0000</pubDate>
-<category>note</category>
-<description>55 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=49231022</description>
 </item>
 </channel>
 </rss>
