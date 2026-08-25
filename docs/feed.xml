@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 25 Aug 2026 21:46:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 22:48:19 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>v1.0.206</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.206</link>
+<guid isPermaLink="false">frontierfeed:7b044e99e90ecaee</guid>
+<pubDate>Tue, 25 Aug 2026 22:33:54 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed * chore: add .gitattributes to normalize line endings by @MohammedAlkindi in https://github.com/anthropics/claude-code-action/pull/1708 * fix: use paths in delete_files prompt example by @WeAreResilience in https://github.com/anthropics/claude-code-action/pull/1…</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.246 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.246</link>
@@ -798,14 +806,6 @@
 <pubDate>Thu, 13 Aug 2026 15:15:09 +0000</pubDate>
 <category>research</category>
 <description>Artificial Intelligence (AI) safety systems combine character shaping (e.g., Reinforcement Learning from Human Feedback [RLHF], Constitutional AI), which modifies behavioral distributions at training time, with rule enforcement (e.g., output filters, safety classifiers), which bl…</description>
-</item>
-<item>
-<title>The Conceptual Reasoning Index</title>
-<link>https://alignment.anthropic.com/2026/conceptual-reasoning-index/</link>
-<guid isPermaLink="false">frontierfeed:29e69b6bfbbfaef2</guid>
-<pubDate>Thu, 13 Aug 2026 13:48:14 +0000</pubDate>
-<category>note</category>
-<description>78 points, 54 comments. Discussion: https://news.ycombinator.com/item?id=49285909</description>
 </item>
 </channel>
 </rss>

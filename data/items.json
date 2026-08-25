@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "v1.0.206",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.206",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-25T22:33:54+00:00",
+      "body": "## What's Changed\n* chore: add .gitattributes to normalize line endings by @MohammedAlkindi in https://github.com/anthropics/claude-code-action/pull/1708\n* fix: use paths in delete_files prompt example by @WeAreResilience in https://github.com/anthropics/claude-code-action/pull/1702\n* fix: allow parentheses in valid branch names by @YauheniPo in https://github.com/anthropics/claude-code-action/pull/1710\n* fix: bound download_job_log against a stalled log fetch by @shoemoney in https://github.com/anthropics/claude-code-action/pull/1719\n* fix: encode branch names in GitHub links by @Abdullah-Builds in https://github.com/anthropics/claude-code-action/pull/1713\n\n## New Contributors\n* @MohammedAlkindi made their first contribution in https://github.com/anthropics/claude-code-action/pull/1708\n* @YauheniPo made their first contribution in https://github.com/anthropics/claude-code-action/pull/1710\n* @Abdullah-Builds made their first contribution in https://github.com/anthropics/claude-code-action/pull/1713\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.205...v1.0.206",
+      "summary": "## What's Changed * chore: add .gitattributes to normalize line endings by @MohammedAlkindi in https://github.com/anthropics/claude-code-action/pull/1708 * fix: use paths in delete_files prompt example by @WeAreResilience in https://github.com/anthropics/claude-code-action/pull/1\u2026",
+      "version": "1.0.206",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "7b044e99e90ecaee"
+    },
+    {
       "title": "@anthropic-ai/claude-code 2.1.246 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.246",
       "source": "npm:@anthropic-ai/claude-code",
@@ -4527,21 +4543,6 @@
         "community"
       ],
       "uid": "0ad8627cf9a83894"
-    },
-    {
-      "title": "Show HN: adamsreview \u2013 better multi-agent PR reviews for Claude Code",
-      "url": "https://github.com/adamjgmiller/adamsreview",
-      "source": "hackernews",
-      "published": "2026-05-11T02:06:29+00:00",
-      "body": "85 points, 54 comments. Discussion: https://news.ycombinator.com/item?id=48090276",
-      "summary": "85 points, 54 comments. Discussion: https://news.ycombinator.com/item?id=48090276",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "47ede431c36f4c67"
     }
   ]
 }
