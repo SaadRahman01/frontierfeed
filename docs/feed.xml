@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 25 Aug 2026 04:56:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 05:50:15 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>v1.0.205</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.205</link>
+<guid isPermaLink="false">frontierfeed:691b3e9a837d6770</guid>
+<pubDate>Tue, 25 Aug 2026 05:22:32 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.203...v1.0.205</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.245 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.245</link>
@@ -798,14 +806,6 @@
 <pubDate>Wed, 12 Aug 2026 07:51:20 +0000</pubDate>
 <category>note</category>
 <description>162 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49269090</description>
-</item>
-<item>
-<title>OpenAI and Anthropic hidden CoT leaks when given deep_think tool.</title>
-<link>https://twitter.com/_can1357/status/2087228354399265125</link>
-<guid isPermaLink="false">frontierfeed:70a61150a66f3d2b</guid>
-<pubDate>Tue, 11 Aug 2026 22:06:14 +0000</pubDate>
-<category>note</category>
-<description>56 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=49265135</description>
 </item>
 </channel>
 </rss>

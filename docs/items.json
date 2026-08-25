@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-25T04:56:51.710201+00:00",
+  "generated": "2026-08-25T05:50:15.940147+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.205",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.205",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-25T05:22:32+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.203...v1.0.205",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.203...v1.0.205",
+      "version": "1.0.205",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "691b3e9a837d6770"
+    },
     {
       "title": "@anthropic-ai/claude-code 2.1.245 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.245",
@@ -4537,23 +4553,6 @@
         "mcp"
       ],
       "uid": "d56335901df5c36d"
-    },
-    {
-      "title": "Claude Code GitHub Action v1.0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2025-08-26T17:01:10+00:00",
-      "body": "# \ud83c\udf89 Claude Code GitHub Action v1.0 - Now Generally Available!\r\n\r\nWe're excited to announce the v1.0 release of Claude Code GitHub Action! This major release brings significant improvements in simplicity, flexibility, and power to AI-assisted development workflows.\r\n\r\n## \ud83d\ude80 What's New in v1.0\r\n\r\n### Simplified Configuration\r\n- **Automatic mode detection** - No more manual `mode` configuration. The action intelligently determines whether to run in interactive or automation mode based on your setup\r\n- **Unified interface** - All prompts now go through a single `prompt` input, and all CLI options through `claude_args`\r\n- **Better SDK alignment** - Closer integration with the Claude Code CLI for a consistent experience\r\n\r\n### More Powerful & Flexible\r\n- Direct access to all Claude Code CLI capabilities through `claude_args`\r\n- Support for custom system prompts, tool configurations, and model selection\r\n- Enhanced compatibility with AWS Bedrock and Google Vertex AI\r\n\r\n## \u26a0\ufe0f Breaking Changes\r\n\r\nThis release includes breaking changes from v0.x. Key deprecated inputs have been replaced with a cleaner, more intuitive API:\r\n- `mode`, `direct_prompt`, `override_prompt` \u2192 unified `prompt` input\r\n- `custom_instructions`, `model`, `allowed_tools`, `mcp_config` \u2192 `claude_args` with CLI format\r\n- Other deprecated: `disallowed_tools`, `anthropic_model`, `trigger_phrase`, `timeout_minutes`\r\n\r\n**\ud83d\udcda Please review our [Migration Guide](https://github.com/anthropics/claude-code-action/blob/main/docs/migration-guide.md) for detailed upgrade instructions and examples.**\r\n\r\n## \ud83d\udca1 New Use Cases & Examples\r\n\r\nExplore the expanded possibilities with v1.0! We've created comprehensive examples showcasing various workflows:\r\n\r\n- **Automated PR Reviews** - Intelligent code review on every pull request\r\n- **CI Failure Fixes** - Automatically diagnose and fix failing tests\r\n- **Issue Triage** - Smart categorization and response to new issues\r\n- **Documentation Generation** - Keep docs in sync with code changes\r\n- **Security Scanning** - Proactive vulnerability detection\r\n- **And many more!**\r\n\r\n**\ud83d\udd27 Check out all examples at [github.com/anthropics/claude-code-action/tree/main/examples](https://github.com/anthropics/claude-code-action/tree/main/examples)**\r\n\r\n## \ud83c\udfc3 Quick Start\r\n\r\n```yaml\r\n# Interactive mode - responds to @claude mentions\r\n- uses: anthropics/claude-code-action@v1\r\n  with:\r\n    anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}\r\n\r\n# Automation mode - runs immediately with prompt\r\n- uses: anthropics/claude-code-action@v1\r\n  with:\r\n    prompt: \"Review this PR for security issues\"\r\n    anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}\r\n    claude_args: |\r\n      --model claude-4-0-sonnet-20250805\r\n      --max-turns 10\r\n```\r\n\r\n## \ud83d\udcd6 Resources\r\n\r\n- [Migration Guide](https://github.com/anthropics/claude-code-action/blob/main/docs/migration-guide.md) - Step-by-step upgrade instructions\r\n- [Examples](https://github.com/anthropics/claude-code-action/tree/main/examples) - Ready-to-use workflow templates\r\n- [Documentation](https://github.com/anthropics/claude-code-action#readme) - Complete setup and configuration guide\r\n\r\n## \ud83d\ude4f Thank You\r\n\r\nThank you to our beta users for your invaluable feedback that shaped this release. We're excited to see what you'll build with Claude Code GitHub Action v1.0!\r\n",
-      "summary": "# \ud83c\udf89 Claude Code GitHub Action v1.0 - Now Generally Available! We're excited to announce the v1.0 release of Claude Code GitHub Action! This major release brings significant improvements in simplicity, flexibility, and power to AI-assisted development workflows.",
-      "version": "1",
-      "category": "deprecation",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "claude-code-action",
-        "sonnet"
-      ],
-      "uid": "251f0b5df94b4480"
     }
   ]
 }
