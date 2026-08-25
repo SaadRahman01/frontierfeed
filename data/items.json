@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "@anthropic-ai/claude-code 2.1.246 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.246",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-08-25T19:17:34.421000+00:00",
+      "body": "Version 2.1.246 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.246 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.246",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "10ebc77791480619"
+    },
+    {
       "title": "Claude's memory works everywhere, and you decide what's in it",
       "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
       "source": "claude-blog",
@@ -4526,22 +4542,6 @@
         "community"
       ],
       "uid": "47ede431c36f4c67"
-    },
-    {
-      "title": "Alignment as Jurisprudence",
-      "url": "https://arxiv.org/abs/2605.08416v1",
-      "source": "arxiv",
-      "published": "2026-05-08T19:22:11+00:00",
-      "body": "Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, share a fundamental structure. These seemingly distant fields both seek to predict and shape how decisions by powerful actors, in one case judges and in the other increasingly powerful artificial intelligences, will be made in the unknown future. And they use similar tools of the specification and interpretation of language to try to accomplish those goals. The great debates of jurisprudence, about what the law is and what it should be, can provide insight into alignment, and lessons from what does and does not work in alignment can help make progress in jurisprudence.\n  This essay puts the two fields directly into conversation. Drawing on leading accounts of jurisprudence, particularly Dworkin's principle-oriented interpretivism and Sunstein's positivist account of law as analogical reasoning, and on cutting-edge alignment approaches, namely Constitutional AI and case-based reasoning, it illustrates the value of a more sophisticated legally-inspired approach to the interplay of rules and cases in finetuning alignment and points to ways that AI can provide a better understanding of how the law works and how it can be improved by the introduction of AI. AI systems and the law should operate to empower people to act in the world, helping to expand their capabilities and the extent to which they are able to achieve their goals. As AI continues to improve in capacity, and as the constraints that legal theory places on human judges seem be coming undone, the conversation between these two fields will become increasingly essential and may help point to a better version of both.",
-      "summary": "Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, share a fundamental structure.",
-      "version": "",
-      "category": "research",
-      "impact": "feature",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "d13571885e46ef63"
     }
   ]
 }
