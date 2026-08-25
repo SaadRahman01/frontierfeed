@@ -2,62 +2,62 @@
   "http://export.arxiv.org/api/query?search_query=all%3A%22Anthropic%22+AND+cat%3Acs.CL&sortBy=submittedDate&sortOrder=descending&max_results=10": {
     "etag": null,
     "last_modified": null,
-    "seen": 1787658426.8368232
+    "seen": 1787663670.5180752
   },
   "http://export.arxiv.org/api/query?search_query=all%3A%22constitutional+AI%22&sortBy=submittedDate&sortOrder=descending&max_results=10": {
     "etag": null,
     "last_modified": null,
-    "seen": 1787658429.925285
+    "seen": 1787663673.866098
   },
   "https://api.github.com/repos/anthropics/anthropic-sdk-python/releases?per_page=10": {
-    "etag": "W/\"928a8a05e51c3a5db91caf9c7602314da0509e7b4fd8bcefe839e38dc3fea40a\"",
+    "etag": "W/\"d8e8823c0f5000e9ac7de89c764049af807f1f07690d0f86471be24cbefcea9e\"",
     "last_modified": null,
-    "seen": 1787658410.7268937
+    "seen": 1787663654.202195
   },
   "https://api.github.com/repos/anthropics/anthropic-sdk-typescript/releases?per_page=10": {
-    "etag": "W/\"c5f8f9655fd3250af527fcfd762beb66e9b8a30ac7557279b372241d702c1b74\"",
+    "etag": "W/\"e540dedda475547e102787fd8bbc03f43a69321331c86b40ed5d9e226c9ad20a\"",
     "last_modified": null,
-    "seen": 1787658412.0518188
+    "seen": 1787663655.5202835
   },
   "https://api.github.com/repos/anthropics/claude-code-action/releases?per_page=10": {
-    "etag": "W/\"760b9231578e91839e9c141a38f73fe467a567b465c172c770ebc22218ed9eff\"",
+    "etag": "W/\"47df3eae84b782b8dcda263daad480407327e4de843c98a81136258090f4b6d3\"",
     "last_modified": null,
-    "seen": 1787658413.4268503
+    "seen": 1787663656.8433695
   },
   "https://api.github.com/repos/modelcontextprotocol/servers/releases?per_page=10": {
-    "etag": "W/\"e54e194ad9c2f8e40e0fcc40bb56c233c088a3080cf99906ea8fddcc30b0b483\"",
+    "etag": "W/\"5ce5b8e7159bde7d93841bbb65567fe0dbf38e54b0f442987ad5a8ca51c9636d\"",
     "last_modified": null,
-    "seen": 1787658414.781472
+    "seen": 1787663658.1376822
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Anthropic&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1787658421.0672197
+    "seen": 1787663664.563801
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Claude+Code&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1787658422.3326845
+    "seen": 1787663665.8204954
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Claude+Opus&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1787658423.6084375
+    "seen": 1787663667.0775297
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml": {
-    "etag": "W/\"61c3b13ee7a8260aa788abd548eafed2960adc231bdfcebbce520764278ee5cc\"",
+    "etag": "W/\"bc5035020dbbcc365368f695cbb5e0bebb1afee837bf30993a1b3f5c05155a39\"",
     "last_modified": null,
-    "seen": 1787658418.640795
+    "seen": 1787663661.975318
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml": {
-    "etag": "W/\"8cb824dec5df51ffeeb60e1fcf72742bdaf0d6a7985af41d702cd153be4a4125\"",
+    "etag": "W/\"aef7747fd0b0540a5fc262641aebc86c9bf72b54c7c1ad99010cf9141942b3b1\"",
     "last_modified": null,
-    "seen": 1787658417.490466
+    "seen": 1787663660.814726
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml": {
-    "etag": "W/\"2635f55b5448454b404fa1d493e6f41c59072970ea86a685ac3674716d530314\"",
+    "etag": "W/\"df332407c9c961b9dd590c369e69e34ee677350efd489125667a79eda0514802\"",
     "last_modified": null,
-    "seen": 1787658419.6733925
+    "seen": 1787663663.1852028
   },
   "https://registry.npmjs.org/@anthropic-ai%2Fclaude-code": {
     "etag": "W/\"f47f42725196dec5f33306e7d964f0bb\"",
