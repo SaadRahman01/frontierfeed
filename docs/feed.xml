@@ -5,8 +5,24 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 25 Aug 2026 03:15:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 04:04:39 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>v1.0.204</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.204</link>
+<guid isPermaLink="false">frontierfeed:2bb6703a34ecc105</guid>
+<pubDate>Tue, 25 Aug 2026 03:44:58 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.204</description>
+</item>
+<item>
+<title>v1.0.203</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.203</link>
+<guid isPermaLink="false">frontierfeed:341a666866ada0dc</guid>
+<pubDate>Tue, 25 Aug 2026 03:44:25 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.203</description>
+</item>
 <item>
 <title>v1.0.202</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.202</link>
@@ -790,22 +806,6 @@
 <pubDate>Tue, 11 Aug 2026 17:45:45 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.228 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Agent Safety Should Be a Runtime Contract</title>
-<link>https://arxiv.org/abs/2608.11274v1</link>
-<guid isPermaLink="false">frontierfeed:9c93f55465cfb952</guid>
-<pubDate>Tue, 11 Aug 2026 08:01:05 +0000</pubDate>
-<category>research</category>
-<description>The dominant paradigm treats AI safety as a property to be instilled during model training via RLHF, DPO, or Constitutional AI. We argue this is structurally insufficient for autonomous agents that execute code, mutate files, send messages, and modify databases.</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.227 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.227</link>
-<guid isPermaLink="false">frontierfeed:b2bc12cff9562b48</guid>
-<pubDate>Mon, 10 Aug 2026 20:56:57 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.227 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

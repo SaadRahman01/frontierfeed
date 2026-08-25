@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-25T03:15:15.969779+00:00",
+  "generated": "2026-08-25T04:04:39.882353+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.204",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.204",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-25T03:44:58+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.204",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.204",
+      "version": "1.0.204",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "2bb6703a34ecc105"
+    },
+    {
+      "title": "v1.0.203",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.203",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-25T03:44:25+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.203",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.203",
+      "version": "1.0.203",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "341a666866ada0dc"
+    },
     {
       "title": "v1.0.202",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.202",
@@ -4523,40 +4555,6 @@
         "mcp"
       ],
       "uid": "0cd793450241959d"
-    },
-    {
-      "title": "Release 2025.7.1",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2025.7.1",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2025-07-01T18:32:42+00:00",
-      "body": "# Release : v2025.7.1\n\n## Updated packages\n- @modelcontextprotocol/server-everything@2025.7.1\n- @modelcontextprotocol/server-filesystem@2025.7.1\n- @modelcontextprotocol/server-sequential-thinking@2025.7.1\n- mcp-server-time@2025.7.1\n- mcp-server-git@2025.7.1\n",
-      "summary": "# Release : v2025.7.1 ## Updated packages - @modelcontextprotocol/server-everything@2025.7.1 - @modelcontextprotocol/server-filesystem@2025.7.1 - @modelcontextprotocol/server-sequential-thinking@2025.7.1 - mcp-server-time@2025.7.1 - mcp-server-git@2025.7.1",
-      "version": "2025.7.1",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "servers",
-        "mcp"
-      ],
-      "uid": "30d23594f4527477"
-    },
-    {
-      "title": "Release 2025.4.24",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2025.4.24",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2025-04-25T08:32:12+00:00",
-      "body": "# Release : v2025.4.24\n\n## Updated packages\n- @modelcontextprotocol/server-slack@2025.4.24\n- @modelcontextprotocol/server-everything@2025.4.24\n- @modelcontextprotocol/server-memory@2025.4.24\n- @modelcontextprotocol/server-gitlab@2025.4.24\n- @modelcontextprotocol/server-redis@2025.4.24\n- mcp-server-sqlite@2025.4.24\n",
-      "summary": "# Release : v2025.4.24 ## Updated packages - @modelcontextprotocol/server-slack@2025.4.24 - @modelcontextprotocol/server-everything@2025.4.24 - @modelcontextprotocol/server-memory@2025.4.24 - @modelcontextprotocol/server-gitlab@2025.4.24 - @modelcontextprotocol/server-redis@2025.\u2026",
-      "version": "2025.4.24",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "servers",
-        "mcp"
-      ],
-      "uid": "c27440cbaa59e227"
     }
   ]
 }
