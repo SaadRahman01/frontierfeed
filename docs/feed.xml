@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 25 Aug 2026 08:01:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 09:02:53 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>v1.0.205</title>
@@ -22,6 +22,14 @@
 <pubDate>Tue, 25 Aug 2026 04:45:52 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.245 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Show HN: Screen memory without screenshots, just text to Markdown</title>
+<link>https://github.com/dragthelake/ambient-context</link>
+<guid isPermaLink="false">frontierfeed:0d14373e4f2630a4</guid>
+<pubDate>Tue, 25 Aug 2026 04:33:24 +0000</pubDate>
+<category>note</category>
+<description>43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49429095</description>
 </item>
 <item>
 <title>v1.0.204</title>
@@ -798,14 +806,6 @@
 <pubDate>Wed, 12 Aug 2026 14:25:05 +0000</pubDate>
 <category>research</category>
 <description>The increasing deployment of autonomous, agentic AI systems challenges traditional accountability mechanisms. Existing research predominantly frames AI accountability gaps as barriers that can be overcome through better standards, transparency, and institutional reform.</description>
-</item>
-<item>
-<title>Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials</title>
-<link>https://discoveredmaterials.com/research/</link>
-<guid isPermaLink="false">frontierfeed:33b75dbbeaa3cde6</guid>
-<pubDate>Wed, 12 Aug 2026 07:51:20 +0000</pubDate>
-<category>note</category>
-<description>162 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49269090</description>
 </item>
 </channel>
 </rss>

@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-25T08:01:51.107353+00:00",
+  "generated": "2026-08-25T09:02:53.658363+00:00",
   "count": 300,
   "items": [
     {
@@ -35,6 +35,21 @@
         "npm"
       ],
       "uid": "d526efba0fd5fa7e"
+    },
+    {
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "url": "https://github.com/dragthelake/ambient-context",
+      "source": "hackernews",
+      "published": "2026-08-25T04:33:24+00:00",
+      "body": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49429095",
+      "summary": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49429095",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "0d14373e4f2630a4"
     },
     {
       "title": "v1.0.204",
@@ -4536,23 +4551,6 @@
         "mcp"
       ],
       "uid": "1dc36db0494fbb08"
-    },
-    {
-      "title": "Release 2025.9.25",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2025.9.25",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2025-09-25T21:26:20+00:00",
-      "body": "# Release : v2025.9.25\n\n## Updated packages\n- @modelcontextprotocol/server-everything@2025.9.25\n- @modelcontextprotocol/server-memory@2025.9.25\n- mcp-server-git@2025.9.25\n- mcp-server-time@2025.9.25\n",
-      "summary": "# Release : v2025.9.25 ## Updated packages - @modelcontextprotocol/server-everything@2025.9.25 - @modelcontextprotocol/server-memory@2025.9.25 - mcp-server-git@2025.9.25 - mcp-server-time@2025.9.25",
-      "version": "2025.9.25",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "servers",
-        "mcp"
-      ],
-      "uid": "d56335901df5c36d"
     }
   ]
 }
