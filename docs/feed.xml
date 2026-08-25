@@ -5,8 +5,24 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 25 Aug 2026 14:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 15:08:58 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</title>
+<link>https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</link>
+<guid isPermaLink="false">frontierfeed:d01b0db5afc6cee3</guid>
+<pubDate>Tue, 25 Aug 2026 15:08:48 +0000</pubDate>
+<category>note</category>
+<description>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</description>
+</item>
+<item>
+<title>Anthropic tells staff to work from home due to possible security team strike</title>
+<link>https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8</link>
+<guid isPermaLink="false">frontierfeed:20917208590b0baf</guid>
+<pubDate>Tue, 25 Aug 2026 14:00:27 +0000</pubDate>
+<category>note</category>
+<description>47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49434291</description>
+</item>
 <item>
 <title>v1.0.205</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.205</link>
@@ -790,22 +806,6 @@
 <pubDate>Thu, 13 Aug 2026 08:14:30 +0000</pubDate>
 <category>note</category>
 <description>121 points, 89 comments. Discussion: https://news.ycombinator.com/item?id=49283063</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.229 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.229</link>
-<guid isPermaLink="false">frontierfeed:0f0373dc68c5e244</guid>
-<pubDate>Wed, 12 Aug 2026 19:28:48 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.229 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>No One to Blame: A Framework of Constitutive AI Unaccountability</title>
-<link>https://arxiv.org/abs/2608.12104v2</link>
-<guid isPermaLink="false">frontierfeed:84d0275dad4cc856</guid>
-<pubDate>Wed, 12 Aug 2026 14:25:05 +0000</pubDate>
-<category>research</category>
-<description>The increasing deployment of autonomous, agentic AI systems challenges traditional accountability mechanisms. Existing research predominantly frames AI accountability gaps as barriers that can be overcome through better standards, transparency, and institutional reform.</description>
 </item>
 </channel>
 </rss>

@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
+      "url": "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner",
+      "source": "claude-blog",
+      "published": "2026-08-25T15:08:48.131949+00:00",
+      "body": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
+      "summary": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "d01b0db5afc6cee3"
+    },
+    {
+      "title": "Anthropic tells staff to work from home due to possible security team strike",
+      "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+      "source": "hackernews",
+      "published": "2026-08-25T14:00:27+00:00",
+      "body": "47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49434291",
+      "summary": "47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49434291",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "20917208590b0baf"
+    },
+    {
       "title": "v1.0.205",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.205",
       "source": "github:anthropics/claude-code-action",
@@ -4481,72 +4512,36 @@
       "uid": "d13571885e46ef63"
     },
     {
-      "title": "Release 2026.1.26",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2026.1.26",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2026-01-27T12:11:26+00:00",
-      "body": "# Release : v2026.1.26\n\n## Updated packages\n- @modelcontextprotocol/server-everything@2026.1.26\n- @modelcontextprotocol/server-memory@2026.1.26\n- mcp-server-time@2026.1.26\n",
-      "summary": "# Release : v2026.1.26 ## Updated packages - @modelcontextprotocol/server-everything@2026.1.26 - @modelcontextprotocol/server-memory@2026.1.26 - mcp-server-time@2026.1.26",
-      "version": "2026.1.26",
-      "category": "api",
-      "impact": "fix",
+      "title": "Claude Pro: Opus model will only be available if extra usage is enabled",
+      "url": "https://support.claude.com/en/articles/11940350-claude-code-model-configuration",
+      "source": "hackernews",
+      "published": "2026-04-27T22:13:17+00:00",
+      "body": "70 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=47928088",
+      "summary": "70 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=47928088",
+      "version": "",
+      "category": "note",
+      "impact": "info",
       "tags": [
-        "release",
-        "servers",
-        "mcp"
+        "community",
+        "opus"
       ],
-      "uid": "26678c3da1279f68"
+      "uid": "46ca5dcb8bccc9d7"
     },
     {
-      "title": "Release 2026.1.14",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2026.1.14",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2026-01-14T16:35:35+00:00",
-      "body": "# Release : v2026.1.14\n\n## Updated packages\n- @modelcontextprotocol/server-everything@2026.1.14\n- @modelcontextprotocol/server-filesystem@2026.1.14\n- mcp-server-git@2026.1.14\n",
-      "summary": "# Release : v2026.1.14 ## Updated packages - @modelcontextprotocol/server-everything@2026.1.14 - @modelcontextprotocol/server-filesystem@2026.1.14 - mcp-server-git@2026.1.14",
-      "version": "2026.1.14",
-      "category": "api",
-      "impact": "fix",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "source": "hackernews",
+      "published": "2026-04-19T10:36:29+00:00",
+      "body": "370 points, 218 comments. Discussion: https://news.ycombinator.com/item?id=47823270",
+      "summary": "370 points, 218 comments. Discussion: https://news.ycombinator.com/item?id=47823270",
+      "version": "",
+      "category": "note",
+      "impact": "info",
       "tags": [
-        "release",
-        "servers",
-        "mcp"
+        "community",
+        "opus"
       ],
-      "uid": "e336be7faf25159c"
-    },
-    {
-      "title": "Release 2025.12.18",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2025.12.18",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2025-12-18T16:33:28+00:00",
-      "body": "# Release : v2025.12.18\n\n## Updated packages\n- @modelcontextprotocol/server-sequential-thinking@2025.12.18\n- @modelcontextprotocol/server-everything@2025.12.18\n- @modelcontextprotocol/server-filesystem@2025.12.18\n- mcp-server-git@2025.12.18\n",
-      "summary": "# Release : v2025.12.18 ## Updated packages - @modelcontextprotocol/server-sequential-thinking@2025.12.18 - @modelcontextprotocol/server-everything@2025.12.18 - @modelcontextprotocol/server-filesystem@2025.12.18 - mcp-server-git@2025.12.18",
-      "version": "2025.12.18",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "servers",
-        "mcp"
-      ],
-      "uid": "cd696033ea9fd541"
-    },
-    {
-      "title": "Release 2025.11.25",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2025.11.25",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2025-11-25T19:03:57+00:00",
-      "body": "# Release : v2025.11.25\n\n## Updated packages\n- @modelcontextprotocol/server-sequential-thinking@2025.11.25\n- @modelcontextprotocol/server-everything@2025.11.25\n- @modelcontextprotocol/server-filesystem@2025.11.25\n- @modelcontextprotocol/server-memory@2025.11.25\n- mcp-server-git@2025.11.25\n",
-      "summary": "# Release : v2025.11.25 ## Updated packages - @modelcontextprotocol/server-sequential-thinking@2025.11.25 - @modelcontextprotocol/server-everything@2025.11.25 - @modelcontextprotocol/server-filesystem@2025.11.25 - @modelcontextprotocol/server-memory@2025.11.25 - mcp-server-git@20\u2026",
-      "version": "2025.11.25",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "servers",
-        "mcp"
-      ],
-      "uid": "1dc36db0494fbb08"
+      "uid": "9b1b9841c5d78189"
     }
   ]
 }
