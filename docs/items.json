@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-25T16:58:47.822137+00:00",
+  "generated": "2026-08-25T17:47:38.559233+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Claude's memory works everywhere, and you decide what's in it",
+      "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+      "source": "claude-blog",
+      "published": "2026-08-25T17:47:28.332426+00:00",
+      "body": "Claude's memory works everywhere, and you decide what's in it",
+      "summary": "Claude's memory works everywhere, and you decide what's in it",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "c789be5b1b6e81ce"
+    },
     {
       "title": "Funding better evaluations of AI\u2019s impact on wellbeing",
       "url": "https://www.anthropic.com/news/wellbeing-research-grants",
@@ -4530,22 +4546,6 @@
         "paper"
       ],
       "uid": "d13571885e46ef63"
-    },
-    {
-      "title": "Claude Pro: Opus model will only be available if extra usage is enabled",
-      "url": "https://support.claude.com/en/articles/11940350-claude-code-model-configuration",
-      "source": "hackernews",
-      "published": "2026-04-27T22:13:17+00:00",
-      "body": "70 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=47928088",
-      "summary": "70 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=47928088",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "46ca5dcb8bccc9d7"
     }
   ]
 }
