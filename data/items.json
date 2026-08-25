@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "@anthropic-ai/claude-code 2.1.245 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.245",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-08-25T04:45:52.102000+00:00",
+      "body": "Version 2.1.245 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.245 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.245",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "d526efba0fd5fa7e"
+    },
+    {
       "title": "v1.0.204",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.204",
       "source": "github:anthropics/claude-code-action",
@@ -4534,23 +4550,6 @@
         "sonnet"
       ],
       "uid": "251f0b5df94b4480"
-    },
-    {
-      "title": "Release 2025.8.4",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2025.8.4",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2025-08-05T09:16:01+00:00",
-      "body": "# Release : v2025.8.4\n\n## Updated packages\n- @modelcontextprotocol/server-everything@2025.8.4\n- @modelcontextprotocol/server-memory@2025.8.4\n- mcp-server-time@2025.8.4\n",
-      "summary": "# Release : v2025.8.4 ## Updated packages - @modelcontextprotocol/server-everything@2025.8.4 - @modelcontextprotocol/server-memory@2025.8.4 - mcp-server-time@2025.8.4",
-      "version": "2025.8.4",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "servers",
-        "mcp"
-      ],
-      "uid": "0cd793450241959d"
     }
   ]
 }
