@@ -1353,6 +1353,21 @@
       "uid": "86976fcdd6ffa129"
     },
     {
+      "title": "Degraded performance for multiple models",
+      "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+      "source": "hackernews",
+      "published": "2026-08-18T16:28:20+00:00",
+      "body": "151 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=49348163",
+      "summary": "151 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=49348163",
+      "version": "",
+      "category": "incident",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b1ec905a586ccfc9"
+    },
+    {
       "title": "Launch HN: machine0 (YC S26) \u2013 Persistent CPU and GPU VMs from the CLI",
       "url": "https://machine0.io",
       "source": "hackernews",
@@ -4529,21 +4544,6 @@
         "community"
       ],
       "uid": "ccdd0a93ecb23095"
-    },
-    {
-      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "url": "https://github.com/antoinezambelli/forge",
-      "source": "hackernews",
-      "published": "2026-05-19T12:23:07+00:00",
-      "body": "687 points, 252 comments. Discussion: https://news.ycombinator.com/item?id=48192383",
-      "summary": "687 points, 252 comments. Discussion: https://news.ycombinator.com/item?id=48192383",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "f0a6a3be40fa40f9"
     }
   ]
 }
