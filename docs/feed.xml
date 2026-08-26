@@ -5,8 +5,48 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 26 Aug 2026 15:54:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 17:51:40 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>google-cloud-sdk: v0.0.11</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.11</link>
+<guid isPermaLink="false">frontierfeed:3e9594dfd3a890e2</guid>
+<pubDate>Wed, 26 Aug 2026 17:24:32 +0000</pubDate>
+<category>api</category>
+<description>## 0.0.11 (2026-08-26) Full Changelog: [google-cloud-sdk-v0.0.10...google-cloud-sdk-v0.0.11](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.10...google-cloud-sdk-v0.0.11) ### Chores * **examples:** remove redundant main().catch boilerplate ([…</description>
+</item>
+<item>
+<title>bedrock-sdk: v0.33.2</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.2</link>
+<guid isPermaLink="false">frontierfeed:bc758d2545e08c06</guid>
+<pubDate>Wed, 26 Aug 2026 17:24:26 +0000</pubDate>
+<category>api</category>
+<description>## 0.33.2 (2026-08-26) Full Changelog: [bedrock-sdk-v0.33.1...bedrock-sdk-v0.33.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.1...bedrock-sdk-v0.33.2) ### Bug Fixes * **bedrock:** never send ambient first-party credentials to the Mantle endpo…</description>
+</item>
+<item>
+<title>vertex-sdk: v0.19.6</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.6</link>
+<guid isPermaLink="false">frontierfeed:ffc6f905e00156e9</guid>
+<pubDate>Wed, 26 Aug 2026 17:24:20 +0000</pubDate>
+<category>api</category>
+<description>## 0.19.6 (2026-08-26) Full Changelog: [vertex-sdk-v0.19.5...vertex-sdk-v0.19.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.5...vertex-sdk-v0.19.6) ### Chores * **examples:** remove redundant main().catch boilerplate ([154ace7](https://github.…</description>
+</item>
+<item>
+<title>sdk: v0.121.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.121.0</link>
+<guid isPermaLink="false">frontierfeed:75b9e6abb5908d3c</guid>
+<pubDate>Wed, 26 Aug 2026 17:24:14 +0000</pubDate>
+<category>api</category>
+<description>## 0.121.0 (2026-08-26) Full Changelog: [sdk-v0.120.0...sdk-v0.121.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.120.0...sdk-v0.121.0) ### Features * **api:** add `updates` thinking display mode (beta) ([22274ea](https://github.com/anthropics/anthropic-…</description>
+</item>
+<item>
+<title>v1.1.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.1.0</link>
+<guid isPermaLink="false">frontierfeed:de37934515269766</guid>
+<pubDate>Wed, 26 Aug 2026 17:14:40 +0000</pubDate>
+<category>api</category>
+<description>## 1.1.0 (2026-08-26) Full Changelog: [v1.0.0...v1.1.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.0.0...v1.1.0) ### Features * **api:** add `updates` thinking display mode (beta) ([eb4a73f](https://github.com/anthropics/anthropic-sdk-python/commit/eb4a73fdddc1…</description>
+</item>
 <item>
 <title>A curmudgeon tries a language server</title>
 <link>https://entropicthoughts.com/curmudgeon-tries-language-server</link>
@@ -54,6 +94,14 @@
 <pubDate>Tue, 25 Aug 2026 16:58:35 +0000</pubDate>
 <category>note</category>
 <description>Funding better evaluations of AI’s impact on wellbeing</description>
+</item>
+<item>
+<title>Anthropic Sees over $30T in Potential Revenue</title>
+<link>https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea</link>
+<guid isPermaLink="false">frontierfeed:4de96caeff39a603</guid>
+<pubDate>Tue, 25 Aug 2026 16:20:11 +0000</pubDate>
+<category>note</category>
+<description>40 points, 79 comments. Discussion: https://news.ycombinator.com/item?id=49436536</description>
 </item>
 <item>
 <title>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</title>
@@ -758,54 +806,6 @@
 <pubDate>Sun, 16 Aug 2026 21:00:25 +0000</pubDate>
 <category>note</category>
 <description>43 points, 67 comments. Discussion: https://news.ycombinator.com/item?id=49323620</description>
-</item>
-<item>
-<title>Patterns and problems in emerging multi-agent systems</title>
-<link>https://www.anthropic.com/research/multiagent-systems</link>
-<guid isPermaLink="false">frontierfeed:e4faaad217d38717</guid>
-<pubDate>Sun, 16 Aug 2026 02:12:53 +0000</pubDate>
-<category>note</category>
-<description>198 points, 139 comments. Discussion: https://news.ycombinator.com/item?id=49316271</description>
-</item>
-<item>
-<title>Anthropic CEO wife asked Epstein for porn business</title>
-<link>https://www.forbes.com/sites/alisondurkee/2026/08/14/who-is-cami-clark-anthropic-ceos-wife-asked-epstein-to-invest-in-porn-business/</link>
-<guid isPermaLink="false">frontierfeed:29e50b5258d122e8</guid>
-<pubDate>Sat, 15 Aug 2026 22:54:41 +0000</pubDate>
-<category>note</category>
-<description>40 points, 4 comments. Discussion: https://news.ycombinator.com/item?id=49315059</description>
-</item>
-<item>
-<title>v1.0.193</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.193</link>
-<guid isPermaLink="false">frontierfeed:a4860d048dee29c4</guid>
-<pubDate>Fri, 14 Aug 2026 22:22:46 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.192...v1.0.193</description>
-</item>
-<item>
-<title>Anthropic Risk August 2026 [pdf]</title>
-<link>https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf</link>
-<guid isPermaLink="false">frontierfeed:c64515004b6161a0</guid>
-<pubDate>Fri, 14 Aug 2026 19:32:15 +0000</pubDate>
-<category>note</category>
-<description>56 points, 58 comments. Discussion: https://news.ycombinator.com/item?id=49303540</description>
-</item>
-<item>
-<title>How Claude&#x27;s text watermarking works</title>
-<link>https://www.anthropic.com/news/claude-text-watermark</link>
-<guid isPermaLink="false">frontierfeed:a4f8d0f66f443561</guid>
-<pubDate>Fri, 14 Aug 2026 19:15:51 +0000</pubDate>
-<category>note</category>
-<description>75 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49303350</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.233 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.233</link>
-<guid isPermaLink="false">frontierfeed:c6adc271174a3e92</guid>
-<pubDate>Fri, 14 Aug 2026 18:50:44 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.233 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

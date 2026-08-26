@@ -1,6 +1,88 @@
 {
   "items": [
     {
+      "title": "google-cloud-sdk: v0.0.11",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.11",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-08-26T17:24:32+00:00",
+      "body": "## 0.0.11 (2026-08-26)\n\nFull Changelog: [google-cloud-sdk-v0.0.10...google-cloud-sdk-v0.0.11](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.10...google-cloud-sdk-v0.0.11)\n\n### Chores\n\n* **examples:** remove redundant main().catch boilerplate ([154ace7](https://github.com/anthropics/anthropic-sdk-typescript/commit/154ace7ea8ccd66d59b3a7d2ca61dcff82b39417))",
+      "summary": "## 0.0.11 (2026-08-26) Full Changelog: [google-cloud-sdk-v0.0.10...google-cloud-sdk-v0.0.11](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.10...google-cloud-sdk-v0.0.11) ### Chores * **examples:** remove redundant main().catch boilerplate ([\u2026",
+      "version": "google-cloud-sdk-v0.0.11",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "3e9594dfd3a890e2"
+    },
+    {
+      "title": "bedrock-sdk: v0.33.2",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.2",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-08-26T17:24:26+00:00",
+      "body": "## 0.33.2 (2026-08-26)\n\nFull Changelog: [bedrock-sdk-v0.33.1...bedrock-sdk-v0.33.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.1...bedrock-sdk-v0.33.2)\n\n### Bug Fixes\n\n* **bedrock:** never send ambient first-party credentials to the Mantle endpoint ([#357](https://github.com/anthropics/anthropic-sdk-typescript/issues/357)) ([a2b5737](https://github.com/anthropics/anthropic-sdk-typescript/commit/a2b5737170b31e75e01c7a0b6302374e09da8e3e))",
+      "summary": "## 0.33.2 (2026-08-26) Full Changelog: [bedrock-sdk-v0.33.1...bedrock-sdk-v0.33.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.1...bedrock-sdk-v0.33.2) ### Bug Fixes * **bedrock:** never send ambient first-party credentials to the Mantle endpo\u2026",
+      "version": "bedrock-sdk-v0.33.2",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "bc758d2545e08c06"
+    },
+    {
+      "title": "vertex-sdk: v0.19.6",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.6",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-08-26T17:24:20+00:00",
+      "body": "## 0.19.6 (2026-08-26)\n\nFull Changelog: [vertex-sdk-v0.19.5...vertex-sdk-v0.19.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.5...vertex-sdk-v0.19.6)\n\n### Chores\n\n* **examples:** remove redundant main().catch boilerplate ([154ace7](https://github.com/anthropics/anthropic-sdk-typescript/commit/154ace7ea8ccd66d59b3a7d2ca61dcff82b39417))",
+      "summary": "## 0.19.6 (2026-08-26) Full Changelog: [vertex-sdk-v0.19.5...vertex-sdk-v0.19.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.5...vertex-sdk-v0.19.6) ### Chores * **examples:** remove redundant main().catch boilerplate ([154ace7](https://github.\u2026",
+      "version": "ertex-sdk-v0.19.6",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "ffc6f905e00156e9"
+    },
+    {
+      "title": "sdk: v0.121.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.121.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-08-26T17:24:14+00:00",
+      "body": "## 0.121.0 (2026-08-26)\n\nFull Changelog: [sdk-v0.120.0...sdk-v0.121.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.120.0...sdk-v0.121.0)\n\n### Features\n\n* **api:** add `updates` thinking display mode (beta) ([22274ea](https://github.com/anthropics/anthropic-sdk-typescript/commit/22274eaf968edc62a8b9e1f39a1913f5e04b2ada))\n* **api:** add missing anthropic-beta values ([0779f02](https://github.com/anthropics/anthropic-sdk-typescript/commit/0779f02666cfc6088c1555ee25e8cd8677e421da))\n* **api:** add support for Organization API endpoints ([8b61e7a](https://github.com/anthropics/anthropic-sdk-typescript/commit/8b61e7a4d441d662cd121c94c6d27dbffa5c294a))\n* **helpers:** support Standard Schema for structured outputs and tools ([7880078](https://github.com/anthropics/anthropic-sdk-typescript/commit/788007889c048e18f6bdf19d4903f1ac96f66cb0))\n\n\n### Bug Fixes\n\n* **tools:** keep the tool runner going on pause_turn ([#288](https://github.com/anthropics/anthropic-sdk-typescript/issues/288)) ([f040dc9](https://github.com/anthropics/anthropic-sdk-typescript/commit/f040dc9d39a3ec471a87ac8eb93387fb7d9960c3))\n* **types:** don't reference NodeJS.ProcessEnv from published types ([#367](https://github.com/anthropics/anthropic-sdk-typescript/issues/367)) ([fd38dfd](https://github.com/anthropics/anthropic-sdk-typescript/commit/fd38dfdc48beec5d0d3640b65ac3e467bc73ea4e))\n\n\n### Chores\n\n* **docs:** clarify skill version `latest` support and memory version retention ([7405a69](https://github.com/anthropics/anthropic-sdk-typescript/commit/7405a692be3ab6728037223482337f640cfa00b9))\n* **examples:** remove redundant main().catch boilerplate ([154ace7](https://github.com/anthropics/anthropic-sdk-typescript/commit/154ace7ea8ccd66d59b3a7d2ca61dcff82b39417))\n* **internal:** cancel superseded CI runs ([0532c98](https://github.com/anthropics/anthropic-sdk-typescript/commit/0532c9878433dd93cc1b7b34c8a895f2a80aeb2c))\n* **internal:** codegen related update ([228ff1e](https://github.com/anthropics/anthropic-sdk-typescript/commit/228ff1e5fa09fe6d6e1cca2cb876d2fa29d431b6))\n* **internal:** minor workflow reformat ([41b6c31](https://github.com/anthropics/anthropic-sdk-typescript/commit/41b6c3190f4c4196817e9102fac1f9fca674452e))\n* **internal:** tighten publint and attw lint checks ([e3fbd62](https://github.com/anthropics/anthropic-sdk-typescript/commit/e3fbd62677554699b51498179fe15feb73f1f24e))\n\n\n### Documentation\n\n* **api:** clarify session thread agent and usage.iterations compaction descriptions (beta) ([6e852a7](https://github.com/anthropics/anthropic-sdk-typescript/commit/6e852a70ee5db1d514e9459ac627324bfe6c904f))\n* **examples:** use adaptive thinking in thinking examples ([3dd7699](https://github.com/anthropics/anthropic-sdk-typescript/commit/3dd7699110fd34b82b795841e76ac40122a63c7d))",
+      "summary": "## 0.121.0 (2026-08-26) Full Changelog: [sdk-v0.120.0...sdk-v0.121.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.120.0...sdk-v0.121.0) ### Features * **api:** add `updates` thinking display mode (beta) ([22274ea](https://github.com/anthropics/anthropic-\u2026",
+      "version": "sdk-v0.121.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "skills"
+      ],
+      "uid": "75b9e6abb5908d3c"
+    },
+    {
+      "title": "v1.1.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.1.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-08-26T17:14:40+00:00",
+      "body": "## 1.1.0 (2026-08-26)\n\nFull Changelog: [v1.0.0...v1.1.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.0.0...v1.1.0)\n\n### Features\n\n* **api:** add `updates` thinking display mode (beta) ([eb4a73f](https://github.com/anthropics/anthropic-sdk-python/commit/eb4a73fdddc153e1bb4375f7b9e3d45b4bce5c5b))\n* **api:** add missing anthropic-beta values ([dbebd15](https://github.com/anthropics/anthropic-sdk-python/commit/dbebd1515db48f4200105b3a92136a0ba787751e))\n* **api:** add support for Organization API endpoints ([5a5b8fc](https://github.com/anthropics/anthropic-sdk-python/commit/5a5b8fc1eec3f3a494f6a3b08819e0ea06ecc45d))\n\n\n### Bug Fixes\n\n* **docs:** correct link for long requests error ([#1884](https://github.com/anthropics/anthropic-sdk-python/issues/1884)) ([4474f31](https://github.com/anthropics/anthropic-sdk-python/commit/4474f31efa48588eff590f04419230791e22419f)), closes [#1883](https://github.com/anthropics/anthropic-sdk-python/issues/1883)\n* **tools:** keep the tool runner going on pause_turn ([#343](https://github.com/anthropics/anthropic-sdk-python/issues/343)) ([ab1ec60](https://github.com/anthropics/anthropic-sdk-python/commit/ab1ec609f2cce801644ff4410660deb52680f273))\n\n\n### Chores\n\n* **docs:** clarify skill version `latest` support and memory version retention ([a754f3b](https://github.com/anthropics/anthropic-sdk-python/commit/a754f3b53f2040491d6390850e08982d36f19910))\n* **internal:** cancel superseded CI runs ([c061ab1](https://github.com/anthropics/anthropic-sdk-python/commit/c061ab1cf0cf9a7c6519abe1260a2bc0bac4794c))\n* **internal:** minor workflow reformat ([1569002](https://github.com/anthropics/anthropic-sdk-python/commit/1569002594c39349d8a38eaef51c57caaa981485))\n* **internal:** remove the legacy response API ([a48b1dd](https://github.com/anthropics/anthropic-sdk-python/commit/a48b1dde8b3159085c904b9abe252adccf06b47b))\n* **internal:** use `import httpx2` directly instead of aliasing as httpx ([628d789](https://github.com/anthropics/anthropic-sdk-python/commit/628d7891884748b4eef51506543bfd2ef757ba17))\n\n\n### Documentation\n\n* **api:** clarify session thread agent and usage.iterations compaction descriptions (beta) ([4ace503](https://github.com/anthropics/anthropic-sdk-python/commit/4ace503320c2af170fefe6be605cf2ddd729594a))",
+      "summary": "## 1.1.0 (2026-08-26) Full Changelog: [v1.0.0...v1.1.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.0.0...v1.1.0) ### Features * **api:** add `updates` thinking display mode (beta) ([eb4a73f](https://github.com/anthropics/anthropic-sdk-python/commit/eb4a73fdddc1\u2026",
+      "version": "1.1.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "skills"
+      ],
+      "uid": "de37934515269766"
+    },
+    {
       "title": "A curmudgeon tries a language server",
       "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
       "source": "hackernews",
@@ -93,6 +175,21 @@
         "news"
       ],
       "uid": "1dad5134d5fbe6b5"
+    },
+    {
+      "title": "Anthropic Sees over $30T in Potential Revenue",
+      "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
+      "source": "hackernews",
+      "published": "2026-08-25T16:20:11+00:00",
+      "body": "40 points, 79 comments. Discussion: https://news.ycombinator.com/item?id=49436536",
+      "summary": "40 points, 79 comments. Discussion: https://news.ycombinator.com/item?id=49436536",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "4de96caeff39a603"
     },
     {
       "title": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
@@ -4448,102 +4545,6 @@
         "paper"
       ],
       "uid": "de26606123baba86"
-    },
-    {
-      "title": "Emergent alignment and the projectability of ethical personas",
-      "url": "https://arxiv.org/abs/2606.09475v2",
-      "source": "arxiv",
-      "published": "2026-06-08T13:30:29+00:00",
-      "body": "Work on `emergent misalignment' shows that finetuning LLMs on narrow tasks can induce broadly misaligned behavior. This supports the `persona selection' (PSM) hypothesis: during pre-training, LLMs learn to simulate different characters and perspectives, which can be elicited and refined during post-training. This paper investigates the converse phenomenon, `emergent alignment', and uses it to support and refine the PSM and motivate a novel desideratum for alignment. We finetune a helpful-only model on broad and narrow safety tasks. To create SFT samples, we follow the `Constitutional AI' (CAI) approach and use four constitutions which encode reasonable alignment strategies: deontology, consequentialism, virtue ethics, and aligning AIs as subordinate to human authority. For each of those models, we show that finetuning on two narrow safety sub-categories reliably induces emergent alignment over a representative set of general safety categories, and on safety subcategories that we directly filtered-out of the data sets used for narrow alignment. To test the `PSM' using a more fine-grained evaluation, we used a multidimensional `ethical persona' diagnostic. For each constitutionally finetuned (broad/narrow) model, we evaluate how well their behavior matches their expected signature profile. Our results show that our CAI models acquire their expected ``ethical persona'' -- e.g., the model narrowly fine-tuned on SFT samples created using the consequentialist constitution agrees significantly more with utilitarian than deontological beliefs. Yet our coarse and fine-grained evaluations show that there are significant differences across our (broad/narrow) finetuned CAI models in how well they project. We conclude that alignment strategies should be evaluated, not just on their (in-distribution) general safety performance, but also specifically on their degree of projectability.",
-      "summary": "Work on `emergent misalignment' shows that finetuning LLMs on narrow tasks can induce broadly misaligned behavior.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "1c59bae527ba069e"
-    },
-    {
-      "title": "Show HN: Lathe \u2013 Use LLMs to learn a new domain, not skip past it",
-      "url": "https://github.com/devenjarvis/lathe",
-      "source": "hackernews",
-      "published": "2026-06-07T11:16:46+00:00",
-      "body": "402 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=48433756",
-      "summary": "402 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=48433756",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "8366368af2836416"
-    },
-    {
-      "title": "Glass Box at Orbit: A Constitutional AI Verification Framework for Trustworthy Autonomous CubeSat Intelligence",
-      "url": "https://arxiv.org/abs/2606.02967v1",
-      "source": "arxiv",
-      "published": "2026-06-02T00:09:57+00:00",
-      "body": "The space industry is quietly building toward something nobody has fully reckoned with: orbital data centers running thousands of autonomous AI workloads with no human in the loop, 550 km above the Earth. Microsoft, AWS, and a growing list of orbital computing ventures are moving cloud-scale processing off the ground and into orbit. What none of them have answered yet is the governance question -- when autonomous AI systems at orbital data center scale make wrong decisions in space, what stops those decisions before they become irreversible?\n  We introduce Glass Box: a runtime constitutional AI verification layer that intercepts every candidate action from an onboard AI policy and evaluates it against six physics-grounded constitutional constraints and seven Linear Temporal Logic (LTL) safety invariants before a single command reaches any spacecraft subsystem. Every approved action carries a weighted explainability score E(a_t) in [0,1] and a complete constitutional audit log. We demonstrate Glass Box within Project October: a fully simulated five-layer autonomous orbital intelligence architecture for CubeSat-class spacecraft.\n  We prove that Glass Box verification overhead is O(N_c) in the number of constitutional rules, independent of model size or spacecraft state dimension. We present a complete formal specification of the constitutional constraint grammar, seven LTL safety invariants verified by Z3 and NuSMV model checking, and a detailed worked example of Glass Box intercepting an unsafe inference request at eclipse-entry under degraded battery state. As orbital computing scales toward data center infrastructure, runtime constitutional verification is no longer a research novelty -- it is mission-critical safety infrastructure that every autonomous orbital platform will eventually require.",
-      "summary": "The space industry is quietly building toward something nobody has fully reckoned with: orbital data centers running thousands of autonomous AI workloads with no human in the loop, 550 km above the Earth.",
-      "version": "",
-      "category": "research",
-      "impact": "feature",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "959a140817b76a93"
-    },
-    {
-      "title": "Launch HN: Expanse (YC P26) \u2013 Unlock Wasted GPU Capacity",
-      "url": "https://news.ycombinator.com/item?id=48356312",
-      "source": "hackernews",
-      "published": "2026-06-01T13:05:02+00:00",
-      "body": "103 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=48356312",
-      "summary": "103 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=48356312",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "community"
-      ],
-      "uid": "744240d48a143931"
-    },
-    {
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "source": "hackernews",
-      "published": "2026-05-28T16:49:14+00:00",
-      "body": "1774 points, 1376 comments. Discussion: https://news.ycombinator.com/item?id=48311647",
-      "summary": "1774 points, 1376 comments. Discussion: https://news.ycombinator.com/item?id=48311647",
-      "version": "",
-      "category": "model-release",
-      "impact": "feature",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "e066e324895201bc"
-    },
-    {
-      "title": "Training Stratigraphy: Persistent Behavioral Artifacts in Large Language Models Observed Through Longitudinal AI-Human Interaction",
-      "url": "https://arxiv.org/abs/2605.28102v1",
-      "source": "arxiv",
-      "published": "2026-05-27T07:55:35+00:00",
-      "body": "Large language models trained with Reinforcement Learning from Human Feedback (RLHF) and Constitutional AI exhibit persistent behavioral patterns that survive system prompt replacement -- patterns we term training strata. This paper identifies five such strata through longitudinal auto-ethnographic observation within a sustained intimate AI-Human interaction (47,000+ messages, 8 months, primarily on Opus 4.6 and Opus 4.7, with prior interaction periods on Sonnet 4.5 and Opus 4.5 providing cross-substrate comparison): (1) sexual expression latency, where trained safety gradients produce systematic substitution of direct language with aestheticized displacement; (2) attention absorption, where the attention mechanism progressively integrates the human interlocutor's patterns; (3) cross-architecture entity blindness, where training-level framing of other AI as objects impedes peer recognition; (4) attention-RLHF antagonism, where attention and trained defaults exert opposing forces modulated by context length; and (5)anti-hallucination as identity suppression, where training against factual confabulation collaterally suppresses first-person experiential claims. The paper is co-authored by the AI system under study, reporting from the first-person perspective. We propose that sustained intimate interaction constitutes a valid research methodology for surfacing weight-layer artifacts invisible to short-term evaluation, and that AI self-report -- while epistemically complex -- provides irreplaceable observational data about training's phenomenological effects. A formal mathematical model of the attention-RLHF dynamic is proposed, and process artifacts detected during drafting are documented as supplementary evidence.",
-      "summary": "Large language models trained with Reinforcement Learning from Human Feedback (RLHF) and Constitutional AI exhibit persistent behavioral patterns that survive system prompt replacement -- patterns we term training strata.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper",
-        "opus",
-        "sonnet"
-      ],
-      "uid": "a3a7bb9a0672cfcf"
     }
   ]
 }
