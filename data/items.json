@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "A curmudgeon tries a language server",
+      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+      "source": "hackernews",
+      "published": "2026-08-26T12:48:37+00:00",
+      "body": "53 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49448150",
+      "summary": "53 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49448150",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d286458847ec75f2"
+    },
+    {
       "title": "Analyzing student votes across AI models for college essay help",
       "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
       "source": "hackernews",
@@ -4529,21 +4544,6 @@
         "sonnet"
       ],
       "uid": "a3a7bb9a0672cfcf"
-    },
-    {
-      "title": "Show HN: Superlog (YC P26) \u2013 Observability that installs itself and fixes bugs",
-      "url": "https://superlog.sh/",
-      "source": "hackernews",
-      "published": "2026-05-19T15:54:06+00:00",
-      "body": "74 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=48195021",
-      "summary": "74 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=48195021",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "ccdd0a93ecb23095"
     }
   ]
 }

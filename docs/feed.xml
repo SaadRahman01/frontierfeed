@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 26 Aug 2026 13:19:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 15:54:54 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A curmudgeon tries a language server</title>
+<link>https://entropicthoughts.com/curmudgeon-tries-language-server</link>
+<guid isPermaLink="false">frontierfeed:d286458847ec75f2</guid>
+<pubDate>Wed, 26 Aug 2026 12:48:37 +0000</pubDate>
+<category>note</category>
+<description>53 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49448150</description>
+</item>
 <item>
 <title>Analyzing student votes across AI models for college essay help</title>
 <link>https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026</link>
@@ -798,14 +806,6 @@
 <pubDate>Fri, 14 Aug 2026 18:50:44 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.233 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Even Claude Is in the Dark About Dario Amodei&#x27;s Wife</title>
-<link>https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d</link>
-<guid isPermaLink="false">frontierfeed:6f6f183c52ea0ca7</guid>
-<pubDate>Fri, 14 Aug 2026 03:06:04 +0000</pubDate>
-<category>note</category>
-<description>53 points, 7 comments. Discussion: https://news.ycombinator.com/item?id=49294362</description>
 </item>
 </channel>
 </rss>
