@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-26T02:01:46.292962+00:00",
+  "generated": "2026-08-26T03:28:12.298685+00:00",
   "count": 300,
   "items": [
     {
@@ -85,6 +85,22 @@
       "uid": "d01b0db5afc6cee3"
     },
     {
+      "title": "Expectation, Backlash, Recovery, and Excitement: How Model Releases Shape Reddit Perceptions of Conversational AI Systems",
+      "url": "https://arxiv.org/abs/2608.24654v1",
+      "source": "arxiv",
+      "published": "2026-08-25T15:00:44+00:00",
+      "body": "Conversational AI systems (CAISes) continuously change through model releases, feature updates, safety interventions, and access-policy shifts, yet user perceptions are often studied as static snapshots. We conduct a long-term, large-scale analysis of Reddit discussions to examine how users perceive CAIS model release interventions across providers. By combining sentiment classification and thematic concept analysis, we show that CAIS perceptions are dynamic and intervention-sensitive. Anthropic exhibits the clearest positive release profile through Claude Code and product-model fit, OpenAI shows backlash-and-recovery dynamics around GPT-5 and GPT-5.1, Grok-3 is shaped by provider identity and political discourse, and DeepSeek-R1 combines engineering praise with concerns about censorship, access, and reliability. These findings show that model releases are not merely technical updates, but user-facing interventions that reshape sentiment, expectations, and public discussion.",
+      "summary": "Conversational AI systems (CAISes) continuously change through model releases, feature updates, safety interventions, and access-policy shifts, yet user perceptions are often studied as static snapshots.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "2333b0e93f0ac0d0"
+    },
+    {
       "title": "Anthropic tells staff to work from home due to possible security team strike",
       "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
       "source": "hackernews",
@@ -145,6 +161,22 @@
         "community"
       ],
       "uid": "0d14373e4f2630a4"
+    },
+    {
+      "title": "Curved Inference II: Sleeper Agent Geometry - Extending Interpretability Beyond Probes",
+      "url": "https://arxiv.org/abs/2608.24037v1",
+      "source": "arxiv",
+      "published": "2026-08-25T03:51:20+00:00",
+      "body": "This paper extends Anthropic's Sleeper Agents research [1], which showed artificial backdoors persist through safety training & can be detected by linear probes with >99% accuracy [2]. However, probe-based detection relies on linear separability that may be an artefact of backdoor insertion rather than a property of naturally occurring deceptive alignment. Sophisticated deceptive behaviours emerging through natural training are unlikely to produce such convenient linear signals.\n  We introduce a naturalistic methodology using multi-turn context windows that simulates realistic deceptive reasoning without artificial triggers or supervised backdoor insertion. Rather than binary trigger-response patterns, we examine how semantic complexity emerges through gradual context development.\n  Building on our Curved Inference framework, we analyse curvature, salience, & introduce semantic surface area (A'), a new metric of representational work capturing both the magnitude & directional change of meaning construction in unnormalised residual space. Without backdoors, labels, or probes, we apply this framework to naturalistic deceptive prompts & classify model outputs via LLM consensus.\n  Geometric structure reliably predicts semantic classification, with statistically significant differences in surface area across five prompt strategies & two model families. Critically, measurement precision can reveal geometric signatures hidden by classification noise - some strategies improve from non-significant (p = 0.555) to significant (p = 0.048). This validates that sophisticated reasoning creates intrinsic geometric patterns that persist even when detection appears to fail, suggesting the shape of inference itself encodes semantic patterns regardless of whether models have learned to suppress linear indicators of deception - a scalable, unsupervised path for detection when linear methods fail.",
+      "summary": "This paper extends Anthropic's Sleeper Agents research [1], which showed artificial backdoors persist through safety training & can be detected by linear probes with >99% accuracy [2].",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "5435b7a27d0baf5c"
     },
     {
       "title": "v1.0.204",
@@ -4516,37 +4548,6 @@
         "community"
       ],
       "uid": "1acb5838494c0649"
-    },
-    {
-      "title": "Elevated error rates on Opus 4.7",
-      "url": "https://status.claude.com/incidents/8z7l5zcy0v3b",
-      "source": "hackernews",
-      "published": "2026-05-15T00:22:53+00:00",
-      "body": "58 points, 56 comments. Discussion: https://news.ycombinator.com/item?id=48142964",
-      "summary": "58 points, 56 comments. Discussion: https://news.ycombinator.com/item?id=48142964",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "044ad6cadba6867d"
-    },
-    {
-      "title": "Show HN: Statewright \u2013 Visual state machines that make AI agents reliable",
-      "url": "https://github.com/statewright/statewright",
-      "source": "hackernews",
-      "published": "2026-05-12T14:24:55+00:00",
-      "body": "126 points, 59 comments. Discussion: https://news.ycombinator.com/item?id=48108778",
-      "summary": "126 points, 59 comments. Discussion: https://news.ycombinator.com/item?id=48108778",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "0ad8627cf9a83894"
     }
   ]
 }

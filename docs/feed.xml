@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 26 Aug 2026 02:01:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 03:28:12 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>v1.0.206</title>
@@ -48,6 +48,14 @@
 <description>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</description>
 </item>
 <item>
+<title>Expectation, Backlash, Recovery, and Excitement: How Model Releases Shape Reddit Perceptions of Conversational AI Systems</title>
+<link>https://arxiv.org/abs/2608.24654v1</link>
+<guid isPermaLink="false">frontierfeed:2333b0e93f0ac0d0</guid>
+<pubDate>Tue, 25 Aug 2026 15:00:44 +0000</pubDate>
+<category>research</category>
+<description>Conversational AI systems (CAISes) continuously change through model releases, feature updates, safety interventions, and access-policy shifts, yet user perceptions are often studied as static snapshots.</description>
+</item>
+<item>
 <title>Anthropic tells staff to work from home due to possible security team strike</title>
 <link>https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8</link>
 <guid isPermaLink="false">frontierfeed:20917208590b0baf</guid>
@@ -78,6 +86,14 @@
 <pubDate>Tue, 25 Aug 2026 04:33:24 +0000</pubDate>
 <category>note</category>
 <description>43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49429095</description>
+</item>
+<item>
+<title>Curved Inference II: Sleeper Agent Geometry - Extending Interpretability Beyond Probes</title>
+<link>https://arxiv.org/abs/2608.24037v1</link>
+<guid isPermaLink="false">frontierfeed:5435b7a27d0baf5c</guid>
+<pubDate>Tue, 25 Aug 2026 03:51:20 +0000</pubDate>
+<category>research</category>
+<description>This paper extends Anthropic&#x27;s Sleeper Agents research [1], which showed artificial backdoors persist through safety training &amp; can be detected by linear probes with &gt;99% accuracy [2].</description>
 </item>
 <item>
 <title>v1.0.204</title>
@@ -790,22 +806,6 @@
 <pubDate>Thu, 13 Aug 2026 21:30:53 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.232 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v0.122.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.122.0</link>
-<guid isPermaLink="false">frontierfeed:4dd9ae5e73ff48cb</guid>
-<pubDate>Thu, 13 Aug 2026 18:35:49 +0000</pubDate>
-<category>api</category>
-<description>## 0.122.0 (2026-08-13) Full Changelog: [v0.121.0...v0.122.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.121.0...v0.122.0) ### Features * **api:** add output_behavior to dream creation (create a new memory store or update the input store in place) ([852c4bb](ht…</description>
-</item>
-<item>
-<title>Rules or Character? Scaling Laws for AI Safety Design</title>
-<link>https://arxiv.org/abs/2608.13345v1</link>
-<guid isPermaLink="false">frontierfeed:a9f3777c3612ad8c</guid>
-<pubDate>Thu, 13 Aug 2026 15:15:09 +0000</pubDate>
-<category>research</category>
-<description>Artificial Intelligence (AI) safety systems combine character shaping (e.g., Reinforcement Learning from Human Feedback [RLHF], Constitutional AI), which modifies behavioral distributions at training time, with rule enforcement (e.g., output filters, safety classifiers), which bl…</description>
 </item>
 </channel>
 </rss>
