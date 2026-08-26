@@ -5,8 +5,32 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 26 Aug 2026 17:51:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 19:22:27 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Claude in Chrome is generally available</title>
+<link>https://claude.com/blog/claude-in-chrome-generally-available</link>
+<guid isPermaLink="false">frontierfeed:34f6c02713000cc4</guid>
+<pubDate>Wed, 26 Aug 2026 19:22:16 +0000</pubDate>
+<category>note</category>
+<description>Claude in Chrome is generally available</description>
+</item>
+<item>
+<title>How Warp builds self-improving agents on Claude</title>
+<link>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</link>
+<guid isPermaLink="false">frontierfeed:963426adfc5ccfc7</guid>
+<pubDate>Wed, 26 Aug 2026 19:22:16 +0000</pubDate>
+<category>note</category>
+<description>How Warp builds self-improving agents on Claude</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.247 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.247</link>
+<guid isPermaLink="false">frontierfeed:2a95ee37dac20a11</guid>
+<pubDate>Wed, 26 Aug 2026 18:02:01 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.247 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>google-cloud-sdk: v0.0.11</title>
 <link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.11</link>
@@ -782,30 +806,6 @@
 <pubDate>Mon, 17 Aug 2026 18:19:13 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.234 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Anthropic&#x27;s War on open source AI</title>
-<link>https://twitter.com/TheAhmadOsman/status/2065307070044234186</link>
-<guid isPermaLink="false">frontierfeed:6acfa4f5bae21d15</guid>
-<pubDate>Mon, 17 Aug 2026 15:24:34 +0000</pubDate>
-<category>note</category>
-<description>152 points, 59 comments. Discussion: https://news.ycombinator.com/item?id=49332564</description>
-</item>
-<item>
-<title>Anthropic&#x27;s ‘watermark’ text adulteration in Claude is a perversion of writing</title>
-<link>https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</link>
-<guid isPermaLink="false">frontierfeed:b395dbb8b9ba8d79</guid>
-<pubDate>Sun, 16 Aug 2026 21:53:43 +0000</pubDate>
-<category>note</category>
-<description>823 points, 730 comments. Discussion: https://news.ycombinator.com/item?id=49324087</description>
-</item>
-<item>
-<title>Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast</title>
-<link>https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/</link>
-<guid isPermaLink="false">frontierfeed:a81c1445c4b6a2cc</guid>
-<pubDate>Sun, 16 Aug 2026 21:00:25 +0000</pubDate>
-<category>note</category>
-<description>43 points, 67 comments. Discussion: https://news.ycombinator.com/item?id=49323620</description>
 </item>
 </channel>
 </rss>

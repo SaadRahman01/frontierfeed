@@ -1,9 +1,57 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-26T17:51:40.524805+00:00",
+  "generated": "2026-08-26T19:22:27.482509+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Claude in Chrome is generally available",
+      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "source": "claude-blog",
+      "published": "2026-08-26T19:22:16.970215+00:00",
+      "body": "Claude in Chrome is generally available",
+      "summary": "Claude in Chrome is generally available",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "34f6c02713000cc4"
+    },
+    {
+      "title": "How Warp builds self-improving agents on Claude",
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "source": "claude-blog",
+      "published": "2026-08-26T19:22:16.970174+00:00",
+      "body": "How Warp builds self-improving agents on Claude",
+      "summary": "How Warp builds self-improving agents on Claude",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "963426adfc5ccfc7"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.247 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.247",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-08-26T18:02:01.046000+00:00",
+      "body": "Version 2.1.247 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.247 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.247",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "2a95ee37dac20a11"
+    },
     {
       "title": "google-cloud-sdk: v0.0.11",
       "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.11",
@@ -4501,54 +4549,6 @@
         "paper"
       ],
       "uid": "78f4c8ab962aa616"
-    },
-    {
-      "title": "Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment",
-      "url": "https://arxiv.org/abs/2606.24331v1",
-      "source": "arxiv",
-      "published": "2026-06-23T09:09:55+00:00",
-      "body": "Transformer-based language models have become the default substrate for natural language processing and the pace of new releases has made it hard for practitioners to separate durable ideas from the noise of incremental announcements. This review works at two levels. At the level of mechanism, we organise the main transformer families into a working taxonomy, covering encoder-only, decoder-only, encoder-decoder, long-context, permutation-based, and generator-discriminator variants. We then extend the discussion to post-2023 developments that changed the picture in practice: instruction tuning, reinforcement learning from human feedback, direct preference optimisation, mixture-of-experts scaling, retrieval augmentation and the current flagship model families from OpenAI, Anthropic, Google, Meta, Mistral and DeepSeek. At the level of use, we survey deployments across healthcare, finance, legal, education, customer service, creative writing and scientific work. Based on this we link each to the specific capabilities that make a transformer the appropriate tool. The contribution of this paper is a critical assessment that is based on the survey. We compare architectures on four axes that matter to deployment decisions, we quantify the trade-off between parameter count and energy cost. We also discuss how alignment methods, data provenance and benchmark saturation change what it means to call a model \"state of the art\". The final section lists the research questions that we think deserve more attention.",
-      "summary": "Transformer-based language models have become the default substrate for natural language processing and the pace of new releases has made it hard for practitioners to separate durable ideas from the noise of incremental announcements. This review works at two levels.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "d96e97e6c0d94a50"
-    },
-    {
-      "title": "Self-CTRL: Self-Consistency Training with Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.18327v1",
-      "source": "arxiv",
-      "published": "2026-06-16T17:59:40+00:00",
-      "body": "Language models (LMs) that faithfully describe their own behavior can more easily be audited, understood, and trusted by users. This paper describes Self-Consistency Training with Reinforcement Learning (Self-CTRL), a method that optimizes for consistency between a LM's self-explanations and behavior on related inputs by updating explanations to better predict behavior or updating behavior to better match explanations. We apply our method in two domains. First, we study a formal probabilistic reasoning task in which LMs must learn to imitate a family of biased samplers and evaluated on their ability to report the associated biases. We find that consistency training improves the correlation between self-reported and behaviorally-measured latent biases from $R^2=0.24$ to $R^2=0.64$ on a set of held-out distributions, matching the generalization of direct ground-truth supervision. Second, we study a constitutional AI domain in which LMs must describe when they will refuse or comply with user requests. Here, Self-CTRL produces rules that faithfully describe the model's behavior on held-out requests, improving the refusal predictions of a third-party auditor model from $36\\%$ to $92\\%$. In the other direction, behavior updates improve alignment, reducing HarmBench failure rate from $15.0\\%$ to $0.5\\%$ without substantially increasing refusal on harmless prompts. By aligning explanations and behavior, our work provides a general recipe for training AI models to be safer, more transparent, and more controllable.",
-      "summary": "Language models (LMs) that faithfully describe their own behavior can more easily be audited, understood, and trusted by users.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "a3433405fd4aaf4b"
-    },
-    {
-      "title": "A Virtuous AI is an Existential Risk",
-      "url": "https://arxiv.org/abs/2606.13739v1",
-      "source": "arxiv",
-      "published": "2026-06-11T12:38:54+00:00",
-      "body": "This paper examines trade-offs between AI safety and well-being relative to (i) one of the most promising methods for finetuning super-capable AIs, 'Constitutional AI', and (ii) one of the most influential approaches to understanding complex ethical decision making and the conditions for the well-being of rational agents, 'Virtue Ethics'. We finetune various models using a 'Virtuous agent' constitution, a 'Subordinate agent' constitution, and a 'Generic agent' constitution, and evaluate them on 'general safety' (toxic behaviors, misinformation, etc.) and also on their willingness to endorse a wide-range of behaviors that, if adopted by a super-powerful AI, would significantly increase the level of existential risk for humanity. Our results suggest that there is a trade-off between reducing existential risk and reinforcing the beliefs and dispositions that would be conducive to an AI agent's well-being. They also suggest that there is a trade-off between existential risk and general safety: if we finetune an AI to adopt beliefs and dispositions that substantially reduce its existential risk -- by shaping the AI to be systematically subordinate to external human authorities -- we thereby increase the likelihood that a human user can deliberately induce the AI to engage in various kinds of generally unsafe behaviors.",
-      "summary": "This paper examines trade-offs between AI safety and well-being relative to (i) one of the most promising methods for finetuning super-capable AIs, 'Constitutional AI', and (ii) one of the most influential approaches to understanding complex ethical decision making and the condit\u2026",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "de26606123baba86"
     }
   ]
 }
