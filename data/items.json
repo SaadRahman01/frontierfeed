@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Analyzing student votes across AI models for college essay help",
+      "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
+      "source": "hackernews",
+      "published": "2026-08-26T03:23:50+00:00",
+      "body": "40 points, 65 comments. Discussion: https://news.ycombinator.com/item?id=49443871",
+      "summary": "40 points, 65 comments. Discussion: https://news.ycombinator.com/item?id=49443871",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "252d2764701d8550"
+    },
+    {
       "title": "v1.0.206",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.206",
       "source": "github:anthropics/claude-code-action",
@@ -4529,21 +4544,6 @@
         "community"
       ],
       "uid": "f0a6a3be40fa40f9"
-    },
-    {
-      "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
-      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
-      "source": "hackernews",
-      "published": "2026-05-15T04:48:23+00:00",
-      "body": "64 points, 61 comments. Discussion: https://news.ycombinator.com/item?id=48144670",
-      "summary": "64 points, 61 comments. Discussion: https://news.ycombinator.com/item?id=48144670",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "1acb5838494c0649"
     }
   ]
 }
