@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 26 Aug 2026 19:22:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 23:40:44 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Claude gets its own browser in Cowork</title>
+<link>https://claude.com/blog/cowork-built-in-browser</link>
+<guid isPermaLink="false">frontierfeed:fc05dbe3764b32fe</guid>
+<pubDate>Wed, 26 Aug 2026 23:40:33 +0000</pubDate>
+<category>claude-code</category>
+<description>Claude gets its own browser in Cowork</description>
+</item>
 <item>
 <title>Claude in Chrome is generally available</title>
 <link>https://claude.com/blog/claude-in-chrome-generally-available</link>
@@ -70,6 +78,14 @@
 <pubDate>Wed, 26 Aug 2026 17:14:40 +0000</pubDate>
 <category>api</category>
 <description>## 1.1.0 (2026-08-26) Full Changelog: [v1.0.0...v1.1.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.0.0...v1.1.0) ### Features * **api:** add `updates` thinking display mode (beta) ([eb4a73f](https://github.com/anthropics/anthropic-sdk-python/commit/eb4a73fdddc1…</description>
+</item>
+<item>
+<title>Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies</title>
+<link>https://www.risklytics.ai/</link>
+<guid isPermaLink="false">frontierfeed:cdd26742c4663350</guid>
+<pubDate>Wed, 26 Aug 2026 16:06:01 +0000</pubDate>
+<category>note</category>
+<description>43 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=49451495</description>
 </item>
 <item>
 <title>A curmudgeon tries a language server</title>
@@ -790,22 +806,6 @@
 <pubDate>Tue, 18 Aug 2026 16:16:12 +0000</pubDate>
 <category>api</category>
 <description># Release : v2026.8.18 ## Updated packages - @modelcontextprotocol/server-everything@2026.8.18 - mcp-server-time@2026.8.18 - mcp-server-fetch@2026.8.18 - mcp-server-git@2026.8.18</description>
-</item>
-<item>
-<title>v1.0.194</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.194</link>
-<guid isPermaLink="false">frontierfeed:54634e244478e789</guid>
-<pubDate>Mon, 17 Aug 2026 20:25:16 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed * Harden delete_files MCP tool: validate paths within repo root (consistency with commit_files) by @GabrielOnRails in https://github.com/anthropics/claude-code-action/pull/1636 * Only limit fetch depth when the checkout is already shallow by @winklemad in https:…</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.234 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.234</link>
-<guid isPermaLink="false">frontierfeed:f6d37c4ab97e8eb9</guid>
-<pubDate>Mon, 17 Aug 2026 18:19:13 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.234 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>
