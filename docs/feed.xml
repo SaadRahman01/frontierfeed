@@ -5,8 +5,48 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 27 Aug 2026 09:55:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 20:34:05 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Previewing the Model Hardware Standard</title>
+<link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+<guid isPermaLink="false">frontierfeed:1a42e045640872a6</guid>
+<pubDate>Thu, 27 Aug 2026 20:33:52 +0000</pubDate>
+<category>note</category>
+<description>Previewing the Model Hardware Standard</description>
+</item>
+<item>
+<title>bedrock-sdk: v0.33.3</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.3</link>
+<guid isPermaLink="false">frontierfeed:da7ff1dabd847b80</guid>
+<pubDate>Thu, 27 Aug 2026 20:33:41 +0000</pubDate>
+<category>api</category>
+<description>## 0.33.3 (2026-08-27) Full Changelog: [bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3) ### Bug Fixes * **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://gi…</description>
+</item>
+<item>
+<title>sdk: v0.122.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.122.0</link>
+<guid isPermaLink="false">frontierfeed:70ceb1da61ac334f</guid>
+<pubDate>Thu, 27 Aug 2026 20:33:34 +0000</pubDate>
+<category>api</category>
+<description>## 0.122.0 (2026-08-27) Full Changelog: [sdk-v0.121.0...sdk-v0.122.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.121.0...sdk-v0.122.0) ### Features * **api:** beta files/skills namespaces use GA shapes; drop dated beta header pins ([45d693a](https://git…</description>
+</item>
+<item>
+<title>v1.2.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.2.0</link>
+<guid isPermaLink="false">frontierfeed:e9c627c0b6b07f2a</guid>
+<pubDate>Thu, 27 Aug 2026 20:28:58 +0000</pubDate>
+<category>api</category>
+<description>## 1.2.0 (2026-08-27) Full Changelog: [v1.1.0...v1.2.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.1.0...v1.2.0) ### Features * **api:** beta files/skills namespaces use GA shapes; drop dated beta header pins ([9df4565](https://github.com/anthropics/anthropic-s…</description>
+</item>
+<item>
+<title>Tell HN: Man, AI is killing my brain</title>
+<link>https://news.ycombinator.com/item?id=49468252</link>
+<guid isPermaLink="false">frontierfeed:47c442ba657686f8</guid>
+<pubDate>Thu, 27 Aug 2026 17:28:27 +0000</pubDate>
+<category>note</category>
+<description>43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49468252</description>
+</item>
 <item>
 <title>v1.0.207</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.207</link>
@@ -766,46 +806,6 @@
 <pubDate>Tue, 18 Aug 2026 21:14:21 +0000</pubDate>
 <category>claude-code</category>
 <description>130 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=49352806</description>
-</item>
-<item>
-<title>v1.0.195</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.195</link>
-<guid isPermaLink="false">frontierfeed:9c3ef16722af5396</guid>
-<pubDate>Tue, 18 Aug 2026 20:40:51 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.194...v1.0.195</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.235 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.235</link>
-<guid isPermaLink="false">frontierfeed:5a9dec997e064077</guid>
-<pubDate>Tue, 18 Aug 2026 18:24:10 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.235 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Claude Code May–August 2026 weekly limits promotion</title>
-<link>https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion</link>
-<guid isPermaLink="false">frontierfeed:86976fcdd6ffa129</guid>
-<pubDate>Tue, 18 Aug 2026 17:02:15 +0000</pubDate>
-<category>claude-code</category>
-<description>295 points, 265 comments. Discussion: https://news.ycombinator.com/item?id=49348751</description>
-</item>
-<item>
-<title>Degraded performance for multiple models</title>
-<link>https://status.claude.com/incidents/q7txxvbsftgq</link>
-<guid isPermaLink="false">frontierfeed:b1ec905a586ccfc9</guid>
-<pubDate>Tue, 18 Aug 2026 16:28:20 +0000</pubDate>
-<category>incident</category>
-<description>151 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=49348163</description>
-</item>
-<item>
-<title>Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI</title>
-<link>https://machine0.io</link>
-<guid isPermaLink="false">frontierfeed:d7b015f51ae64037</guid>
-<pubDate>Tue, 18 Aug 2026 16:26:42 +0000</pubDate>
-<category>note</category>
-<description>82 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49348136</description>
 </item>
 </channel>
 </rss>
