@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 26 Aug 2026 23:40:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 09:55:30 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>v1.0.207</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.207</link>
+<guid isPermaLink="false">frontierfeed:d69d348d9245a8fe</guid>
+<pubDate>Thu, 27 Aug 2026 00:10:27 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.206...v1.0.207</description>
+</item>
 <item>
 <title>Claude gets its own browser in Cowork</title>
 <link>https://claude.com/blog/cowork-built-in-browser</link>
@@ -798,14 +806,6 @@
 <pubDate>Tue, 18 Aug 2026 16:26:42 +0000</pubDate>
 <category>note</category>
 <description>82 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49348136</description>
-</item>
-<item>
-<title>Release 2026.8.18</title>
-<link>https://github.com/modelcontextprotocol/servers/releases/tag/2026.8.18</link>
-<guid isPermaLink="false">frontierfeed:7dbbac98b35957f7</guid>
-<pubDate>Tue, 18 Aug 2026 16:16:12 +0000</pubDate>
-<category>api</category>
-<description># Release : v2026.8.18 ## Updated packages - @modelcontextprotocol/server-everything@2026.8.18 - mcp-server-time@2026.8.18 - mcp-server-fetch@2026.8.18 - mcp-server-git@2026.8.18</description>
 </item>
 </channel>
 </rss>

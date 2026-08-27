@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-26T23:40:44.482290+00:00",
+  "generated": "2026-08-27T09:55:30.520352+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.207",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.207",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-27T00:10:27+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.206...v1.0.207",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.206...v1.0.207",
+      "version": "1.0.207",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "d69d348d9245a8fe"
+    },
     {
       "title": "Claude gets its own browser in Cowork",
       "url": "https://claude.com/blog/cowork-built-in-browser",
@@ -4533,22 +4549,6 @@
         "community"
       ],
       "uid": "54a22909fbd1f4aa"
-    },
-    {
-      "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
-      "url": "https://arxiv.org/abs/2606.28294v1",
-      "source": "arxiv",
-      "published": "2026-06-26T17:38:47+00:00",
-      "body": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final choice rather than the considerations that shape preferences. Inverse Constitutional AI (ICAI) improves interpretability in decision making by summarizing preferences into natural-language principles, but its single-pass explanations miss much of the nuance involved in complex decisions. We introduce Democratic ICAI, a novel approach that gathers multiple competing rationales through structured persona debate, offering a broader and more expressive account of the factors influencing each comparison. From these richer signals, we derive clearer and more comprehensive steering principles and use them to guide decision modeling through both LLM-based and decision-tree judges. Experiments on creative preference benchmarks, MuCE-Pref and LiTBench, across multiple creative task categories show that Democratic ICAI yields a more faithful preference structure. It improves average preference prediction across tasks relative to deliberative prompting and principle-based baselines, while producing constitutions that LLM annotators prefer.",
-      "summary": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final choice rather than the considerations that shape preferences.",
-      "version": "",
-      "category": "research",
-      "impact": "feature",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "4bdae4191f71403e"
     }
   ]
 }
