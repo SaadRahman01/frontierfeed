@@ -5,8 +5,56 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 27 Aug 2026 20:34:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 05:27:14 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Expanding our support for scientists</title>
+<link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
+<guid isPermaLink="false">frontierfeed:5c538f75557a17d5</guid>
+<pubDate>Fri, 28 Aug 2026 05:27:01 +0000</pubDate>
+<category>note</category>
+<description>Expanding our support for scientists</description>
+</item>
+<item>
+<title>Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal</title>
+<link>https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html</link>
+<guid isPermaLink="false">frontierfeed:56f795afe36e8075</guid>
+<pubDate>Fri, 28 Aug 2026 02:03:38 +0000</pubDate>
+<category>note</category>
+<description>180 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=49473522</description>
+</item>
+<item>
+<title>v1.0.209</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.209</link>
+<guid isPermaLink="false">frontierfeed:b30f11572b0fae84</guid>
+<pubDate>Fri, 28 Aug 2026 00:51:06 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.208...v1.0.209</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.250 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.250</link>
+<guid isPermaLink="false">frontierfeed:eb282856df0e5e34</guid>
+<pubDate>Thu, 27 Aug 2026 22:27:48 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.250 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>v1.0.208</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.208</link>
+<guid isPermaLink="false">frontierfeed:0b46d3f9dc9f4e05</guid>
+<pubDate>Thu, 27 Aug 2026 22:13:41 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.207...v1.0.208</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.248 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.248</link>
+<guid isPermaLink="false">frontierfeed:4952e40eabaa1166</guid>
+<pubDate>Thu, 27 Aug 2026 20:35:36 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.248 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Previewing the Model Hardware Standard</title>
 <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
@@ -14,6 +62,14 @@
 <pubDate>Thu, 27 Aug 2026 20:33:52 +0000</pubDate>
 <category>note</category>
 <description>Previewing the Model Hardware Standard</description>
+</item>
+<item>
+<title>aws-sdk: v0.6.6</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.6.6</link>
+<guid isPermaLink="false">frontierfeed:640a51861748d9cd</guid>
+<pubDate>Thu, 27 Aug 2026 20:33:46 +0000</pubDate>
+<category>api</category>
+<description>## 0.6.6 (2026-08-27) Full Changelog: [aws-sdk-v0.6.5...aws-sdk-v0.6.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.5...aws-sdk-v0.6.6) ### Bug Fixes * **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://github.com/anthropics/a…</description>
 </item>
 <item>
 <title>bedrock-sdk: v0.33.3</title>
@@ -750,62 +806,6 @@
 <pubDate>Wed, 19 Aug 2026 16:51:20 +0000</pubDate>
 <category>api</category>
 <description>## 0.124.0 (2026-08-19) Full Changelog: [v0.123.0...v0.124.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.123.0...v0.124.0) ### Features * **api:** Files and Skills APIs are now GA; add computer use and browser use toolsets ([9a09e84](https://github.com/anthropi…</description>
-</item>
-<item>
-<title>bedrock-sdk: v0.33.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.0</link>
-<guid isPermaLink="false">frontierfeed:6153da0ab29b7314</guid>
-<pubDate>Wed, 19 Aug 2026 16:51:03 +0000</pubDate>
-<category>api</category>
-<description>## 0.33.0 (2026-08-19) Full Changelog: [bedrock-sdk-v0.32.4...bedrock-sdk-v0.33.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.32.4...bedrock-sdk-v0.33.0) ### Features * **api:** Files and Skills APIs are now GA; add computer use and browser use…</description>
-</item>
-<item>
-<title>sdk: v0.119.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.119.0</link>
-<guid isPermaLink="false">frontierfeed:0e79c60e5916a050</guid>
-<pubDate>Wed, 19 Aug 2026 16:50:57 +0000</pubDate>
-<category>api</category>
-<description>## 0.119.0 (2026-08-19) Full Changelog: [sdk-v0.118.0...sdk-v0.119.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.118.0...sdk-v0.119.0) ### Features * **api:** Files and Skills APIs are now GA; add computer use and browser use toolsets ([ab41aa3](https:/…</description>
-</item>
-<item>
-<title>v0.123.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.123.0</link>
-<guid isPermaLink="false">frontierfeed:f9894cf0b188d19e</guid>
-<pubDate>Wed, 19 Aug 2026 13:31:54 +0000</pubDate>
-<category>api</category>
-<description>## 0.123.0 (2026-08-18) Full Changelog: [v0.122.0...v0.123.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.122.0...v0.123.0) ### Features * **api:** additions to files and memory stores ([09ce187](https://github.com/anthropics/anthropic-sdk-python/commit/09ce187e…</description>
-</item>
-<item>
-<title>sdk: v0.118.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.118.0</link>
-<guid isPermaLink="false">frontierfeed:4b17bb6a2e8aa2a6</guid>
-<pubDate>Wed, 19 Aug 2026 13:29:19 +0000</pubDate>
-<category>api</category>
-<description>## 0.118.0 (2026-08-18) Full Changelog: [sdk-v0.117.1...sdk-v0.118.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.117.1...sdk-v0.118.0) ### Features * **api:** additions to files and memory stores ([fdc0379](https://github.com/anthropics/anthropic-sdk-ty…</description>
-</item>
-<item>
-<title>Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)</title>
-<link>https://arxiv.org/abs/2504.09762</link>
-<guid isPermaLink="false">frontierfeed:e6e1cffb2f1e76bb</guid>
-<pubDate>Wed, 19 Aug 2026 11:35:26 +0000</pubDate>
-<category>note</category>
-<description>303 points, 254 comments. Discussion: https://news.ycombinator.com/item?id=49360140</description>
-</item>
-<item>
-<title>Show HN: Automatically detect and patch walking-dead states in Sierra games</title>
-<link>https://github.com/katiahayati/lucasartsifier/</link>
-<guid isPermaLink="false">frontierfeed:64f04ace974dbb11</guid>
-<pubDate>Wed, 19 Aug 2026 01:58:33 +0000</pubDate>
-<category>note</category>
-<description>161 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=49355607</description>
-</item>
-<item>
-<title>Claude Code teaching macOS to natively print to the HP Laser 1008a</title>
-<link>https://cdn.kuber.studio/chat/hp-laser-1008a-driver</link>
-<guid isPermaLink="false">frontierfeed:79d995527a59ed17</guid>
-<pubDate>Tue, 18 Aug 2026 21:14:21 +0000</pubDate>
-<category>claude-code</category>
-<description>130 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=49352806</description>
 </item>
 </channel>
 </rss>

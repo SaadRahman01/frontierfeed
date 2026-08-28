@@ -1,9 +1,104 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-27T20:34:05.922404+00:00",
+  "generated": "2026-08-28T05:27:14.661688+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Expanding our support for scientists",
+      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "source": "anthropic-news",
+      "published": "2026-08-28T05:27:01.836818+00:00",
+      "body": "Expanding our support for scientists",
+      "summary": "Expanding our support for scientists",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "5c538f75557a17d5"
+    },
+    {
+      "title": "Judge Rules Trump Administration\u2019s Blacklisting of Anthropic Was Illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "source": "hackernews",
+      "published": "2026-08-28T02:03:38+00:00",
+      "body": "180 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=49473522",
+      "summary": "180 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=49473522",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "56f795afe36e8075"
+    },
+    {
+      "title": "v1.0.209",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.209",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-28T00:51:06+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.208...v1.0.209",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.208...v1.0.209",
+      "version": "1.0.209",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "b30f11572b0fae84"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.250 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.250",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-08-27T22:27:48.314000+00:00",
+      "body": "Version 2.1.250 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.250 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.250",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "eb282856df0e5e34"
+    },
+    {
+      "title": "v1.0.208",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.208",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-27T22:13:41+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.207...v1.0.208",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.207...v1.0.208",
+      "version": "1.0.208",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "0b46d3f9dc9f4e05"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.248 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.248",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-08-27T20:35:36.671000+00:00",
+      "body": "Version 2.1.248 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.248 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.248",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "4952e40eabaa1166"
+    },
     {
       "title": "Previewing the Model Hardware Standard",
       "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
@@ -19,6 +114,22 @@
         "news"
       ],
       "uid": "1a42e045640872a6"
+    },
+    {
+      "title": "aws-sdk: v0.6.6",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.6.6",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-08-27T20:33:46+00:00",
+      "body": "## 0.6.6 (2026-08-27)\n\nFull Changelog: [aws-sdk-v0.6.5...aws-sdk-v0.6.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.5...aws-sdk-v0.6.6)\n\n### Bug Fixes\n\n* **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://github.com/anthropics/anthropic-sdk-typescript/issues/436)) ([d1fd5dd](https://github.com/anthropics/anthropic-sdk-typescript/commit/d1fd5ddb7e0e33bc5dc4f87580053aea41c2ae74))\n* **aws,bedrock:** sign repeated query keys correctly with SigV4 ([#409](https://github.com/anthropics/anthropic-sdk-typescript/issues/409)) ([6a7e22a](https://github.com/anthropics/anthropic-sdk-typescript/commit/6a7e22a00f947f15eecdfe5ac99d21df2ed0ffea))",
+      "summary": "## 0.6.6 (2026-08-27) Full Changelog: [aws-sdk-v0.6.5...aws-sdk-v0.6.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.5...aws-sdk-v0.6.6) ### Bug Fixes * **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://github.com/anthropics/a\u2026",
+      "version": "aws-sdk-v0.6.6",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "640a51861748d9cd"
     },
     {
       "title": "bedrock-sdk: v0.33.3",
@@ -4436,121 +4547,6 @@
         "community"
       ],
       "uid": "ee16e27b01c8eea3"
-    },
-    {
-      "title": "Release 2026.7.10",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2026.7.10",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2026-07-10T03:39:07+00:00",
-      "body": "# Release : v2026.7.10\n\n## Updated packages\n- @modelcontextprotocol/server-filesystem@2026.7.10\n- mcp-server-time@2026.7.10\n- mcp-server-fetch@2026.7.10\n- mcp-server-git@2026.7.10\n",
-      "summary": "# Release : v2026.7.10 ## Updated packages - @modelcontextprotocol/server-filesystem@2026.7.10 - mcp-server-time@2026.7.10 - mcp-server-fetch@2026.7.10 - mcp-server-git@2026.7.10",
-      "version": "2026.7.10",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "servers",
-        "mcp"
-      ],
-      "uid": "400e3874097f6fe2"
-    },
-    {
-      "title": "Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",
-      "url": "https://arxiv.org/abs/2607.06963v1",
-      "source": "arxiv",
-      "published": "2026-07-08T03:40:26+00:00",
-      "body": "Large Language Models (LLMs) and generative AI (GenAI) systems, such as ChatGPT, Claude, Gemini, LLaMA, Copilot, Stable Diffusion by OpenAI, Anthropic, Google, Meta, Microsoft, Stability AI, respectively, are revolutionizing cybersecurity, enabling both automated defense and sophisticated attacks. These technologies power real-time threat detection, phishing defense, secure code generation, and vulnerability exploitation at unprecedented scales. Following a rapid surge where LLM-generated malware grew to account for an estimated 50% of detected threats by 2025, up from just 2% in 2021, navigating this highly automated threat landscape in 2026 demands next-generation security frameworks. This paper presents a comprehensive survey of the beneficial and malicious applications of LLMs in cybersecurity, including zero-day detection, DevSecOps, federated learning, synthetic content analysis, and explainable AI (XAI). Drawing on a review of over 70 academic papers, industry reports, and technical documents, this work synthesizes insights from real-world case studies across platforms like Google Play Protect, Microsoft Defender, Amazon Web Services (AWS), Apple App Store, OpenAI Plugin Stores, Hugging Face Spaces, and GitHub, alongside emerging initiatives like the SAFE Framework and AI-driven anomaly detection. We conclude with practical recommendations for responsible and transparent LLM deployment and trustworthy AI, including model watermarking, adversarial defense, and cross-industry collaboration, setting a new benchmark for rigorous, holistic cybersecurity research at the intersection of AI and threat defense, and offering a roadmap for secure, scalable LLM systems that serves as a critical reference for researchers, engineers, and security leaders navigating the complex challenges of AI-driven cybersecurity.",
-      "summary": "Large Language Models (LLMs) and generative AI (GenAI) systems, such as ChatGPT, Claude, Gemini, LLaMA, Copilot, Stable Diffusion by OpenAI, Anthropic, Google, Meta, Microsoft, Stability AI, respectively, are revolutionizing cybersecurity, enabling both automated defense and soph\u2026",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper",
-        "skills"
-      ],
-      "uid": "fbc0c36275f53307"
-    },
-    {
-      "title": "Plausible but Not Valid: A Psychometric Audit of LLMs as Synthetic Survey Respondents",
-      "url": "https://arxiv.org/abs/2608.14606v1",
-      "source": "arxiv",
-      "published": "2026-07-06T17:11:16+00:00",
-      "body": "Large language models (LLMs) are increasingly used as synthetic survey respondents, but existing evaluations ask whether answers look plausible at the individual level. We argue the right question is psychometric: do LLMs preserve the joint distribution, latent structure, reliability, mediation pathways, and demographic effects of real human survey data? We introduce a Lithuanian organisational-psychology dataset (n=263 employees; Dunham Attitudes Toward Change, UWES-17, Koopmans IWPQ; 68 items, 12 subscales) and condition a 37-model lineup spanning OpenAI, Anthropic, Google, and twelve open-weight families on real respondent profiles under a five-level persona-disclosure ladder, presentation and reasoning-effort ablations, counterfactual demographic swaps (gender, role, education), a cross-language check, and a verbatim-recall memorization probe. The resulting Psychometric Similarity Score (PSS) is anchored against five non-LLM statistical baselines and a held-out human-vs-human ceiling, with respondent-bootstrap confidence intervals and an item-permutation null for Tucker's phi. LLMs reproduce the qualitative direction of human psychometric relationships, but a Gaussian-copula baseline beats every LLM on the sample-driven PSS components; the LLM \"crowd\" is more similar to itself (mean inter-LLM PSS 0.73) than to humans; and memorization does not drive the leaderboard (recall-PSS rank correlation 0.00). Counterfactual swaps reveal education-driven effects (mean |d|=0.56) that dwarf gender (0.12) and role (0.18); Tucker's phi on UWES falls inside the permutation null for 8 of 37 models. Downstream, every LLM shows a strong acquiescence shift (+0.84 SD), synthetic-trained regressors lose predictive validity on held-out humans (mean R^2 -0.18 vs 0.28), and models fabricate indirect effects on 3 of 10 placebo mediation paths. LLM samples are not a drop-in replacement for human survey data.",
-      "summary": "Large language models (LLMs) are increasingly used as synthetic survey respondents, but existing evaluations ask whether answers look plausible at the individual level.",
-      "version": "",
-      "category": "research",
-      "impact": "feature",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "287ffe6a149ee9b4"
-    },
-    {
-      "title": "SPL: Orchestrating Workflows with Declarative Deterministic-Probabilistic Composition",
-      "url": "https://arxiv.org/abs/2607.07727v1",
-      "source": "arxiv",
-      "published": "2026-07-06T03:53:10+00:00",
-      "body": "We present SPL (Structured Prompt Language), a declarative language that composes deterministic and probabilistic computation modes in a single specification. While existing frameworks separate these -- orchestration systems (AutoGen, CrewAI, LangGraph) for LLM calls, symbolic tools (SymPy, SageMath, Lean) for computation -- SPL unifies them. It provides GENERATE/EVALUATE for probabilistic computation and SOLVE/ASSERT for deterministic computation, sharing syntax, variable bindings, and runtime routing. A .spl specification runs unchanged across local nodes (Ollama), cloud APIs (OpenRouter, Anthropic), and distributed grids (Momagrid), with model and verifier selection deferred to invocation time.\n  We validate SPL through an extensive 78-recipe cookbook and a controlled 1,200-run experiment (10 models x 20 problems x 2 arms x 3 repetitions; the 20 problems span 6 difficulty tiers). The solver arm achieves 82-93% machine-verified correctness (sonnet-4-6: 85%, gemma4:e2b: 93%) while the LLM-only arm measures output production without mathematical verification, making the comparison one of verified correctness against unverified fluency. A backend difficulty gradient emerges (SymPy 78%, Sage 54%), and the dominant failure mode is solver_error (kernel-rejected expressions), not format non-compliance.",
-      "summary": "We present SPL (Structured Prompt Language), a declarative language that composes deterministic and probabilistic computation modes in a single specification.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper",
-        "sonnet"
-      ],
-      "uid": "c9ed72b82623ae28"
-    },
-    {
-      "title": "Release 2026.7.4",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2026.7.4",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2026-07-04T23:05:56+00:00",
-      "body": "# Release : v2026.7.4\n\n## Updated packages\n- @modelcontextprotocol/server-everything@2026.7.4\n- @modelcontextprotocol/server-filesystem@2026.7.4\n- @modelcontextprotocol/server-sequential-thinking@2026.7.4\n- @modelcontextprotocol/server-memory@2026.7.4\n",
-      "summary": "# Release : v2026.7.4 ## Updated packages - @modelcontextprotocol/server-everything@2026.7.4 - @modelcontextprotocol/server-filesystem@2026.7.4 - @modelcontextprotocol/server-sequential-thinking@2026.7.4 - @modelcontextprotocol/server-memory@2026.7.4",
-      "version": "2026.7.4",
-      "category": "note",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "servers"
-      ],
-      "uid": "f5bef17dc91019ec"
-    },
-    {
-      "title": "v0.116.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.116.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-07-02T19:07:55+00:00",
-      "body": "## 0.116.0 (2026-07-02)\n\nFull Changelog: [v0.115.1...v0.116.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.115.1...v0.116.0)\n\n### Features\n\n* **api:** add agent-memory-2026-07-22 beta header ([e181d5c](https://github.com/anthropics/anthropic-sdk-python/commit/e181d5c1b233d5b0b313c78b27cf1dd27f620e74))",
-      "summary": "## 0.116.0 (2026-07-02) Full Changelog: [v0.115.1...v0.116.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.115.1...v0.116.0) ### Features * **api:** add agent-memory-2026-07-22 beta header ([e181d5c](https://github.com/anthropics/anthropic-sdk-python/commit/e181d\u2026",
-      "version": "0.116.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-python"
-      ],
-      "uid": "9875aa7248df27c0"
-    },
-    {
-      "title": "Launch HN: Manufact (YC S25) \u2013 MCP Cloud",
-      "url": "https://manufact.com",
-      "source": "hackernews",
-      "published": "2026-07-02T15:11:20+00:00",
-      "body": "111 points, 70 comments. Discussion: https://news.ycombinator.com/item?id=48762862",
-      "summary": "111 points, 70 comments. Discussion: https://news.ycombinator.com/item?id=48762862",
-      "version": "",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "community",
-        "mcp"
-      ],
-      "uid": "e31e41a3e95feaa7"
     }
   ]
 }
