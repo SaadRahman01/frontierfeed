@@ -1,9 +1,72 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-28T05:27:14.661688+00:00",
+  "generated": "2026-08-28T18:47:05.724261+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Claude for Teachers, now available for schools and districts",
+      "url": "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts",
+      "source": "claude-blog",
+      "published": "2026-08-28T18:46:55.033480+00:00",
+      "body": "Claude for Teachers, now available for schools and districts",
+      "summary": "Claude for Teachers, now available for schools and districts",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "d35cb32ab7bd60e9"
+    },
+    {
+      "title": "v1.0.210",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.210",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-28T18:21:48+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.209...v1.0.210",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.209...v1.0.210",
+      "version": "1.0.210",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "d9e30ea20ecd5796"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.251 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.251",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-08-28T15:34:26.421000+00:00",
+      "body": "Version 2.1.251 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.251 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.251",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "c2cfd250d6910163"
+    },
+    {
+      "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+      "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+      "source": "hackernews",
+      "published": "2026-08-28T11:25:30+00:00",
+      "body": "319 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=49477055",
+      "summary": "319 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=49477055",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "9834317f099e72da"
+    },
     {
       "title": "Expanding our support for scientists",
       "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
@@ -4486,67 +4549,6 @@
         "community"
       ],
       "uid": "81d1be39888aafbb"
-    },
-    {
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "source": "hackernews",
-      "published": "2026-07-13T08:39:39+00:00",
-      "body": "1554 points, 787 comments. Discussion: https://news.ycombinator.com/item?id=48889637",
-      "summary": "1554 points, 787 comments. Discussion: https://news.ycombinator.com/item?id=48889637",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "af0cb73b96c9c196"
-    },
-    {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "source": "hackernews",
-      "published": "2026-07-12T18:25:51+00:00",
-      "body": "706 points, 396 comments. Discussion: https://news.ycombinator.com/item?id=48883275",
-      "summary": "706 points, 396 comments. Discussion: https://news.ycombinator.com/item?id=48883275",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "20cf5b1f03582b3c"
-    },
-    {
-      "title": "Capabilities of Claude Fable 5 on Biomedical Challenge Problems",
-      "url": "https://arxiv.org/abs/2607.10849v1",
-      "source": "arxiv",
-      "published": "2026-07-12T17:21:32+00:00",
-      "body": "Frontier language models are increasingly evaluated on biomedical benchmarks, but two problems undermine most published evaluations: legacy benchmarks are near-saturated, and open-ended responses are graded by other language models. We evaluate Claude Fable 5, Anthropic's most capable publicly available model, across eight biomedical benchmarks, four text and four multimodal, using deterministic scoring against fixed answer keys throughout. We include two Claude predecessors and GPT-5 as baselines. Refusal is tracked as a distinct outcome in every result table. That decision produces the paper's central finding. Fable 5 refuses between 8.0% and 99.4% of questions depending on the benchmark, a pattern absent in both predecessors and in GPT-5. Once refused items are excluded from the denominator, Fable 5's accuracy exceeds or meets every other model on every benchmark in this study. We identify two distinguishable refusal patterns: one concentrating in basic-science and mechanism content across MedQA and MedXpertQA MM, confirmed independently on two benchmarks using each benchmark's own category labels; and a separate disease-domain pattern on RareBench, where inborn metabolic disease presentations are refused near-universally while adult-onset autoimmune presentations are not. The primary constraint on Fable 5's biomedical usefulness is willingness to engage, not capability once it does.",
-      "summary": "Frontier language models are increasingly evaluated on biomedical benchmarks, but two problems undermine most published evaluations: legacy benchmarks are near-saturated, and open-ended responses are graded by other language models.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "607a567f9c19ab1d"
-    },
-    {
-      "title": "I used to love Claude, but the latest models are slowly ruining it",
-      "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
-      "source": "hackernews",
-      "published": "2026-07-11T20:21:25+00:00",
-      "body": "50 points, 61 comments. Discussion: https://news.ycombinator.com/item?id=48875494",
-      "summary": "50 points, 61 comments. Discussion: https://news.ycombinator.com/item?id=48875494",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "ee16e27b01c8eea3"
     }
   ]
 }
