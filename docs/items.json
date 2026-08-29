@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-28T18:47:05.724261+00:00",
+  "generated": "2026-08-29T02:14:55.963503+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "How Anthropic employees use Claude Tag",
+      "url": "https://claude.com/blog/how-anthropic-employees-use-claude-tag",
+      "source": "claude-blog",
+      "published": "2026-08-29T02:14:45.325469+00:00",
+      "body": "How Anthropic employees use Claude Tag",
+      "summary": "How Anthropic employees use Claude Tag",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "ab9756a74bdf85f1"
+    },
+    {
+      "title": "Claude for Teachers, now available for U.S. K-12 schools and districts",
+      "url": "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts",
+      "source": "claude-blog",
+      "published": "2026-08-29T02:14:45.325428+00:00",
+      "body": "Claude for Teachers, now available for U.S. K-12 schools and districts",
+      "summary": "Claude for Teachers, now available for U.S. K-12 schools and districts",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "26a889ed96a42882"
+    },
     {
       "title": "Claude for Teachers, now available for schools and districts",
       "url": "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts",
@@ -4521,34 +4553,6 @@
       "impact": "fix",
       "tags": [],
       "uid": "c30bb2f4f6665dc6"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.209 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.209",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-07-14T04:45:37.792000+00:00",
-      "body": "Version 2.1.209 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.209 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.209",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "54dbdb5709e2ca44"
-    },
-    {
-      "title": "Show HN: I implemented a neural network in SQL",
-      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-      "source": "hackernews",
-      "published": "2026-07-13T20:00:10+00:00",
-      "body": "121 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=48897975",
-      "summary": "121 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=48897975",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "81d1be39888aafbb"
     }
   ]
 }

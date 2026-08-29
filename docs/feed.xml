@@ -5,8 +5,24 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 28 Aug 2026 18:47:05 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 02:14:55 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How Anthropic employees use Claude Tag</title>
+<link>https://claude.com/blog/how-anthropic-employees-use-claude-tag</link>
+<guid isPermaLink="false">frontierfeed:ab9756a74bdf85f1</guid>
+<pubDate>Sat, 29 Aug 2026 02:14:45 +0000</pubDate>
+<category>note</category>
+<description>How Anthropic employees use Claude Tag</description>
+</item>
+<item>
+<title>Claude for Teachers, now available for U.S. K-12 schools and districts</title>
+<link>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</link>
+<guid isPermaLink="false">frontierfeed:26a889ed96a42882</guid>
+<pubDate>Sat, 29 Aug 2026 02:14:45 +0000</pubDate>
+<category>note</category>
+<description>Claude for Teachers, now available for U.S. K-12 schools and districts</description>
+</item>
 <item>
 <title>Claude for Teachers, now available for schools and districts</title>
 <link>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</link>
@@ -790,22 +806,6 @@
 <pubDate>Wed, 19 Aug 2026 22:00:22 +0000</pubDate>
 <category>api</category>
 <description>## 0.19.5 (2026-08-19) Full Changelog: [vertex-sdk-v0.19.4...vertex-sdk-v0.19.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.4...vertex-sdk-v0.19.5) ### Chores * **internal:** use a single pnpm workspace lockfile ([#359](https://github.com/anth…</description>
-</item>
-<item>
-<title>sdk: v0.120.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.120.0</link>
-<guid isPermaLink="false">frontierfeed:9607c90acf268e89</guid>
-<pubDate>Wed, 19 Aug 2026 22:00:16 +0000</pubDate>
-<category>api</category>
-<description>## 0.120.0 (2026-08-19) Full Changelog: [sdk-v0.119.0...sdk-v0.120.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.119.0...sdk-v0.120.0) ### Features * **api:** managed agents web search config and self hosted sandbox memory ([ba8ec50](https://github.com/…</description>
-</item>
-<item>
-<title>Feature Request: Support AGENTS.md</title>
-<link>https://github.com/anthropics/claude-code/issues/6235</link>
-<guid isPermaLink="false">frontierfeed:9c77de4546f265db</guid>
-<pubDate>Wed, 19 Aug 2026 21:19:50 +0000</pubDate>
-<category>note</category>
-<description>375 points, 219 comments. Discussion: https://news.ycombinator.com/item?id=49367350</description>
 </item>
 </channel>
 </rss>
