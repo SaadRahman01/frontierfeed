@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "source": "hackernews",
+      "published": "2026-08-30T12:50:54+00:00",
+      "body": "113 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=49498201",
+      "summary": "113 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=49498201",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "39baca36eab6c30a"
+    },
+    {
       "title": "How Anthropic employees use Claude Tag",
       "url": "https://claude.com/blog/how-anthropic-employees-use-claude-tag",
       "source": "claude-blog",
@@ -286,6 +301,21 @@
         "community"
       ],
       "uid": "47c442ba657686f8"
+    },
+    {
+      "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
+      "url": "https://github.com/opslane/opslane",
+      "source": "hackernews",
+      "published": "2026-08-27T15:45:16+00:00",
+      "body": "40 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=49466704",
+      "summary": "40 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=49466704",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "a519f6359da7dd56"
     },
     {
       "title": "v1.0.207",
@@ -4523,32 +4553,6 @@
         "community"
       ],
       "uid": "46f6e1b59d5aba8b"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.211 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.211",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-07-15T19:24:07.013000+00:00",
-      "body": "Version 2.1.211 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.211 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.211",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "f379e4fe34b01b3b"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.210 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.210",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-07-14T19:39:21.730000+00:00",
-      "body": "Version 2.1.210 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.210 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.210",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "c30bb2f4f6665dc6"
     }
   ]
 }

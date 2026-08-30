@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 30 Aug 2026 12:57:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 17:33:23 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Claude Session URL appended to commit messages and PR descriptions by default</title>
+<link>https://github.com/anthropics/claude-code/issues/66504</link>
+<guid isPermaLink="false">frontierfeed:39baca36eab6c30a</guid>
+<pubDate>Sun, 30 Aug 2026 12:50:54 +0000</pubDate>
+<category>note</category>
+<description>113 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=49498201</description>
+</item>
 <item>
 <title>How Anthropic employees use Claude Tag</title>
 <link>https://claude.com/blog/how-anthropic-employees-use-claude-tag</link>
@@ -150,6 +158,14 @@
 <pubDate>Thu, 27 Aug 2026 17:28:27 +0000</pubDate>
 <category>note</category>
 <description>43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49468252</description>
+</item>
+<item>
+<title>Show HN: Watches user sessions, finds bugs that matter, and fixes them</title>
+<link>https://github.com/opslane/opslane</link>
+<guid isPermaLink="false">frontierfeed:a519f6359da7dd56</guid>
+<pubDate>Thu, 27 Aug 2026 15:45:16 +0000</pubDate>
+<category>note</category>
+<description>40 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=49466704</description>
 </item>
 <item>
 <title>v1.0.207</title>
@@ -790,22 +806,6 @@
 <pubDate>Wed, 19 Aug 2026 22:00:31 +0000</pubDate>
 <category>api</category>
 <description>## 0.125.0 (2026-08-19) Full Changelog: [v0.124.0...v0.125.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.124.0...v0.125.0) ### Features * **api:** managed agents web search config and self hosted sandbox memory ([b75afd6](https://github.com/anthropics/anthropic…</description>
-</item>
-<item>
-<title>bedrock-sdk: v0.33.1</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.1</link>
-<guid isPermaLink="false">frontierfeed:63e53812f5194763</guid>
-<pubDate>Wed, 19 Aug 2026 22:00:31 +0000</pubDate>
-<category>api</category>
-<description>## 0.33.1 (2026-08-19) Full Changelog: [bedrock-sdk-v0.33.0...bedrock-sdk-v0.33.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.0...bedrock-sdk-v0.33.1) ### Chores * **internal:** use a single pnpm workspace lockfile ([#359](https://github.com/…</description>
-</item>
-<item>
-<title>vertex-sdk: v0.19.5</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.5</link>
-<guid isPermaLink="false">frontierfeed:940976bf5e922875</guid>
-<pubDate>Wed, 19 Aug 2026 22:00:22 +0000</pubDate>
-<category>api</category>
-<description>## 0.19.5 (2026-08-19) Full Changelog: [vertex-sdk-v0.19.4...vertex-sdk-v0.19.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.4...vertex-sdk-v0.19.5) ### Chores * **internal:** use a single pnpm workspace lockfile ([#359](https://github.com/anth…</description>
 </item>
 </channel>
 </rss>
