@@ -5,8 +5,24 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 31 Aug 2026 20:09:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 23:53:50 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Improving our alignment and security efforts</title>
+<link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
+<guid isPermaLink="false">frontierfeed:417fed66f67d9d66</guid>
+<pubDate>Mon, 31 Aug 2026 23:53:37 +0000</pubDate>
+<category>research</category>
+<description>Improving our alignment and security efforts</description>
+</item>
+<item>
+<title>Release 2026.8.31</title>
+<link>https://github.com/modelcontextprotocol/servers/releases/tag/2026.8.31</link>
+<guid isPermaLink="false">frontierfeed:b19a3a69a6b30b32</guid>
+<pubDate>Mon, 31 Aug 2026 20:34:32 +0000</pubDate>
+<category>note</category>
+<description># Release : v2026.8.31 ## Updated packages - @modelcontextprotocol/server-filesystem@2026.8.31 - @modelcontextprotocol/server-memory@2026.8.31 - @modelcontextprotocol/server-sequential-thinking@2026.8.31 - @modelcontextprotocol/server-everything@2026.8.31</description>
+</item>
 <item>
 <title>v1.0.211</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.211</link>
@@ -790,22 +806,6 @@
 <pubDate>Thu, 20 Aug 2026 18:01:54 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.238 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>OenoBench: A Wine-Domain Benchmark for Knowledge-Grounded Evaluation of Large Language Models</title>
-<link>https://arxiv.org/abs/2608.20106v1</link>
-<guid isPermaLink="false">frontierfeed:c750a3db2d1ee54c</guid>
-<pubDate>Thu, 20 Aug 2026 14:37:22 +0000</pubDate>
-<category>research</category>
-<description>We introduce OenoBench, a wine-domain knowledge benchmark of 3,266 multiple-choice questions across six pillars (regions, grape varieties, viticulture, winemaking, producers, business) and four difficulty tiers.</description>
-</item>
-<item>
-<title>v1.0.197</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.197</link>
-<guid isPermaLink="false">frontierfeed:c65cc91694b3feeb</guid>
-<pubDate>Thu, 20 Aug 2026 00:55:27 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed * fix: neutralize the checkout credential under actions/checkout v6+ include layout (#1510) by @TemRevil in https://github.com/anthropics/claude-code-action/pull/1526 ## New Contributors * @TemRevil made their first contribution in https://github.com/anthropics/…</description>
 </item>
 </channel>
 </rss>

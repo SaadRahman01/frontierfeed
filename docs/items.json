@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-31T20:09:45.428408+00:00",
+  "generated": "2026-08-31T23:53:50.087736+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "source": "anthropic-news",
+      "published": "2026-08-31T23:53:37.372269+00:00",
+      "body": "Improving our alignment and security efforts",
+      "summary": "Improving our alignment and security efforts",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "417fed66f67d9d66"
+    },
+    {
+      "title": "Release 2026.8.31",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2026.8.31",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2026-08-31T20:34:32+00:00",
+      "body": "# Release : v2026.8.31\n\n## Updated packages\n- @modelcontextprotocol/server-filesystem@2026.8.31\n- @modelcontextprotocol/server-memory@2026.8.31\n- @modelcontextprotocol/server-sequential-thinking@2026.8.31\n- @modelcontextprotocol/server-everything@2026.8.31\n",
+      "summary": "# Release : v2026.8.31 ## Updated packages - @modelcontextprotocol/server-filesystem@2026.8.31 - @modelcontextprotocol/server-memory@2026.8.31 - @modelcontextprotocol/server-sequential-thinking@2026.8.31 - @modelcontextprotocol/server-everything@2026.8.31",
+      "version": "2026.8.31",
+      "category": "note",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "servers"
+      ],
+      "uid": "b19a3a69a6b30b32"
+    },
     {
       "title": "v1.0.211",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.211",
@@ -4526,38 +4558,6 @@
       "impact": "fix",
       "tags": [],
       "uid": "ad0e8fc1c69536e4"
-    },
-    {
-      "title": "sdk: v0.112.3",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.112.3",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-07-17T20:05:52+00:00",
-      "body": "## 0.112.3 (2026-07-17)\n\nFull Changelog: [sdk-v0.112.2...sdk-v0.112.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.2...sdk-v0.112.3)\n\n### Chores\n\n* **docs:** small updates ([79fd6c7](https://github.com/anthropics/anthropic-sdk-typescript/commit/79fd6c7dd046e066965aa7ab9897695c174f88bb))",
-      "summary": "## 0.112.3 (2026-07-17) Full Changelog: [sdk-v0.112.2...sdk-v0.112.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.2...sdk-v0.112.3) ### Chores * **docs:** small updates ([79fd6c7](https://github.com/anthropics/anthropic-sdk-typescript/commit/79fd6c7d\u2026",
-      "version": "sdk-v0.112.3",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "a98bf867da71115b"
-    },
-    {
-      "title": "sdk: v0.112.2",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.112.2",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-07-17T16:36:12+00:00",
-      "body": "## 0.112.2 (2026-07-17)\n\nFull Changelog: [sdk-v0.112.1...sdk-v0.112.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.1...sdk-v0.112.2)\n\n### Chores\n\n* **client:** docs updates ([fdb3a65](https://github.com/anthropics/anthropic-sdk-typescript/commit/fdb3a65501a809b4e949131f2097dc0d84e01cc7))",
-      "summary": "## 0.112.2 (2026-07-17) Full Changelog: [sdk-v0.112.1...sdk-v0.112.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.1...sdk-v0.112.2) ### Chores * **client:** docs updates ([fdb3a65](https://github.com/anthropics/anthropic-sdk-typescript/commit/fdb3a65\u2026",
-      "version": "sdk-v0.112.2",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "b768014cf040d206"
     }
   ]
 }
