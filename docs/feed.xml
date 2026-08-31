@@ -5,8 +5,24 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 31 Aug 2026 05:42:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 13:59:27 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[breaking] Breaking Claude Code Opus 5 Auto Mode</title>
+<link>https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/</link>
+<guid isPermaLink="false">frontierfeed:7c182a3eb48ff78e</guid>
+<pubDate>Mon, 31 Aug 2026 07:49:18 +0000</pubDate>
+<category>claude-code</category>
+<description>192 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49506819</description>
+</item>
+<item>
+<title>Claude Code reduces it&#x27;s weekly limit by 17% – compared to today</title>
+<link>https://twitter.com/ClaudeDevs/status/2093742322525810912</link>
+<guid isPermaLink="false">frontierfeed:07b9169fe9223ee6</guid>
+<pubDate>Mon, 31 Aug 2026 07:02:05 +0000</pubDate>
+<category>claude-code</category>
+<description>50 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49506519</description>
+</item>
 <item>
 <title>Claude Session URL appended to commit messages and PR descriptions by default</title>
 <link>https://github.com/anthropics/claude-code/issues/66504</link>
@@ -790,22 +806,6 @@
 <pubDate>Wed, 19 Aug 2026 22:00:52 +0000</pubDate>
 <category>api</category>
 <description>## 0.0.10 (2026-08-19) Full Changelog: [google-cloud-sdk-v0.0.9...google-cloud-sdk-v0.0.10](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.9...google-cloud-sdk-v0.0.10) ### Chores * **internal:** use a single pnpm workspace lockfile ([#359](h…</description>
-</item>
-<item>
-<title>aws-sdk: v0.6.5</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.6.5</link>
-<guid isPermaLink="false">frontierfeed:01ca4bc232c1d043</guid>
-<pubDate>Wed, 19 Aug 2026 22:00:46 +0000</pubDate>
-<category>api</category>
-<description>## 0.6.5 (2026-08-19) Full Changelog: [aws-sdk-v0.6.4...aws-sdk-v0.6.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.4...aws-sdk-v0.6.5) ### Chores * **internal:** use a single pnpm workspace lockfile ([#359](https://github.com/anthropics/anthropic-…</description>
-</item>
-<item>
-<title>foundry-sdk: v0.4.4</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.4</link>
-<guid isPermaLink="false">frontierfeed:45695dc732bc491e</guid>
-<pubDate>Wed, 19 Aug 2026 22:00:40 +0000</pubDate>
-<category>api</category>
-<description>## 0.4.4 (2026-08-19) Full Changelog: [foundry-sdk-v0.4.3...foundry-sdk-v0.4.4](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.3...foundry-sdk-v0.4.4) ### Chores * **internal:** use a single pnpm workspace lockfile ([#359](https://github.com/anthr…</description>
 </item>
 </channel>
 </rss>

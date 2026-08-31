@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "source": "hackernews",
+      "published": "2026-08-31T07:49:18+00:00",
+      "body": "192 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49506819",
+      "summary": "192 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49506819",
+      "version": "",
+      "category": "claude-code",
+      "impact": "breaking",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "7c182a3eb48ff78e"
+    },
+    {
+      "title": "Claude Code reduces it's weekly limit by 17% \u2013 compared to today",
+      "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
+      "source": "hackernews",
+      "published": "2026-08-31T07:02:05+00:00",
+      "body": "50 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49506519",
+      "summary": "50 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49506519",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "07b9169fe9223ee6"
+    },
+    {
       "title": "Claude Session URL appended to commit messages and PR descriptions by default",
       "url": "https://github.com/anthropics/claude-code/issues/66504",
       "source": "hackernews",
@@ -4524,36 +4555,6 @@
         "mcp"
       ],
       "uid": "f7a1a23726e5c3ac"
-    },
-    {
-      "title": "v0.117.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.117.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-07-16T19:36:01+00:00",
-      "body": "## 0.117.0 (2026-07-16)\n\nFull Changelog: [v0.116.0...v0.117.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.116.0...v0.117.0)\n\n### Features\n\n* **api:** add support for dreaming ([642eee7](https://github.com/anthropics/anthropic-sdk-python/commit/642eee707b0fe3c35c21917f60b06846b2a3b291))\n* **api:** add support for MCP Tunnels ([d716df6](https://github.com/anthropics/anthropic-sdk-python/commit/d716df6edb1df7de25f1b5e14dcab33b9aafc2ff))\n\n\n### Bug Fixes\n\n* **credentials:** keep credential material out of traceback frame locals via SecretStr ([aa93a4d](https://github.com/anthropics/anthropic-sdk-python/commit/aa93a4dbf383f7fdab1404c136e86d4679d644c1))\n\n\n### Chores\n\n* **docs:** small updates to field descriptions ([75d8dcc](https://github.com/anthropics/anthropic-sdk-python/commit/75d8dcc0ac8cb381fa327a61a9ac84022b3a1677))\n* **docs:** update model example ([a57e30a](https://github.com/anthropics/anthropic-sdk-python/commit/a57e30ac1bafb54387bf631be2081bfdb3782911))\n* **docs:** updates to descriptions and examples ([e1535b6](https://github.com/anthropics/anthropic-sdk-python/commit/e1535b6919441448dddf00e2636cb8c60a721a43))",
-      "summary": "## 0.117.0 (2026-07-16) Full Changelog: [v0.116.0...v0.117.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.116.0...v0.117.0) ### Features * **api:** add support for dreaming ([642eee7](https://github.com/anthropics/anthropic-sdk-python/commit/642eee707b0fe3c35c21\u2026",
-      "version": "0.117.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-python",
-        "mcp"
-      ],
-      "uid": "d3ab80fd8bcce36f"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.212 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.212",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-07-16T19:20:24.324000+00:00",
-      "body": "Version 2.1.212 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.212 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.212",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "eab5a5e192bf484b"
     }
   ]
 }
