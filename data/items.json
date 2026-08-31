@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "v1.0.211",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.211",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-08-31T19:49:08+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.210...v1.0.211",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.210...v1.0.211",
+      "version": "1.0.211",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "adc416bcd175bc02"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.252 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.252",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-08-31T17:07:28.168000+00:00",
+      "body": "Version 2.1.252 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.252 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.252",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "d11e3ebf9c838778"
+    },
+    {
       "title": "Breaking Claude Code Opus 5 Auto Mode",
       "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
       "source": "hackernews",
@@ -4522,39 +4554,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "b768014cf040d206"
-    },
-    {
-      "title": "sdk: v0.112.1",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.112.1",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-07-16T21:06:55+00:00",
-      "body": "## 0.112.1 (2026-07-16)\n\nFull Changelog: [sdk-v0.112.0...sdk-v0.112.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.0...sdk-v0.112.1)",
-      "summary": "## 0.112.1 (2026-07-16) Full Changelog: [sdk-v0.112.0...sdk-v0.112.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.0...sdk-v0.112.1)",
-      "version": "sdk-v0.112.1",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "e68aebdfbc20bd60"
-    },
-    {
-      "title": "sdk: v0.112.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.112.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-07-16T19:36:15+00:00",
-      "body": "## 0.112.0 (2026-07-16)\n\nFull Changelog: [sdk-v0.111.0...sdk-v0.112.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.111.0...sdk-v0.112.0)\n\n### Features\n\n* **api:** add support for MCP Tunnels ([597ac41](https://github.com/anthropics/anthropic-sdk-typescript/commit/597ac4181f318e46fb974e716467648587e95362))",
-      "summary": "## 0.112.0 (2026-07-16) Full Changelog: [sdk-v0.111.0...sdk-v0.112.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.111.0...sdk-v0.112.0) ### Features * **api:** add support for MCP Tunnels ([597ac41](https://github.com/anthropics/anthropic-sdk-typescript/\u2026",
-      "version": "sdk-v0.112.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript",
-        "mcp"
-      ],
-      "uid": "f7a1a23726e5c3ac"
     }
   ]
 }

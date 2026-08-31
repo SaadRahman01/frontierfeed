@@ -5,8 +5,24 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 31 Aug 2026 13:59:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 20:09:45 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>v1.0.211</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.211</link>
+<guid isPermaLink="false">frontierfeed:adc416bcd175bc02</guid>
+<pubDate>Mon, 31 Aug 2026 19:49:08 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.210...v1.0.211</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.252 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.252</link>
+<guid isPermaLink="false">frontierfeed:d11e3ebf9c838778</guid>
+<pubDate>Mon, 31 Aug 2026 17:07:28 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.252 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>[breaking] Breaking Claude Code Opus 5 Auto Mode</title>
 <link>https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/</link>
@@ -790,22 +806,6 @@
 <pubDate>Thu, 20 Aug 2026 00:55:27 +0000</pubDate>
 <category>claude-code</category>
 <description>## What&#x27;s Changed * fix: neutralize the checkout credential under actions/checkout v6+ include layout (#1510) by @TemRevil in https://github.com/anthropics/claude-code-action/pull/1526 ## New Contributors * @TemRevil made their first contribution in https://github.com/anthropics/…</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.237 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.237</link>
-<guid isPermaLink="false">frontierfeed:7bacd3c648a06594</guid>
-<pubDate>Wed, 19 Aug 2026 23:57:54 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.237 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>google-cloud-sdk: v0.0.10</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.10</link>
-<guid isPermaLink="false">frontierfeed:1c157bf16aab9bcf</guid>
-<pubDate>Wed, 19 Aug 2026 22:00:52 +0000</pubDate>
-<category>api</category>
-<description>## 0.0.10 (2026-08-19) Full Changelog: [google-cloud-sdk-v0.0.9...google-cloud-sdk-v0.0.10](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.9...google-cloud-sdk-v0.0.10) ### Chores * **internal:** use a single pnpm workspace lockfile ([#359](h…</description>
 </item>
 </channel>
 </rss>
