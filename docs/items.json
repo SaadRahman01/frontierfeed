@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-08-31T23:53:50.087736+00:00",
+  "generated": "2026-09-01T05:16:20.560190+00:00",
   "count": 300,
   "items": [
     {
@@ -431,6 +431,22 @@
         "paper"
       ],
       "uid": "0a00a327ee651950"
+    },
+    {
+      "title": "A Survey on Rubric-Guided Reinforcement Learning for Language Models",
+      "url": "https://arxiv.org/abs/2608.27505v2",
+      "source": "arxiv",
+      "published": "2026-08-27T05:21:07+00:00",
+      "body": "Reinforcement learning from human feedback (RLHF) has become the dominant paradigm for aligning large language models (LLMs) with human preferences. However, traditional RLHF relies on scalar reward signals that lack interpretability and fail to capture the multifaceted nature of response quality. Rubric-guided reinforcement learning addresses these limitations by introducing structured, interpretable evaluation criteria, or rubrics, as the backbone of reward design, feedback generation, and policy optimization. In this survey, we introduce a Bayesian framework that defines constitutions as prior distributions $P(R)$ over evaluation criteria and rubrics as conditional instantiations $R_x \\sim P(R|x)$. Under this unified view, we present a taxonomy of rubric-guided RL along the prior-posterior axis, covering constitutional AI, instance-specific rubrics, process-level supervision, self-evolving rubrics, and their agentic and multimodal extensions. Furthermore, as rubrics are natural-language artifacts, we present a linguistic analysis of how granularity trade-offs, semantic drift, and linguistic reward hacking impact alignment reliability, identifying key open problems for future research.",
+      "summary": "Reinforcement learning from human feedback (RLHF) has become the dominant paradigm for aligning large language models (LLMs) with human preferences.",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "e81c5710f43cde1e"
     },
     {
       "title": "v1.0.207",
@@ -4545,19 +4561,6 @@
       "impact": "fix",
       "tags": [],
       "uid": "6d13cde9467e1c22"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.213 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.213",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-07-17T22:26:26.753000+00:00",
-      "body": "Version 2.1.213 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.213 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.213",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "ad0e8fc1c69536e4"
     }
   ]
 }

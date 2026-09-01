@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 31 Aug 2026 23:53:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 05:16:20 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Improving our alignment and security efforts</title>
@@ -219,6 +219,14 @@
 <title>A Survey on Rubric-Guided Reinforcement Learning for Language Models</title>
 <link>https://arxiv.org/abs/2608.27505v1</link>
 <guid isPermaLink="false">frontierfeed:0a00a327ee651950</guid>
+<pubDate>Thu, 27 Aug 2026 05:21:07 +0000</pubDate>
+<category>research</category>
+<description>Reinforcement learning from human feedback (RLHF) has become the dominant paradigm for aligning large language models (LLMs) with human preferences.</description>
+</item>
+<item>
+<title>A Survey on Rubric-Guided Reinforcement Learning for Language Models</title>
+<link>https://arxiv.org/abs/2608.27505v2</link>
+<guid isPermaLink="false">frontierfeed:e81c5710f43cde1e</guid>
 <pubDate>Thu, 27 Aug 2026 05:21:07 +0000</pubDate>
 <category>research</category>
 <description>Reinforcement learning from human feedback (RLHF) has become the dominant paradigm for aligning large language models (LLMs) with human preferences.</description>
@@ -798,14 +806,6 @@
 <pubDate>Thu, 20 Aug 2026 19:58:48 +0000</pubDate>
 <category>api</category>
 <description>## 1.0.0 (2026-08-20) Full Changelog: [v0.125.0...v1.0.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.125.0...v1.0.0) ### ⚠ BREAKING CHANGES * **client:** upgrade to httpx2 and some minor breaking changes.</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.238 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.238</link>
-<guid isPermaLink="false">frontierfeed:a49850c1ba6607be</guid>
-<pubDate>Thu, 20 Aug 2026 18:01:54 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.238 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>
