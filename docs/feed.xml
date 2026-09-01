@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 01 Sep 2026 18:35:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 21:50:10 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Developing Enterprise Frontier Safeguards with our customers</title>
+<link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
+<guid isPermaLink="false">frontierfeed:abd8d79a176a9a73</guid>
+<pubDate>Tue, 01 Sep 2026 21:49:54 +0000</pubDate>
+<category>note</category>
+<description>Developing Enterprise Frontier Safeguards with our customers</description>
+</item>
 <item>
 <title>Claude Fable 5.1 and Claude Mythos 5.1</title>
 <link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
@@ -798,14 +806,6 @@
 <pubDate>Fri, 21 Aug 2026 23:09:06 +0000</pubDate>
 <category>note</category>
 <description>85 points, 50 comments. Discussion: https://news.ycombinator.com/item?id=49394827</description>
-</item>
-<item>
-<title>v1.0.199</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.199</link>
-<guid isPermaLink="false">frontierfeed:aef404cd1b7ca325</guid>
-<pubDate>Fri, 21 Aug 2026 19:57:05 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed * fix(github): honor GITHUB_GRAPHQL_URL for the GraphQL client by @rover0811 in https://github.com/anthropics/claude-code-action/pull/1575 * fix(cleanup): keep the base-branch config revert out of the auto-commit by @GautamSharma99 in https://github.com/anthropi…</description>
 </item>
 </channel>
 </rss>

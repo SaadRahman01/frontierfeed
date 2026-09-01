@@ -1,6 +1,23 @@
 {
   "items": [
     {
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "source": "anthropic-news",
+      "published": "2026-09-01T21:49:54.637992+00:00",
+      "body": "Developing Enterprise Frontier Safeguards with our customers",
+      "summary": "Developing Enterprise Frontier Safeguards with our customers",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news",
+        "enterprise"
+      ],
+      "uid": "abd8d79a176a9a73"
+    },
+    {
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "source": "hackernews",
@@ -4551,21 +4568,6 @@
       "impact": "fix",
       "tags": [],
       "uid": "7dac84003aab2d0b"
-    },
-    {
-      "title": "Launch HN: Bloomy (YC S26) \u2013 AI-powered mastery learning for K-12",
-      "url": "https://news.ycombinator.com/item?id=48981136",
-      "source": "hackernews",
-      "published": "2026-07-20T16:32:10+00:00",
-      "body": "102 points, 107 comments. Discussion: https://news.ycombinator.com/item?id=48981136",
-      "summary": "102 points, 107 comments. Discussion: https://news.ycombinator.com/item?id=48981136",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "community"
-      ],
-      "uid": "35740df7cfd7562d"
     }
   ]
 }
