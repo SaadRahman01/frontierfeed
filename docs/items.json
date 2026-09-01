@@ -1,9 +1,90 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-01T14:57:54.675838+00:00",
+  "generated": "2026-09-01T18:35:51.105799+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source": "hackernews",
+      "published": "2026-09-01T18:01:24+00:00",
+      "body": "68 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=49525496",
+      "summary": "68 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=49525496",
+      "version": "",
+      "category": "model-release",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "ae4b268f34afddba"
+    },
+    {
+      "title": "v1.0.212",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.212",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-01T17:55:35+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.211...v1.0.212",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.211...v1.0.212",
+      "version": "1.0.212",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "25ddba1ef7e6532b"
+    },
+    {
+      "title": "sdk: v0.123.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.123.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-09-01T17:50:12+00:00",
+      "body": "## 0.123.0 (2026-09-01)\n\nFull Changelog: [sdk-v0.122.0...sdk-v0.123.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.122.0...sdk-v0.123.0)\n\n### Features\n\n* **api:** beta user profiles: add external_user_onboarded_at, remove relationship in favor of access_type ([3efb1a1](https://github.com/anthropics/anthropic-sdk-typescript/commit/3efb1a1a812e30db1da695a1a16cce50cc950cfc))\n* **api:** manual updates ([c6f0bda](https://github.com/anthropics/anthropic-sdk-typescript/commit/c6f0bdaff67aa65dfcb6a6e02b83e60f1de50ec7))\n* **api:** organization compliance settings, user-profile order_by, memory-store and toolset schema updates ([8e2f0c2](https://github.com/anthropics/anthropic-sdk-typescript/commit/8e2f0c2f7ec7edf861e40d3131939fb819113e95))\n\n\n### Bug Fixes\n\n* keep credential file access out of non-Node bundles ([ab6a4b2](https://github.com/anthropics/anthropic-sdk-typescript/commit/ab6a4b2814f09d20da12fa8ce3592d91ef2b2f89))\n\n\n### Chores\n\n* **internal:** codegen related update ([788ea8b](https://github.com/anthropics/anthropic-sdk-typescript/commit/788ea8bdaa1077c472041f5424e7250fefb71564))\n\n\n### Documentation\n\n* **changelog:** detail the beta files/skills GA-shape change ([#1175](https://github.com/anthropics/anthropic-sdk-typescript/issues/1175)) ([4951de0](https://github.com/anthropics/anthropic-sdk-typescript/commit/4951de02e8322ca353592a1546f78047a7633c4a))",
+      "summary": "## 0.123.0 (2026-09-01) Full Changelog: [sdk-v0.122.0...sdk-v0.123.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.122.0...sdk-v0.123.0) ### Features * **api:** beta user profiles: add external_user_onboarded_at, remove relationship in favor of access_typ\u2026",
+      "version": "sdk-v0.123.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "skills"
+      ],
+      "uid": "707d70b045c5f07f"
+    },
+    {
+      "title": "v1.3.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.3.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-09-01T17:36:55+00:00",
+      "body": "## 1.3.0 (2026-09-01)\n\nFull Changelog: [v1.2.0...v1.3.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.2.0...v1.3.0)\n\n### Features\n\n* **api:** beta user profiles: add external_user_onboarded_at, remove relationship in favor of access_type ([74080c3](https://github.com/anthropics/anthropic-sdk-python/commit/74080c35d6e4f3e5e7fd47454ecce2350cbfdd2b))\n* **api:** manual updates ([1dc3ce0](https://github.com/anthropics/anthropic-sdk-python/commit/1dc3ce0709a9bca146b045dfb0787971e747b1f5))\n* **api:** organization compliance settings, user-profile order_by, memory-store and toolset schema updates ([429e719](https://github.com/anthropics/anthropic-sdk-python/commit/429e719f84bd78db51c9fd0442ccb0ca63e614ba))\n\n\n### Bug Fixes\n\n* **aws:** resolve base_url from aws_region under skip_auth and with_options ([#564](https://github.com/anthropics/anthropic-sdk-python/issues/564)) ([b6d1732](https://github.com/anthropics/anthropic-sdk-python/commit/b6d1732cc89eb743b4d40e33c6cd3f7ecfb3d0ab))\n* **batches:** add results to GA raw/streaming response wrappers ([cbf9715](https://github.com/anthropics/anthropic-sdk-python/commit/cbf9715a461b4c5deec7a669b2b6e211faaf8827))\n* **ci:** don't hard-wrap detect-breaking-changes output ([b5be779](https://github.com/anthropics/anthropic-sdk-python/commit/b5be779c110e68f6c884091b3524083733f3f8a9))\n* **client:** derive multipart filename for file tuples passed without one ([a9f3fb4](https://github.com/anthropics/anthropic-sdk-python/commit/a9f3fb40abdd2f5842054a96e08afeee35fb932a))\n* **types:** remove unused wire aliases from header and path params ([dc0a9ab](https://github.com/anthropics/anthropic-sdk-python/commit/dc0a9ab4360c7fc28f7326c39876f18ad04d2c26))\n\n\n### Chores\n\n* **internal:** drop the unused discriminator argument from PropertyInfo ([3dae6fd](https://github.com/anthropics/anthropic-sdk-python/commit/3dae6fd196cb2fe658029e8eec60551dfa847949))\n* **internal:** drop the unused distro dependency ([a47d85f](https://github.com/anthropics/anthropic-sdk-python/commit/a47d85f6a740e3a38610c5239ac8c2c7b12ead55))\n\n\n### Documentation\n\n* **changelog:** detail the beta files/skills GA-shape change ([#1900](https://github.com/anthropics/anthropic-sdk-python/issues/1900)) ([7c84e13](https://github.com/anthropics/anthropic-sdk-python/commit/7c84e133570991589c90d888790d536ca943568d))\n\n\n### Refactors\n\n* **types:** mark discriminated unions with UnionDiscriminator instead of PropertyInfo ([17df0bf](https://github.com/anthropics/anthropic-sdk-python/commit/17df0bf37c875598b49b2909c58aa48e17a1b25a))\n* **types:** use UnionDiscriminator for more discriminated unions ([b44af2c](https://github.com/anthropics/anthropic-sdk-python/commit/b44af2c625703ba1c0ed2e81871ac14dc572665e))",
+      "summary": "## 1.3.0 (2026-09-01) Full Changelog: [v1.2.0...v1.3.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.2.0...v1.3.0) ### Features * **api:** beta user profiles: add external_user_onboarded_at, remove relationship in favor of access_type ([74080c3](https://github.co\u2026",
+      "version": "1.3.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "skills"
+      ],
+      "uid": "665ac17f79baf9cb"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.257 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-01T17:15:33.223000+00:00",
+      "body": "Version 2.1.257 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.257 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.257",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "e032c45747e0062b"
+    },
     {
       "title": "Improving our alignment and security efforts",
       "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
@@ -4489,78 +4570,6 @@
         "community"
       ],
       "uid": "35740df7cfd7562d"
-    },
-    {
-      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-      "source": "hackernews",
-      "published": "2026-07-20T15:13:42+00:00",
-      "body": "371 points, 336 comments. Discussion: https://news.ycombinator.com/item?id=48980019",
-      "summary": "371 points, 336 comments. Discussion: https://news.ycombinator.com/item?id=48980019",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "967dbdbcf0008fa6"
-    },
-    {
-      "title": "v1.0.178",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.178",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-07-19T02:57:25+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.178",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.178",
-      "version": "1.0.178",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "837b494e57fd87e1"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.215 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.215",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-07-19T00:53:37.170000+00:00",
-      "body": "Version 2.1.215 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.215 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.215",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "891f0f2c63fcb705"
-    },
-    {
-      "title": "Anthropic's newest ad is creeping people out",
-      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-      "source": "hackernews",
-      "published": "2026-07-18T23:50:18+00:00",
-      "body": "43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=48963614",
-      "summary": "43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=48963614",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "a2daee64d8311225"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.214 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.214",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-07-18T00:13:41.661000+00:00",
-      "body": "Version 2.1.214 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.214 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.214",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "6d13cde9467e1c22"
     }
   ]
 }

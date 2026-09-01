@@ -5,8 +5,48 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 01 Sep 2026 14:57:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 18:35:51 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Claude Fable 5.1 and Claude Mythos 5.1</title>
+<link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
+<guid isPermaLink="false">frontierfeed:ae4b268f34afddba</guid>
+<pubDate>Tue, 01 Sep 2026 18:01:24 +0000</pubDate>
+<category>model-release</category>
+<description>68 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=49525496</description>
+</item>
+<item>
+<title>v1.0.212</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.212</link>
+<guid isPermaLink="false">frontierfeed:25ddba1ef7e6532b</guid>
+<pubDate>Tue, 01 Sep 2026 17:55:35 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.211...v1.0.212</description>
+</item>
+<item>
+<title>sdk: v0.123.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.123.0</link>
+<guid isPermaLink="false">frontierfeed:707d70b045c5f07f</guid>
+<pubDate>Tue, 01 Sep 2026 17:50:12 +0000</pubDate>
+<category>api</category>
+<description>## 0.123.0 (2026-09-01) Full Changelog: [sdk-v0.122.0...sdk-v0.123.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.122.0...sdk-v0.123.0) ### Features * **api:** beta user profiles: add external_user_onboarded_at, remove relationship in favor of access_typ…</description>
+</item>
+<item>
+<title>v1.3.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.3.0</link>
+<guid isPermaLink="false">frontierfeed:665ac17f79baf9cb</guid>
+<pubDate>Tue, 01 Sep 2026 17:36:55 +0000</pubDate>
+<category>api</category>
+<description>## 1.3.0 (2026-09-01) Full Changelog: [v1.2.0...v1.3.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.2.0...v1.3.0) ### Features * **api:** beta user profiles: add external_user_onboarded_at, remove relationship in favor of access_type ([74080c3](https://github.co…</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.257 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257</link>
+<guid isPermaLink="false">frontierfeed:e032c45747e0062b</guid>
+<pubDate>Tue, 01 Sep 2026 17:15:33 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.257 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Improving our alignment and security efforts</title>
 <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
@@ -766,46 +806,6 @@
 <pubDate>Fri, 21 Aug 2026 19:57:05 +0000</pubDate>
 <category>claude-code</category>
 <description>## What&#x27;s Changed * fix(github): honor GITHUB_GRAPHQL_URL for the GraphQL client by @rover0811 in https://github.com/anthropics/claude-code-action/pull/1575 * fix(cleanup): keep the base-branch config revert out of the auto-commit by @GautamSharma99 in https://github.com/anthropi…</description>
-</item>
-<item>
-<title>A week of using Codex more than Claude</title>
-<link>https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/</link>
-<guid isPermaLink="false">frontierfeed:f8fe483f48eba7ed</guid>
-<pubDate>Fri, 21 Aug 2026 19:51:48 +0000</pubDate>
-<category>note</category>
-<description>230 points, 244 comments. Discussion: https://news.ycombinator.com/item?id=49393051</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.239 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.239</link>
-<guid isPermaLink="false">frontierfeed:a9a2546cf37d732c</guid>
-<pubDate>Fri, 21 Aug 2026 17:18:54 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.239 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Show HN: Proliferate- open-source, self-hostable Codex for any coding agent</title>
-<link>https://github.com/proliferate-ai/proliferate</link>
-<guid isPermaLink="false">frontierfeed:bf61effa91eb2491</guid>
-<pubDate>Fri, 21 Aug 2026 16:47:15 +0000</pubDate>
-<category>note</category>
-<description>45 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49390739</description>
-</item>
-<item>
-<title>v1.0.198</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.198</link>
-<guid isPermaLink="false">frontierfeed:baa43532194c2334</guid>
-<pubDate>Thu, 20 Aug 2026 20:35:10 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.197...v1.0.198</description>
-</item>
-<item>
-<title>[breaking] v1.0.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.0.0</link>
-<guid isPermaLink="false">frontierfeed:884201a93ffecab0</guid>
-<pubDate>Thu, 20 Aug 2026 19:58:48 +0000</pubDate>
-<category>api</category>
-<description>## 1.0.0 (2026-08-20) Full Changelog: [v0.125.0...v1.0.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.125.0...v1.0.0) ### ⚠ BREAKING CHANGES * **client:** upgrade to httpx2 and some minor breaking changes.</description>
 </item>
 </channel>
 </rss>
