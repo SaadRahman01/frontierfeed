@@ -5,8 +5,32 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 02 Sep 2026 11:25:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 16:38:52 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A guide to the anatomy of effective commerce agents</title>
+<link>https://claude.com/blog/the-anatomy-of-effective-commerce-agents</link>
+<guid isPermaLink="false">frontierfeed:0844248559bee3a8</guid>
+<pubDate>Wed, 02 Sep 2026 16:38:38 +0000</pubDate>
+<category>note</category>
+<description>A guide to the anatomy of effective commerce agents</description>
+</item>
+<item>
+<title>Building commerce agents with Claude</title>
+<link>https://claude.com/blog/claude-for-commerce-agents</link>
+<guid isPermaLink="false">frontierfeed:02b70a8c89e7cd5f</guid>
+<pubDate>Wed, 02 Sep 2026 16:38:38 +0000</pubDate>
+<category>note</category>
+<description>Building commerce agents with Claude</description>
+</item>
+<item>
+<title>Six curl CVEs after OpenAI and Anthropic came back with zero</title>
+<link>https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero</link>
+<guid isPermaLink="false">frontierfeed:f696fea65788ab9d</guid>
+<pubDate>Wed, 02 Sep 2026 13:43:14 +0000</pubDate>
+<category>note</category>
+<description>103 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=49536114</description>
+</item>
 <item>
 <title>v1.0.213</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.213</link>
@@ -782,30 +806,6 @@
 <pubDate>Sat, 22 Aug 2026 23:58:33 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.241 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Show HN: Make your logo extra bright on HDR screens</title>
-<link>https://www.soverybright.com/</link>
-<guid isPermaLink="false">frontierfeed:8e35d2709afff13a</guid>
-<pubDate>Sat, 22 Aug 2026 18:43:03 +0000</pubDate>
-<category>note</category>
-<description>64 points, 85 comments. Discussion: https://news.ycombinator.com/item?id=49402521</description>
-</item>
-<item>
-<title>Anthropic appears to be A/B testing reduced effort levels in Claude Code</title>
-<link>https://twitter.com/argofowl/status/2091150597374537729</link>
-<guid isPermaLink="false">frontierfeed:1f175a4aa1a187f3</guid>
-<pubDate>Sat, 22 Aug 2026 16:58:49 +0000</pubDate>
-<category>claude-code</category>
-<description>196 points, 175 comments. Discussion: https://news.ycombinator.com/item?id=49401549</description>
-</item>
-<item>
-<title>v1.0.200</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.200</link>
-<guid isPermaLink="false">frontierfeed:7b0f4df96dfd472e</guid>
-<pubDate>Sat, 22 Aug 2026 14:47:00 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.199...v1.0.200</description>
 </item>
 </channel>
 </rss>

@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "title": "A guide to the anatomy of effective commerce agents",
+      "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+      "source": "claude-blog",
+      "published": "2026-09-02T16:38:38.539192+00:00",
+      "body": "A guide to the anatomy of effective commerce agents",
+      "summary": "A guide to the anatomy of effective commerce agents",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "0844248559bee3a8"
+    },
+    {
+      "title": "Building commerce agents with Claude",
+      "url": "https://claude.com/blog/claude-for-commerce-agents",
+      "source": "claude-blog",
+      "published": "2026-09-02T16:38:38.539150+00:00",
+      "body": "Building commerce agents with Claude",
+      "summary": "Building commerce agents with Claude",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "02b70a8c89e7cd5f"
+    },
+    {
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "source": "hackernews",
+      "published": "2026-09-02T13:43:14+00:00",
+      "body": "103 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=49536114",
+      "summary": "103 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=49536114",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "f696fea65788ab9d"
+    },
+    {
       "title": "v1.0.213",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.213",
       "source": "github:anthropics/claude-code-action",
@@ -4525,52 +4572,6 @@
         "community"
       ],
       "uid": "da4a1b4ba963a74a"
-    },
-    {
-      "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
-      "url": "https://github.com/Kalcode/spaceprojectsim",
-      "source": "hackernews",
-      "published": "2026-07-21T18:29:57+00:00",
-      "body": "110 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=48996187",
-      "summary": "110 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=48996187",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "aebed84038ab7bd0"
-    },
-    {
-      "title": "Show HN: CodeAlmanac \u2013 Karpathy-style codebase wiki from your conversations",
-      "url": "https://github.com/AlmanacCode/codealmanac/",
-      "source": "hackernews",
-      "published": "2026-07-21T17:12:01+00:00",
-      "body": "60 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=48995181",
-      "summary": "60 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=48995181",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "ddc1f39018f76813"
-    },
-    {
-      "title": "v1.0.179",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.179",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-07-20T22:15:34+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.179",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.179",
-      "version": "1.0.179",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "c9d0eb363c8642b8"
     }
   ]
 }
