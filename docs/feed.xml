@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 02 Sep 2026 16:38:52 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 19:50:05 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>A guide to the anatomy of effective commerce agents</title>
@@ -30,6 +30,14 @@
 <pubDate>Wed, 02 Sep 2026 13:43:14 +0000</pubDate>
 <category>note</category>
 <description>103 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=49536114</description>
+</item>
+<item>
+<title>Anthropic banned me for &quot;suspicious signals&quot;</title>
+<link>https://kix.codes/anthropic-banned-me-for-suspicious-signals/</link>
+<guid isPermaLink="false">frontierfeed:4722420ddca75e3b</guid>
+<pubDate>Wed, 02 Sep 2026 00:38:49 +0000</pubDate>
+<category>note</category>
+<description>40 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49530298</description>
 </item>
 <item>
 <title>v1.0.213</title>
@@ -798,14 +806,6 @@
 <pubDate>Sun, 23 Aug 2026 00:56:58 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.200...v1.0.201</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.241 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.241</link>
-<guid isPermaLink="false">frontierfeed:828a5e2e993c2789</guid>
-<pubDate>Sat, 22 Aug 2026 23:58:33 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.241 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

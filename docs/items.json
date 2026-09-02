@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-02T16:38:52.091355+00:00",
+  "generated": "2026-09-02T19:50:05.992983+00:00",
   "count": 300,
   "items": [
     {
@@ -50,6 +50,21 @@
         "community"
       ],
       "uid": "f696fea65788ab9d"
+    },
+    {
+      "title": "Anthropic banned me for \"suspicious signals\"",
+      "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
+      "source": "hackernews",
+      "published": "2026-09-02T00:38:49+00:00",
+      "body": "40 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49530298",
+      "summary": "40 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49530298",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "4722420ddca75e3b"
     },
     {
       "title": "v1.0.213",
@@ -4561,21 +4576,6 @@
       "impact": "fix",
       "tags": [],
       "uid": "d2fcac679585b656"
-    },
-    {
-      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "source": "hackernews",
-      "published": "2026-07-21T19:04:39+00:00",
-      "body": "568 points, 632 comments. Discussion: https://news.ycombinator.com/item?id=48996652",
-      "summary": "568 points, 632 comments. Discussion: https://news.ycombinator.com/item?id=48996652",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "da4a1b4ba963a74a"
     }
   ]
 }
