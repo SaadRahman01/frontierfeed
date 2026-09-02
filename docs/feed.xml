@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 02 Sep 2026 00:18:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 05:52:58 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>v1.0.213</title>
@@ -126,6 +126,14 @@
 <pubDate>Sun, 30 Aug 2026 12:50:54 +0000</pubDate>
 <category>note</category>
 <description>113 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=49498201</description>
+</item>
+<item>
+<title>AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes</title>
+<link>https://arxiv.org/abs/2609.00052v1</link>
+<guid isPermaLink="false">frontierfeed:a000684dd2faf6b0</guid>
+<pubDate>Sun, 30 Aug 2026 08:22:12 +0000</pubDate>
+<category>research</category>
+<description>Commercial LLM APIs advertise a specific foundation model, but the served backbone may be silently substituted, quantized, or wrapped, for example to save deployment costs.</description>
 </item>
 <item>
 <title>How Anthropic employees use Claude Tag</title>
@@ -798,14 +806,6 @@
 <pubDate>Sat, 22 Aug 2026 14:47:00 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.199...v1.0.200</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.240 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.240</link>
-<guid isPermaLink="false">frontierfeed:795abc2a5a3083db</guid>
-<pubDate>Sat, 22 Aug 2026 13:03:23 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.240 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

@@ -241,6 +241,22 @@
       "uid": "39baca36eab6c30a"
     },
     {
+      "title": "AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes",
+      "url": "https://arxiv.org/abs/2609.00052v1",
+      "source": "arxiv",
+      "published": "2026-08-30T08:22:12+00:00",
+      "body": "Commercial LLM APIs advertise a specific foundation model, but the served backbone may be silently substituted, quantized, or wrapped, for example to save deployment costs. All existing audits decide backbone identity from the text-output channel, which is structurally fragile for agentic APIs because modern serving stacks (OpenAI, Anthropic, Gemini, Cloudflare Workers AI, LangGraph) discard text and expose only structured actions when the model calls a tool, and provider-injected system prompts can distort text distributions enough that text-channel tests falsely accuse honest providers of substituting the claimed model. We observe that recent agentic post-training internalizes tool-use directly into the weights, opening a new audit channel that the serving stack still exposes and that is largely invariant to deployment context. We introduce Agentic Provenance (AgentProv), the first action-based identity audit for agentic LLM APIs: AgentProv fingerprints a deployed model through its categorical tool-call distribution and decides identity via an MMD permutation test. AgentProv catches every substituted model (100% on 630 evaluated checkpoint pairs), while holding the false-positive rate under system-prompt injection at 7% (vs. 67% for MET and 53% for RUT). On third-party API endpoints, AgentProv's disagreements with MET are consistent with an independent token-count side-channel that detects provider-injected system prompts.",
+      "summary": "Commercial LLM APIs advertise a specific foundation model, but the served backbone may be silently substituted, quantized, or wrapped, for example to save deployment costs.",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "a000684dd2faf6b0"
+    },
+    {
       "title": "How Anthropic employees use Claude Tag",
       "url": "https://claude.com/blog/how-anthropic-employees-use-claude-tag",
       "source": "claude-blog",
@@ -4555,22 +4571,6 @@
         "claude-code-action"
       ],
       "uid": "c9d0eb363c8642b8"
-    },
-    {
-      "title": "aws-sdk: v0.6.1",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.6.1",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-07-20T20:46:18+00:00",
-      "body": "## 0.6.1 (2026-07-20)\n\nFull Changelog: [aws-sdk-v0.6.0...aws-sdk-v0.6.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.0...aws-sdk-v0.6.1)\n\n### Bug Fixes\n\n* **aws:** preserve AWS options and auth mode across withOptions() ([#214](https://github.com/anthropics/anthropic-sdk-typescript/issues/214)) ([3f7665c](https://github.com/anthropics/anthropic-sdk-typescript/commit/3f7665c5419eb80c489546a70da799648e7d5ff2))\n* **aws:** remove duplicate loggerFor import breaking the build ([#235](https://github.com/anthropics/anthropic-sdk-typescript/issues/235)) ([764004e](https://github.com/anthropics/anthropic-sdk-typescript/commit/764004ed5cabbe254470fc420e374fc4d54a8dba))",
-      "summary": "## 0.6.1 (2026-07-20) Full Changelog: [aws-sdk-v0.6.0...aws-sdk-v0.6.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.0...aws-sdk-v0.6.1) ### Bug Fixes * **aws:** preserve AWS options and auth mode across withOptions() ([#214](https://github.com/anth\u2026",
-      "version": "aws-sdk-v0.6.1",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "435ab767d66896ef"
     }
   ]
 }
