@@ -5,8 +5,24 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 01 Sep 2026 21:50:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 00:18:29 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>v1.0.213</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.213</link>
+<guid isPermaLink="false">frontierfeed:dc6c279e6c47fc34</guid>
+<pubDate>Tue, 01 Sep 2026 22:34:45 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.212...v1.0.213</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.258 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.258</link>
+<guid isPermaLink="false">frontierfeed:02dd3cefcc377204</guid>
+<pubDate>Tue, 01 Sep 2026 22:25:07 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.258 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Developing Enterprise Frontier Safeguards with our customers</title>
 <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
@@ -790,22 +806,6 @@
 <pubDate>Sat, 22 Aug 2026 13:03:23 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.240 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Architecture as Capability Equalizer for Coding Agents</title>
-<link>https://arxiv.org/abs/2608.21747v1</link>
-<guid isPermaLink="false">frontierfeed:e6b6d3c71252ceb2</guid>
-<pubDate>Sat, 22 Aug 2026 03:04:12 +0000</pubDate>
-<category>research</category>
-<description>LLM-based coding agents generate complete software systems from high-level descriptions, yet little is known about how the format of architecture specifications affects the quality of generated code or whether this effect depends on model capability.</description>
-</item>
-<item>
-<title>Show HN: OzBrain, a shared brain for knowledge between agents and your team</title>
-<link>https://ozbrain.com</link>
-<guid isPermaLink="false">frontierfeed:0f62779c4c4d2e22</guid>
-<pubDate>Fri, 21 Aug 2026 23:09:06 +0000</pubDate>
-<category>note</category>
-<description>85 points, 50 comments. Discussion: https://news.ycombinator.com/item?id=49394827</description>
 </item>
 </channel>
 </rss>

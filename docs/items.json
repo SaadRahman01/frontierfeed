@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-01T21:50:10.083760+00:00",
+  "generated": "2026-09-02T00:18:29.136721+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.213",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.213",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-01T22:34:45+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.212...v1.0.213",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.212...v1.0.213",
+      "version": "1.0.213",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "dc6c279e6c47fc34"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.258 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.258",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-01T22:25:07.449000+00:00",
+      "body": "Version 2.1.258 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.258 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.258",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "02dd3cefcc377204"
+    },
     {
       "title": "Developing Enterprise Frontier Safeguards with our customers",
       "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
@@ -4543,35 +4575,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "435ab767d66896ef"
-    },
-    {
-      "title": "sdk: v0.112.4",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.112.4",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-07-20T20:46:08+00:00",
-      "body": "## 0.112.4 (2026-07-20)\n\nFull Changelog: [sdk-v0.112.3...sdk-v0.112.4](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.3...sdk-v0.112.4)\n\n### Bug Fixes\n\n* **aws:** preserve AWS options and auth mode across withOptions() ([#214](https://github.com/anthropics/anthropic-sdk-typescript/issues/214)) ([3f7665c](https://github.com/anthropics/anthropic-sdk-typescript/commit/3f7665c5419eb80c489546a70da799648e7d5ff2))\n\n\n### Chores\n\n* **docs:** small updates ([97f68a8](https://github.com/anthropics/anthropic-sdk-typescript/commit/97f68a88e13ba11b1e903d2d7181da3e4edd5c10))",
-      "summary": "## 0.112.4 (2026-07-20) Full Changelog: [sdk-v0.112.3...sdk-v0.112.4](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.3...sdk-v0.112.4) ### Bug Fixes * **aws:** preserve AWS options and auth mode across withOptions() ([#214](https://github.com/anthropics\u2026",
-      "version": "sdk-v0.112.4",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "7d1fd05ea27ff0ba"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.216 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.216",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-07-20T20:19:37.447000+00:00",
-      "body": "Version 2.1.216 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.216 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.216",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "7dac84003aab2d0b"
     }
   ]
 }
