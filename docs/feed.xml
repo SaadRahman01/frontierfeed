@@ -5,8 +5,24 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 02 Sep 2026 19:50:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 22:41:32 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>v1.0.214</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214</link>
+<guid isPermaLink="false">frontierfeed:61ce6c06c6fc7489</guid>
+<pubDate>Wed, 02 Sep 2026 22:35:40 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.213...v1.0.214</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.259 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259</link>
+<guid isPermaLink="false">frontierfeed:c0efcdfa2697076b</guid>
+<pubDate>Wed, 02 Sep 2026 21:21:42 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.259 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>A guide to the anatomy of effective commerce agents</title>
 <link>https://claude.com/blog/the-anatomy-of-effective-commerce-agents</link>
@@ -790,22 +806,6 @@
 <pubDate>Sun, 23 Aug 2026 16:07:21 +0000</pubDate>
 <category>note</category>
 <description>Improving Fable 5&#x27;s biology safeguards</description>
-</item>
-<item>
-<title>How Claude’s text watermark works</title>
-<link>https://www.anthropic.com/news/claude-text-watermark</link>
-<guid isPermaLink="false">frontierfeed:b7a1e2afb6e77707</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:21 +0000</pubDate>
-<category>note</category>
-<description>How Claude’s text watermark works</description>
-</item>
-<item>
-<title>v1.0.201</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.201</link>
-<guid isPermaLink="false">frontierfeed:21fb4e03ccc954ef</guid>
-<pubDate>Sun, 23 Aug 2026 00:56:58 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.200...v1.0.201</description>
 </item>
 </channel>
 </rss>

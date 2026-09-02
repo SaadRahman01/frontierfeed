@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "v1.0.214",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-02T22:35:40+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.213...v1.0.214",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.213...v1.0.214",
+      "version": "1.0.214",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "61ce6c06c6fc7489"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.259 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-02T21:21:42.115000+00:00",
+      "body": "Version 2.1.259 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.259 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.259",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "c0efcdfa2697076b"
+    },
+    {
       "title": "A guide to the anatomy of effective commerce agents",
       "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
       "source": "claude-blog",
@@ -4543,35 +4575,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "50cda5541ead2b2d"
-    },
-    {
-      "title": "v1.0.180",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.180",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-07-21T21:36:49+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.180",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.180",
-      "version": "1.0.180",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "b1c314145f1ea3b5"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.217 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.217",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-07-21T19:55:38.926000+00:00",
-      "body": "Version 2.1.217 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.217 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.217",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "d2fcac679585b656"
     }
   ]
 }
