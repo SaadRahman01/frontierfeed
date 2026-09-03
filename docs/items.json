@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-03T16:29:52.483019+00:00",
+  "generated": "2026-09-03T19:53:25.406760+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "source": "hackernews",
+      "published": "2026-09-03T14:28:18+00:00",
+      "body": "78 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=49550375",
+      "summary": "78 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=49550375",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "11dfbbd3efe1e2bd"
+    },
     {
       "title": "Elevated Errors for Multiple Models",
       "url": "https://status.claude.com/incidents/461yvfrzpwtt",
@@ -4565,21 +4580,6 @@
         "community"
       ],
       "uid": "979e4c3bb9da8259"
-    },
-    {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "source": "hackernews",
-      "published": "2026-07-22T15:19:23+00:00",
-      "body": "1033 points, 239 comments. Discussion: https://news.ycombinator.com/item?id=49008211",
-      "summary": "1033 points, 239 comments. Discussion: https://news.ycombinator.com/item?id=49008211",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "454f9b54f9a0a1f3"
     }
   ]
 }

@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 03 Sep 2026 16:29:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 19:53:25 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
+<link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
+<guid isPermaLink="false">frontierfeed:11dfbbd3efe1e2bd</guid>
+<pubDate>Thu, 03 Sep 2026 14:28:18 +0000</pubDate>
+<category>note</category>
+<description>78 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=49550375</description>
+</item>
 <item>
 <title>Elevated Errors for Multiple Models</title>
 <link>https://status.claude.com/incidents/461yvfrzpwtt</link>
@@ -798,14 +806,6 @@
 <pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
 <category>api</category>
 <description>Build production agents with computer use, the Skills API, and the Files API</description>
-</item>
-<item>
-<title>Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders</title>
-<link>https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</link>
-<guid isPermaLink="false">frontierfeed:675c778171615709</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>note</category>
-<description>Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders</description>
 </item>
 </channel>
 </rss>
