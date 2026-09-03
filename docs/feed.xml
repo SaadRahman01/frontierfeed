@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 03 Sep 2026 19:53:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 22:38:06 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>@anthropic-ai/claude-code 2.1.260 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260</link>
+<guid isPermaLink="false">frontierfeed:f79d9558a7e81da9</guid>
+<pubDate>Thu, 03 Sep 2026 22:32:02 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.260 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
 <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
@@ -798,14 +806,6 @@
 <pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
 <category>claude-code</category>
 <description>The Claude Code guide for startups</description>
-</item>
-<item>
-<title>Build production agents with computer use, the Skills API, and the Files API</title>
-<link>https://claude.com/blog/computer-use-skills-api-files-api</link>
-<guid isPermaLink="false">frontierfeed:6342de4b99b7a2b6</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>api</category>
-<description>Build production agents with computer use, the Skills API, and the Files API</description>
 </item>
 </channel>
 </rss>

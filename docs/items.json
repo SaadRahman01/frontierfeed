@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-03T19:53:25.406760+00:00",
+  "generated": "2026-09-03T22:38:06.053794+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "@anthropic-ai/claude-code 2.1.260 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-03T22:32:02.087000+00:00",
+      "body": "Version 2.1.260 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.260 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.260",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "f79d9558a7e81da9"
+    },
     {
       "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
       "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
@@ -4565,21 +4581,6 @@
         "anthropic-sdk-python"
       ],
       "uid": "fc53c371263dcc69"
-    },
-    {
-      "title": "Show HN: Yorishiro \u2013 a macOS terminal where AI agents live",
-      "url": "https://github.com/sktkkoo/Yorishiro",
-      "source": "hackernews",
-      "published": "2026-07-22T15:33:16+00:00",
-      "body": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49008434",
-      "summary": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49008434",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "979e4c3bb9da8259"
     }
   ]
 }
