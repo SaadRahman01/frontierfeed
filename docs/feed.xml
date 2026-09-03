@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 03 Sep 2026 11:21:17 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 16:29:52 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Elevated Errors for Multiple Models</title>
+<link>https://status.claude.com/incidents/461yvfrzpwtt</link>
+<guid isPermaLink="false">frontierfeed:9a38a74e387d779b</guid>
+<pubDate>Thu, 03 Sep 2026 13:29:12 +0000</pubDate>
+<category>note</category>
+<description>194 points, 146 comments. Discussion: https://news.ycombinator.com/item?id=49549676</description>
+</item>
 <item>
 <title>v1.0.214</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214</link>
@@ -798,14 +806,6 @@
 <pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
 <category>note</category>
 <description>Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders</description>
-</item>
-<item>
-<title>The AI-Native SDLC playbook</title>
-<link>https://claude.com/blog/the-ai-native-sdlc-playbook</link>
-<guid isPermaLink="false">frontierfeed:eeb32cab9ab14580</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>note</category>
-<description>The AI-Native SDLC playbook</description>
 </item>
 </channel>
 </rss>

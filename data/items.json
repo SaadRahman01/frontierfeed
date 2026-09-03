@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Elevated Errors for Multiple Models",
+      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "source": "hackernews",
+      "published": "2026-09-03T13:29:12+00:00",
+      "body": "194 points, 146 comments. Discussion: https://news.ycombinator.com/item?id=49549676",
+      "summary": "194 points, 146 comments. Discussion: https://news.ycombinator.com/item?id=49549676",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "9a38a74e387d779b"
+    },
+    {
       "title": "v1.0.214",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214",
       "source": "github:anthropics/claude-code-action",
@@ -4561,22 +4576,6 @@
         "community"
       ],
       "uid": "454f9b54f9a0a1f3"
-    },
-    {
-      "title": "v0.117.1",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.117.1",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-07-21T22:27:23+00:00",
-      "body": "## 0.117.1 (2026-07-21)\n\nFull Changelog: [v0.117.0...v0.117.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.117.0...v0.117.1)\n\n### Bug Fixes\n\n* **aws:** handle credentials correctly when using AnthropicAWS.copy() ([85d3881](https://github.com/anthropics/anthropic-sdk-python/commit/85d3881b2e178dd30b30f9ac4c462f20ea88693d))\n\n\n### Chores\n\n* **api:** add support for new refusal category ([d1dea0b](https://github.com/anthropics/anthropic-sdk-python/commit/d1dea0b51164c859de1e05a78468f5be2b6a67de))\n* **client:** docs updates ([b14f94c](https://github.com/anthropics/anthropic-sdk-python/commit/b14f94c231f9adc6bb2ad96eddfc27cc1a4cfea7))\n* **deps:** bump http-snapshot to 0.1.9 ([#275](https://github.com/anthropics/anthropic-sdk-python/issues/275)) ([434b657](https://github.com/anthropics/anthropic-sdk-python/commit/434b65772633f1c0d1899de64d40a67b7cb943fe))\n* **deps:** pin httpx_aiohttp major version ([#271](https://github.com/anthropics/anthropic-sdk-python/issues/271)) ([924487f](https://github.com/anthropics/anthropic-sdk-python/commit/924487f7c8b3afd69ec382af78326ba224779141))\n* **docs:** small updates ([c48db8b](https://github.com/anthropics/anthropic-sdk-python/commit/c48db8b6cdd800a98bf57088f530de8fe4dc82e8))\n* **docs:** small updates ([755c06c](https://github.com/anthropics/anthropic-sdk-python/commit/755c06cc06161ccdf9b28b77d5e6de58adb462ce))\n* **internal:** codegen related update ([a4fbecf](https://github.com/anthropics/anthropic-sdk-python/commit/a4fbecf6a2b002c8807da2336a75ddef7864f47c))",
-      "summary": "## 0.117.1 (2026-07-21) Full Changelog: [v0.117.0...v0.117.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.117.0...v0.117.1) ### Bug Fixes * **aws:** handle credentials correctly when using AnthropicAWS.copy() ([85d3881](https://github.com/anthropics/anthropic-sd\u2026",
-      "version": "0.117.1",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-python"
-      ],
-      "uid": "9d5aefe772ffaa67"
     }
   ]
 }
