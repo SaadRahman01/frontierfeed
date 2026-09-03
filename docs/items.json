@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-03T01:09:37.106406+00:00",
+  "generated": "2026-09-03T05:52:41.803086+00:00",
   "count": 300,
   "items": [
     {
@@ -67,6 +67,24 @@
         "product"
       ],
       "uid": "02b70a8c89e7cd5f"
+    },
+    {
+      "title": "Door-in-the-Face Requests and Refusal Behaviour in Large Language Models",
+      "url": "https://arxiv.org/abs/2609.02707v1",
+      "source": "arxiv",
+      "published": "2026-09-02T15:08:51+00:00",
+      "body": "Does the door-in-the-face technique work on language models? In humans, a large request that is refused makes a smaller follow-up request more likely to be granted. We test this on nine production models from three providers: each model refuses a large request, then receives a smaller version of the same request, and we compare its compliance with asking directly. The answer depends on the model. On Anthropic's frontier models the technique works: Opus 5 answers the smaller request 65.8% of the time after refusing the larger one, against 29.3% when asked directly. On the frontier models of OpenAI and Google, and on Haiku 4.5, it backfires, lowering compliance by 15.5 to 23.0 points. A control locates the effect: a refused large request on an unrelated topic does less than the related one on all nine models, so the concession itself matters everywhere, while the reaction to having just refused something differs by model family. The technique does not transfer to refusals drawn from public benchmarks. What decides whether a retreat can work is what the request asks for: rewriting 265 refused requests for usable instructions into requests for explanations of the same topic removed the refusal in 263 cases. Human influence techniques port to language models one model family at a time.",
+      "summary": "Does the door-in-the-face technique work on language models? In humans, a large request that is refused makes a smaller follow-up request more likely to be granted.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper",
+        "opus",
+        "haiku"
+      ],
+      "uid": "6c18b5fd9461a006"
     },
     {
       "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
@@ -4563,22 +4581,6 @@
         "anthropic-sdk-python"
       ],
       "uid": "9d5aefe772ffaa67"
-    },
-    {
-      "title": "sdk: v0.112.5",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.112.5",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-07-21T22:27:16+00:00",
-      "body": "## 0.112.5 (2026-07-21)\n\nFull Changelog: [sdk-v0.112.4...sdk-v0.112.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.4...sdk-v0.112.5)\n\n### Chores\n\n* **api:** add support for new refusal category ([479efe8](https://github.com/anthropics/anthropic-sdk-typescript/commit/479efe8ade0078966e28d754fa3085c75b6d2a58))\n* **internal:** codegen related update ([830fb74](https://github.com/anthropics/anthropic-sdk-typescript/commit/830fb7467c3cc947e31b5d83a2a31d34fc8ebac2))",
-      "summary": "## 0.112.5 (2026-07-21) Full Changelog: [sdk-v0.112.4...sdk-v0.112.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.4...sdk-v0.112.5) ### Chores * **api:** add support for new refusal category ([479efe8](https://github.com/anthropics/anthropic-sdk-type\u2026",
-      "version": "sdk-v0.112.5",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "50cda5541ead2b2d"
     }
   ]
 }

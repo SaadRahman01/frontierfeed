@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 03 Sep 2026 01:09:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 05:52:41 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>v1.0.214</title>
@@ -38,6 +38,14 @@
 <pubDate>Wed, 02 Sep 2026 16:38:38 +0000</pubDate>
 <category>note</category>
 <description>Building commerce agents with Claude</description>
+</item>
+<item>
+<title>Door-in-the-Face Requests and Refusal Behaviour in Large Language Models</title>
+<link>https://arxiv.org/abs/2609.02707v1</link>
+<guid isPermaLink="false">frontierfeed:6c18b5fd9461a006</guid>
+<pubDate>Wed, 02 Sep 2026 15:08:51 +0000</pubDate>
+<category>research</category>
+<description>Does the door-in-the-face technique work on language models? In humans, a large request that is refused makes a smaller follow-up request more likely to be granted.</description>
 </item>
 <item>
 <title>Six curl CVEs after OpenAI and Anthropic came back with zero</title>
@@ -798,14 +806,6 @@
 <pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
 <category>note</category>
 <description>The AI-Native SDLC playbook</description>
-</item>
-<item>
-<title>Improving Fable 5&#x27;s biology safeguards</title>
-<link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
-<guid isPermaLink="false">frontierfeed:4d79082435796095</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:21 +0000</pubDate>
-<category>note</category>
-<description>Improving Fable 5&#x27;s biology safeguards</description>
 </item>
 </channel>
 </rss>
