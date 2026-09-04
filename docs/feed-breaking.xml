@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>frontierfeed — breaking changes</title>
+<link>https://saadrahman01.github.io/frontierfeed</link>
+<description>Release and news tracker for Anthropic&#x27;s Claude, breaking changes only. Unofficial; not affiliated with Anthropic.</description>
+<language>en</language>
+<lastBuildDate>Fri, 04 Sep 2026 10:33:42 +0000</lastBuildDate>
+<atom:link href="https://saadrahman01.github.io/frontierfeed/feed-breaking.xml" rel="self" type="application/rss+xml"/>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<generator>frontierfeed</generator>
+<ttl>60</ttl>
+<image>
+<url>https://saadrahman01.github.io/frontierfeed/og.png</url>
+<title>frontierfeed — breaking changes</title>
+<link>https://saadrahman01.github.io/frontierfeed</link>
+</image>
+<item>
+<title>[breaking] Breaking Claude Code Opus 5 Auto Mode</title>
+<link>https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/</link>
+<guid isPermaLink="false">frontierfeed:7c182a3eb48ff78e</guid>
+<pubDate>Mon, 31 Aug 2026 07:49:18 +0000</pubDate>
+<category>claude-code</category>
+<description>192 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49506819</description>
+</item>
+<item>
+<title>[breaking] v1.0.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.0.0</link>
+<guid isPermaLink="false">frontierfeed:884201a93ffecab0</guid>
+<pubDate>Thu, 20 Aug 2026 19:58:48 +0000</pubDate>
+<category>api</category>
+<description>## 1.0.0 (2026-08-20) Full Changelog: [v0.125.0...v1.0.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.125.0...v1.0.0) ### ⚠ BREAKING CHANGES * **client:** upgrade to httpx2 and some minor breaking changes.</description>
+</item>
+</channel>
+</rss>

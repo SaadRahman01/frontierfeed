@@ -3,14 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>frontierfeed — Release and news tracker for Anthropic&#x27;s Claude</title>
+<title>Claude Release Tracker — Every Anthropic Model, API &amp; Claude Code Update</title>
 <meta name="description" content="Release and news tracker for Anthropic&#x27;s Claude. Unofficial, open source, updated hourly.">
 <link rel="canonical" href="https://saadrahman01.github.io/frontierfeed/">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
 <meta name="theme-color" content="#101418">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="frontierfeed">
-<meta property="og:title" content="frontierfeed — Release and news tracker for Anthropic&#x27;s Claude">
+<meta property="og:title" content="Claude Release Tracker — Every Anthropic Model, API &amp; Claude Code Update">
 <meta property="og:description" content="Release and news tracker for Anthropic&#x27;s Claude. Unofficial, open source, updated hourly.">
 <meta property="og:url" content="https://saadrahman01.github.io/frontierfeed/">
 <meta property="og:locale" content="en_US">
@@ -19,11 +19,11 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="frontierfeed — Release and news tracker for Anthropic&#x27;s Claude">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="frontierfeed — Release and news tracker for Anthropic&#x27;s Claude">
+<meta name="twitter:title" content="Claude Release Tracker — Every Anthropic Model, API &amp; Claude Code Update">
 <meta name="twitter:description" content="Release and news tracker for Anthropic&#x27;s Claude. Unofficial, open source, updated hourly.">
 <meta name="twitter:image" content="https://saadrahman01.github.io/frontierfeed/og.png">
 <link rel="alternate" type="application/rss+xml" title="frontierfeed RSS" href="feed.xml">
-<link rel="alternate" type="application/json" title="frontierfeed JSON" href="items.json">
+<link rel="alternate" type="application/feed+json" title="frontierfeed JSON Feed" href="feed.json">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;800&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
@@ -58,12 +58,33 @@ body {
   color: var(--ink-soft); margin: 0 0 0.4rem;
 }
 .wordmark {
+  display: block;
   font-family: Archivo, system-ui, sans-serif;
   font-weight: 800; font-stretch: 88%;
   font-size: clamp(2.4rem, 9vw, 4.25rem);
   letter-spacing: -0.035em; line-height: 0.95; margin: 0;
+  color: var(--ink); text-decoration: none;
+}
+a.wordmark { font-size: clamp(1.6rem, 5vw, 2.2rem); }
+.pagetitle {
+  font-family: Archivo, system-ui, sans-serif;
+  font-weight: 800; font-stretch: 88%;
+  font-size: clamp(1.9rem, 6vw, 3rem);
+  letter-spacing: -0.03em; line-height: 1.02; margin: 0.6rem 0 0;
 }
 .tagline { margin: 0.5rem 0 0; max-width: 34rem; color: var(--ink-soft); }
+.lede { margin: 1.25rem 0 1.75rem; max-width: 44rem; color: var(--ink-soft); }
+
+.sitenav {
+  display: flex; flex-wrap: wrap; gap: 0 1.25rem;
+  padding: 0.85rem 0; border-bottom: 1px solid var(--rule);
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase;
+}
+.sitenav a { color: var(--ink-soft); text-decoration: none; padding: 0.15rem 0; }
+.sitenav a:hover { color: var(--ink); box-shadow: inset 0 -2px 0 var(--ink); }
+.sitenav a[aria-current="page"] { color: var(--ink); box-shadow: inset 0 -2px 0 var(--ink); }
+.sitenav a:focus-visible { outline: 2px solid var(--breaking); outline-offset: 2px; }
 
 .board {
   display: flex; flex-wrap: wrap; gap: 0 2.5rem;
@@ -131,20 +152,56 @@ body {
 .entry[data-impact="breaking"] .impact { color: var(--breaking); font-weight: 600; }
 .entry[data-impact="feature"] .impact { color: var(--feature); }
 
-.entry h2 {
+.entry h2, .entry h3 {
   font-family: Archivo, system-ui, sans-serif;
   font-weight: 700; font-stretch: 92%;
   font-size: 1.12rem; line-height: 1.3; letter-spacing: -0.015em;
   margin: 0 0 0.35rem;
 }
-.entry h2 a { color: inherit; text-decoration: none; box-shadow: inset 0 -1px 0 var(--rule); }
-.entry h2 a:hover { box-shadow: inset 0 -2px 0 var(--ink); }
-.entry h2 a:focus-visible { outline: 2px solid var(--breaking); outline-offset: 3px; }
+.entry h2 a, .entry h3 a { color: inherit; text-decoration: none; box-shadow: inset 0 -1px 0 var(--rule); }
+.entry h2 a:hover, .entry h3 a:hover { box-shadow: inset 0 -2px 0 var(--ink); }
+.entry h2 a:focus-visible, .entry h3 a:focus-visible { outline: 2px solid var(--breaking); outline-offset: 3px; }
 .entry p { margin: 0; color: var(--ink-soft); font-size: 0.94rem; }
+.entry ul { margin: 0.6rem 0 0; padding-left: 1.1rem; color: var(--ink); font-size: 0.9rem; }
+.entry li { margin-bottom: 0.25rem; }
 .source {
   font-family: "IBM Plex Mono", ui-monospace, monospace;
   font-size: 0.7rem; color: var(--ink-soft); margin-top: 0.55rem;
 }
+
+.year {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.8rem; letter-spacing: 0.14em; color: var(--ink-soft);
+  margin: 2rem 0 0.6rem; padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.table-block { margin: 0 0 2.5rem; }
+.table-block h2 {
+  font-family: Archivo, system-ui, sans-serif;
+  font-weight: 800; font-stretch: 88%; font-size: 1.4rem;
+  letter-spacing: -0.02em; margin: 0 0 0.75rem;
+}
+.table-block .origin {
+  display: block;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.68rem; font-weight: 400; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--ink-soft); margin-top: 0.2rem;
+}
+.scroller { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; background: var(--card); font-size: 0.9rem; }
+th, td { text-align: left; padding: 0.55rem 0.85rem; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.66rem; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--ink-soft); border-bottom: 1px solid var(--ink); white-space: nowrap;
+}
+td time { font-variant-numeric: tabular-nums; white-space: nowrap; }
+td.v { font-family: "IBM Plex Mono", ui-monospace, monospace; font-weight: 600; white-space: nowrap; }
+td.v a { color: var(--ink); text-decoration: none; box-shadow: inset 0 -1px 0 var(--rule); }
+td.v a:hover { box-shadow: inset 0 -2px 0 var(--ink); }
+tr[data-impact="breaking"] td.v a { color: var(--breaking); }
+td .impact { margin-top: 0; color: var(--ink-soft); }
 
 .empty { padding: 3rem 0; text-align: center; color: var(--ink-soft); }
 
@@ -154,6 +211,11 @@ body {
   font-size: 0.84rem; color: var(--ink-soft);
 }
 .colophon a { color: var(--ink); }
+.colophon code {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.78rem; background: var(--card); padding: 0.1rem 0.3rem;
+  word-break: break-all;
+}
 
 @media (max-width: 40rem) {
   .entry { grid-template-columns: 1fr; gap: 0.6rem; }
@@ -164,17 +226,18 @@ body {
   * { transition: none !important; animation: none !important; }
 }
 </style>
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://saadrahman01.github.io/frontierfeed/#website","url":"https://saadrahman01.github.io/frontierfeed/","name":"frontierfeed","description":"Release and news tracker for Anthropic's Claude. Unofficial, open source, updated hourly.","inLanguage":"en"},{"@type":"CollectionPage","@id":"https://saadrahman01.github.io/frontierfeed/#webpage","url":"https://saadrahman01.github.io/frontierfeed/","name":"frontierfeed — Release and news tracker for Anthropic's Claude","description":"Release and news tracker for Anthropic's Claude. Unofficial, open source, updated hourly.","inLanguage":"en","isPartOf":{"@id":"https://saadrahman01.github.io/frontierfeed/#website"},"dateModified":"2026-09-04T09:54:02+00:00","primaryImageOfPage":{"@id":"https://saadrahman01.github.io/frontierfeed/#ogimage"},"mainEntity":{"@id":"https://saadrahman01.github.io/frontierfeed/#itemlist"}},{"@type":"ImageObject","@id":"https://saadrahman01.github.io/frontierfeed/#ogimage","url":"https://saadrahman01.github.io/frontierfeed/og.png","width":1200,"height":630},{"@type":"ItemList","@id":"https://saadrahman01.github.io/frontierfeed/#itemlist","name":"Latest Claude releases and news","numberOfItems":300,"itemListOrder":"https://schema.org/ItemListOrderDescending","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215","name":"v1.0.215","datePublished":"2026-09-03T23:50:05+00:00"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260","name":"@anthropic-ai/claude-code 2.1.260 published","datePublished":"2026-09-03T22:32:02.087000+00:00"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://armature.tech/blog/which-tools-coding-agents-install","url":"https://armature.tech/blog/which-tools-coding-agents-install","name":"Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out","datePublished":"2026-09-03T21:20:34+00:00"}},{"@type":"ListItem","position":4,"item":{"@type":"WebPage","@id":"https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/","url":"https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/","name":"Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly","datePublished":"2026-09-03T14:28:18+00:00"}},{"@type":"ListItem","position":5,"item":{"@type":"WebPage","@id":"https://status.claude.com/incidents/461yvfrzpwtt","url":"https://status.claude.com/incidents/461yvfrzpwtt","name":"Elevated Errors for Multiple Models","datePublished":"2026-09-03T13:29:12+00:00"}},{"@type":"ListItem","position":6,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214","name":"v1.0.214","datePublished":"2026-09-02T22:35:40+00:00"}},{"@type":"ListItem","position":7,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259","name":"@anthropic-ai/claude-code 2.1.259 published","datePublished":"2026-09-02T21:21:42.115000+00:00"}},{"@type":"ListItem","position":8,"item":{"@type":"WebPage","@id":"https://claude.com/blog/the-anatomy-of-effective-commerce-agents","url":"https://claude.com/blog/the-anatomy-of-effective-commerce-agents","name":"A guide to the anatomy of effective commerce agents","datePublished":"2026-09-02T16:38:38.539192+00:00"}},{"@type":"ListItem","position":9,"item":{"@type":"WebPage","@id":"https://claude.com/blog/claude-for-commerce-agents","url":"https://claude.com/blog/claude-for-commerce-agents","name":"Building commerce agents with Claude","datePublished":"2026-09-02T16:38:38.539150+00:00"}},{"@type":"ListItem","position":10,"item":{"@type":"WebPage","@id":"https://arxiv.org/abs/2609.02707v1","url":"https://arxiv.org/abs/2609.02707v1","name":"Door-in-the-Face Requests and Refusal Behaviour in Large Language Models","datePublished":"2026-09-02T15:08:51+00:00"}},{"@type":"ListItem","position":11,"item":{"@type":"WebPage","@id":"https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero","url":"https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero","name":"Six curl CVEs after OpenAI and Anthropic came back with zero","datePublished":"2026-09-02T13:43:14+00:00"}},{"@type":"ListItem","position":12,"item":{"@type":"WebPage","@id":"https://kix.codes/anthropic-banned-me-for-suspicious-signals/","url":"https://kix.codes/anthropic-banned-me-for-suspicious-signals/","name":"Anthropic banned me for \"suspicious signals\"","datePublished":"2026-09-02T00:38:49+00:00"}},{"@type":"ListItem","position":13,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.213","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.213","name":"v1.0.213","datePublished":"2026-09-01T22:34:45+00:00"}},{"@type":"ListItem","position":14,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.258","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.258","name":"@anthropic-ai/claude-code 2.1.258 published","datePublished":"2026-09-01T22:25:07.449000+00:00"}},{"@type":"ListItem","position":15,"item":{"@type":"WebPage","@id":"https://www.anthropic.com/news/enterprise-frontier-safeguards","url":"https://www.anthropic.com/news/enterprise-frontier-safeguards","name":"Developing Enterprise Frontier Safeguards with our customers","datePublished":"2026-09-01T21:49:54.637992+00:00"}},{"@type":"ListItem","position":16,"item":{"@type":"WebPage","@id":"https://www.anthropic.com/claude-fable-and-mythos-5-1","url":"https://www.anthropic.com/claude-fable-and-mythos-5-1","name":"Claude Fable 5.1 and Claude Mythos 5.1","datePublished":"2026-09-01T18:01:24+00:00"}},{"@type":"ListItem","position":17,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.212","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.212","name":"v1.0.212","datePublished":"2026-09-01T17:55:35+00:00"}},{"@type":"ListItem","position":18,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.123.0","url":"https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.123.0","name":"sdk: v0.123.0","datePublished":"2026-09-01T17:50:12+00:00"}},{"@type":"ListItem","position":19,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.3.0","url":"https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.3.0","name":"v1.3.0","datePublished":"2026-09-01T17:36:55+00:00"}},{"@type":"ListItem","position":20,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257","name":"@anthropic-ai/claude-code 2.1.257 published","datePublished":"2026-09-01T17:15:33.223000+00:00"}}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://saadrahman01.github.io/frontierfeed/#website","url":"https://saadrahman01.github.io/frontierfeed/","name":"frontierfeed","description":"Release and news tracker for Anthropic's Claude. Unofficial, open source, updated hourly.","inLanguage":"en"},{"@type":"CollectionPage","@id":"https://saadrahman01.github.io/frontierfeed/#webpage","url":"https://saadrahman01.github.io/frontierfeed/","name":"Claude Release Tracker — Every Anthropic Model, API & Claude Code Update","description":"Release and news tracker for Anthropic's Claude. Unofficial, open source, updated hourly.","inLanguage":"en","isPartOf":{"@id":"https://saadrahman01.github.io/frontierfeed/#website"},"dateModified":"2026-09-04T10:33:42+00:00","primaryImageOfPage":{"@id":"https://saadrahman01.github.io/frontierfeed/#ogimage"},"mainEntity":{"@id":"https://saadrahman01.github.io/frontierfeed/#itemlist"}},{"@type":"ImageObject","@id":"https://saadrahman01.github.io/frontierfeed/#ogimage","url":"https://saadrahman01.github.io/frontierfeed/og.png","width":1200,"height":630},{"@type":"ItemList","@id":"https://saadrahman01.github.io/frontierfeed/#itemlist","name":"Claude Release Tracker — Every Anthropic Model, API & Claude Code Update","numberOfItems":300,"itemListOrder":"https://schema.org/ItemListOrderDescending","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215","name":"v1.0.215","datePublished":"2026-09-03T23:50:05+00:00"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260","name":"@anthropic-ai/claude-code 2.1.260 published","datePublished":"2026-09-03T22:32:02.087000+00:00"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://armature.tech/blog/which-tools-coding-agents-install","url":"https://armature.tech/blog/which-tools-coding-agents-install","name":"Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out","datePublished":"2026-09-03T21:20:34+00:00"}},{"@type":"ListItem","position":4,"item":{"@type":"WebPage","@id":"https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/","url":"https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/","name":"Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly","datePublished":"2026-09-03T14:28:18+00:00"}},{"@type":"ListItem","position":5,"item":{"@type":"WebPage","@id":"https://status.claude.com/incidents/461yvfrzpwtt","url":"https://status.claude.com/incidents/461yvfrzpwtt","name":"Elevated Errors for Multiple Models","datePublished":"2026-09-03T13:29:12+00:00"}},{"@type":"ListItem","position":6,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214","name":"v1.0.214","datePublished":"2026-09-02T22:35:40+00:00"}},{"@type":"ListItem","position":7,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259","name":"@anthropic-ai/claude-code 2.1.259 published","datePublished":"2026-09-02T21:21:42.115000+00:00"}},{"@type":"ListItem","position":8,"item":{"@type":"WebPage","@id":"https://claude.com/blog/the-anatomy-of-effective-commerce-agents","url":"https://claude.com/blog/the-anatomy-of-effective-commerce-agents","name":"A guide to the anatomy of effective commerce agents","datePublished":"2026-09-02T16:38:38.539192+00:00"}},{"@type":"ListItem","position":9,"item":{"@type":"WebPage","@id":"https://claude.com/blog/claude-for-commerce-agents","url":"https://claude.com/blog/claude-for-commerce-agents","name":"Building commerce agents with Claude","datePublished":"2026-09-02T16:38:38.539150+00:00"}},{"@type":"ListItem","position":10,"item":{"@type":"WebPage","@id":"https://arxiv.org/abs/2609.02707v1","url":"https://arxiv.org/abs/2609.02707v1","name":"Door-in-the-Face Requests and Refusal Behaviour in Large Language Models","datePublished":"2026-09-02T15:08:51+00:00"}},{"@type":"ListItem","position":11,"item":{"@type":"WebPage","@id":"https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero","url":"https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero","name":"Six curl CVEs after OpenAI and Anthropic came back with zero","datePublished":"2026-09-02T13:43:14+00:00"}},{"@type":"ListItem","position":12,"item":{"@type":"WebPage","@id":"https://kix.codes/anthropic-banned-me-for-suspicious-signals/","url":"https://kix.codes/anthropic-banned-me-for-suspicious-signals/","name":"Anthropic banned me for \"suspicious signals\"","datePublished":"2026-09-02T00:38:49+00:00"}},{"@type":"ListItem","position":13,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.213","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.213","name":"v1.0.213","datePublished":"2026-09-01T22:34:45+00:00"}},{"@type":"ListItem","position":14,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.258","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.258","name":"@anthropic-ai/claude-code 2.1.258 published","datePublished":"2026-09-01T22:25:07.449000+00:00"}},{"@type":"ListItem","position":15,"item":{"@type":"WebPage","@id":"https://www.anthropic.com/news/enterprise-frontier-safeguards","url":"https://www.anthropic.com/news/enterprise-frontier-safeguards","name":"Developing Enterprise Frontier Safeguards with our customers","datePublished":"2026-09-01T21:49:54.637992+00:00"}},{"@type":"ListItem","position":16,"item":{"@type":"WebPage","@id":"https://www.anthropic.com/claude-fable-and-mythos-5-1","url":"https://www.anthropic.com/claude-fable-and-mythos-5-1","name":"Claude Fable 5.1 and Claude Mythos 5.1","datePublished":"2026-09-01T18:01:24+00:00"}},{"@type":"ListItem","position":17,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.212","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.212","name":"v1.0.212","datePublished":"2026-09-01T17:55:35+00:00"}},{"@type":"ListItem","position":18,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.123.0","url":"https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.123.0","name":"sdk: v0.123.0","datePublished":"2026-09-01T17:50:12+00:00"}},{"@type":"ListItem","position":19,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.3.0","url":"https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.3.0","name":"v1.3.0","datePublished":"2026-09-01T17:36:55+00:00"}},{"@type":"ListItem","position":20,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257","name":"@anthropic-ai/claude-code 2.1.257 published","datePublished":"2026-09-01T17:15:33.223000+00:00"}}]}]}</script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"7f9c65172fc545818638f1dd8f283d37"}'></script>
 </head>
 <body>
 <div class="wrap">
   <header class="masthead">
     <p class="eyebrow">Unofficial · not affiliated with Anthropic</p>
-    <h1 class="wordmark">frontierfeed</h1>
-    <p class="tagline">Release and news tracker for Anthropic&#x27;s Claude. Every model release, API change, and Claude Code build, pulled from the sources that publish them first.</p>
+    <h1 class="wordmark">frontierfeed</h1><p class="tagline">Release and news tracker for Anthropic&#x27;s Claude. Every model release, API change, and Claude Code build, pulled from the sources that publish them first.</p>
   </header>
+  <nav class="sitenav" aria-label="Sections"><a href="" aria-current="page">Feed</a><a href="claude-code/versions/">Versions</a><a href="breaking/">Breaking</a><a href="releases/">Releases</a></nav>
 
+  <main>
   <section class="board" aria-label="Totals for the selected date range">
     <div class="is-breaking"><b data-count="breaking">2</b><span>Breaking</span></div>
     <div class="is-feature"><b data-count="feature">51</b><span>New</span></div>
@@ -200,7 +263,6 @@ body {
     </nav>
   </div>
 
-  <main>
 <article class="entry" data-impact="fix" data-ts="1788479405"><div class="meta"><time datetime="2026-09-03T23:50:05+00:00">03 Sep 2026</time><span class="version">1.0.215</span><span class="impact">fix</span></div><div><h2><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215" rel="noopener">v1.0.215</a></h2><p>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.214...v1.0.215</p><div class="source">github:anthropics/claude-code-action · claude-code</div></div></article>
 <article class="entry" data-impact="fix" data-ts="1788474722"><div class="meta"><time datetime="2026-09-03T22:32:02.087000+00:00">03 Sep 2026</time><span class="version">2.1.260</span><span class="impact">fix</span></div><div><h2><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260" rel="noopener">@anthropic-ai/claude-code 2.1.260 published</a></h2><p>Version 2.1.260 of @anthropic-ai/claude-code was published to the npm registry.</p><div class="source">npm:@anthropic-ai/claude-code · claude-code</div></div></article>
 <article class="entry" data-impact="info" data-ts="1788470434"><div class="meta"><time datetime="2026-09-03T21:20:34+00:00">03 Sep 2026</time><span class="impact">note</span></div><div><h2><a href="https://armature.tech/blog/which-tools-coding-agents-install" rel="noopener">Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out</a></h2><p>80 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49557206</p><div class="source">hackernews · note</div></div></article>
@@ -505,7 +567,14 @@ body {
   </main>
 
   <footer class="colophon">
-    <p>Updated 04 Sep 2026, 09:54 UTC. Subscribe via <a href="feed.xml">RSS</a> or read the raw <a href="items.json">JSON</a>.</p>
+    <p>Updated 04 Sep 2026, 10:33 UTC. Subscribe to
+      <a href="feed.xml">everything</a>,
+      <a href="feed-breaking.xml">breaking changes only</a>,
+      <a href="feed-claude-code.xml">Claude Code only</a> or
+      <a href="feed-releases.xml">model releases only</a> —
+      or read the <a href="feed.json">JSON Feed</a> or raw <a href="items.json">JSON</a>.</p>
+    <p>Embed the current Claude Code version anywhere:
+      <code>![Claude Code](https://saadrahman01.github.io/frontierfeed/badge/claude-code-version.svg)</code></p>
     <p>Open source at <a href="https://github.com/SaadRahman01/frontierfeed">github.com/SaadRahman01/frontierfeed</a>. Claude and Anthropic are trademarks of Anthropic, PBC. This project is independent and not endorsed by or affiliated with Anthropic.</p>
   </footer>
 </div>

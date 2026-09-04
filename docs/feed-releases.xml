@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>frontierfeed — model releases</title>
+<link>https://saadrahman01.github.io/frontierfeed</link>
+<description>Release and news tracker for Anthropic&#x27;s Claude, model releases only. Unofficial; not affiliated with Anthropic.</description>
+<language>en</language>
+<lastBuildDate>Fri, 04 Sep 2026 10:33:42 +0000</lastBuildDate>
+<atom:link href="https://saadrahman01.github.io/frontierfeed/feed-releases.xml" rel="self" type="application/rss+xml"/>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<generator>frontierfeed</generator>
+<ttl>60</ttl>
+<image>
+<url>https://saadrahman01.github.io/frontierfeed/og.png</url>
+<title>frontierfeed — model releases</title>
+<link>https://saadrahman01.github.io/frontierfeed</link>
+</image>
+<item>
+<title>Claude Fable 5.1 and Claude Mythos 5.1</title>
+<link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
+<guid isPermaLink="false">frontierfeed:ae4b268f34afddba</guid>
+<pubDate>Tue, 01 Sep 2026 18:01:24 +0000</pubDate>
+<category>model-release</category>
+<description>68 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=49525496</description>
+</item>
+<item>
+<title>Introducing advanced tool use on the Claude Developer Platform</title>
+<link>https://www.anthropic.com/engineering/advanced-tool-use</link>
+<guid isPermaLink="false">frontierfeed:c343e840b5a491e6</guid>
+<pubDate>Thu, 06 Aug 2026 13:23:07 +0000</pubDate>
+<category>launch</category>
+<description>We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.</description>
+</item>
+<item>
+<title>Introducing Claude Tag</title>
+<link>https://www.anthropic.com/news/introducing-claude-tag</link>
+<guid isPermaLink="false">frontierfeed:adc6b68bd111afbd</guid>
+<pubDate>Thu, 06 Aug 2026 13:23:06 +0000</pubDate>
+<category>launch</category>
+<description>Introducing Claude Tag</description>
+</item>
+<item>
+<title>Introducing Claude Sonnet 5</title>
+<link>https://www.anthropic.com/news/claude-sonnet-5</link>
+<guid isPermaLink="false">frontierfeed:aab830546368e819</guid>
+<pubDate>Thu, 06 Aug 2026 13:23:06 +0000</pubDate>
+<category>model-release</category>
+<description>Introducing Claude Sonnet 5</description>
+</item>
+<item>
+<title>Introducing a way to reflect on how you use Claude</title>
+<link>https://www.anthropic.com/news/reflect-with-claude</link>
+<guid isPermaLink="false">frontierfeed:809fa8fc0fec0bfb</guid>
+<pubDate>Thu, 06 Aug 2026 13:23:06 +0000</pubDate>
+<category>launch</category>
+<description>Introducing a way to reflect on how you use Claude</description>
+</item>
+<item>
+<title>Introducing Claude for Teachers</title>
+<link>https://www.anthropic.com/news/claude-for-teachers</link>
+<guid isPermaLink="false">frontierfeed:d2853d72add8b969</guid>
+<pubDate>Thu, 06 Aug 2026 13:23:06 +0000</pubDate>
+<category>launch</category>
+<description>Introducing Claude for Teachers</description>
+</item>
+<item>
+<title>Introducing Claude Opus 5</title>
+<link>https://www.anthropic.com/news/claude-opus-5</link>
+<guid isPermaLink="false">frontierfeed:cb3d7ccb220b7d1b</guid>
+<pubDate>Thu, 06 Aug 2026 13:23:06 +0000</pubDate>
+<category>model-release</category>
+<description>Introducing Claude Opus 5</description>
+</item>
+<item>
+<title>Claude Opus 5</title>
+<link>https://www.anthropic.com/news/claude-opus-5</link>
+<guid isPermaLink="false">frontierfeed:a6280395b5ef5312</guid>
+<pubDate>Fri, 24 Jul 2026 16:57:41 +0000</pubDate>
+<category>model-release</category>
+<description>1778 points, 1333 comments. Discussion: https://news.ycombinator.com/item?id=49038433</description>
+</item>
+</channel>
+</rss>

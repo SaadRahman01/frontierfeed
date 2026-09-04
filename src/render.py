@@ -1,7 +1,9 @@
-"""Output: RSS 2.0, a JSON feed, and the static site.
+"""The static site.
 
-All three are written to docs/, which is what GitHub Pages serves. Nothing here
-touches a database or a template engine — the whole site is one string.
+Everything is written to docs/, which is what GitHub Pages serves. No database
+and no template engine — a page is one string. This module owns the shared
+shell (head, masthead, nav, colophon) and the index; the compiled pages live in
+pages.py and the feeds in feeds.py.
 """
 
 from __future__ import annotations
@@ -9,90 +11,26 @@ from __future__ import annotations
 import json
 import re
 from datetime import datetime, timezone
-from email.utils import format_datetime
 from html import escape
 from pathlib import Path
 
+from . import feeds, pages
 from .models import Item
+from .site import (
+    CANONICAL,
+    IMPACT_LABEL,
+    OG_IMAGE,
+    PAGES,
+    REPO_URL,
+    SITE_DESC,
+    SITE_TAGLINE,
+    SITE_TITLE,
+    SITE_URL,
+    base_prefix,
+    page_url,
+)
 
 DOCS = Path("docs")
-
-SITE_TITLE = "frontierfeed"
-SITE_TAGLINE = "Release and news tracker for Anthropic's Claude"
-SITE_URL = "https://saadrahman01.github.io/frontierfeed"
-REPO_URL = "https://github.com/SaadRahman01/frontierfeed"
-# Crawlers and social scrapers need absolute URLs; the page itself keeps
-# using relative hrefs so it still works when opened from disk.
-CANONICAL = f"{SITE_URL}/"
-OG_IMAGE = f"{SITE_URL}/og.png"
-SITE_DESC = f"{SITE_TAGLINE}. Unofficial, open source, updated hourly."
-
-IMPACT_LABEL = {
-    "breaking": "breaking",
-    "feature": "new",
-    "fix": "fix",
-    "info": "note",
-}
-
-
-# --------------------------------------------------------------------------- RSS
-
-
-def render_rss(items: list[Item], limit: int = 100) -> str:
-    now = format_datetime(datetime.now(timezone.utc))
-    parts = [
-        '<?xml version="1.0" encoding="UTF-8"?>',
-        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
-        "<channel>",
-        f"<title>{escape(SITE_TITLE)}</title>",
-        f"<link>{escape(SITE_URL)}</link>",
-        f"<description>{escape(SITE_TAGLINE)}. Unofficial; not affiliated with Anthropic.</description>",
-        "<language>en</language>",
-        f"<lastBuildDate>{now}</lastBuildDate>",
-        f'<atom:link href="{escape(SITE_URL)}/feed.xml" rel="self" type="application/rss+xml"/>',
-        "<docs>https://www.rssboard.org/rss-specification</docs>",
-        f"<generator>{escape(SITE_TITLE)}</generator>",
-        "<ttl>60</ttl>",
-        "<image>",
-        f"<url>{escape(OG_IMAGE)}</url>",
-        f"<title>{escape(SITE_TITLE)}</title>",
-        f"<link>{escape(SITE_URL)}</link>",
-        "</image>",
-    ]
-    for item in items[:limit]:
-        label = IMPACT_LABEL.get(item.impact, item.impact)
-        title = f"[{label}] {item.title}" if item.impact == "breaking" else item.title
-        parts += [
-            "<item>",
-            f"<title>{escape(title)}</title>",
-            f"<link>{escape(item.url)}</link>",
-            f"<guid isPermaLink=\"false\">frontierfeed:{item.uid}</guid>",
-            f"<pubDate>{format_datetime(item.dt)}</pubDate>",
-            f"<category>{escape(item.category)}</category>",
-            f"<description>{escape(item.summary)}</description>",
-            "</item>",
-        ]
-    parts += ["</channel>", "</rss>"]
-    return "\n".join(parts)
-
-
-# -------------------------------------------------------------------------- JSON
-
-
-def render_json(items: list[Item]) -> str:
-    return json.dumps(
-        {
-            "title": SITE_TITLE,
-            "description": SITE_TAGLINE,
-            "generated": datetime.now(timezone.utc).isoformat(),
-            "count": len(items),
-            "items": [i.to_dict() for i in items],
-        },
-        indent=2,
-    )
-
-
-# -------------------------------------------------------------------------- HTML
 
 CSS = """
 :root {
@@ -125,12 +63,33 @@ body {
   color: var(--ink-soft); margin: 0 0 0.4rem;
 }
 .wordmark {
+  display: block;
   font-family: Archivo, system-ui, sans-serif;
   font-weight: 800; font-stretch: 88%;
   font-size: clamp(2.4rem, 9vw, 4.25rem);
   letter-spacing: -0.035em; line-height: 0.95; margin: 0;
+  color: var(--ink); text-decoration: none;
+}
+a.wordmark { font-size: clamp(1.6rem, 5vw, 2.2rem); }
+.pagetitle {
+  font-family: Archivo, system-ui, sans-serif;
+  font-weight: 800; font-stretch: 88%;
+  font-size: clamp(1.9rem, 6vw, 3rem);
+  letter-spacing: -0.03em; line-height: 1.02; margin: 0.6rem 0 0;
 }
 .tagline { margin: 0.5rem 0 0; max-width: 34rem; color: var(--ink-soft); }
+.lede { margin: 1.25rem 0 1.75rem; max-width: 44rem; color: var(--ink-soft); }
+
+.sitenav {
+  display: flex; flex-wrap: wrap; gap: 0 1.25rem;
+  padding: 0.85rem 0; border-bottom: 1px solid var(--rule);
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase;
+}
+.sitenav a { color: var(--ink-soft); text-decoration: none; padding: 0.15rem 0; }
+.sitenav a:hover { color: var(--ink); box-shadow: inset 0 -2px 0 var(--ink); }
+.sitenav a[aria-current="page"] { color: var(--ink); box-shadow: inset 0 -2px 0 var(--ink); }
+.sitenav a:focus-visible { outline: 2px solid var(--breaking); outline-offset: 2px; }
 
 .board {
   display: flex; flex-wrap: wrap; gap: 0 2.5rem;
@@ -198,20 +157,56 @@ body {
 .entry[data-impact="breaking"] .impact { color: var(--breaking); font-weight: 600; }
 .entry[data-impact="feature"] .impact { color: var(--feature); }
 
-.entry h2 {
+.entry h2, .entry h3 {
   font-family: Archivo, system-ui, sans-serif;
   font-weight: 700; font-stretch: 92%;
   font-size: 1.12rem; line-height: 1.3; letter-spacing: -0.015em;
   margin: 0 0 0.35rem;
 }
-.entry h2 a { color: inherit; text-decoration: none; box-shadow: inset 0 -1px 0 var(--rule); }
-.entry h2 a:hover { box-shadow: inset 0 -2px 0 var(--ink); }
-.entry h2 a:focus-visible { outline: 2px solid var(--breaking); outline-offset: 3px; }
+.entry h2 a, .entry h3 a { color: inherit; text-decoration: none; box-shadow: inset 0 -1px 0 var(--rule); }
+.entry h2 a:hover, .entry h3 a:hover { box-shadow: inset 0 -2px 0 var(--ink); }
+.entry h2 a:focus-visible, .entry h3 a:focus-visible { outline: 2px solid var(--breaking); outline-offset: 3px; }
 .entry p { margin: 0; color: var(--ink-soft); font-size: 0.94rem; }
+.entry ul { margin: 0.6rem 0 0; padding-left: 1.1rem; color: var(--ink); font-size: 0.9rem; }
+.entry li { margin-bottom: 0.25rem; }
 .source {
   font-family: "IBM Plex Mono", ui-monospace, monospace;
   font-size: 0.7rem; color: var(--ink-soft); margin-top: 0.55rem;
 }
+
+.year {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.8rem; letter-spacing: 0.14em; color: var(--ink-soft);
+  margin: 2rem 0 0.6rem; padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.table-block { margin: 0 0 2.5rem; }
+.table-block h2 {
+  font-family: Archivo, system-ui, sans-serif;
+  font-weight: 800; font-stretch: 88%; font-size: 1.4rem;
+  letter-spacing: -0.02em; margin: 0 0 0.75rem;
+}
+.table-block .origin {
+  display: block;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.68rem; font-weight: 400; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--ink-soft); margin-top: 0.2rem;
+}
+.scroller { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; background: var(--card); font-size: 0.9rem; }
+th, td { text-align: left; padding: 0.55rem 0.85rem; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.66rem; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--ink-soft); border-bottom: 1px solid var(--ink); white-space: nowrap;
+}
+td time { font-variant-numeric: tabular-nums; white-space: nowrap; }
+td.v { font-family: "IBM Plex Mono", ui-monospace, monospace; font-weight: 600; white-space: nowrap; }
+td.v a { color: var(--ink); text-decoration: none; box-shadow: inset 0 -1px 0 var(--rule); }
+td.v a:hover { box-shadow: inset 0 -2px 0 var(--ink); }
+tr[data-impact="breaking"] td.v a { color: var(--breaking); }
+td .impact { margin-top: 0; color: var(--ink-soft); }
 
 .empty { padding: 3rem 0; text-align: center; color: var(--ink-soft); }
 
@@ -221,6 +216,11 @@ body {
   font-size: 0.84rem; color: var(--ink-soft);
 }
 .colophon a { color: var(--ink); }
+.colophon code {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.78rem; background: var(--card); padding: 0.1rem 0.3rem;
+  word-break: break-all;
+}
 
 @media (max-width: 40rem) {
   .entry { grid-template-columns: 1fr; gap: 0.6rem; }
@@ -275,6 +275,8 @@ document.querySelectorAll('.filters').forEach(group => {
 """
 
 
+# ----------------------------------------------------------------- analytics
+
 # Cloudflare beacon tokens are hex; anything else is a misconfiguration and is
 # dropped rather than interpolated into a script tag.
 _CF_TOKEN = re.compile(r"\A[A-Za-z0-9]{8,64}\Z")
@@ -291,11 +293,17 @@ def _beacon(token: str) -> str:
     )
 
 
-def _jsonld(items: list[Item], now: datetime, limit: int = 20) -> str:
-    """schema.org description of the page. Titles come from remote feeds, so the
-    payload is JSON-encoded and `</` is escaped — a title containing
-    `</script>` must not be able to close the tag."""
-    graph = [
+# ------------------------------------------------------------------- json-ld
+
+
+def _jsonld(slug: str, title: str, desc: str, items: list[Item], now: datetime) -> str:
+    """schema.org description of a page.
+
+    Titles come from remote feeds, so the payload is JSON-encoded and `</` is
+    escaped — a title containing `</script>` must not be able to close the tag.
+    """
+    url = page_url(slug)
+    graph: list[dict] = [
         {
             "@type": "WebSite",
             "@id": f"{SITE_URL}/#website",
@@ -306,15 +314,14 @@ def _jsonld(items: list[Item], now: datetime, limit: int = 20) -> str:
         },
         {
             "@type": "CollectionPage",
-            "@id": f"{SITE_URL}/#webpage",
-            "url": CANONICAL,
-            "name": f"{SITE_TITLE} \u2014 {SITE_TAGLINE}",
-            "description": SITE_DESC,
+            "@id": f"{url}#webpage",
+            "url": url,
+            "name": title,
+            "description": desc,
             "inLanguage": "en",
             "isPartOf": {"@id": f"{SITE_URL}/#website"},
             "dateModified": now.isoformat(timespec="seconds"),
             "primaryImageOfPage": {"@id": f"{SITE_URL}/#ogimage"},
-            "mainEntity": {"@id": f"{SITE_URL}/#itemlist"},
         },
         {
             "@type": "ImageObject",
@@ -323,28 +330,49 @@ def _jsonld(items: list[Item], now: datetime, limit: int = 20) -> str:
             "width": 1200,
             "height": 630,
         },
-        {
-            "@type": "ItemList",
-            "@id": f"{SITE_URL}/#itemlist",
-            "name": "Latest Claude releases and news",
-            "numberOfItems": len(items),
-            "itemListOrder": "https://schema.org/ItemListOrderDescending",
-            "itemListElement": [
+    ]
+
+    if slug:
+        crumbs = [{"@type": "ListItem", "position": 1, "name": SITE_TITLE, "item": CANONICAL}]
+        parts = slug.strip("/").split("/")
+        for n, _ in enumerate(parts, 1):
+            sub = "/".join(parts[:n])
+            crumbs.append(
                 {
                     "@type": "ListItem",
-                    "position": n,
-                    "item": {
-                        "@type": "WebPage",
-                        "@id": item.url,
-                        "url": item.url,
-                        "name": item.title,
-                        "datePublished": item.published,
-                    },
+                    "position": n + 1,
+                    "name": PAGES.get(sub, (parts[n - 1],))[0],
+                    "item": page_url(sub),
                 }
-                for n, item in enumerate(items[:limit], 1)
-            ],
-        },
-    ]
+            )
+        graph.append({"@type": "BreadcrumbList", "itemListElement": crumbs})
+
+    if items:
+        graph.append(
+            {
+                "@type": "ItemList",
+                "@id": f"{url}#itemlist",
+                "name": title,
+                "numberOfItems": len(items),
+                "itemListOrder": "https://schema.org/ItemListOrderDescending",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": n,
+                        "item": {
+                            "@type": "WebPage",
+                            "@id": item.url,
+                            "url": item.url,
+                            "name": item.title,
+                            "datePublished": item.published,
+                        },
+                    }
+                    for n, item in enumerate(items[:20], 1)
+                ],
+            }
+        )
+        graph[1]["mainEntity"] = {"@id": f"{url}#itemlist"}
+
     payload = json.dumps(
         {"@context": "https://schema.org", "@graph": graph},
         ensure_ascii=False,
@@ -353,32 +381,112 @@ def _jsonld(items: list[Item], now: datetime, limit: int = 20) -> str:
     return f'<script type="application/ld+json">{payload}</script>'
 
 
-def render_robots() -> str:
-    return (
-        "User-agent: *\n"
-        "Allow: /\n"
-        "\n"
-        f"Sitemap: {SITE_URL}/sitemap.xml\n"
-    )
+# --------------------------------------------------------------------- shell
 
 
-def render_sitemap(now: datetime) -> str:
-    # One page, one entry. The feeds are not HTML and do not belong here.
-    return (
-        '<?xml version="1.0" encoding="UTF-8"?>\n'
-        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-        "<url>\n"
-        f"<loc>{escape(CANONICAL)}</loc>\n"
-        f"<lastmod>{now.strftime('%Y-%m-%d')}</lastmod>\n"
-        "<changefreq>hourly</changefreq>\n"
-        "<priority>1.0</priority>\n"
-        "</url>\n"
-        "</urlset>\n"
-    )
+def _nav(slug: str, base: str) -> str:
+    links = []
+    for other, (label, _, _) in PAGES.items():
+        href = base if not other else f"{base}{other}/"
+        current = ' aria-current="page"' if other == slug else ""
+        links.append(f'<a href="{href}"{current}>{escape(label)}</a>')
+    return f'<nav class="sitenav" aria-label="Sections">{"".join(links)}</nav>'
 
 
-def render_html(items: list[Item], analytics_token: str = "") -> str:
-    now = datetime.now(timezone.utc)
+def page(
+    slug: str,
+    body: str,
+    *,
+    now: datetime,
+    token: str = "",
+    jsonld_items: list[Item] | None = None,
+    scripts: str = "",
+) -> str:
+    label, title, desc = PAGES[slug]
+    base = base_prefix(slug)
+    url = page_url(slug)
+    jsonld = _jsonld(slug, title, desc, jsonld_items or [], now)
+    beacon = _beacon(token)
+
+    if slug:
+        heading = (
+            f'<a class="wordmark" href="{base}">{escape(SITE_TITLE)}</a>'
+            f'<h1 class="pagetitle">{escape(title.split(" — ")[0])}</h1>'
+        )
+    else:
+        heading = (
+            f'<h1 class="wordmark">{escape(SITE_TITLE)}</h1>'
+            f'<p class="tagline">{escape(SITE_TAGLINE)}. Every model release, API change, '
+            f"and Claude Code build, pulled from the sources that publish them first.</p>"
+        )
+
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{escape(title)}</title>
+<meta name="description" content="{escape(desc)}">
+<link rel="canonical" href="{escape(url)}">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta name="theme-color" content="#101418">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{escape(SITE_TITLE)}">
+<meta property="og:title" content="{escape(title)}">
+<meta property="og:description" content="{escape(desc)}">
+<meta property="og:url" content="{escape(url)}">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="{escape(OG_IMAGE)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{escape(SITE_TITLE)} — {escape(SITE_TAGLINE)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{escape(title)}">
+<meta name="twitter:description" content="{escape(desc)}">
+<meta name="twitter:image" content="{escape(OG_IMAGE)}">
+<link rel="alternate" type="application/rss+xml" title="{escape(SITE_TITLE)} RSS" href="{base}feed.xml">
+<link rel="alternate" type="application/feed+json" title="{escape(SITE_TITLE)} JSON Feed" href="{base}feed.json">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;800&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>{CSS}</style>
+{jsonld}
+{beacon}
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <p class="eyebrow">Unofficial · not affiliated with Anthropic</p>
+    {heading}
+  </header>
+  {_nav(slug, base)}
+
+  <main>
+{body}
+  </main>
+
+  <footer class="colophon">
+    <p>Updated {now.strftime('%d %b %Y, %H:%M')} UTC. Subscribe to
+      <a href="{base}feed.xml">everything</a>,
+      <a href="{base}feed-breaking.xml">breaking changes only</a>,
+      <a href="{base}feed-claude-code.xml">Claude Code only</a> or
+      <a href="{base}feed-releases.xml">model releases only</a> —
+      or read the <a href="{base}feed.json">JSON Feed</a> or raw <a href="{base}items.json">JSON</a>.</p>
+    <p>Embed the current Claude Code version anywhere:
+      <code>![Claude Code]({SITE_URL}/badge/claude-code-version.svg)</code></p>
+    <p>Open source at <a href="{REPO_URL}">{escape(REPO_URL.replace('https://', ''))}</a>. Claude and Anthropic are trademarks of Anthropic, PBC. This project is independent and not endorsed by or affiliated with Anthropic.</p>
+  </footer>
+</div>
+{scripts}
+</body>
+</html>
+"""
+
+
+# --------------------------------------------------------------------- index
+
+
+def body_index(items: list[Item]) -> str:
     # The board counts whatever the date filter selects; on first paint that is
     # everything, and the script recounts from there.
     counts = {
@@ -406,52 +514,9 @@ def render_html(items: list[Item], analytics_token: str = "") -> str:
             f"</article>"
         )
 
-    body = "\n".join(rows) or '<p class="empty">No entries yet. Run the update job to populate the feed.</p>'
-    jsonld = _jsonld(items, now)
-    beacon = _beacon(analytics_token)
+    entries = "\n".join(rows) or '<p class="empty">No entries yet. Run the update job to populate the feed.</p>'
 
-    return f"""<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{escape(SITE_TITLE)} — {escape(SITE_TAGLINE)}</title>
-<meta name="description" content="{escape(SITE_DESC)}">
-<link rel="canonical" href="{escape(CANONICAL)}">
-<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
-<meta name="theme-color" content="#101418">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="{escape(SITE_TITLE)}">
-<meta property="og:title" content="{escape(SITE_TITLE)} — {escape(SITE_TAGLINE)}">
-<meta property="og:description" content="{escape(SITE_DESC)}">
-<meta property="og:url" content="{escape(CANONICAL)}">
-<meta property="og:locale" content="en_US">
-<meta property="og:image" content="{escape(OG_IMAGE)}">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="{escape(SITE_TITLE)} — {escape(SITE_TAGLINE)}">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{escape(SITE_TITLE)} — {escape(SITE_TAGLINE)}">
-<meta name="twitter:description" content="{escape(SITE_DESC)}">
-<meta name="twitter:image" content="{escape(OG_IMAGE)}">
-<link rel="alternate" type="application/rss+xml" title="{escape(SITE_TITLE)} RSS" href="feed.xml">
-<link rel="alternate" type="application/json" title="{escape(SITE_TITLE)} JSON" href="items.json">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;800&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
-<style>{CSS}</style>
-{jsonld}
-{beacon}
-</head>
-<body>
-<div class="wrap">
-  <header class="masthead">
-    <p class="eyebrow">Unofficial · not affiliated with Anthropic</p>
-    <h1 class="wordmark">{escape(SITE_TITLE)}</h1>
-    <p class="tagline">{escape(SITE_TAGLINE)}. Every model release, API change, and Claude Code build, pulled from the sources that publish them first.</p>
-  </header>
-
-  <section class="board" aria-label="Totals for the selected date range">
+    return f"""  <section class="board" aria-label="Totals for the selected date range">
     <div class="is-breaking"><b data-count="breaking">{counts['breaking']}</b><span>Breaking</span></div>
     <div class="is-feature"><b data-count="feature">{counts['feature']}</b><span>New</span></div>
     <div><b data-count="other">{counts['other']}</b><span>Other</span></div>
@@ -476,31 +541,72 @@ def render_html(items: list[Item], analytics_token: str = "") -> str:
     </nav>
   </div>
 
-  <main>
-{body}
-    <p class="empty no-match" hidden>No entries match these filters.</p>
-  </main>
+{entries}
+    <p class="empty no-match" hidden>No entries match these filters.</p>"""
 
-  <footer class="colophon">
-    <p>Updated {now.strftime('%d %b %Y, %H:%M')} UTC. Subscribe via <a href="feed.xml">RSS</a> or read the raw <a href="items.json">JSON</a>.</p>
-    <p>Open source at <a href="{REPO_URL}">{escape(REPO_URL.replace('https://', ''))}</a>. Claude and Anthropic are trademarks of Anthropic, PBC. This project is independent and not endorsed by or affiliated with Anthropic.</p>
-  </footer>
-</div>
-<script>{JS}</script>
-</body>
-</html>
-"""
+
+# ----------------------------------------------------------- robots, sitemap
+
+
+def render_robots() -> str:
+    return f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}/sitemap.xml\n"
+
+
+def render_sitemap(now: datetime) -> str:
+    stamp = now.strftime("%Y-%m-%d")
+    urls = "".join(
+        f"<url><loc>{escape(page_url(slug))}</loc><lastmod>{stamp}</lastmod>"
+        f"<changefreq>hourly</changefreq>"
+        f"<priority>{'1.0' if not slug else '0.8'}</priority></url>\n"
+        for slug in PAGES
+    )
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"{urls}"
+        "</urlset>\n"
+    )
+
+
+# --------------------------------------------------------------------- write
 
 
 def write_all(items: list[Item], docs: Path = DOCS, config: dict | None = None) -> None:
-    analytics = ((config or {}).get("analytics") or {})
-    token = analytics.get("cloudflare_token") or ""
+    token = ((config or {}).get("analytics") or {}).get("cloudflare_token") or ""
     now = datetime.now(timezone.utc)
-
     docs.mkdir(parents=True, exist_ok=True)
-    (docs / "feed.xml").write_text(render_rss(items), encoding="utf-8")
-    (docs / "items.json").write_text(render_json(items), encoding="utf-8")
-    (docs / "index.html").write_text(render_html(items, token), encoding="utf-8")
+
+    # Feeds.
+    for name, label, keep in feeds.FEEDS:
+        subset = [i for i in items if keep(i)]
+        (docs / name).write_text(feeds.render_rss(subset, label=label, path=name), encoding="utf-8")
+    (docs / "feed.json").write_text(feeds.render_jsonfeed(items), encoding="utf-8")
+    (docs / "items.json").write_text(feeds.render_items_json(items), encoding="utf-8")
+
+    # Pages. The index carries the filter script; the rest are static.
+    written = {
+        "": (body_index(items), items, f"<script>{JS}</script>"),
+        "claude-code/versions": (pages.body_versions(items), [i for i in items if i.version], ""),
+        "breaking": (pages.body_breaking(items), [i for i in items if i.impact == "breaking"], ""),
+        "releases": (
+            pages.body_releases(items),
+            [i for i in items if i.category in pages.RELEASE_CATEGORIES],
+            "",
+        ),
+    }
+    for slug, (body, listed, scripts) in written.items():
+        out = docs / (slug or "") / "index.html"
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(
+            page(slug, body, now=now, token=token, jsonld_items=listed, scripts=scripts),
+            encoding="utf-8",
+        )
+
+    # Embeddable badge — every README that uses it is a backlink.
+    badge = docs / "badge" / "claude-code-version.svg"
+    badge.parent.mkdir(parents=True, exist_ok=True)
+    badge.write_text(pages.render_badge(items), encoding="utf-8")
+
     (docs / "robots.txt").write_text(render_robots(), encoding="utf-8")
     (docs / "sitemap.xml").write_text(render_sitemap(now), encoding="utf-8")
     (docs / ".nojekyll").write_text("", encoding="utf-8")

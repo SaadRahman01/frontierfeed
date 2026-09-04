@@ -1,0 +1,366 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Claude Code Version History — Every Release With Dates</title>
+<meta name="description" content="Complete version history for Claude Code and the Anthropic SDKs, with release dates, pulled hourly from npm and GitHub Releases.">
+<link rel="canonical" href="https://saadrahman01.github.io/frontierfeed/claude-code/versions/">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta name="theme-color" content="#101418">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="frontierfeed">
+<meta property="og:title" content="Claude Code Version History — Every Release With Dates">
+<meta property="og:description" content="Complete version history for Claude Code and the Anthropic SDKs, with release dates, pulled hourly from npm and GitHub Releases.">
+<meta property="og:url" content="https://saadrahman01.github.io/frontierfeed/claude-code/versions/">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://saadrahman01.github.io/frontierfeed/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="frontierfeed — Release and news tracker for Anthropic&#x27;s Claude">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Claude Code Version History — Every Release With Dates">
+<meta name="twitter:description" content="Complete version history for Claude Code and the Anthropic SDKs, with release dates, pulled hourly from npm and GitHub Releases.">
+<meta name="twitter:image" content="https://saadrahman01.github.io/frontierfeed/og.png">
+<link rel="alternate" type="application/rss+xml" title="frontierfeed RSS" href="../../feed.xml">
+<link rel="alternate" type="application/feed+json" title="frontierfeed JSON Feed" href="../../feed.json">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;800&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink: #101418;
+  --ink-soft: #4C555E;
+  --paper: #E6E9E4;
+  --card: #F3F5F1;
+  --rule: #C3CAC2;
+  --breaking: #8E1B2E;
+  --feature: #2E5E4E;
+  --fix: #626D78;
+  --gauge: 6px;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "IBM Plex Sans", system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+}
+.wrap { max-width: 62rem; margin: 0 auto; padding: 2.5rem 1.25rem 5rem; }
+
+.masthead { border-bottom: 2px solid var(--ink); padding-bottom: 1.25rem; }
+.eyebrow {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--ink-soft); margin: 0 0 0.4rem;
+}
+.wordmark {
+  display: block;
+  font-family: Archivo, system-ui, sans-serif;
+  font-weight: 800; font-stretch: 88%;
+  font-size: clamp(2.4rem, 9vw, 4.25rem);
+  letter-spacing: -0.035em; line-height: 0.95; margin: 0;
+  color: var(--ink); text-decoration: none;
+}
+a.wordmark { font-size: clamp(1.6rem, 5vw, 2.2rem); }
+.pagetitle {
+  font-family: Archivo, system-ui, sans-serif;
+  font-weight: 800; font-stretch: 88%;
+  font-size: clamp(1.9rem, 6vw, 3rem);
+  letter-spacing: -0.03em; line-height: 1.02; margin: 0.6rem 0 0;
+}
+.tagline { margin: 0.5rem 0 0; max-width: 34rem; color: var(--ink-soft); }
+.lede { margin: 1.25rem 0 1.75rem; max-width: 44rem; color: var(--ink-soft); }
+
+.sitenav {
+  display: flex; flex-wrap: wrap; gap: 0 1.25rem;
+  padding: 0.85rem 0; border-bottom: 1px solid var(--rule);
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase;
+}
+.sitenav a { color: var(--ink-soft); text-decoration: none; padding: 0.15rem 0; }
+.sitenav a:hover { color: var(--ink); box-shadow: inset 0 -2px 0 var(--ink); }
+.sitenav a[aria-current="page"] { color: var(--ink); box-shadow: inset 0 -2px 0 var(--ink); }
+.sitenav a:focus-visible { outline: 2px solid var(--breaking); outline-offset: 2px; }
+
+.board {
+  display: flex; flex-wrap: wrap; gap: 0 2.5rem;
+  border-bottom: 1px solid var(--rule);
+  padding: 1rem 0; margin-bottom: 0.5rem;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+}
+.board div { padding-right: 0.5rem; }
+.board b {
+  display: block; font-size: 1.9rem; font-weight: 600; line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+}
+.board span {
+  font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.board .is-breaking b { color: var(--breaking); }
+.board .is-feature b { color: var(--feature); }
+
+.filterbar { padding: 1rem 0 1.5rem; }
+.filters { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; }
+.filters + .filters { margin-top: 0.5rem; }
+.filters .legend {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--ink-soft); width: 4.5rem; flex: none;
+}
+.filters button {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;
+  background: transparent; color: var(--ink-soft);
+  border: 1px solid var(--rule); border-radius: 0;
+  padding: 0.35rem 0.7rem; cursor: pointer;
+}
+.filters button[aria-pressed="true"] {
+  background: var(--ink); border-color: var(--ink); color: var(--card);
+}
+.filters button:focus-visible { outline: 2px solid var(--breaking); outline-offset: 2px; }
+
+.entry {
+  display: grid;
+  grid-template-columns: 8.5rem 1fr;
+  gap: 0 1.5rem;
+  border-left: var(--gauge) solid var(--fix);
+  background: var(--card);
+  padding: 1.1rem 1.35rem;
+  margin-bottom: 0.4rem;
+}
+.entry[data-impact="breaking"] { border-left-color: var(--breaking); }
+.entry[data-impact="feature"] { border-left-color: var(--feature); }
+.entry[data-impact="info"] { border-left-color: var(--rule); }
+.entry[hidden] { display: none; }
+
+.meta { font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: 0.75rem; color: var(--ink-soft); }
+.meta time { display: block; font-variant-numeric: tabular-nums; }
+.version {
+  display: block; margin-top: 0.35rem;
+  font-size: 1.35rem; font-weight: 600; color: var(--ink);
+  letter-spacing: -0.02em; word-break: break-all;
+}
+.impact {
+  display: inline-block; margin-top: 0.5rem;
+  font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase;
+}
+.entry[data-impact="breaking"] .impact { color: var(--breaking); font-weight: 600; }
+.entry[data-impact="feature"] .impact { color: var(--feature); }
+
+.entry h2, .entry h3 {
+  font-family: Archivo, system-ui, sans-serif;
+  font-weight: 700; font-stretch: 92%;
+  font-size: 1.12rem; line-height: 1.3; letter-spacing: -0.015em;
+  margin: 0 0 0.35rem;
+}
+.entry h2 a, .entry h3 a { color: inherit; text-decoration: none; box-shadow: inset 0 -1px 0 var(--rule); }
+.entry h2 a:hover, .entry h3 a:hover { box-shadow: inset 0 -2px 0 var(--ink); }
+.entry h2 a:focus-visible, .entry h3 a:focus-visible { outline: 2px solid var(--breaking); outline-offset: 3px; }
+.entry p { margin: 0; color: var(--ink-soft); font-size: 0.94rem; }
+.entry ul { margin: 0.6rem 0 0; padding-left: 1.1rem; color: var(--ink); font-size: 0.9rem; }
+.entry li { margin-bottom: 0.25rem; }
+.source {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.7rem; color: var(--ink-soft); margin-top: 0.55rem;
+}
+
+.year {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.8rem; letter-spacing: 0.14em; color: var(--ink-soft);
+  margin: 2rem 0 0.6rem; padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.table-block { margin: 0 0 2.5rem; }
+.table-block h2 {
+  font-family: Archivo, system-ui, sans-serif;
+  font-weight: 800; font-stretch: 88%; font-size: 1.4rem;
+  letter-spacing: -0.02em; margin: 0 0 0.75rem;
+}
+.table-block .origin {
+  display: block;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.68rem; font-weight: 400; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--ink-soft); margin-top: 0.2rem;
+}
+.scroller { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; background: var(--card); font-size: 0.9rem; }
+th, td { text-align: left; padding: 0.55rem 0.85rem; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.66rem; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--ink-soft); border-bottom: 1px solid var(--ink); white-space: nowrap;
+}
+td time { font-variant-numeric: tabular-nums; white-space: nowrap; }
+td.v { font-family: "IBM Plex Mono", ui-monospace, monospace; font-weight: 600; white-space: nowrap; }
+td.v a { color: var(--ink); text-decoration: none; box-shadow: inset 0 -1px 0 var(--rule); }
+td.v a:hover { box-shadow: inset 0 -2px 0 var(--ink); }
+tr[data-impact="breaking"] td.v a { color: var(--breaking); }
+td .impact { margin-top: 0; color: var(--ink-soft); }
+
+.empty { padding: 3rem 0; text-align: center; color: var(--ink-soft); }
+
+.colophon {
+  margin-top: 3rem; padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.84rem; color: var(--ink-soft);
+}
+.colophon a { color: var(--ink); }
+.colophon code {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.78rem; background: var(--card); padding: 0.1rem 0.3rem;
+  word-break: break-all;
+}
+
+@media (max-width: 40rem) {
+  .entry { grid-template-columns: 1fr; gap: 0.6rem; }
+  .version { display: inline; margin-right: 0.6rem; font-size: 1.1rem; }
+  .impact { margin-top: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://saadrahman01.github.io/frontierfeed/#website","url":"https://saadrahman01.github.io/frontierfeed/","name":"frontierfeed","description":"Release and news tracker for Anthropic's Claude. Unofficial, open source, updated hourly.","inLanguage":"en"},{"@type":"CollectionPage","@id":"https://saadrahman01.github.io/frontierfeed/claude-code/versions/#webpage","url":"https://saadrahman01.github.io/frontierfeed/claude-code/versions/","name":"Claude Code Version History — Every Release With Dates","description":"Complete version history for Claude Code and the Anthropic SDKs, with release dates, pulled hourly from npm and GitHub Releases.","inLanguage":"en","isPartOf":{"@id":"https://saadrahman01.github.io/frontierfeed/#website"},"dateModified":"2026-09-04T10:33:42+00:00","primaryImageOfPage":{"@id":"https://saadrahman01.github.io/frontierfeed/#ogimage"},"mainEntity":{"@id":"https://saadrahman01.github.io/frontierfeed/claude-code/versions/#itemlist"}},{"@type":"ImageObject","@id":"https://saadrahman01.github.io/frontierfeed/#ogimage","url":"https://saadrahman01.github.io/frontierfeed/og.png","width":1200,"height":630},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"frontierfeed","item":"https://saadrahman01.github.io/frontierfeed/"},{"@type":"ListItem","position":2,"name":"claude-code","item":"https://saadrahman01.github.io/frontierfeed/claude-code/"},{"@type":"ListItem","position":3,"name":"Versions","item":"https://saadrahman01.github.io/frontierfeed/claude-code/versions/"}]},{"@type":"ItemList","@id":"https://saadrahman01.github.io/frontierfeed/claude-code/versions/#itemlist","name":"Claude Code Version History — Every Release With Dates","numberOfItems":98,"itemListOrder":"https://schema.org/ItemListOrderDescending","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215","name":"v1.0.215","datePublished":"2026-09-03T23:50:05+00:00"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260","name":"@anthropic-ai/claude-code 2.1.260 published","datePublished":"2026-09-03T22:32:02.087000+00:00"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214","name":"v1.0.214","datePublished":"2026-09-02T22:35:40+00:00"}},{"@type":"ListItem","position":4,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259","name":"@anthropic-ai/claude-code 2.1.259 published","datePublished":"2026-09-02T21:21:42.115000+00:00"}},{"@type":"ListItem","position":5,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.213","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.213","name":"v1.0.213","datePublished":"2026-09-01T22:34:45+00:00"}},{"@type":"ListItem","position":6,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.258","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.258","name":"@anthropic-ai/claude-code 2.1.258 published","datePublished":"2026-09-01T22:25:07.449000+00:00"}},{"@type":"ListItem","position":7,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.212","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.212","name":"v1.0.212","datePublished":"2026-09-01T17:55:35+00:00"}},{"@type":"ListItem","position":8,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.123.0","url":"https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.123.0","name":"sdk: v0.123.0","datePublished":"2026-09-01T17:50:12+00:00"}},{"@type":"ListItem","position":9,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.3.0","url":"https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.3.0","name":"v1.3.0","datePublished":"2026-09-01T17:36:55+00:00"}},{"@type":"ListItem","position":10,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257","name":"@anthropic-ai/claude-code 2.1.257 published","datePublished":"2026-09-01T17:15:33.223000+00:00"}},{"@type":"ListItem","position":11,"item":{"@type":"WebPage","@id":"https://github.com/modelcontextprotocol/servers/releases/tag/2026.8.31","url":"https://github.com/modelcontextprotocol/servers/releases/tag/2026.8.31","name":"Release 2026.8.31","datePublished":"2026-08-31T20:34:32+00:00"}},{"@type":"ListItem","position":12,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.211","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.211","name":"v1.0.211","datePublished":"2026-08-31T19:49:08+00:00"}},{"@type":"ListItem","position":13,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.252","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.252","name":"@anthropic-ai/claude-code 2.1.252 published","datePublished":"2026-08-31T17:07:28.168000+00:00"}},{"@type":"ListItem","position":14,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.210","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.210","name":"v1.0.210","datePublished":"2026-08-28T18:21:48+00:00"}},{"@type":"ListItem","position":15,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.251","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.251","name":"@anthropic-ai/claude-code 2.1.251 published","datePublished":"2026-08-28T15:34:26.421000+00:00"}},{"@type":"ListItem","position":16,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.209","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.209","name":"v1.0.209","datePublished":"2026-08-28T00:51:06+00:00"}},{"@type":"ListItem","position":17,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.250","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.250","name":"@anthropic-ai/claude-code 2.1.250 published","datePublished":"2026-08-27T22:27:48.314000+00:00"}},{"@type":"ListItem","position":18,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.208","url":"https://github.com/anthropics/claude-code-action/releases/tag/v1.0.208","name":"v1.0.208","datePublished":"2026-08-27T22:13:41+00:00"}},{"@type":"ListItem","position":19,"item":{"@type":"WebPage","@id":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.248","url":"https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.248","name":"@anthropic-ai/claude-code 2.1.248 published","datePublished":"2026-08-27T20:35:36.671000+00:00"}},{"@type":"ListItem","position":20,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.6.6","url":"https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.6.6","name":"aws-sdk: v0.6.6","datePublished":"2026-08-27T20:33:46+00:00"}}]}]}</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"7f9c65172fc545818638f1dd8f283d37"}'></script>
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <p class="eyebrow">Unofficial · not affiliated with Anthropic</p>
+    <a class="wordmark" href="../../">frontierfeed</a><h1 class="pagetitle">Claude Code Version History</h1>
+  </header>
+  <nav class="sitenav" aria-label="Sections"><a href="../../">Feed</a><a href="../../claude-code/versions/" aria-current="page">Versions</a><a href="../../breaking/">Breaking</a><a href="../../releases/">Releases</a></nav>
+
+  <main>
+<p class="lede">Every release this tracker has seen, newest first, with the date it was published. Versions come from the npm registry and GitHub Releases directly, so they land here before the changelog pages catch up.</p>
+<section class="table-block"><h2>Claude Code <span class="origin">npm · @anthropic-ai/claude-code</span></h2><div class="scroller"><table><thead><tr><th>Version</th><th>Released</th><th>Impact</th><th>Notes</th></tr></thead><tbody>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260" rel="noopener">2.1.260</a></td><td><time datetime="2026-09-03T22:32:02.087000+00:00">03 Sep 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.260 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259" rel="noopener">2.1.259</a></td><td><time datetime="2026-09-02T21:21:42.115000+00:00">02 Sep 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.259 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.258" rel="noopener">2.1.258</a></td><td><time datetime="2026-09-01T22:25:07.449000+00:00">01 Sep 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.258 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257" rel="noopener">2.1.257</a></td><td><time datetime="2026-09-01T17:15:33.223000+00:00">01 Sep 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.257 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.252" rel="noopener">2.1.252</a></td><td><time datetime="2026-08-31T17:07:28.168000+00:00">31 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.252 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.251" rel="noopener">2.1.251</a></td><td><time datetime="2026-08-28T15:34:26.421000+00:00">28 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.251 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.250" rel="noopener">2.1.250</a></td><td><time datetime="2026-08-27T22:27:48.314000+00:00">27 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.250 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.248" rel="noopener">2.1.248</a></td><td><time datetime="2026-08-27T20:35:36.671000+00:00">27 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.248 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.247" rel="noopener">2.1.247</a></td><td><time datetime="2026-08-26T18:02:01.046000+00:00">26 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.247 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.246" rel="noopener">2.1.246</a></td><td><time datetime="2026-08-25T19:17:34.421000+00:00">25 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.246 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.245" rel="noopener">2.1.245</a></td><td><time datetime="2026-08-25T04:45:52.102000+00:00">25 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.245 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.243" rel="noopener">2.1.243</a></td><td><time datetime="2026-08-24T23:10:45.498000+00:00">24 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.243 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.242" rel="noopener">2.1.242</a></td><td><time datetime="2026-08-24T19:16:14.767000+00:00">24 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.242 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.241" rel="noopener">2.1.241</a></td><td><time datetime="2026-08-22T23:58:33.046000+00:00">22 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.241 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.240" rel="noopener">2.1.240</a></td><td><time datetime="2026-08-22T13:03:23.566000+00:00">22 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.240 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.239" rel="noopener">2.1.239</a></td><td><time datetime="2026-08-21T17:18:54.506000+00:00">21 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.239 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.238" rel="noopener">2.1.238</a></td><td><time datetime="2026-08-20T18:01:54.712000+00:00">20 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.238 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.237" rel="noopener">2.1.237</a></td><td><time datetime="2026-08-19T23:57:54.833000+00:00">19 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.237 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.236" rel="noopener">2.1.236</a></td><td><time datetime="2026-08-19T18:45:14.539000+00:00">19 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.236 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.235" rel="noopener">2.1.235</a></td><td><time datetime="2026-08-18T18:24:10.210000+00:00">18 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.235 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.234" rel="noopener">2.1.234</a></td><td><time datetime="2026-08-17T18:19:13.187000+00:00">17 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.234 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.233" rel="noopener">2.1.233</a></td><td><time datetime="2026-08-14T18:50:44.102000+00:00">14 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.233 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.232" rel="noopener">2.1.232</a></td><td><time datetime="2026-08-13T21:30:53.194000+00:00">13 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.232 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.231" rel="noopener">2.1.231</a></td><td><time datetime="2026-08-13T08:27:21.757000+00:00">13 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.231 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.229" rel="noopener">2.1.229</a></td><td><time datetime="2026-08-12T19:28:48.616000+00:00">12 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.229 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.228" rel="noopener">2.1.228</a></td><td><time datetime="2026-08-11T17:45:45.882000+00:00">11 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.228 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.227" rel="noopener">2.1.227</a></td><td><time datetime="2026-08-10T20:56:57.591000+00:00">10 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.227 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.226" rel="noopener">2.1.226</a></td><td><time datetime="2026-08-08T01:53:22.182000+00:00">08 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.226 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.223" rel="noopener">2.1.223</a></td><td><time datetime="2026-08-05T22:51:13.206000+00:00">05 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.223 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.222" rel="noopener">2.1.222</a></td><td><time datetime="2026-08-04T20:37:17.953000+00:00">04 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.222 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.221" rel="noopener">2.1.221</a></td><td><time datetime="2026-08-03T22:16:25.561000+00:00">03 Aug 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.221 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.220" rel="noopener">2.1.220</a></td><td><time datetime="2026-07-24T23:11:21.821000+00:00">24 Jul 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.220 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.219" rel="noopener">2.1.219</a></td><td><time datetime="2026-07-24T16:11:49.832000+00:00">24 Jul 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.219 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.218" rel="noopener">2.1.218</a></td><td><time datetime="2026-07-22T19:55:32.144000+00:00">22 Jul 2026</time></td><td><span class="impact">fix</span></td><td>Version 2.1.218 of @anthropic-ai/claude-code was published to the npm registry.</td></tr>
+</tbody></table></div></section>
+<section class="table-block"><h2>claude-code-action <span class="origin">GitHub · anthropics/claude-code-action</span></h2><div class="scroller"><table><thead><tr><th>Version</th><th>Released</th><th>Impact</th><th>Notes</th></tr></thead><tbody>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215" rel="noopener">1.0.215</a></td><td><time datetime="2026-09-03T23:50:05+00:00">03 Sep 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.214...v1.0.215</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214" rel="noopener">1.0.214</a></td><td><time datetime="2026-09-02T22:35:40+00:00">02 Sep 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.213...v1.0.214</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.213" rel="noopener">1.0.213</a></td><td><time datetime="2026-09-01T22:34:45+00:00">01 Sep 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.212...v1.0.213</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.212" rel="noopener">1.0.212</a></td><td><time datetime="2026-09-01T17:55:35+00:00">01 Sep 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.211...v1.0.212</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.211" rel="noopener">1.0.211</a></td><td><time datetime="2026-08-31T19:49:08+00:00">31 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.210...v1.0.211</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.210" rel="noopener">1.0.210</a></td><td><time datetime="2026-08-28T18:21:48+00:00">28 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.209...v1.0.210</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.209" rel="noopener">1.0.209</a></td><td><time datetime="2026-08-28T00:51:06+00:00">28 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.208...v1.0.209</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.208" rel="noopener">1.0.208</a></td><td><time datetime="2026-08-27T22:13:41+00:00">27 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.207...v1.0.208</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.207" rel="noopener">1.0.207</a></td><td><time datetime="2026-08-27T00:10:27+00:00">27 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.206...v1.0.207</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.206" rel="noopener">1.0.206</a></td><td><time datetime="2026-08-25T22:33:54+00:00">25 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## What&#x27;s Changed * chore: add .gitattributes to normalize line endings by @MohammedAlkindi in https://github.com/anthropics/claude-code-act</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.205" rel="noopener">1.0.205</a></td><td><time datetime="2026-08-25T05:22:32+00:00">25 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.203...v1.0.205</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.204" rel="noopener">1.0.204</a></td><td><time datetime="2026-08-25T03:44:58+00:00">25 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.204</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.203" rel="noopener">1.0.203</a></td><td><time datetime="2026-08-25T03:44:25+00:00">25 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.203</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.202" rel="noopener">1.0.202</a></td><td><time datetime="2026-08-24T23:43:03+00:00">24 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.201...v1.0.202</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.201" rel="noopener">1.0.201</a></td><td><time datetime="2026-08-23T00:56:58+00:00">23 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.200...v1.0.201</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.200" rel="noopener">1.0.200</a></td><td><time datetime="2026-08-22T14:47:00+00:00">22 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.199...v1.0.200</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.199" rel="noopener">1.0.199</a></td><td><time datetime="2026-08-21T19:57:05+00:00">21 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## What&#x27;s Changed * fix(github): honor GITHUB_GRAPHQL_URL for the GraphQL client by @rover0811 in https://github.com/anthropics/claude-code-</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.198" rel="noopener">1.0.198</a></td><td><time datetime="2026-08-20T20:35:10+00:00">20 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.197...v1.0.198</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.197" rel="noopener">1.0.197</a></td><td><time datetime="2026-08-20T00:55:27+00:00">20 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## What&#x27;s Changed * fix: neutralize the checkout credential under actions/checkout v6+ include layout (#1510) by @TemRevil in https://github</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.196" rel="noopener">1.0.196</a></td><td><time datetime="2026-08-19T20:06:48+00:00">19 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## What&#x27;s Changed * fix(security): unify secret redaction in public comment outputs by @Juwan-Hwang in https://github.com/anthropics/claude-</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.195" rel="noopener">1.0.195</a></td><td><time datetime="2026-08-18T20:40:51+00:00">18 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.194...v1.0.195</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.194" rel="noopener">1.0.194</a></td><td><time datetime="2026-08-17T20:25:16+00:00">17 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## What&#x27;s Changed * Harden delete_files MCP tool: validate paths within repo root (consistency with commit_files) by @GabrielOnRails in http</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.193" rel="noopener">1.0.193</a></td><td><time datetime="2026-08-14T22:22:46+00:00">14 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.192...v1.0.193</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.186" rel="noopener">1.0.186</a></td><td><time datetime="2026-08-06T00:54:23+00:00">06 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## What&#x27;s Changed * Invoke the formatter directly from the format hook by @ashwin-ant in https://github.com/anthropics/claude-code-action/pu</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.185" rel="noopener">1.0.185</a></td><td><time datetime="2026-08-04T22:41:47+00:00">04 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## What&#x27;s Changed * Derive trigger timestamps for issues and pull_request events by @ashwin-ant in https://github.com/anthropics/claude-code</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.184" rel="noopener">1.0.184</a></td><td><time datetime="2026-08-04T00:16:20+00:00">04 Aug 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.184</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.183" rel="noopener">1.0.183</a></td><td><time datetime="2026-07-25T01:37:30+00:00">25 Jul 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.183</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.182" rel="noopener">1.0.182</a></td><td><time datetime="2026-07-24T17:15:39+00:00">24 Jul 2026</time></td><td><span class="impact">fix</span></td><td>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.182</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/claude-code-action/releases/tag/v1.0.181" rel="noopener">1.0.181</a></td><td><time datetime="2026-07-22T21:28:45+00:00">22 Jul 2026</time></td><td><span class="impact">fix</span></td><td>## What&#x27;s Changed * fix: share one exchanged WIF credential across spawned Claude processes by @KeisukeYamashita in https://github.com/anthr</td></tr>
+</tbody></table></div></section>
+<section class="table-block"><h2>Python SDK <span class="origin">GitHub · anthropics/anthropic-sdk-python</span></h2><div class="scroller"><table><thead><tr><th>Version</th><th>Released</th><th>Impact</th><th>Notes</th></tr></thead><tbody>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.3.0" rel="noopener">1.3.0</a></td><td><time datetime="2026-09-01T17:36:55+00:00">01 Sep 2026</time></td><td><span class="impact">new</span></td><td>## 1.3.0 (2026-09-01) Full Changelog: [v1.2.0...v1.3.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.2.0...v1.3.0) ### Feat</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.2.0" rel="noopener">1.2.0</a></td><td><time datetime="2026-08-27T20:28:58+00:00">27 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 1.2.0 (2026-08-27) Full Changelog: [v1.1.0...v1.2.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.1.0...v1.2.0) ### Feat</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.1.0" rel="noopener">1.1.0</a></td><td><time datetime="2026-08-26T17:14:40+00:00">26 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 1.1.0 (2026-08-26) Full Changelog: [v1.0.0...v1.1.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.0.0...v1.1.0) ### Feat</td></tr>
+<tr data-impact="breaking"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.0.0" rel="noopener">1.0.0</a></td><td><time datetime="2026-08-20T19:58:48+00:00">20 Aug 2026</time></td><td><span class="impact">breaking</span></td><td>## 1.0.0 (2026-08-20) Full Changelog: [v0.125.0...v1.0.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.125.0...v1.0.0) ### </td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.125.0" rel="noopener">0.125.0</a></td><td><time datetime="2026-08-19T22:00:31+00:00">19 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 0.125.0 (2026-08-19) Full Changelog: [v0.124.0...v0.125.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.124.0...v0.125.0</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.124.0" rel="noopener">0.124.0</a></td><td><time datetime="2026-08-19T16:51:20+00:00">19 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 0.124.0 (2026-08-19) Full Changelog: [v0.123.0...v0.124.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.123.0...v0.124.0</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.123.0" rel="noopener">0.123.0</a></td><td><time datetime="2026-08-19T13:31:54+00:00">19 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 0.123.0 (2026-08-18) Full Changelog: [v0.122.0...v0.123.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.122.0...v0.123.0</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.122.0" rel="noopener">0.122.0</a></td><td><time datetime="2026-08-13T18:35:49+00:00">13 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 0.122.0 (2026-08-13) Full Changelog: [v0.121.0...v0.122.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.121.0...v0.122.0</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.121.0" rel="noopener">0.121.0</a></td><td><time datetime="2026-08-07T17:10:51+00:00">07 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 0.121.0 (2026-08-07) Full Changelog: [v0.120.2...v0.121.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.2...v0.121.0</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.120.2" rel="noopener">0.120.2</a></td><td><time datetime="2026-07-28T17:38:09+00:00">28 Jul 2026</time></td><td><span class="impact">fix</span></td><td>## 0.120.2 (2026-07-28) Full Changelog: [v0.120.1...v0.120.2](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.1...v0.120.2</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.120.1" rel="noopener">0.120.1</a></td><td><time datetime="2026-07-28T16:37:33+00:00">28 Jul 2026</time></td><td><span class="impact">fix</span></td><td>## 0.120.1 (2026-07-28) Full Changelog: [v0.120.0...v0.120.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.0...v0.120.1</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.120.0" rel="noopener">0.120.0</a></td><td><time datetime="2026-07-24T16:32:34+00:00">24 Jul 2026</time></td><td><span class="impact">new</span></td><td>## 0.120.0 (2026-07-24) Full Changelog: [v0.119.0...v0.120.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.119.0...v0.120.0</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.119.0" rel="noopener">0.119.0</a></td><td><time datetime="2026-07-23T17:34:23+00:00">23 Jul 2026</time></td><td><span class="impact">new</span></td><td>## 0.119.0 (2026-07-23) Full Changelog: [v0.118.0...v0.119.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.118.0...v0.119.0</td></tr>
+</tbody></table></div></section>
+<section class="table-block"><h2>TypeScript SDK <span class="origin">GitHub · anthropics/anthropic-sdk-typescript</span></h2><div class="scroller"><table><thead><tr><th>Version</th><th>Released</th><th>Impact</th><th>Notes</th></tr></thead><tbody>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.123.0" rel="noopener">sdk-v0.123.0</a></td><td><time datetime="2026-09-01T17:50:12+00:00">01 Sep 2026</time></td><td><span class="impact">new</span></td><td>## 0.123.0 (2026-09-01) Full Changelog: [sdk-v0.122.0...sdk-v0.123.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.6.6" rel="noopener">aws-sdk-v0.6.6</a></td><td><time datetime="2026-08-27T20:33:46+00:00">27 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## 0.6.6 (2026-08-27) Full Changelog: [aws-sdk-v0.6.5...aws-sdk-v0.6.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-s</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.3" rel="noopener">bedrock-sdk-v0.33.3</a></td><td><time datetime="2026-08-27T20:33:41+00:00">27 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## 0.33.3 (2026-08-27) Full Changelog: [bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3](https://github.com/anthropics/anthropic-sdk-typescript/co</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.122.0" rel="noopener">sdk-v0.122.0</a></td><td><time datetime="2026-08-27T20:33:34+00:00">27 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 0.122.0 (2026-08-27) Full Changelog: [sdk-v0.121.0...sdk-v0.122.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.11" rel="noopener">google-cloud-sdk-v0.0.11</a></td><td><time datetime="2026-08-26T17:24:32+00:00">26 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## 0.0.11 (2026-08-26) Full Changelog: [google-cloud-sdk-v0.0.10...google-cloud-sdk-v0.0.11](https://github.com/anthropics/anthropic-sdk-typ</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.2" rel="noopener">bedrock-sdk-v0.33.2</a></td><td><time datetime="2026-08-26T17:24:26+00:00">26 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## 0.33.2 (2026-08-26) Full Changelog: [bedrock-sdk-v0.33.1...bedrock-sdk-v0.33.2](https://github.com/anthropics/anthropic-sdk-typescript/co</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.6" rel="noopener">ertex-sdk-v0.19.6</a></td><td><time datetime="2026-08-26T17:24:20+00:00">26 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## 0.19.6 (2026-08-26) Full Changelog: [vertex-sdk-v0.19.5...vertex-sdk-v0.19.6](https://github.com/anthropics/anthropic-sdk-typescript/comp</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.121.0" rel="noopener">sdk-v0.121.0</a></td><td><time datetime="2026-08-26T17:24:14+00:00">26 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 0.121.0 (2026-08-26) Full Changelog: [sdk-v0.120.0...sdk-v0.121.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.10" rel="noopener">google-cloud-sdk-v0.0.10</a></td><td><time datetime="2026-08-19T22:00:52+00:00">19 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## 0.0.10 (2026-08-19) Full Changelog: [google-cloud-sdk-v0.0.9...google-cloud-sdk-v0.0.10](https://github.com/anthropics/anthropic-sdk-type</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.6.5" rel="noopener">aws-sdk-v0.6.5</a></td><td><time datetime="2026-08-19T22:00:46+00:00">19 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## 0.6.5 (2026-08-19) Full Changelog: [aws-sdk-v0.6.4...aws-sdk-v0.6.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-s</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.4" rel="noopener">foundry-sdk-v0.4.4</a></td><td><time datetime="2026-08-19T22:00:40+00:00">19 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## 0.4.4 (2026-08-19) Full Changelog: [foundry-sdk-v0.4.3...foundry-sdk-v0.4.4](https://github.com/anthropics/anthropic-sdk-typescript/compa</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.1" rel="noopener">bedrock-sdk-v0.33.1</a></td><td><time datetime="2026-08-19T22:00:31+00:00">19 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## 0.33.1 (2026-08-19) Full Changelog: [bedrock-sdk-v0.33.0...bedrock-sdk-v0.33.1](https://github.com/anthropics/anthropic-sdk-typescript/co</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.5" rel="noopener">ertex-sdk-v0.19.5</a></td><td><time datetime="2026-08-19T22:00:22+00:00">19 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## 0.19.5 (2026-08-19) Full Changelog: [vertex-sdk-v0.19.4...vertex-sdk-v0.19.5](https://github.com/anthropics/anthropic-sdk-typescript/comp</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.120.0" rel="noopener">sdk-v0.120.0</a></td><td><time datetime="2026-08-19T22:00:16+00:00">19 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 0.120.0 (2026-08-19) Full Changelog: [sdk-v0.119.0...sdk-v0.120.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.0" rel="noopener">bedrock-sdk-v0.33.0</a></td><td><time datetime="2026-08-19T16:51:03+00:00">19 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 0.33.0 (2026-08-19) Full Changelog: [bedrock-sdk-v0.32.4...bedrock-sdk-v0.33.0](https://github.com/anthropics/anthropic-sdk-typescript/co</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.119.0" rel="noopener">sdk-v0.119.0</a></td><td><time datetime="2026-08-19T16:50:57+00:00">19 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 0.119.0 (2026-08-19) Full Changelog: [sdk-v0.118.0...sdk-v0.119.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.118.0" rel="noopener">sdk-v0.118.0</a></td><td><time datetime="2026-08-19T13:29:19+00:00">19 Aug 2026</time></td><td><span class="impact">new</span></td><td>## 0.118.0 (2026-08-18) Full Changelog: [sdk-v0.117.1...sdk-v0.118.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.4" rel="noopener">ertex-sdk-v0.19.4</a></td><td><time datetime="2026-08-13T22:06:54+00:00">13 Aug 2026</time></td><td><span class="impact">fix</span></td><td>## 0.19.4 (2026-08-13) Full Changelog: [vertex-sdk-v0.19.3...vertex-sdk-v0.19.4](https://github.com/anthropics/anthropic-sdk-typescript/comp</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.115.0" rel="noopener">sdk-v0.115.0</a></td><td><time datetime="2026-07-24T16:31:05+00:00">24 Jul 2026</time></td><td><span class="impact">new</span></td><td>## 0.115.0 (2026-07-24) Full Changelog: [sdk-v0.114.0...sdk-v0.115.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.</td></tr>
+<tr data-impact="feature"><td class="v"><a href="https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.114.0" rel="noopener">sdk-v0.114.0</a></td><td><time datetime="2026-07-23T17:34:26+00:00">23 Jul 2026</time></td><td><span class="impact">new</span></td><td>## 0.114.0 (2026-07-23) Full Changelog: [sdk-v0.113.0...sdk-v0.114.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.</td></tr>
+</tbody></table></div></section>
+<section class="table-block"><h2>MCP servers <span class="origin">GitHub · modelcontextprotocol/servers</span></h2><div class="scroller"><table><thead><tr><th>Version</th><th>Released</th><th>Impact</th><th>Notes</th></tr></thead><tbody>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/modelcontextprotocol/servers/releases/tag/2026.8.31" rel="noopener">2026.8.31</a></td><td><time datetime="2026-08-31T20:34:32+00:00">31 Aug 2026</time></td><td><span class="impact">fix</span></td><td># Release : v2026.8.31 ## Updated packages - @modelcontextprotocol/server-filesystem@2026.8.31 - @modelcontextprotocol/server-memory@2026.8.</td></tr>
+<tr data-impact="fix"><td class="v"><a href="https://github.com/modelcontextprotocol/servers/releases/tag/2026.8.18" rel="noopener">2026.8.18</a></td><td><time datetime="2026-08-18T16:16:12+00:00">18 Aug 2026</time></td><td><span class="impact">fix</span></td><td># Release : v2026.8.18 ## Updated packages - @modelcontextprotocol/server-everything@2026.8.18 - mcp-server-time@2026.8.18 - mcp-server-fetc</td></tr>
+</tbody></table></div></section>
+  </main>
+
+  <footer class="colophon">
+    <p>Updated 04 Sep 2026, 10:33 UTC. Subscribe to
+      <a href="../../feed.xml">everything</a>,
+      <a href="../../feed-breaking.xml">breaking changes only</a>,
+      <a href="../../feed-claude-code.xml">Claude Code only</a> or
+      <a href="../../feed-releases.xml">model releases only</a> —
+      or read the <a href="../../feed.json">JSON Feed</a> or raw <a href="../../items.json">JSON</a>.</p>
+    <p>Embed the current Claude Code version anywhere:
+      <code>![Claude Code](https://saadrahman01.github.io/frontierfeed/badge/claude-code-version.svg)</code></p>
+    <p>Open source at <a href="https://github.com/SaadRahman01/frontierfeed">github.com/SaadRahman01/frontierfeed</a>. Claude and Anthropic are trademarks of Anthropic, PBC. This project is independent and not endorsed by or affiliated with Anthropic.</p>
+  </footer>
+</div>
+
+</body>
+</html>

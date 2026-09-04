@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Claude Breaking Changes &amp; Deprecations — Running Log</title>
+<meta name="description" content="Every breaking change, deprecation and removal across Claude Code, the Anthropic API and the official SDKs, in one running log.">
+<link rel="canonical" href="https://saadrahman01.github.io/frontierfeed/breaking/">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta name="theme-color" content="#101418">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="frontierfeed">
+<meta property="og:title" content="Claude Breaking Changes &amp; Deprecations — Running Log">
+<meta property="og:description" content="Every breaking change, deprecation and removal across Claude Code, the Anthropic API and the official SDKs, in one running log.">
+<meta property="og:url" content="https://saadrahman01.github.io/frontierfeed/breaking/">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://saadrahman01.github.io/frontierfeed/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="frontierfeed — Release and news tracker for Anthropic&#x27;s Claude">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Claude Breaking Changes &amp; Deprecations — Running Log">
+<meta name="twitter:description" content="Every breaking change, deprecation and removal across Claude Code, the Anthropic API and the official SDKs, in one running log.">
+<meta name="twitter:image" content="https://saadrahman01.github.io/frontierfeed/og.png">
+<link rel="alternate" type="application/rss+xml" title="frontierfeed RSS" href="../feed.xml">
+<link rel="alternate" type="application/feed+json" title="frontierfeed JSON Feed" href="../feed.json">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;800&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink: #101418;
+  --ink-soft: #4C555E;
+  --paper: #E6E9E4;
+  --card: #F3F5F1;
+  --rule: #C3CAC2;
+  --breaking: #8E1B2E;
+  --feature: #2E5E4E;
+  --fix: #626D78;
+  --gauge: 6px;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "IBM Plex Sans", system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+}
+.wrap { max-width: 62rem; margin: 0 auto; padding: 2.5rem 1.25rem 5rem; }
+
+.masthead { border-bottom: 2px solid var(--ink); padding-bottom: 1.25rem; }
+.eyebrow {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--ink-soft); margin: 0 0 0.4rem;
+}
+.wordmark {
+  display: block;
+  font-family: Archivo, system-ui, sans-serif;
+  font-weight: 800; font-stretch: 88%;
+  font-size: clamp(2.4rem, 9vw, 4.25rem);
+  letter-spacing: -0.035em; line-height: 0.95; margin: 0;
+  color: var(--ink); text-decoration: none;
+}
+a.wordmark { font-size: clamp(1.6rem, 5vw, 2.2rem); }
+.pagetitle {
+  font-family: Archivo, system-ui, sans-serif;
+  font-weight: 800; font-stretch: 88%;
+  font-size: clamp(1.9rem, 6vw, 3rem);
+  letter-spacing: -0.03em; line-height: 1.02; margin: 0.6rem 0 0;
+}
+.tagline { margin: 0.5rem 0 0; max-width: 34rem; color: var(--ink-soft); }
+.lede { margin: 1.25rem 0 1.75rem; max-width: 44rem; color: var(--ink-soft); }
+
+.sitenav {
+  display: flex; flex-wrap: wrap; gap: 0 1.25rem;
+  padding: 0.85rem 0; border-bottom: 1px solid var(--rule);
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase;
+}
+.sitenav a { color: var(--ink-soft); text-decoration: none; padding: 0.15rem 0; }
+.sitenav a:hover { color: var(--ink); box-shadow: inset 0 -2px 0 var(--ink); }
+.sitenav a[aria-current="page"] { color: var(--ink); box-shadow: inset 0 -2px 0 var(--ink); }
+.sitenav a:focus-visible { outline: 2px solid var(--breaking); outline-offset: 2px; }
+
+.board {
+  display: flex; flex-wrap: wrap; gap: 0 2.5rem;
+  border-bottom: 1px solid var(--rule);
+  padding: 1rem 0; margin-bottom: 0.5rem;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+}
+.board div { padding-right: 0.5rem; }
+.board b {
+  display: block; font-size: 1.9rem; font-weight: 600; line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+}
+.board span {
+  font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.board .is-breaking b { color: var(--breaking); }
+.board .is-feature b { color: var(--feature); }
+
+.filterbar { padding: 1rem 0 1.5rem; }
+.filters { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; }
+.filters + .filters { margin-top: 0.5rem; }
+.filters .legend {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--ink-soft); width: 4.5rem; flex: none;
+}
+.filters button {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;
+  background: transparent; color: var(--ink-soft);
+  border: 1px solid var(--rule); border-radius: 0;
+  padding: 0.35rem 0.7rem; cursor: pointer;
+}
+.filters button[aria-pressed="true"] {
+  background: var(--ink); border-color: var(--ink); color: var(--card);
+}
+.filters button:focus-visible { outline: 2px solid var(--breaking); outline-offset: 2px; }
+
+.entry {
+  display: grid;
+  grid-template-columns: 8.5rem 1fr;
+  gap: 0 1.5rem;
+  border-left: var(--gauge) solid var(--fix);
+  background: var(--card);
+  padding: 1.1rem 1.35rem;
+  margin-bottom: 0.4rem;
+}
+.entry[data-impact="breaking"] { border-left-color: var(--breaking); }
+.entry[data-impact="feature"] { border-left-color: var(--feature); }
+.entry[data-impact="info"] { border-left-color: var(--rule); }
+.entry[hidden] { display: none; }
+
+.meta { font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: 0.75rem; color: var(--ink-soft); }
+.meta time { display: block; font-variant-numeric: tabular-nums; }
+.version {
+  display: block; margin-top: 0.35rem;
+  font-size: 1.35rem; font-weight: 600; color: var(--ink);
+  letter-spacing: -0.02em; word-break: break-all;
+}
+.impact {
+  display: inline-block; margin-top: 0.5rem;
+  font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase;
+}
+.entry[data-impact="breaking"] .impact { color: var(--breaking); font-weight: 600; }
+.entry[data-impact="feature"] .impact { color: var(--feature); }
+
+.entry h2, .entry h3 {
+  font-family: Archivo, system-ui, sans-serif;
+  font-weight: 700; font-stretch: 92%;
+  font-size: 1.12rem; line-height: 1.3; letter-spacing: -0.015em;
+  margin: 0 0 0.35rem;
+}
+.entry h2 a, .entry h3 a { color: inherit; text-decoration: none; box-shadow: inset 0 -1px 0 var(--rule); }
+.entry h2 a:hover, .entry h3 a:hover { box-shadow: inset 0 -2px 0 var(--ink); }
+.entry h2 a:focus-visible, .entry h3 a:focus-visible { outline: 2px solid var(--breaking); outline-offset: 3px; }
+.entry p { margin: 0; color: var(--ink-soft); font-size: 0.94rem; }
+.entry ul { margin: 0.6rem 0 0; padding-left: 1.1rem; color: var(--ink); font-size: 0.9rem; }
+.entry li { margin-bottom: 0.25rem; }
+.source {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.7rem; color: var(--ink-soft); margin-top: 0.55rem;
+}
+
+.year {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.8rem; letter-spacing: 0.14em; color: var(--ink-soft);
+  margin: 2rem 0 0.6rem; padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.table-block { margin: 0 0 2.5rem; }
+.table-block h2 {
+  font-family: Archivo, system-ui, sans-serif;
+  font-weight: 800; font-stretch: 88%; font-size: 1.4rem;
+  letter-spacing: -0.02em; margin: 0 0 0.75rem;
+}
+.table-block .origin {
+  display: block;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.68rem; font-weight: 400; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--ink-soft); margin-top: 0.2rem;
+}
+.scroller { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; background: var(--card); font-size: 0.9rem; }
+th, td { text-align: left; padding: 0.55rem 0.85rem; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.66rem; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--ink-soft); border-bottom: 1px solid var(--ink); white-space: nowrap;
+}
+td time { font-variant-numeric: tabular-nums; white-space: nowrap; }
+td.v { font-family: "IBM Plex Mono", ui-monospace, monospace; font-weight: 600; white-space: nowrap; }
+td.v a { color: var(--ink); text-decoration: none; box-shadow: inset 0 -1px 0 var(--rule); }
+td.v a:hover { box-shadow: inset 0 -2px 0 var(--ink); }
+tr[data-impact="breaking"] td.v a { color: var(--breaking); }
+td .impact { margin-top: 0; color: var(--ink-soft); }
+
+.empty { padding: 3rem 0; text-align: center; color: var(--ink-soft); }
+
+.colophon {
+  margin-top: 3rem; padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.84rem; color: var(--ink-soft);
+}
+.colophon a { color: var(--ink); }
+.colophon code {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.78rem; background: var(--card); padding: 0.1rem 0.3rem;
+  word-break: break-all;
+}
+
+@media (max-width: 40rem) {
+  .entry { grid-template-columns: 1fr; gap: 0.6rem; }
+  .version { display: inline; margin-right: 0.6rem; font-size: 1.1rem; }
+  .impact { margin-top: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://saadrahman01.github.io/frontierfeed/#website","url":"https://saadrahman01.github.io/frontierfeed/","name":"frontierfeed","description":"Release and news tracker for Anthropic's Claude. Unofficial, open source, updated hourly.","inLanguage":"en"},{"@type":"CollectionPage","@id":"https://saadrahman01.github.io/frontierfeed/breaking/#webpage","url":"https://saadrahman01.github.io/frontierfeed/breaking/","name":"Claude Breaking Changes & Deprecations — Running Log","description":"Every breaking change, deprecation and removal across Claude Code, the Anthropic API and the official SDKs, in one running log.","inLanguage":"en","isPartOf":{"@id":"https://saadrahman01.github.io/frontierfeed/#website"},"dateModified":"2026-09-04T10:33:42+00:00","primaryImageOfPage":{"@id":"https://saadrahman01.github.io/frontierfeed/#ogimage"},"mainEntity":{"@id":"https://saadrahman01.github.io/frontierfeed/breaking/#itemlist"}},{"@type":"ImageObject","@id":"https://saadrahman01.github.io/frontierfeed/#ogimage","url":"https://saadrahman01.github.io/frontierfeed/og.png","width":1200,"height":630},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"frontierfeed","item":"https://saadrahman01.github.io/frontierfeed/"},{"@type":"ListItem","position":2,"name":"Breaking","item":"https://saadrahman01.github.io/frontierfeed/breaking/"}]},{"@type":"ItemList","@id":"https://saadrahman01.github.io/frontierfeed/breaking/#itemlist","name":"Claude Breaking Changes & Deprecations — Running Log","numberOfItems":2,"itemListOrder":"https://schema.org/ItemListOrderDescending","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/","url":"https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/","name":"Breaking Claude Code Opus 5 Auto Mode","datePublished":"2026-08-31T07:49:18+00:00"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.0.0","url":"https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.0.0","name":"v1.0.0","datePublished":"2026-08-20T19:58:48+00:00"}}]}]}</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"7f9c65172fc545818638f1dd8f283d37"}'></script>
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <p class="eyebrow">Unofficial · not affiliated with Anthropic</p>
+    <a class="wordmark" href="../">frontierfeed</a><h1 class="pagetitle">Claude Breaking Changes &amp; Deprecations</h1>
+  </header>
+  <nav class="sitenav" aria-label="Sections"><a href="../">Feed</a><a href="../claude-code/versions/">Versions</a><a href="../breaking/" aria-current="page">Breaking</a><a href="../releases/">Releases</a></nav>
+
+  <main>
+<p class="lede">Removals, deprecations and contract changes only — the entries you have to read. Everything else is filtered out. Subscribe to <a href="../feed-breaking.xml">the breaking-changes feed</a> to get only these.</p>
+<article class="entry" data-impact="breaking"><div class="meta"><time datetime="2026-08-31T07:49:18+00:00">31 Aug 2026</time><span class="impact">breaking</span></div><div><h2><a href="https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/" rel="noopener">Breaking Claude Code Opus 5 Auto Mode</a></h2><p>192 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49506819</p><div class="source">hackernews · claude-code</div></div></article>
+<article class="entry" data-impact="breaking"><div class="meta"><time datetime="2026-08-20T19:58:48+00:00">20 Aug 2026</time><span class="version">1.0.0</span><span class="impact">breaking</span></div><div><h2><a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.0.0" rel="noopener">v1.0.0</a></h2><p>## 1.0.0 (2026-08-20) Full Changelog: [v0.125.0...v1.0.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.125.0...v1.0.0) ### ⚠ BREAKING CHANGES * **client:** upgrade to httpx2 and some minor breaking changes.</p><div class="source">github:anthropics/anthropic-sdk-python · api</div></div></article>
+  </main>
+
+  <footer class="colophon">
+    <p>Updated 04 Sep 2026, 10:33 UTC. Subscribe to
+      <a href="../feed.xml">everything</a>,
+      <a href="../feed-breaking.xml">breaking changes only</a>,
+      <a href="../feed-claude-code.xml">Claude Code only</a> or
+      <a href="../feed-releases.xml">model releases only</a> —
+      or read the <a href="../feed.json">JSON Feed</a> or raw <a href="../items.json">JSON</a>.</p>
+    <p>Embed the current Claude Code version anywhere:
+      <code>![Claude Code](https://saadrahman01.github.io/frontierfeed/badge/claude-code-version.svg)</code></p>
+    <p>Open source at <a href="https://github.com/SaadRahman01/frontierfeed">github.com/SaadRahman01/frontierfeed</a>. Claude and Anthropic are trademarks of Anthropic, PBC. This project is independent and not endorsed by or affiliated with Anthropic.</p>
+  </footer>
+</div>
+
+</body>
+</html>
