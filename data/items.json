@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Corporate America Is Getting Hooked on Open-Source A.I",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "source": "hackernews",
+      "published": "2026-09-04T15:33:45+00:00",
+      "body": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
+      "summary": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "631854626ae66ad3"
+    },
+    {
       "title": "v1.0.215",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215",
       "source": "github:anthropics/claude-code-action",
@@ -76,6 +91,21 @@
         "community"
       ],
       "uid": "9a38a74e387d779b"
+    },
+    {
+      "title": "Show HN: Reactor Atlas",
+      "url": "https://reactoratlas.com",
+      "source": "hackernews",
+      "published": "2026-09-03T12:33:01+00:00",
+      "body": "55 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49549148",
+      "summary": "55 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49549148",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "0ab40b8d350f7c32"
     },
     {
       "title": "v1.0.214",
@@ -4547,35 +4577,6 @@
         "community"
       ],
       "uid": "d690ebbc013c8275"
-    },
-    {
-      "title": "v1.0.181",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.181",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-07-22T21:28:45+00:00",
-      "body": "## What's Changed\n* fix: share one exchanged WIF credential across spawned Claude processes by @KeisukeYamashita in https://github.com/anthropics/claude-code-action/pull/1407\n\n## New Contributors\n* @KeisukeYamashita made their first contribution in https://github.com/anthropics/claude-code-action/pull/1407\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.181",
-      "summary": "## What's Changed * fix: share one exchanged WIF credential across spawned Claude processes by @KeisukeYamashita in https://github.com/anthropics/claude-code-action/pull/1407 ## New Contributors * @KeisukeYamashita made their first contribution in https://github.com/anthropics/cl\u2026",
-      "version": "1.0.181",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "1fddec01b243bd1e"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.218 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.218",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-07-22T19:55:32.144000+00:00",
-      "body": "Version 2.1.218 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.218 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.218",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "617286f0b21881a2"
     }
   ]
 }

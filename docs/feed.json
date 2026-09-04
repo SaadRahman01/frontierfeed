@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:631854626ae66ad3",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "title": "Corporate America Is Getting Hooked on Open-Source A.I",
+      "summary": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
+      "content_text": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
+      "date_published": "2026-09-04T15:33:45+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:9e45436f87e49a71",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215",
       "title": "v1.0.215",
@@ -69,6 +82,19 @@
       "summary": "194 points, 146 comments. Discussion: https://news.ycombinator.com/item?id=49549676",
       "content_text": "194 points, 146 comments. Discussion: https://news.ycombinator.com/item?id=49549676",
       "date_published": "2026-09-03T13:29:12+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:0ab40b8d350f7c32",
+      "url": "https://reactoratlas.com",
+      "title": "Show HN: Reactor Atlas",
+      "summary": "55 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49549148",
+      "content_text": "55 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49549148",
+      "date_published": "2026-09-03T12:33:01+00:00",
       "tags": [
         "note",
         "info",
@@ -1360,34 +1386,6 @@
       "summary": "Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
       "content_text": "Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
       "date_published": "2026-08-23T16:07:24.044702+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:3a2bae2c799e55c8",
-      "url": "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
-      "title": "Turning conversation into knowledge: how Slack builds human-agent teams",
-      "summary": "Turning conversation into knowledge: how Slack builds human-agent teams",
-      "content_text": "Turning conversation into knowledge: how Slack builds human-agent teams",
-      "date_published": "2026-08-23T16:07:24.044681+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:0018da3bbe62028a",
-      "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-      "title": "Anthropic’s approach to teaching and learning AI",
-      "summary": "Anthropic’s approach to teaching and learning AI",
-      "content_text": "Anthropic’s approach to teaching and learning AI",
-      "date_published": "2026-08-23T16:07:24.044659+00:00",
       "tags": [
         "note",
         "info",

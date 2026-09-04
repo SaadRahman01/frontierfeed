@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 04 Sep 2026 11:24:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 16:25:58 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Corporate America Is Getting Hooked on Open-Source A.I</title>
+<link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
+<guid isPermaLink="false">frontierfeed:631854626ae66ad3</guid>
+<pubDate>Fri, 04 Sep 2026 15:33:45 +0000</pubDate>
+<category>note</category>
+<description>43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137</description>
+</item>
 <item>
 <title>v1.0.215</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215</link>
@@ -54,6 +62,14 @@
 <pubDate>Thu, 03 Sep 2026 13:29:12 +0000</pubDate>
 <category>note</category>
 <description>194 points, 146 comments. Discussion: https://news.ycombinator.com/item?id=49549676</description>
+</item>
+<item>
+<title>Show HN: Reactor Atlas</title>
+<link>https://reactoratlas.com</link>
+<guid isPermaLink="false">frontierfeed:0ab40b8d350f7c32</guid>
+<pubDate>Thu, 03 Sep 2026 12:33:01 +0000</pubDate>
+<category>note</category>
+<description>55 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49549148</description>
 </item>
 <item>
 <title>v1.0.214</title>
@@ -798,22 +814,6 @@
 <pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
 <category>note</category>
 <description>Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures</description>
-</item>
-<item>
-<title>Turning conversation into knowledge: how Slack builds human-agent teams</title>
-<link>https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams</link>
-<guid isPermaLink="false">frontierfeed:3a2bae2c799e55c8</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>note</category>
-<description>Turning conversation into knowledge: how Slack builds human-agent teams</description>
-</item>
-<item>
-<title>Anthropic’s approach to teaching and learning AI</title>
-<link>https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</link>
-<guid isPermaLink="false">frontierfeed:0018da3bbe62028a</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>note</category>
-<description>Anthropic’s approach to teaching and learning AI</description>
 </item>
 </channel>
 </rss>
