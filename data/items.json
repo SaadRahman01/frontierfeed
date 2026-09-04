@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "v1.0.215",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-03T23:50:05+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.214...v1.0.215",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.214...v1.0.215",
+      "version": "1.0.215",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "9e45436f87e49a71"
+    },
+    {
       "title": "@anthropic-ai/claude-code 2.1.260 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260",
       "source": "npm:@anthropic-ai/claude-code",
@@ -15,6 +31,21 @@
         "npm"
       ],
       "uid": "f79d9558a7e81da9"
+    },
+    {
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "source": "hackernews",
+      "published": "2026-09-03T21:20:34+00:00",
+      "body": "80 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49557206",
+      "summary": "80 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49557206",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "9e3c0ed520eccdd1"
     },
     {
       "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
@@ -4545,38 +4576,6 @@
       "impact": "fix",
       "tags": [],
       "uid": "617286f0b21881a2"
-    },
-    {
-      "title": "sdk: v0.113.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.113.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-07-22T16:44:33+00:00",
-      "body": "## 0.113.0 (2026-07-22)\n\nFull Changelog: [sdk-v0.112.5...sdk-v0.113.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.5...sdk-v0.113.0)\n\n### Features\n\n* **api:** add support for Managed Agents model effort, initial session events, and threads delta streaming ([83fef1e](https://github.com/anthropics/anthropic-sdk-typescript/commit/83fef1e5a65f020750b1f90c46d748a415b6f075))",
-      "summary": "## 0.113.0 (2026-07-22) Full Changelog: [sdk-v0.112.5...sdk-v0.113.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.112.5...sdk-v0.113.0) ### Features * **api:** add support for Managed Agents model effort, initial session events, and threads delta streami\u2026",
-      "version": "sdk-v0.113.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "8268ba05c6787d33"
-    },
-    {
-      "title": "v0.118.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.118.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-07-22T16:43:45+00:00",
-      "body": "## 0.118.0 (2026-07-22)\n\nFull Changelog: [v0.117.1...v0.118.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.117.1...v0.118.0)\n\n### Features\n\n* **api:** add support for Managed Agents model effort, initial session events, and threads delta streaming ([712bc6f](https://github.com/anthropics/anthropic-sdk-python/commit/712bc6f5e07ca7607e13f24fba4eea57c2e73478))",
-      "summary": "## 0.118.0 (2026-07-22) Full Changelog: [v0.117.1...v0.118.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.117.1...v0.118.0) ### Features * **api:** add support for Managed Agents model effort, initial session events, and threads delta streaming ([712bc6f](https:\u2026",
-      "version": "0.118.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-python"
-      ],
-      "uid": "fc53c371263dcc69"
     }
   ]
 }

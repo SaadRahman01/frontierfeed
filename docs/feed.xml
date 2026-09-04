@@ -5,8 +5,16 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 03 Sep 2026 22:38:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 01:02:20 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>v1.0.215</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215</link>
+<guid isPermaLink="false">frontierfeed:9e45436f87e49a71</guid>
+<pubDate>Thu, 03 Sep 2026 23:50:05 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.214...v1.0.215</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.260 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260</link>
@@ -14,6 +22,14 @@
 <pubDate>Thu, 03 Sep 2026 22:32:02 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.260 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out</title>
+<link>https://armature.tech/blog/which-tools-coding-agents-install</link>
+<guid isPermaLink="false">frontierfeed:9e3c0ed520eccdd1</guid>
+<pubDate>Thu, 03 Sep 2026 21:20:34 +0000</pubDate>
+<category>note</category>
+<description>80 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49557206</description>
 </item>
 <item>
 <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
@@ -790,22 +806,6 @@
 <pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
 <category>note</category>
 <description>Anthropic’s approach to teaching and learning AI</description>
-</item>
-<item>
-<title>How monday.com transformed its platform into an agent-first product where humans and agents collaborate</title>
-<link>https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate</link>
-<guid isPermaLink="false">frontierfeed:c7d2cc4493e3580e</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>note</category>
-<description>How monday.com transformed its platform into an agent-first product where humans and agents collaborate</description>
-</item>
-<item>
-<title>The Claude Code guide for startups</title>
-<link>https://claude.com/blog/claude-code-guide-for-startups</link>
-<guid isPermaLink="false">frontierfeed:ebdccda43e74c164</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>claude-code</category>
-<description>The Claude Code guide for startups</description>
 </item>
 </channel>
 </rss>
