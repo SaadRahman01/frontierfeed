@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 04 Sep 2026 16:25:58 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 19:39:37 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -16,12 +16,44 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
 <item>
+<title>Formalizing Fermat&#x27;s Last Theorem</title>
+<link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
+<guid isPermaLink="false">frontierfeed:c15277b9db2335c2</guid>
+<pubDate>Fri, 04 Sep 2026 18:42:56 +0000</pubDate>
+<category>note</category>
+<description>124 points, 58 comments. Discussion: https://news.ycombinator.com/item?id=49568506</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.261 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.261</link>
+<guid isPermaLink="false">frontierfeed:cd0f6cd7626e05db</guid>
+<pubDate>Fri, 04 Sep 2026 17:49:34 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.261 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Nobody Is Saying Why OpenAI and Anthropic Had Outages</title>
+<link>https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/</link>
+<guid isPermaLink="false">frontierfeed:2da982e720d9dac1</guid>
+<pubDate>Fri, 04 Sep 2026 17:29:22 +0000</pubDate>
+<category>note</category>
+<description>140 points, 105 comments. Discussion: https://news.ycombinator.com/item?id=49567594</description>
+</item>
+<item>
 <title>Corporate America Is Getting Hooked on Open-Source A.I</title>
 <link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
 <guid isPermaLink="false">frontierfeed:631854626ae66ad3</guid>
 <pubDate>Fri, 04 Sep 2026 15:33:45 +0000</pubDate>
 <category>note</category>
 <description>43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137</description>
+</item>
+<item>
+<title>Corporate America is getting hooked on open-source AI</title>
+<link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
+<guid isPermaLink="false">frontierfeed:ec514f242a3743c5</guid>
+<pubDate>Fri, 04 Sep 2026 15:33:45 +0000</pubDate>
+<category>note</category>
+<description>194 points, 170 comments. Discussion: https://news.ycombinator.com/item?id=49566137</description>
 </item>
 <item>
 <title>v1.0.215</title>
@@ -782,38 +814,6 @@
 <pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
 <category>note</category>
 <description>Claude Tag now reads even more of the room</description>
-</item>
-<item>
-<title>Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5</title>
-<link>https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5</link>
-<guid isPermaLink="false">frontierfeed:dc5dc1f499e19ee0</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>note</category>
-<description>Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5</description>
-</item>
-<item>
-<title>Maximizing the value of your Claude Code sessions</title>
-<link>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</link>
-<guid isPermaLink="false">frontierfeed:aad9e3a29c04eecc</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>claude-code</category>
-<description>Maximizing the value of your Claude Code sessions</description>
-</item>
-<item>
-<title>How ABC Legal turned every employee into a builder with Claude Managed Agents</title>
-<link>https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</link>
-<guid isPermaLink="false">frontierfeed:3f0313fe0e0df659</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>note</category>
-<description>How ABC Legal turned every employee into a builder with Claude Managed Agents</description>
-</item>
-<item>
-<title>Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures</title>
-<link>https://claude.com/blog/ai-ci-cd-on-call</link>
-<guid isPermaLink="false">frontierfeed:b3619d6ea5d0acf0</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>note</category>
-<description>Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures</description>
 </item>
 </channel>
 </rss>

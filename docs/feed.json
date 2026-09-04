@@ -9,11 +9,64 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:c15277b9db2335c2",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "title": "Formalizing Fermat's Last Theorem",
+      "summary": "124 points, 58 comments. Discussion: https://news.ycombinator.com/item?id=49568506",
+      "content_text": "124 points, 58 comments. Discussion: https://news.ycombinator.com/item?id=49568506",
+      "date_published": "2026-09-04T18:42:56+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:cd0f6cd7626e05db",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.261",
+      "title": "@anthropic-ai/claude-code 2.1.261 published",
+      "summary": "Version 2.1.261 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.261 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-04T17:49:34.927000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:2da982e720d9dac1",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+      "summary": "140 points, 105 comments. Discussion: https://news.ycombinator.com/item?id=49567594",
+      "content_text": "140 points, 105 comments. Discussion: https://news.ycombinator.com/item?id=49567594",
+      "date_published": "2026-09-04T17:29:22+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:631854626ae66ad3",
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "title": "Corporate America Is Getting Hooked on Open-Source A.I",
       "summary": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
       "content_text": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
+      "date_published": "2026-09-04T15:33:45+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:ec514f242a3743c5",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "title": "Corporate America is getting hooked on open-source AI",
+      "summary": "194 points, 170 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
+      "content_text": "194 points, 170 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
       "date_published": "2026-09-04T15:33:45+00:00",
       "tags": [
         "note",
@@ -1330,62 +1383,6 @@
       "summary": "Claude Tag now reads even more of the room",
       "content_text": "Claude Tag now reads even more of the room",
       "date_published": "2026-08-23T16:07:24.044786+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:dc5dc1f499e19ee0",
-      "url": "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
-      "title": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
-      "summary": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
-      "content_text": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
-      "date_published": "2026-08-23T16:07:24.044765+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:aad9e3a29c04eecc",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "title": "Maximizing the value of your Claude Code sessions",
-      "summary": "Maximizing the value of your Claude Code sessions",
-      "content_text": "Maximizing the value of your Claude Code sessions",
-      "date_published": "2026-08-23T16:07:24.044744+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:3f0313fe0e0df659",
-      "url": "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
-      "title": "How ABC Legal turned every employee into a builder with Claude Managed Agents",
-      "summary": "How ABC Legal turned every employee into a builder with Claude Managed Agents",
-      "content_text": "How ABC Legal turned every employee into a builder with Claude Managed Agents",
-      "date_published": "2026-08-23T16:07:24.044723+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:b3619d6ea5d0acf0",
-      "url": "https://claude.com/blog/ai-ci-cd-on-call",
-      "title": "Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
-      "summary": "Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
-      "content_text": "Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
-      "date_published": "2026-08-23T16:07:24.044702+00:00",
       "tags": [
         "note",
         "info",

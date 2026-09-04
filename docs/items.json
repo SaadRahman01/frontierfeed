@@ -1,9 +1,55 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-04T16:25:58.091125+00:00",
+  "generated": "2026-09-04T19:39:37.005155+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "hackernews",
+      "published": "2026-09-04T18:42:56+00:00",
+      "body": "124 points, 58 comments. Discussion: https://news.ycombinator.com/item?id=49568506",
+      "summary": "124 points, 58 comments. Discussion: https://news.ycombinator.com/item?id=49568506",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "c15277b9db2335c2"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.261 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.261",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-04T17:49:34.927000+00:00",
+      "body": "Version 2.1.261 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.261 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.261",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "cd0f6cd7626e05db"
+    },
+    {
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "source": "hackernews",
+      "published": "2026-09-04T17:29:22+00:00",
+      "body": "140 points, 105 comments. Discussion: https://news.ycombinator.com/item?id=49567594",
+      "summary": "140 points, 105 comments. Discussion: https://news.ycombinator.com/item?id=49567594",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "2da982e720d9dac1"
+    },
     {
       "title": "Corporate America Is Getting Hooked on Open-Source A.I",
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
@@ -18,6 +64,21 @@
         "community"
       ],
       "uid": "631854626ae66ad3"
+    },
+    {
+      "title": "Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "source": "hackernews",
+      "published": "2026-09-04T15:33:45+00:00",
+      "body": "194 points, 170 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
+      "summary": "194 points, 170 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ec514f242a3743c5"
     },
     {
       "title": "v1.0.215",
@@ -4521,66 +4582,6 @@
         "anthropic-sdk-python"
       ],
       "uid": "df3bc68434d7c180"
-    },
-    {
-      "title": "Launch HN: Screenpipe (YC S26) \u2013 Record how you work and turn that into agents",
-      "url": "https://news.ycombinator.com/item?id=49024620",
-      "source": "hackernews",
-      "published": "2026-07-23T16:48:38+00:00",
-      "body": "88 points, 67 comments. Discussion: https://news.ycombinator.com/item?id=49024620",
-      "summary": "88 points, 67 comments. Discussion: https://news.ycombinator.com/item?id=49024620",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "community"
-      ],
-      "uid": "2a6483d969f17735"
-    },
-    {
-      "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
-      "url": "https://github.com/onecli/onecli",
-      "source": "hackernews",
-      "published": "2026-07-23T15:42:40+00:00",
-      "body": "110 points, 32 comments. Discussion: https://news.ycombinator.com/item?id=49023427",
-      "summary": "110 points, 32 comments. Discussion: https://news.ycombinator.com/item?id=49023427",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "c381146f07f82acf"
-    },
-    {
-      "title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "source": "hackernews",
-      "published": "2026-07-23T15:11:37+00:00",
-      "body": "191 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49022911",
-      "summary": "191 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49022911",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "36469f4d94216da4"
-    },
-    {
-      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-      "source": "hackernews",
-      "published": "2026-07-23T13:00:03+00:00",
-      "body": "299 points, 331 comments. Discussion: https://news.ycombinator.com/item?id=49020868",
-      "summary": "299 points, 331 comments. Discussion: https://news.ycombinator.com/item?id=49020868",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "d690ebbc013c8275"
     }
   ]
 }
