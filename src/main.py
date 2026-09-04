@@ -114,7 +114,7 @@ def main(argv=None) -> int:
         return 0
 
     save_store(merged)
-    write_all(merged)
+    write_all(merged, config=config)
     print(f"wrote docs/ with {len(merged)} item(s)")
     return 0
 

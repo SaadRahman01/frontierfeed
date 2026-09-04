@@ -3,6 +3,14 @@
 
 keep_items: 300
 
+# Cloudflare Web Analytics. Create the site at
+# dash.cloudflare.com -> Web Analytics -> Add a site (hostname
+# saadrahman01.github.io), then paste the beacon token here. It is a public
+# token — it ships inside the page — so it belongs in config, not a secret.
+# Leave it empty and no third-party script is emitted at all.
+analytics:
+  cloudflare_token: "7f9c65172fc545818638f1dd8f283d37"
+
 sources:
 
   # Fastest signal that a Claude Code build shipped. The registry publishes a

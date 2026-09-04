@@ -7,6 +7,7 @@ touches a database or a template engine — the whole site is one string.
 from __future__ import annotations
 
 import json
+import re
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from html import escape
@@ -20,6 +21,11 @@ SITE_TITLE = "frontierfeed"
 SITE_TAGLINE = "Release and news tracker for Anthropic's Claude"
 SITE_URL = "https://saadrahman01.github.io/frontierfeed"
 REPO_URL = "https://github.com/SaadRahman01/frontierfeed"
+# Crawlers and social scrapers need absolute URLs; the page itself keeps
+# using relative hrefs so it still works when opened from disk.
+CANONICAL = f"{SITE_URL}/"
+OG_IMAGE = f"{SITE_URL}/og.png"
+SITE_DESC = f"{SITE_TAGLINE}. Unofficial, open source, updated hourly."
 
 IMPACT_LABEL = {
     "breaking": "breaking",
@@ -44,6 +50,14 @@ def render_rss(items: list[Item], limit: int = 100) -> str:
         "<language>en</language>",
         f"<lastBuildDate>{now}</lastBuildDate>",
         f'<atom:link href="{escape(SITE_URL)}/feed.xml" rel="self" type="application/rss+xml"/>',
+        "<docs>https://www.rssboard.org/rss-specification</docs>",
+        f"<generator>{escape(SITE_TITLE)}</generator>",
+        "<ttl>60</ttl>",
+        "<image>",
+        f"<url>{escape(OG_IMAGE)}</url>",
+        f"<title>{escape(SITE_TITLE)}</title>",
+        f"<link>{escape(SITE_URL)}</link>",
+        "</image>",
     ]
     for item in items[:limit]:
         label = IMPACT_LABEL.get(item.impact, item.impact)
@@ -261,7 +275,109 @@ document.querySelectorAll('.filters').forEach(group => {
 """
 
 
-def render_html(items: list[Item]) -> str:
+# Cloudflare beacon tokens are hex; anything else is a misconfiguration and is
+# dropped rather than interpolated into a script tag.
+_CF_TOKEN = re.compile(r"\A[A-Za-z0-9]{8,64}\Z")
+
+
+def _beacon(token: str) -> str:
+    """The Cloudflare Web Analytics tag, or nothing when no token is set."""
+    token = (token or "").strip()
+    if not _CF_TOKEN.match(token):
+        return ""
+    return (
+        '<script defer src="https://static.cloudflareinsights.com/beacon.min.js" '
+        f'data-cf-beacon=\'{{"token":"{token}"}}\'></script>'
+    )
+
+
+def _jsonld(items: list[Item], now: datetime, limit: int = 20) -> str:
+    """schema.org description of the page. Titles come from remote feeds, so the
+    payload is JSON-encoded and `</` is escaped — a title containing
+    `</script>` must not be able to close the tag."""
+    graph = [
+        {
+            "@type": "WebSite",
+            "@id": f"{SITE_URL}/#website",
+            "url": CANONICAL,
+            "name": SITE_TITLE,
+            "description": SITE_DESC,
+            "inLanguage": "en",
+        },
+        {
+            "@type": "CollectionPage",
+            "@id": f"{SITE_URL}/#webpage",
+            "url": CANONICAL,
+            "name": f"{SITE_TITLE} \u2014 {SITE_TAGLINE}",
+            "description": SITE_DESC,
+            "inLanguage": "en",
+            "isPartOf": {"@id": f"{SITE_URL}/#website"},
+            "dateModified": now.isoformat(timespec="seconds"),
+            "primaryImageOfPage": {"@id": f"{SITE_URL}/#ogimage"},
+            "mainEntity": {"@id": f"{SITE_URL}/#itemlist"},
+        },
+        {
+            "@type": "ImageObject",
+            "@id": f"{SITE_URL}/#ogimage",
+            "url": OG_IMAGE,
+            "width": 1200,
+            "height": 630,
+        },
+        {
+            "@type": "ItemList",
+            "@id": f"{SITE_URL}/#itemlist",
+            "name": "Latest Claude releases and news",
+            "numberOfItems": len(items),
+            "itemListOrder": "https://schema.org/ItemListOrderDescending",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": n,
+                    "item": {
+                        "@type": "WebPage",
+                        "@id": item.url,
+                        "url": item.url,
+                        "name": item.title,
+                        "datePublished": item.published,
+                    },
+                }
+                for n, item in enumerate(items[:limit], 1)
+            ],
+        },
+    ]
+    payload = json.dumps(
+        {"@context": "https://schema.org", "@graph": graph},
+        ensure_ascii=False,
+        separators=(",", ":"),
+    ).replace("</", "<\\/")
+    return f'<script type="application/ld+json">{payload}</script>'
+
+
+def render_robots() -> str:
+    return (
+        "User-agent: *\n"
+        "Allow: /\n"
+        "\n"
+        f"Sitemap: {SITE_URL}/sitemap.xml\n"
+    )
+
+
+def render_sitemap(now: datetime) -> str:
+    # One page, one entry. The feeds are not HTML and do not belong here.
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        "<url>\n"
+        f"<loc>{escape(CANONICAL)}</loc>\n"
+        f"<lastmod>{now.strftime('%Y-%m-%d')}</lastmod>\n"
+        "<changefreq>hourly</changefreq>\n"
+        "<priority>1.0</priority>\n"
+        "</url>\n"
+        "</urlset>\n"
+    )
+
+
+def render_html(items: list[Item], analytics_token: str = "") -> str:
     now = datetime.now(timezone.utc)
     # The board counts whatever the date filter selects; on first paint that is
     # everything, and the script recounts from there.
@@ -291,6 +407,8 @@ def render_html(items: list[Item]) -> str:
         )
 
     body = "\n".join(rows) or '<p class="empty">No entries yet. Run the update job to populate the feed.</p>'
+    jsonld = _jsonld(items, now)
+    beacon = _beacon(analytics_token)
 
     return f"""<!doctype html>
 <html lang="en">
@@ -298,12 +416,32 @@ def render_html(items: list[Item]) -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{escape(SITE_TITLE)} — {escape(SITE_TAGLINE)}</title>
-<meta name="description" content="{escape(SITE_TAGLINE)}. Unofficial, open source, updated hourly.">
-<link rel="alternate" type="application/rss+xml" title="{escape(SITE_TITLE)}" href="feed.xml">
+<meta name="description" content="{escape(SITE_DESC)}">
+<link rel="canonical" href="{escape(CANONICAL)}">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta name="theme-color" content="#101418">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{escape(SITE_TITLE)}">
+<meta property="og:title" content="{escape(SITE_TITLE)} — {escape(SITE_TAGLINE)}">
+<meta property="og:description" content="{escape(SITE_DESC)}">
+<meta property="og:url" content="{escape(CANONICAL)}">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="{escape(OG_IMAGE)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{escape(SITE_TITLE)} — {escape(SITE_TAGLINE)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{escape(SITE_TITLE)} — {escape(SITE_TAGLINE)}">
+<meta name="twitter:description" content="{escape(SITE_DESC)}">
+<meta name="twitter:image" content="{escape(OG_IMAGE)}">
+<link rel="alternate" type="application/rss+xml" title="{escape(SITE_TITLE)} RSS" href="feed.xml">
+<link rel="alternate" type="application/json" title="{escape(SITE_TITLE)} JSON" href="items.json">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;800&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
 <style>{CSS}</style>
+{jsonld}
+{beacon}
 </head>
 <body>
 <div class="wrap">
@@ -354,9 +492,16 @@ def render_html(items: list[Item]) -> str:
 """
 
 
-def write_all(items: list[Item], docs: Path = DOCS) -> None:
+def write_all(items: list[Item], docs: Path = DOCS, config: dict | None = None) -> None:
+    analytics = ((config or {}).get("analytics") or {})
+    token = analytics.get("cloudflare_token") or ""
+    now = datetime.now(timezone.utc)
+
     docs.mkdir(parents=True, exist_ok=True)
     (docs / "feed.xml").write_text(render_rss(items), encoding="utf-8")
     (docs / "items.json").write_text(render_json(items), encoding="utf-8")
-    (docs / "index.html").write_text(render_html(items), encoding="utf-8")
+    (docs / "index.html").write_text(render_html(items, token), encoding="utf-8")
+    (docs / "robots.txt").write_text(render_robots(), encoding="utf-8")
+    (docs / "sitemap.xml").write_text(render_sitemap(now), encoding="utf-8")
     (docs / ".nojekyll").write_text("", encoding="utf-8")
+    # docs/og.png is a committed static asset — see tools/make_og.py.

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saadrahman01.github.io/frontierfeed/sitemap.xml
