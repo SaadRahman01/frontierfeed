@@ -9,6 +9,104 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:f01b1637ba156dfd",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.0",
+      "title": "aws-sdk: v0.7.0",
+      "summary": "## 0.7.0 (2026-09-04) Full Changelog: [aws-sdk-v0.6.6...aws-sdk-v0.7.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.6...aws-sdk-v0.7.0) ### Features * **api:** add support for sending a workspace ID on more endpoints ([a11e6f1](https://github.com/a…",
+      "content_text": "## 0.7.0 (2026-09-04) Full Changelog: [aws-sdk-v0.6.6...aws-sdk-v0.7.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.6...aws-sdk-v0.7.0) ### Features * **api:** add support for sending a workspace ID on more endpoints ([a11e6f1](https://github.com/a…",
+      "date_published": "2026-09-04T22:20:48+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:518a1874a5186a81",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.5",
+      "title": "foundry-sdk: v0.4.5",
+      "summary": "## 0.4.5 (2026-09-04) Full Changelog: [foundry-sdk-v0.4.4...foundry-sdk-v0.4.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.4...foundry-sdk-v0.4.5) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics/anth…",
+      "content_text": "## 0.4.5 (2026-09-04) Full Changelog: [foundry-sdk-v0.4.4...foundry-sdk-v0.4.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.4...foundry-sdk-v0.4.5) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics/anth…",
+      "date_published": "2026-09-04T22:20:42+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:fa4c0e0245115501",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.4",
+      "title": "bedrock-sdk: v0.33.4",
+      "summary": "## 0.33.4 (2026-09-04) Full Changelog: [bedrock-sdk-v0.33.3...bedrock-sdk-v0.33.4](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.3...bedrock-sdk-v0.33.4) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics…",
+      "content_text": "## 0.33.4 (2026-09-04) Full Changelog: [bedrock-sdk-v0.33.3...bedrock-sdk-v0.33.4](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.3...bedrock-sdk-v0.33.4) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics…",
+      "date_published": "2026-09-04T22:20:37+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:56027954546bb06f",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.7",
+      "title": "vertex-sdk: v0.19.7",
+      "summary": "## 0.19.7 (2026-09-04) Full Changelog: [vertex-sdk-v0.19.6...vertex-sdk-v0.19.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.6...vertex-sdk-v0.19.7) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics/ant…",
+      "content_text": "## 0.19.7 (2026-09-04) Full Changelog: [vertex-sdk-v0.19.6...vertex-sdk-v0.19.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.6...vertex-sdk-v0.19.7) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics/ant…",
+      "date_published": "2026-09-04T22:20:30+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:9a8418248aef2e07",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.124.0",
+      "title": "sdk: v0.124.0",
+      "summary": "## 0.124.0 (2026-09-04) Full Changelog: [sdk-v0.123.0...sdk-v0.124.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.123.0...sdk-v0.124.0) ### Features * **api:** add Claude Tag category and user breakdowns to usage reports ([669ff22](https://github.com/ant…",
+      "content_text": "## 0.124.0 (2026-09-04) Full Changelog: [sdk-v0.123.0...sdk-v0.124.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.123.0...sdk-v0.124.0) ### Features * **api:** add Claude Tag category and user breakdowns to usage reports ([669ff22](https://github.com/ant…",
+      "date_published": "2026-09-04T22:20:24+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:3804d4986161254d",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.4.0",
+      "title": "v1.4.0",
+      "summary": "## 1.4.0 (2026-09-04) Full Changelog: [v1.3.0...v1.4.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.3.0...v1.4.0) ### Features * **api:** add Claude Tag category and user breakdowns to usage reports ([9fce1e4](https://github.com/anthropics/anthropic-sdk-python/c…",
+      "content_text": "## 1.4.0 (2026-09-04) Full Changelog: [v1.3.0...v1.4.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.3.0...v1.4.0) ### Features * **api:** add Claude Tag category and user breakdowns to usage reports ([9fce1e4](https://github.com/anthropics/anthropic-sdk-python/c…",
+      "date_published": "2026-09-04T22:20:20+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-python"
+      ]
+    },
+    {
+      "id": "frontierfeed:e9225d6fde69c9d8",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.216",
+      "title": "v1.0.216",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.215...v1.0.216",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.215...v1.0.216",
+      "date_published": "2026-09-04T19:59:57+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:c15277b9db2335c2",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
       "title": "Formalizing Fermat's Last Theorem",
@@ -1287,104 +1385,6 @@
       "date_published": "2026-08-23T16:07:24.044938+00:00",
       "tags": [
         "claude-code",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:3d38d803fddaf759",
-      "url": "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
-      "title": "How Anthropic's business development team uses Claude to run inbound and outbound at scale",
-      "summary": "How Anthropic's business development team uses Claude to run inbound and outbound at scale",
-      "content_text": "How Anthropic's business development team uses Claude to run inbound and outbound at scale",
-      "date_published": "2026-08-23T16:07:24.044916+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:6cfadaabc80a0eb5",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-      "summary": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-      "content_text": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-      "date_published": "2026-08-23T16:07:24.044895+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:0da836b7d0306ba7",
-      "url": "https://claude.com/blog/auto-mode-in-production",
-      "title": "Running auto mode in production",
-      "summary": "Running auto mode in production",
-      "content_text": "Running auto mode in production",
-      "date_published": "2026-08-23T16:07:24.044873+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:2965f68e6fcc7682",
-      "url": "https://claude.com/blog/compliance-api-cowork-and-claude-code",
-      "title": "Compliance API coverage extends to Claude Cowork and Claude Code",
-      "summary": "Compliance API coverage extends to Claude Cowork and Claude Code",
-      "content_text": "Compliance API coverage extends to Claude Cowork and Claude Code",
-      "date_published": "2026-08-23T16:07:24.044851+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:d07a5fcd399f4633",
-      "url": "https://claude.com/blog/cowork-chrome-side-panel",
-      "title": "The Claude in Chrome side panel is now Claude Cowork",
-      "summary": "The Claude in Chrome side panel is now Claude Cowork",
-      "content_text": "The Claude in Chrome side panel is now Claude Cowork",
-      "date_published": "2026-08-23T16:07:24.044828+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:d3e9b4347a7b7c38",
-      "url": "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
-      "title": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
-      "summary": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
-      "content_text": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
-      "date_published": "2026-08-23T16:07:24.044807+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:ed471de317763d48",
-      "url": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
-      "title": "Claude Tag now reads even more of the room",
-      "summary": "Claude Tag now reads even more of the room",
-      "content_text": "Claude Tag now reads even more of the room",
-      "date_published": "2026-08-23T16:07:24.044786+00:00",
-      "tags": [
-        "note",
         "info",
         "official",
         "product"

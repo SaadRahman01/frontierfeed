@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 04 Sep 2026 19:39:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 22:23:42 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,62 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>aws-sdk: v0.7.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.0</link>
+<guid isPermaLink="false">frontierfeed:f01b1637ba156dfd</guid>
+<pubDate>Fri, 04 Sep 2026 22:20:48 +0000</pubDate>
+<category>api</category>
+<description>## 0.7.0 (2026-09-04) Full Changelog: [aws-sdk-v0.6.6...aws-sdk-v0.7.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.6...aws-sdk-v0.7.0) ### Features * **api:** add support for sending a workspace ID on more endpoints ([a11e6f1](https://github.com/a…</description>
+</item>
+<item>
+<title>foundry-sdk: v0.4.5</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.5</link>
+<guid isPermaLink="false">frontierfeed:518a1874a5186a81</guid>
+<pubDate>Fri, 04 Sep 2026 22:20:42 +0000</pubDate>
+<category>api</category>
+<description>## 0.4.5 (2026-09-04) Full Changelog: [foundry-sdk-v0.4.4...foundry-sdk-v0.4.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.4...foundry-sdk-v0.4.5) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics/anth…</description>
+</item>
+<item>
+<title>bedrock-sdk: v0.33.4</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.4</link>
+<guid isPermaLink="false">frontierfeed:fa4c0e0245115501</guid>
+<pubDate>Fri, 04 Sep 2026 22:20:37 +0000</pubDate>
+<category>api</category>
+<description>## 0.33.4 (2026-09-04) Full Changelog: [bedrock-sdk-v0.33.3...bedrock-sdk-v0.33.4](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.3...bedrock-sdk-v0.33.4) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics…</description>
+</item>
+<item>
+<title>vertex-sdk: v0.19.7</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.7</link>
+<guid isPermaLink="false">frontierfeed:56027954546bb06f</guid>
+<pubDate>Fri, 04 Sep 2026 22:20:30 +0000</pubDate>
+<category>api</category>
+<description>## 0.19.7 (2026-09-04) Full Changelog: [vertex-sdk-v0.19.6...vertex-sdk-v0.19.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.6...vertex-sdk-v0.19.7) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics/ant…</description>
+</item>
+<item>
+<title>sdk: v0.124.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.124.0</link>
+<guid isPermaLink="false">frontierfeed:9a8418248aef2e07</guid>
+<pubDate>Fri, 04 Sep 2026 22:20:24 +0000</pubDate>
+<category>api</category>
+<description>## 0.124.0 (2026-09-04) Full Changelog: [sdk-v0.123.0...sdk-v0.124.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.123.0...sdk-v0.124.0) ### Features * **api:** add Claude Tag category and user breakdowns to usage reports ([669ff22](https://github.com/ant…</description>
+</item>
+<item>
+<title>v1.4.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.4.0</link>
+<guid isPermaLink="false">frontierfeed:3804d4986161254d</guid>
+<pubDate>Fri, 04 Sep 2026 22:20:20 +0000</pubDate>
+<category>api</category>
+<description>## 1.4.0 (2026-09-04) Full Changelog: [v1.3.0...v1.4.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.3.0...v1.4.0) ### Features * **api:** add Claude Tag category and user breakdowns to usage reports ([9fce1e4](https://github.com/anthropics/anthropic-sdk-python/c…</description>
+</item>
+<item>
+<title>v1.0.216</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.216</link>
+<guid isPermaLink="false">frontierfeed:e9225d6fde69c9d8</guid>
+<pubDate>Fri, 04 Sep 2026 19:59:57 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.215...v1.0.216</description>
+</item>
 <item>
 <title>Formalizing Fermat&#x27;s Last Theorem</title>
 <link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
@@ -758,62 +814,6 @@
 <pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
 <category>claude-code</category>
 <description>Run Claude Code sessions on your own compute</description>
-</item>
-<item>
-<title>How Anthropic&#x27;s business development team uses Claude to run inbound and outbound at scale</title>
-<link>https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale</link>
-<guid isPermaLink="false">frontierfeed:3d38d803fddaf759</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>note</category>
-<description>How Anthropic&#x27;s business development team uses Claude to run inbound and outbound at scale</description>
-</item>
-<item>
-<title>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
-<link>https://claude.com/blog/auto-mode-default-in-claude-code</link>
-<guid isPermaLink="false">frontierfeed:6cfadaabc80a0eb5</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>claude-code</category>
-<description>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</description>
-</item>
-<item>
-<title>Running auto mode in production</title>
-<link>https://claude.com/blog/auto-mode-in-production</link>
-<guid isPermaLink="false">frontierfeed:0da836b7d0306ba7</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>note</category>
-<description>Running auto mode in production</description>
-</item>
-<item>
-<title>Compliance API coverage extends to Claude Cowork and Claude Code</title>
-<link>https://claude.com/blog/compliance-api-cowork-and-claude-code</link>
-<guid isPermaLink="false">frontierfeed:2965f68e6fcc7682</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>claude-code</category>
-<description>Compliance API coverage extends to Claude Cowork and Claude Code</description>
-</item>
-<item>
-<title>The Claude in Chrome side panel is now Claude Cowork</title>
-<link>https://claude.com/blog/cowork-chrome-side-panel</link>
-<guid isPermaLink="false">frontierfeed:d07a5fcd399f4633</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>claude-code</category>
-<description>The Claude in Chrome side panel is now Claude Cowork</description>
-</item>
-<item>
-<title>Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions</title>
-<link>https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</link>
-<guid isPermaLink="false">frontierfeed:d3e9b4347a7b7c38</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>note</category>
-<description>Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions</description>
-</item>
-<item>
-<title>Claude Tag now reads even more of the room</title>
-<link>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</link>
-<guid isPermaLink="false">frontierfeed:ed471de317763d48</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>note</category>
-<description>Claude Tag now reads even more of the room</description>
 </item>
 </channel>
 </rss>

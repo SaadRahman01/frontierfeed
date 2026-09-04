@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 04 Sep 2026 19:39:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 22:23:42 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.216</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.216</link>
+<guid isPermaLink="false">frontierfeed:e9225d6fde69c9d8</guid>
+<pubDate>Fri, 04 Sep 2026 19:59:57 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.215...v1.0.216</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.261 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.261</link>
@@ -726,22 +734,6 @@
 <pubDate>Fri, 24 Jul 2026 23:11:21 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.220 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.0.182</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.182</link>
-<guid isPermaLink="false">frontierfeed:351fa5652cb3a4df</guid>
-<pubDate>Fri, 24 Jul 2026 17:15:39 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.182</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.219 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.219</link>
-<guid isPermaLink="false">frontierfeed:16797128b2429a6d</guid>
-<pubDate>Fri, 24 Jul 2026 16:11:49 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.219 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>
