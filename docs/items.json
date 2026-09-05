@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-05T19:04:39.601962+00:00",
+  "generated": "2026-09-05T21:18:44.562742+00:00",
   "count": 300,
   "items": [
     {
@@ -114,6 +114,21 @@
         "anthropic-sdk-python"
       ],
       "uid": "3804d4986161254d"
+    },
+    {
+      "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
+      "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+      "source": "hackernews",
+      "published": "2026-09-04T21:00:02+00:00",
+      "body": "41 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49570133",
+      "summary": "41 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49570133",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "f3acdfdaf9c729c0"
     },
     {
       "title": "v1.0.216",
@@ -4568,22 +4583,6 @@
         "paper"
       ],
       "uid": "cc5fd3bcb905df7c"
-    },
-    {
-      "title": "Elevated Errors for Opus 5",
-      "url": "https://status.claude.com/incidents/zftg3gqkmv18",
-      "source": "hackernews",
-      "published": "2026-07-26T09:18:34+00:00",
-      "body": "94 points, 88 comments. Discussion: https://news.ycombinator.com/item?id=49056194",
-      "summary": "94 points, 88 comments. Discussion: https://news.ycombinator.com/item?id=49056194",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "5a9a71b718f47ef2"
     }
   ]
 }

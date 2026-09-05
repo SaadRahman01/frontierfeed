@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 05 Sep 2026 19:04:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 21:18:44 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -70,6 +70,14 @@
 <pubDate>Fri, 04 Sep 2026 22:20:20 +0000</pubDate>
 <category>api</category>
 <description>## 1.4.0 (2026-09-04) Full Changelog: [v1.3.0...v1.4.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.3.0...v1.4.0) ### Features * **api:** add Claude Tag category and user breakdowns to usage reports ([9fce1e4](https://github.com/anthropics/anthropic-sdk-python/c…</description>
+</item>
+<item>
+<title>Fermat&#x27;s Last Theorem: Anthropic has beaten me to it</title>
+<link>https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/</link>
+<guid isPermaLink="false">frontierfeed:f3acdfdaf9c729c0</guid>
+<pubDate>Fri, 04 Sep 2026 21:00:02 +0000</pubDate>
+<category>note</category>
+<description>41 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49570133</description>
 </item>
 <item>
 <title>v1.0.216</title>
@@ -806,14 +814,6 @@
 <pubDate>Mon, 24 Aug 2026 03:27:30 +0000</pubDate>
 <category>research</category>
 <description>Standard decoding rules for autoregressive language models promote diversity by rescaling the full next-token distribution or truncating its low-probability tail.</description>
-</item>
-<item>
-<title>Anthropic&#x27;s best AI model struggles to attract users as cheaper tools thrive</title>
-<link>https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245</link>
-<guid isPermaLink="false">frontierfeed:c8fb2c7f7cdc021c</guid>
-<pubDate>Sun, 23 Aug 2026 18:16:37 +0000</pubDate>
-<category>note</category>
-<description>745 points, 651 comments. Discussion: https://news.ycombinator.com/item?id=49411102</description>
 </item>
 </channel>
 </rss>
