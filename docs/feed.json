@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:f5fc8c7dbed68175",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "summary": "77 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49571465",
+      "content_text": "77 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49571465",
+      "date_published": "2026-09-04T23:38:50+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:f01b1637ba156dfd",
       "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.0",
       "title": "aws-sdk: v0.7.0",
@@ -1372,19 +1385,6 @@
       "date_published": "2026-08-23T18:16:37+00:00",
       "tags": [
         "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:f861dec05f200b24",
-      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-      "summary": "236 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=49410097",
-      "content_text": "236 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=49410097",
-      "date_published": "2026-08-23T16:24:21+00:00",
-      "tags": [
-        "pricing",
         "info",
         "community"
       ]

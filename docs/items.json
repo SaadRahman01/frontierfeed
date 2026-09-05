@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-05T01:02:22.261092+00:00",
+  "generated": "2026-09-05T05:49:00.424222+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "source": "hackernews",
+      "published": "2026-09-04T23:38:50+00:00",
+      "body": "77 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49571465",
+      "summary": "77 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49571465",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "f5fc8c7dbed68175"
+    },
     {
       "title": "aws-sdk: v0.7.0",
       "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.0",
@@ -4569,22 +4584,6 @@
         "opus"
       ],
       "uid": "5a9a71b718f47ef2"
-    },
-    {
-      "title": "v1.0.183",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.183",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-07-25T01:37:30+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.183",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.183",
-      "version": "1.0.183",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "4c0d3ca68b230756"
     }
   ]
 }
