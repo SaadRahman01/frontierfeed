@@ -107,6 +107,19 @@
       ]
     },
     {
+      "id": "frontierfeed:dd4d8d7bc00842fb",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "title": "Fermat's Last Theorem in Lean 4",
+      "summary": "59 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49568697",
+      "content_text": "59 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49568697",
+      "date_published": "2026-09-04T18:57:32+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:c15277b9db2335c2",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
       "title": "Formalizing Fermat's Last Theorem",
@@ -1374,20 +1387,6 @@
         "pricing",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:124d2acb982c289d",
-      "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
-      "title": "Run Claude Code sessions on your own compute",
-      "summary": "Run Claude Code sessions on your own compute",
-      "content_text": "Run Claude Code sessions on your own compute",
-      "date_published": "2026-08-23T16:07:24.044938+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-04T22:23:42.741703+00:00",
+  "generated": "2026-09-05T01:02:22.261092+00:00",
   "count": 300,
   "items": [
     {
@@ -115,6 +115,21 @@
         "claude-code-action"
       ],
       "uid": "e9225d6fde69c9d8"
+    },
+    {
+      "title": "Fermat's Last Theorem in Lean 4",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "source": "hackernews",
+      "published": "2026-09-04T18:57:32+00:00",
+      "body": "59 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49568697",
+      "summary": "59 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49568697",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "dd4d8d7bc00842fb"
     },
     {
       "title": "Formalizing Fermat's Last Theorem",
@@ -4570,19 +4585,6 @@
         "claude-code-action"
       ],
       "uid": "4c0d3ca68b230756"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.220 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.220",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-07-24T23:11:21.821000+00:00",
-      "body": "Version 2.1.220 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.220 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.220",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "78413d5dfdd026cb"
     }
   ]
 }

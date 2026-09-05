@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 04 Sep 2026 22:23:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 01:02:22 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -70,6 +70,14 @@
 <pubDate>Fri, 04 Sep 2026 19:59:57 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.215...v1.0.216</description>
+</item>
+<item>
+<title>Fermat&#x27;s Last Theorem in Lean 4</title>
+<link>https://github.com/anthropics/fermats-last-theorem</link>
+<guid isPermaLink="false">frontierfeed:dd4d8d7bc00842fb</guid>
+<pubDate>Fri, 04 Sep 2026 18:57:32 +0000</pubDate>
+<category>note</category>
+<description>59 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49568697</description>
 </item>
 <item>
 <title>Formalizing Fermat&#x27;s Last Theorem</title>
@@ -806,14 +814,6 @@
 <pubDate>Sun, 23 Aug 2026 16:24:21 +0000</pubDate>
 <category>pricing</category>
 <description>236 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=49410097</description>
-</item>
-<item>
-<title>Run Claude Code sessions on your own compute</title>
-<link>https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</link>
-<guid isPermaLink="false">frontierfeed:124d2acb982c289d</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>claude-code</category>
-<description>Run Claude Code sessions on your own compute</description>
 </item>
 </channel>
 </rss>
