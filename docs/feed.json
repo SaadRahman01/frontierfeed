@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:aa52eb5b00038d58",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.217",
+      "title": "v1.0.217",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.216...v1.0.217",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.216...v1.0.217",
+      "date_published": "2026-09-06T02:56:44+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:c77ee5e0d3242032",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.263",
+      "title": "@anthropic-ai/claude-code 2.1.263 published",
+      "summary": "Version 2.1.263 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.263 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-06T02:07:58.391000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:f5fc8c7dbed68175",
       "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
       "title": "Portal by Spotify cut my Claude Code token usage by 90%",
@@ -1360,33 +1388,6 @@
         "api",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:58581e14bcfdafe9",
-      "url": "https://cmart.blog/claude-writing/",
-      "title": "Why is Anthropic's public writing style so unlike Claude's?",
-      "summary": "68 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49414934",
-      "content_text": "68 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49414934",
-      "date_published": "2026-08-24T03:32:42+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:d82f7702ba952b43",
-      "url": "https://arxiv.org/abs/2608.22758v1",
-      "title": "XTC: Head-Aware Sampling by Excluding Top Choices",
-      "summary": "Standard decoding rules for autoregressive language models promote diversity by rescaling the full next-token distribution or truncating its low-probability tail.",
-      "content_text": "Standard decoding rules for autoregressive language models promote diversity by rescaling the full next-token distribution or truncating its low-probability tail.",
-      "date_published": "2026-08-24T03:27:30+00:00",
-      "tags": [
-        "research",
-        "feature",
-        "research",
-        "paper"
       ]
     }
   ]

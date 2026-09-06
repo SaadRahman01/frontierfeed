@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "v1.0.217",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.217",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-06T02:56:44+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.216...v1.0.217",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.216...v1.0.217",
+      "version": "1.0.217",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "aa52eb5b00038d58"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.263 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.263",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-06T02:07:58.391000+00:00",
+      "body": "Version 2.1.263 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.263 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.263",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "c77ee5e0d3242032"
+    },
+    {
       "title": "Portal by Spotify cut my Claude Code token usage by 90%",
       "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
       "source": "hackernews",
@@ -4547,38 +4579,6 @@
         "opus"
       ],
       "uid": "9433b1bc0e608201"
-    },
-    {
-      "title": "Elevated errors on Claude Opus 5",
-      "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
-      "source": "hackernews",
-      "published": "2026-07-27T08:20:06+00:00",
-      "body": "50 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49066591",
-      "summary": "50 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49066591",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "1af21c1c43a5e0ee"
-    },
-    {
-      "title": "The Missing Layer: Specification Infrastructure for AI Oversight",
-      "url": "https://arxiv.org/abs/2607.24866v1",
-      "source": "arxiv",
-      "published": "2026-07-26T18:12:41+00:00",
-      "body": "AI safety has a missing layer. Interpretability, formal methods, security engineering, evaluation methodology, and reinforcement-learning safety each produce substantial work, but the resulting artifacts do not compose into deployable oversight: every team fielding an agentic system builds its own audit schema, policy dialect, monitoring stack, and escalation path, mostly reinventions of patterns understood elsewhere. We diagnose this as a coordination gap, not a research gap, and propose a two-axis taxonomy: five technical layers (Legibility, Specification, Mediation, Evaluation, Escalation) crossed with six concerns spanning alignment, robustness, adversarial defense, security, governance, and accountability, populating the resulting 5x6 matrix with existing work. Layer 2 (Specification), where humans translate intent into machine-checkable artifacts, is the connective tissue every layer depends on, yet it lacks four marks of a mature engineering discipline: shared vocabulary, design principles, composability standards, and governance practices. We propose six design principles for Layer 2, from elicitability and composability to adversary-awareness, traceability, and governability, made concrete through worked examples and a reference architecture turning specifications into runtime enforcement, evaluation, and escalation. Existing systems such as Cedar, Constitutional AI, and Open Policy Agent each address a fragment of Layer 2 well and the matrix poorly; treating them as fragments of one shared layer makes composition tractable. As evidence, we introduce CARMA, a Layer 2 prototype for autonomous ETL agents in which one specification drives enforcement, evaluation, and escalation, with every decision traceable to a versioned specification, naming what AI oversight is missing and giving independent teams principles to build the missing pieces so they compose.",
-      "summary": "AI safety has a missing layer. Interpretability, formal methods, security engineering, evaluation methodology, and reinforcement-learning safety each produce substantial work, but the resulting artifacts do not compose into deployable oversight: every team fielding an agentic sys\u2026",
-      "version": "",
-      "category": "research",
-      "impact": "feature",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "cc5fd3bcb905df7c"
     }
   ]
 }
