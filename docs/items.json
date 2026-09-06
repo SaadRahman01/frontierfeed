@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-06T04:45:50.113890+00:00",
+  "generated": "2026-09-06T09:29:09.693111+00:00",
   "count": 300,
   "items": [
     {
@@ -35,6 +35,21 @@
         "npm"
       ],
       "uid": "c77ee5e0d3242032"
+    },
+    {
+      "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
+      "url": "https://www.effort.news/revelation",
+      "source": "hackernews",
+      "published": "2026-09-05T06:31:31+00:00",
+      "body": "42 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49573677",
+      "summary": "42 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49573677",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "a0e9884ce0ff7afb"
     },
     {
       "title": "Portal by Spotify cut my Claude Code token usage by 90%",
@@ -4567,22 +4582,6 @@
         "community"
       ],
       "uid": "bc7d7f74954252a5"
-    },
-    {
-      "title": "Elevated errors on Claude Opus 5",
-      "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-      "source": "hackernews",
-      "published": "2026-07-27T11:32:32+00:00",
-      "body": "105 points, 74 comments. Discussion: https://news.ycombinator.com/item?id=49068029",
-      "summary": "105 points, 74 comments. Discussion: https://news.ycombinator.com/item?id=49068029",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "9433b1bc0e608201"
     }
   ]
 }

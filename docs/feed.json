@@ -37,6 +37,19 @@
       ]
     },
     {
+      "id": "frontierfeed:a0e9884ce0ff7afb",
+      "url": "https://www.effort.news/revelation",
+      "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
+      "summary": "42 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49573677",
+      "content_text": "42 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49573677",
+      "date_published": "2026-09-05T06:31:31+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:f5fc8c7dbed68175",
       "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
       "title": "Portal by Spotify cut my Claude Code token usage by 90%",
@@ -1375,19 +1388,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:c2c164e4f53d9b3d",
-      "url": "https://status.claude.com/uptime",
-      "title": "Anthropic Claude and API service outages",
-      "summary": "73 points, 60 comments. Discussion: https://news.ycombinator.com/item?id=49415907",
-      "content_text": "73 points, 60 comments. Discussion: https://news.ycombinator.com/item?id=49415907",
-      "date_published": "2026-08-24T06:32:28+00:00",
-      "tags": [
-        "api",
-        "info",
-        "community"
       ]
     }
   ]

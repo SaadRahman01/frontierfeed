@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 06 Sep 2026 04:45:50 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 09:29:09 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -30,6 +30,14 @@
 <pubDate>Sun, 06 Sep 2026 02:07:58 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.263 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Anthropic &amp; friends caught paying religious NGO&#x27;s 3.3M for propaganda</title>
+<link>https://www.effort.news/revelation</link>
+<guid isPermaLink="false">frontierfeed:a0e9884ce0ff7afb</guid>
+<pubDate>Sat, 05 Sep 2026 06:31:31 +0000</pubDate>
+<category>note</category>
+<description>42 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49573677</description>
 </item>
 <item>
 <title>Portal by Spotify cut my Claude Code token usage by 90%</title>
@@ -806,14 +814,6 @@
 <pubDate>Mon, 24 Aug 2026 15:58:22 +0000</pubDate>
 <category>claude-code</category>
 <description>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</description>
-</item>
-<item>
-<title>Anthropic Claude and API service outages</title>
-<link>https://status.claude.com/uptime</link>
-<guid isPermaLink="false">frontierfeed:c2c164e4f53d9b3d</guid>
-<pubDate>Mon, 24 Aug 2026 06:32:28 +0000</pubDate>
-<category>api</category>
-<description>73 points, 60 comments. Discussion: https://news.ycombinator.com/item?id=49415907</description>
 </item>
 </channel>
 </rss>
