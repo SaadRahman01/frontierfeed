@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-06T09:29:09.693111+00:00",
+  "generated": "2026-09-06T13:42:36.210640+00:00",
   "count": 300,
   "items": [
     {
@@ -65,6 +65,22 @@
         "community"
       ],
       "uid": "f5fc8c7dbed68175"
+    },
+    {
+      "title": "Claude Code skills for advanced context engineering techniques and patterns",
+      "url": "https://github.com/NeoLabHQ/context-engineering-kit",
+      "source": "hackernews",
+      "published": "2026-09-04T22:52:14+00:00",
+      "body": "40 points, 4 comments. Discussion: https://news.ycombinator.com/item?id=49571131",
+      "summary": "40 points, 4 comments. Discussion: https://news.ycombinator.com/item?id=49571131",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community",
+        "skills"
+      ],
+      "uid": "dd98f07d58acd2a8"
     },
     {
       "title": "aws-sdk: v0.7.0",
@@ -4567,21 +4583,6 @@
         "community"
       ],
       "uid": "b3ba2f23ce680622"
-    },
-    {
-      "title": "Kimi K3 Now Available via Telnyx Inference API",
-      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-      "source": "hackernews",
-      "published": "2026-07-27T22:46:28+00:00",
-      "body": "132 points, 88 comments. Discussion: https://news.ycombinator.com/item?id=49076505",
-      "summary": "132 points, 88 comments. Discussion: https://news.ycombinator.com/item?id=49076505",
-      "version": "",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "community"
-      ],
-      "uid": "bc7d7f74954252a5"
     }
   ]
 }

@@ -63,6 +63,20 @@
       ]
     },
     {
+      "id": "frontierfeed:dd98f07d58acd2a8",
+      "url": "https://github.com/NeoLabHQ/context-engineering-kit",
+      "title": "Claude Code skills for advanced context engineering techniques and patterns",
+      "summary": "40 points, 4 comments. Discussion: https://news.ycombinator.com/item?id=49571131",
+      "content_text": "40 points, 4 comments. Discussion: https://news.ycombinator.com/item?id=49571131",
+      "date_published": "2026-09-04T22:52:14+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community",
+        "skills"
+      ]
+    },
+    {
       "id": "frontierfeed:f01b1637ba156dfd",
       "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.0",
       "title": "aws-sdk: v0.7.0",
@@ -1374,20 +1388,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:e827e70e8f2157e7",
-      "url": "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
-      "title": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
-      "summary": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
-      "content_text": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
-      "date_published": "2026-08-24T15:58:22.915307+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]
