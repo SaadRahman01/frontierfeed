@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Coop \u2013 Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://github.com/trailofbits/coop",
+      "source": "hackernews",
+      "published": "2026-09-07T04:18:28+00:00",
+      "body": "43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49593842",
+      "summary": "43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49593842",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "bb029c965dd0df41"
+    },
+    {
       "title": "v1.0.217",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.217",
       "source": "github:anthropics/claude-code-action",
@@ -4564,21 +4579,6 @@
         "community"
       ],
       "uid": "1fac2d1537cb6264"
-    },
-    {
-      "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
-      "url": "https://news.ycombinator.com/item?id=49080775",
-      "source": "hackernews",
-      "published": "2026-07-28T08:00:19+00:00",
-      "body": "45 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49080775",
-      "summary": "45 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49080775",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "b3ba2f23ce680622"
     }
   ]
 }
