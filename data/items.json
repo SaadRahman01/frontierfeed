@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "v1.0.218",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.218",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-08T20:39:25+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.217...v1.0.218",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.217...v1.0.218",
+      "version": "1.0.218",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "16bddf7bc9161859"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.265 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.265",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-08T19:05:16.492000+00:00",
+      "body": "Version 2.1.265 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.265 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.265",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "9649bb63a5c679e3"
+    },
+    {
       "title": "Reducing cost and improving performance with Claude Platform",
       "url": "https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform",
       "source": "claude-blog",
@@ -4547,38 +4579,6 @@
         "paper"
       ],
       "uid": "019994d2f83e58cd"
-    },
-    {
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "url": "https://github.com/anthropics/cryptography-research-demo",
-      "source": "hackernews",
-      "published": "2026-07-28T21:22:48+00:00",
-      "body": "57 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49090083",
-      "summary": "57 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49090083",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "638c5c0e81c27938"
-    },
-    {
-      "title": "v0.120.2",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.120.2",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-07-28T17:38:09+00:00",
-      "body": "## 0.120.2 (2026-07-28)\n\nFull Changelog: [v0.120.1...v0.120.2](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.1...v0.120.2)\n\n### Bug Fixes\n\n* **mcp:** support mcp sdk v2 alongside v1 ([#300](https://github.com/anthropics/anthropic-sdk-python/issues/300)) ([177f88c](https://github.com/anthropics/anthropic-sdk-python/commit/177f88ccd7f966e47b654cb19ad0e9cfa4c58ac2))",
-      "summary": "## 0.120.2 (2026-07-28) Full Changelog: [v0.120.1...v0.120.2](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.1...v0.120.2) ### Bug Fixes * **mcp:** support mcp sdk v2 alongside v1 ([#300](https://github.com/anthropics/anthropic-sdk-python/issues/300)) ([177f88c\u2026",
-      "version": "0.120.2",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-python",
-        "mcp"
-      ],
-      "uid": "d1e0d2cb3375cbcf"
     }
   ]
 }
