@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-07T23:33:05.568001+00:00",
+  "generated": "2026-09-08T04:45:28.209223+00:00",
   "count": 300,
   "items": [
     {
@@ -253,6 +253,22 @@
         "community"
       ],
       "uid": "c15277b9db2335c2"
+    },
+    {
+      "title": "Show HN: Jigsaw Haiku",
+      "url": "https://jigsawhaiku.com/",
+      "source": "hackernews",
+      "published": "2026-09-04T18:14:44+00:00",
+      "body": "74 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49568162",
+      "summary": "74 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49568162",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community",
+        "haiku"
+      ],
+      "uid": "ede266f9b37c972e"
     },
     {
       "title": "@anthropic-ai/claude-code 2.1.261 published",
@@ -4568,21 +4584,6 @@
         "mcp"
       ],
       "uid": "74f539fb966b961c"
-    },
-    {
-      "title": "Anthropeum \u2013 Where in the world, and when, does this human artifact belong?",
-      "url": "https://anthropeum.com/",
-      "source": "hackernews",
-      "published": "2026-07-28T15:01:15+00:00",
-      "body": "191 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=49084989",
-      "summary": "191 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=49084989",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "1fac2d1537cb6264"
     }
   ]
 }

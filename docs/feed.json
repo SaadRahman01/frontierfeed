@@ -227,6 +227,20 @@
       ]
     },
     {
+      "id": "frontierfeed:ede266f9b37c972e",
+      "url": "https://jigsawhaiku.com/",
+      "title": "Show HN: Jigsaw Haiku",
+      "summary": "74 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49568162",
+      "content_text": "74 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49568162",
+      "date_published": "2026-09-04T18:14:44+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community",
+        "haiku"
+      ]
+    },
+    {
       "id": "frontierfeed:cd0f6cd7626e05db",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.261",
       "title": "@anthropic-ai/claude-code 2.1.261 published",
@@ -1373,20 +1387,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:4246a9c40b541d8d",
-      "url": "https://github.com/l3a0/claude-plugins",
-      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-      "summary": "43 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=49424758",
-      "content_text": "43 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=49424758",
-      "date_published": "2026-08-24T19:32:18+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community",
-        "skills"
       ]
     }
   ]

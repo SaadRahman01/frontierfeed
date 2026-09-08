@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 07 Sep 2026 23:33:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 04:45:28 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -142,6 +142,14 @@
 <pubDate>Fri, 04 Sep 2026 18:42:56 +0000</pubDate>
 <category>note</category>
 <description>124 points, 58 comments. Discussion: https://news.ycombinator.com/item?id=49568506</description>
+</item>
+<item>
+<title>Show HN: Jigsaw Haiku</title>
+<link>https://jigsawhaiku.com/</link>
+<guid isPermaLink="false">frontierfeed:ede266f9b37c972e</guid>
+<pubDate>Fri, 04 Sep 2026 18:14:44 +0000</pubDate>
+<category>note</category>
+<description>74 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49568162</description>
 </item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.261 published</title>
@@ -806,14 +814,6 @@
 <pubDate>Mon, 24 Aug 2026 23:10:45 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.243 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>A Claude Code skill that recovers export-blocked Kindle highlights</title>
-<link>https://github.com/l3a0/claude-plugins</link>
-<guid isPermaLink="false">frontierfeed:4246a9c40b541d8d</guid>
-<pubDate>Mon, 24 Aug 2026 19:32:18 +0000</pubDate>
-<category>claude-code</category>
-<description>43 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=49424758</description>
 </item>
 </channel>
 </rss>
