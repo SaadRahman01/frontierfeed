@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-08T09:46:18.637772+00:00",
+  "generated": "2026-09-08T14:36:39.537299+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "source": "hackernews",
+      "published": "2026-09-08T04:36:26+00:00",
+      "body": "58 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49605644",
+      "summary": "58 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49605644",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "08f9127486b0dec7"
+    },
     {
       "title": "Coop \u2013 Isolated VM Environments for Running Claude Code and Codex",
       "url": "https://github.com/trailofbits/coop",
@@ -4567,23 +4582,6 @@
         "community"
       ],
       "uid": "ff35209b1d268508"
-    },
-    {
-      "title": "v0.120.1",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.120.1",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-07-28T16:37:33+00:00",
-      "body": "## 0.120.1 (2026-07-28)\n\nFull Changelog: [v0.120.0...v0.120.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.0...v0.120.1)\n\n### Bug Fixes\n\n* **mcp:** pin mcp extra to &lt;2 ([#1783](https://github.com/anthropics/anthropic-sdk-python/issues/1783)) ([fb66371](https://github.com/anthropics/anthropic-sdk-python/commit/fb66371322621be23a0956f1998da39c4686f4cb))",
-      "summary": "## 0.120.1 (2026-07-28) Full Changelog: [v0.120.0...v0.120.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.0...v0.120.1) ### Bug Fixes * **mcp:** pin mcp extra to &lt;2 ([#1783](https://github.com/anthropics/anthropic-sdk-python/issues/1783)) ([fb66371](https\u2026",
-      "version": "0.120.1",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-python",
-        "mcp"
-      ],
-      "uid": "74f539fb966b961c"
     }
   ]
 }

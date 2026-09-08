@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:08f9127486b0dec7",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "summary": "58 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49605644",
+      "content_text": "58 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49605644",
+      "date_published": "2026-09-08T04:36:26+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:bb029c965dd0df41",
       "url": "https://github.com/trailofbits/coop",
       "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
@@ -1373,20 +1386,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:2fd0f84ea6177ca2",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.243",
-      "title": "@anthropic-ai/claude-code 2.1.243 published",
-      "summary": "Version 2.1.243 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.243 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-08-24T23:10:45.498000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
