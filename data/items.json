@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Reducing cost and improving performance with Claude Platform",
+      "url": "https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform",
+      "source": "claude-blog",
+      "published": "2026-09-08T18:44:52.688683+00:00",
+      "body": "Reducing cost and improving performance with Claude Platform",
+      "summary": "Reducing cost and improving performance with Claude Platform",
+      "version": "",
+      "category": "pricing",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "ed48e2980f93df04"
+    },
+    {
       "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
       "url": "https://rohanadwankar.github.io/posts/platforms.html",
       "source": "hackernews",
@@ -4563,21 +4579,6 @@
         "mcp"
       ],
       "uid": "d1e0d2cb3375cbcf"
-    },
-    {
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "source": "hackernews",
-      "published": "2026-07-28T17:22:16+00:00",
-      "body": "232 points, 188 comments. Discussion: https://news.ycombinator.com/item?id=49087091",
-      "summary": "232 points, 188 comments. Discussion: https://news.ycombinator.com/item?id=49087091",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "ff35209b1d268508"
     }
   ]
 }

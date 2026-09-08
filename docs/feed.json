@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:ed48e2980f93df04",
+      "url": "https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform",
+      "title": "Reducing cost and improving performance with Claude Platform",
+      "summary": "Reducing cost and improving performance with Claude Platform",
+      "content_text": "Reducing cost and improving performance with Claude Platform",
+      "date_published": "2026-09-08T18:44:52.688683+00:00",
+      "tags": [
+        "pricing",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
       "id": "frontierfeed:08f9127486b0dec7",
       "url": "https://rohanadwankar.github.io/posts/platforms.html",
       "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
@@ -1367,20 +1381,6 @@
       "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.203",
       "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.203",
       "date_published": "2026-08-25T03:44:25+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:45655f76df53e19c",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.202",
-      "title": "v1.0.202",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.201...v1.0.202",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.201...v1.0.202",
-      "date_published": "2026-08-24T23:43:03+00:00",
       "tags": [
         "claude-code",
         "fix",
