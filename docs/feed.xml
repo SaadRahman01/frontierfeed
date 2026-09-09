@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 09 Sep 2026 11:30:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 16:43:00 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -16,12 +16,60 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
 <item>
+<title>Anthropic Is Building a Predictive Surveillance System to Monitor Activists</title>
+<link>https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/</link>
+<guid isPermaLink="false">frontierfeed:dd478225b9929acb</guid>
+<pubDate>Wed, 09 Sep 2026 16:01:41 +0000</pubDate>
+<category>note</category>
+<description>123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704</description>
+</item>
+<item>
+<title>What will our economic future look like?</title>
+<link>https://www.anthropic.com/institute/econ-scenarios</link>
+<guid isPermaLink="false">frontierfeed:d5835276af5126fd</guid>
+<pubDate>Wed, 09 Sep 2026 13:38:23 +0000</pubDate>
+<category>note</category>
+<description>101 points, 158 comments. Discussion: https://news.ycombinator.com/item?id=49626373</description>
+</item>
+<item>
+<title>Anthropic researcher believes more than 10% chance AI &#x27;could kill all humans&#x27;</title>
+<link>https://www.bbc.co.uk/news/articles/ckgwy1k42w4o</link>
+<guid isPermaLink="false">frontierfeed:1fad8d5343f674ca</guid>
+<pubDate>Wed, 09 Sep 2026 10:37:16 +0000</pubDate>
+<category>note</category>
+<description>40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255</description>
+</item>
+<item>
+<title>I resigned from Anthropic today (Jacob Coxon)</title>
+<link>https://xcancel.com/hilbertspaess/status/2097476196791709843?s=20</link>
+<guid isPermaLink="false">frontierfeed:272baf504b1b5103</guid>
+<pubDate>Wed, 09 Sep 2026 10:25:03 +0000</pubDate>
+<category>note</category>
+<description>45 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49624157</description>
+</item>
+<item>
+<title>Claude, change the &quot;Add to Cart&quot; button to blue</title>
+<link>https://opusfived.dev/</link>
+<guid isPermaLink="false">frontierfeed:4fce00394eab12d8</guid>
+<pubDate>Wed, 09 Sep 2026 09:39:46 +0000</pubDate>
+<category>note</category>
+<description>620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754</description>
+</item>
+<item>
 <title>Gambling with our lives: AI researcher quits Anthropic with warning about safety</title>
 <link>https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/</link>
 <guid isPermaLink="false">frontierfeed:5fc6eba2270fcd0c</guid>
 <pubDate>Wed, 09 Sep 2026 08:43:27 +0000</pubDate>
 <category>note</category>
 <description>63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306</description>
+</item>
+<item>
+<title>I&#x27;m going back to coding by hand</title>
+<link>https://news.ycombinator.com/item?id=49622554</link>
+<guid isPermaLink="false">frontierfeed:e33b88afb69d2e99</guid>
+<pubDate>Wed, 09 Sep 2026 07:22:28 +0000</pubDate>
+<category>note</category>
+<description>52 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49622554</description>
 </item>
 <item>
 <title>AI Responsibility – OpenAI and Anthropic</title>
@@ -766,54 +814,6 @@
 <pubDate>Tue, 25 Aug 2026 22:33:54 +0000</pubDate>
 <category>claude-code</category>
 <description>## What&#x27;s Changed * chore: add .gitattributes to normalize line endings by @MohammedAlkindi in https://github.com/anthropics/claude-code-action/pull/1708 * fix: use paths in delete_files prompt example by @WeAreResilience in https://github.com/anthropics/claude-code-action/pull/1…</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.246 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.246</link>
-<guid isPermaLink="false">frontierfeed:10ebc77791480619</guid>
-<pubDate>Tue, 25 Aug 2026 19:17:34 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.246 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Claude&#x27;s memory works everywhere, and you decide what&#x27;s in it</title>
-<link>https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it</link>
-<guid isPermaLink="false">frontierfeed:c789be5b1b6e81ce</guid>
-<pubDate>Tue, 25 Aug 2026 17:47:28 +0000</pubDate>
-<category>note</category>
-<description>Claude&#x27;s memory works everywhere, and you decide what&#x27;s in it</description>
-</item>
-<item>
-<title>Funding better evaluations of AI’s impact on wellbeing</title>
-<link>https://www.anthropic.com/news/wellbeing-research-grants</link>
-<guid isPermaLink="false">frontierfeed:1dad5134d5fbe6b5</guid>
-<pubDate>Tue, 25 Aug 2026 16:58:35 +0000</pubDate>
-<category>note</category>
-<description>Funding better evaluations of AI’s impact on wellbeing</description>
-</item>
-<item>
-<title>Anthropic Sees over $30T in Potential Revenue</title>
-<link>https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea</link>
-<guid isPermaLink="false">frontierfeed:4de96caeff39a603</guid>
-<pubDate>Tue, 25 Aug 2026 16:20:11 +0000</pubDate>
-<category>note</category>
-<description>40 points, 79 comments. Discussion: https://news.ycombinator.com/item?id=49436536</description>
-</item>
-<item>
-<title>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</title>
-<link>https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</link>
-<guid isPermaLink="false">frontierfeed:d01b0db5afc6cee3</guid>
-<pubDate>Tue, 25 Aug 2026 15:08:48 +0000</pubDate>
-<category>note</category>
-<description>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</description>
-</item>
-<item>
-<title>Expectation, Backlash, Recovery, and Excitement: How Model Releases Shape Reddit Perceptions of Conversational AI Systems</title>
-<link>https://arxiv.org/abs/2608.24654v1</link>
-<guid isPermaLink="false">frontierfeed:2333b0e93f0ac0d0</guid>
-<pubDate>Tue, 25 Aug 2026 15:00:44 +0000</pubDate>
-<category>research</category>
-<description>Conversational AI systems (CAISes) continuously change through model releases, feature updates, safety interventions, and access-policy shifts, yet user perceptions are often studied as static snapshots.</description>
 </item>
 </channel>
 </rss>

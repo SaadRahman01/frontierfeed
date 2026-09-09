@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+      "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+      "source": "hackernews",
+      "published": "2026-09-09T16:01:41+00:00",
+      "body": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
+      "summary": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "dd478225b9929acb"
+    },
+    {
+      "title": "What will our economic future look like?",
+      "url": "https://www.anthropic.com/institute/econ-scenarios",
+      "source": "hackernews",
+      "published": "2026-09-09T13:38:23+00:00",
+      "body": "101 points, 158 comments. Discussion: https://news.ycombinator.com/item?id=49626373",
+      "summary": "101 points, 158 comments. Discussion: https://news.ycombinator.com/item?id=49626373",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d5835276af5126fd"
+    },
+    {
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+      "source": "hackernews",
+      "published": "2026-09-09T10:37:16+00:00",
+      "body": "40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255",
+      "summary": "40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "1fad8d5343f674ca"
+    },
+    {
+      "title": "I resigned from Anthropic today (Jacob Coxon)",
+      "url": "https://xcancel.com/hilbertspaess/status/2097476196791709843?s=20",
+      "source": "hackernews",
+      "published": "2026-09-09T10:25:03+00:00",
+      "body": "45 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49624157",
+      "summary": "45 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49624157",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "272baf504b1b5103"
+    },
+    {
+      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "url": "https://opusfived.dev/",
+      "source": "hackernews",
+      "published": "2026-09-09T09:39:46+00:00",
+      "body": "620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
+      "summary": "620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "4fce00394eab12d8"
+    },
+    {
       "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
       "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
       "source": "hackernews",
@@ -14,6 +89,21 @@
         "community"
       ],
       "uid": "5fc6eba2270fcd0c"
+    },
+    {
+      "title": "I'm going back to coding by hand",
+      "url": "https://news.ycombinator.com/item?id=49622554",
+      "source": "hackernews",
+      "published": "2026-09-09T07:22:28+00:00",
+      "body": "52 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49622554",
+      "summary": "52 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49622554",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "e33b88afb69d2e99"
     },
     {
       "title": "AI Responsibility \u2013 OpenAI and Anthropic",
@@ -4486,98 +4576,6 @@
         "community"
       ],
       "uid": "fb570e0dd6166372"
-    },
-    {
-      "title": "Show HN: Claude-account \u2013 switch Claude Code accounts without logging in again",
-      "url": "https://github.com/hamzarehmandeveloper/claude-account",
-      "source": "hackernews",
-      "published": "2026-07-30T14:58:59+00:00",
-      "body": "54 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=49111019",
-      "summary": "54 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=49111019",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "96058ac7d10fa470"
-    },
-    {
-      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
-      "url": "https://github.com/YoanWai/agent-manager",
-      "source": "hackernews",
-      "published": "2026-07-30T09:34:27+00:00",
-      "body": "98 points, 79 comments. Discussion: https://news.ycombinator.com/item?id=49107749",
-      "summary": "98 points, 79 comments. Discussion: https://news.ycombinator.com/item?id=49107749",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "de8ead01375c774b"
-    },
-    {
-      "title": "Show HN: A local merge queue for parallel Claude Code agents",
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "source": "hackernews",
-      "published": "2026-07-30T00:20:16+00:00",
-      "body": "42 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49104747",
-      "summary": "42 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49104747",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "b61a119bb7de88d2"
-    },
-    {
-      "title": "Anthropic Doesn't Want Open Weight Models Banned. Just All That Makes Them Good",
-      "url": "https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/",
-      "source": "hackernews",
-      "published": "2026-07-29T18:42:50+00:00",
-      "body": "40 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=49101364",
-      "summary": "40 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=49101364",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "1bce085d09c022bc"
-    },
-    {
-      "title": "LayerRAG-Bench: A Cross-Layer Reliability Benchmark for Agentic Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2607.27353v1",
-      "source": "arxiv",
-      "published": "2026-07-29T18:09:17+00:00",
-      "body": "Agentic retrieval-augmented generation systems can produce answers that appear grounded while failing at the evidence, tool-contract, authorization, or session-state layer. We introduce LayerRAG-Bench, a controlled cross-layer reliability benchmark with 8 enterprise domains, 240 tasks, 9 fault scenarios, 2 contract modes, and 38,880 live task-level records across nine models from OpenAI, Anthropic, and Gemini. Schema normalization raises schema-drift success from 0.000 to 0.913, but stale evidence, missing tool output, denied permissions, and wrong-session context are not recovered by schema normalization. Groundedness-only evaluation also produces substantial false positives under stale and wrong-session evidence. These results support a layer-specific evaluation principle: a reliability intervention should be credited for repairing its target layer without being mistaken for a universal fix.",
-      "summary": "Agentic retrieval-augmented generation systems can produce answers that appear grounded while failing at the evidence, tool-contract, authorization, or session-state layer.",
-      "version": "",
-      "category": "research",
-      "impact": "feature",
-      "tags": [
-        "research",
-        "paper",
-        "enterprise"
-      ],
-      "uid": "e028ffaf78acab61"
-    },
-    {
-      "title": "Some thoughts about Anthropic's new cryptanalysis results",
-      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-      "source": "hackernews",
-      "published": "2026-07-29T16:42:20+00:00",
-      "body": "190 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=49099804",
-      "summary": "190 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=49099804",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "d7a03740388e9ba6"
     }
   ]
 }

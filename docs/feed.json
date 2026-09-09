@@ -9,12 +9,90 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:dd478225b9929acb",
+      "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+      "summary": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
+      "content_text": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
+      "date_published": "2026-09-09T16:01:41+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:d5835276af5126fd",
+      "url": "https://www.anthropic.com/institute/econ-scenarios",
+      "title": "What will our economic future look like?",
+      "summary": "101 points, 158 comments. Discussion: https://news.ycombinator.com/item?id=49626373",
+      "content_text": "101 points, 158 comments. Discussion: https://news.ycombinator.com/item?id=49626373",
+      "date_published": "2026-09-09T13:38:23+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:1fad8d5343f674ca",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "summary": "40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255",
+      "content_text": "40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255",
+      "date_published": "2026-09-09T10:37:16+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:272baf504b1b5103",
+      "url": "https://xcancel.com/hilbertspaess/status/2097476196791709843?s=20",
+      "title": "I resigned from Anthropic today (Jacob Coxon)",
+      "summary": "45 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49624157",
+      "content_text": "45 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49624157",
+      "date_published": "2026-09-09T10:25:03+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:4fce00394eab12d8",
+      "url": "https://opusfived.dev/",
+      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "summary": "620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
+      "content_text": "620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
+      "date_published": "2026-09-09T09:39:46+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:5fc6eba2270fcd0c",
       "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
       "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
       "summary": "63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306",
       "content_text": "63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306",
       "date_published": "2026-09-09T08:43:27+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:e33b88afb69d2e99",
+      "url": "https://news.ycombinator.com/item?id=49622554",
+      "title": "I'm going back to coding by hand",
+      "summary": "52 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49622554",
+      "content_text": "52 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49622554",
+      "date_published": "2026-09-09T07:22:28+00:00",
       "tags": [
         "note",
         "info",
@@ -1302,89 +1380,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:10ebc77791480619",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.246",
-      "title": "@anthropic-ai/claude-code 2.1.246 published",
-      "summary": "Version 2.1.246 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.246 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-08-25T19:17:34.421000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:c789be5b1b6e81ce",
-      "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
-      "title": "Claude's memory works everywhere, and you decide what's in it",
-      "summary": "Claude's memory works everywhere, and you decide what's in it",
-      "content_text": "Claude's memory works everywhere, and you decide what's in it",
-      "date_published": "2026-08-25T17:47:28.332426+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:1dad5134d5fbe6b5",
-      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "summary": "Funding better evaluations of AI’s impact on wellbeing",
-      "content_text": "Funding better evaluations of AI’s impact on wellbeing",
-      "date_published": "2026-08-25T16:58:35.036356+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:4de96caeff39a603",
-      "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
-      "title": "Anthropic Sees over $30T in Potential Revenue",
-      "summary": "40 points, 79 comments. Discussion: https://news.ycombinator.com/item?id=49436536",
-      "content_text": "40 points, 79 comments. Discussion: https://news.ycombinator.com/item?id=49436536",
-      "date_published": "2026-08-25T16:20:11+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:d01b0db5afc6cee3",
-      "url": "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner",
-      "title": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
-      "summary": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
-      "content_text": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
-      "date_published": "2026-08-25T15:08:48.131949+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:2333b0e93f0ac0d0",
-      "url": "https://arxiv.org/abs/2608.24654v1",
-      "title": "Expectation, Backlash, Recovery, and Excitement: How Model Releases Shape Reddit Perceptions of Conversational AI Systems",
-      "summary": "Conversational AI systems (CAISes) continuously change through model releases, feature updates, safety interventions, and access-policy shifts, yet user perceptions are often studied as static snapshots.",
-      "content_text": "Conversational AI systems (CAISes) continuously change through model releases, feature updates, safety interventions, and access-policy shifts, yet user perceptions are often studied as static snapshots.",
-      "date_published": "2026-08-25T15:00:44+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper"
       ]
     }
   ]
