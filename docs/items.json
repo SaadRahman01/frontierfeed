@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-09T06:02:29.999327+00:00",
+  "generated": "2026-09-09T11:30:04.769945+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+      "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+      "source": "hackernews",
+      "published": "2026-09-09T08:43:27+00:00",
+      "body": "63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306",
+      "summary": "63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "5fc6eba2270fcd0c"
+    },
     {
       "title": "AI Responsibility \u2013 OpenAI and Anthropic",
       "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
@@ -4567,21 +4582,6 @@
         "community"
       ],
       "uid": "d7a03740388e9ba6"
-    },
-    {
-      "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
-      "url": "https://usetokenless.com/",
-      "source": "hackernews",
-      "published": "2026-07-29T15:55:27+00:00",
-      "body": "71 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49099143",
-      "summary": "71 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49099143",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "community"
-      ],
-      "uid": "dc2aee544625b9a7"
     }
   ]
 }

@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:5fc6eba2270fcd0c",
+      "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+      "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+      "summary": "63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306",
+      "content_text": "63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306",
+      "date_published": "2026-09-09T08:43:27+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:ef8f740b2a35b52d",
       "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
       "title": "AI Responsibility – OpenAI and Anthropic",
@@ -1372,19 +1385,6 @@
         "info",
         "research",
         "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:20917208590b0baf",
-      "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-      "title": "Anthropic tells staff to work from home due to possible security team strike",
-      "summary": "47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49434291",
-      "content_text": "47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49434291",
-      "date_published": "2026-08-25T14:00:27+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
