@@ -9,12 +9,39 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:f85f9b45d2cc2c8c",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.267",
+      "title": "@anthropic-ai/claude-code 2.1.267 published",
+      "summary": "Version 2.1.267 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.267 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-09T18:25:42.820000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:dd478225b9929acb",
       "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
       "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
       "summary": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
       "content_text": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
       "date_published": "2026-09-09T16:01:41+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:f773bde146081ff9",
+      "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
+      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
+      "summary": "42 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=49627887",
+      "content_text": "42 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=49627887",
+      "date_published": "2026-09-09T15:10:39+00:00",
       "tags": [
         "note",
         "info",
@@ -66,6 +93,19 @@
       "title": "Claude, change the \"Add to Cart\" button to blue",
       "summary": "620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
       "content_text": "620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
+      "date_published": "2026-09-09T09:39:46+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:39b82b95e0ac7fd9",
+      "url": "https://opusfived.dev/",
+      "title": "Claude, change the “Add to Cart” button to blue",
+      "summary": "818 points, 337 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
+      "content_text": "818 points, 337 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
       "date_published": "2026-09-09T09:39:46+00:00",
       "tags": [
         "note",
@@ -1340,46 +1380,6 @@
         "note",
         "feature",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:d286458847ec75f2",
-      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
-      "title": "A curmudgeon tries a language server",
-      "summary": "53 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49448150",
-      "content_text": "53 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49448150",
-      "date_published": "2026-08-26T12:48:37+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:252d2764701d8550",
-      "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-      "title": "Analyzing student votes across AI models for college essay help",
-      "summary": "40 points, 65 comments. Discussion: https://news.ycombinator.com/item?id=49443871",
-      "content_text": "40 points, 65 comments. Discussion: https://news.ycombinator.com/item?id=49443871",
-      "date_published": "2026-08-26T03:23:50+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:7b044e99e90ecaee",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.206",
-      "title": "v1.0.206",
-      "summary": "## What's Changed * chore: add .gitattributes to normalize line endings by @MohammedAlkindi in https://github.com/anthropics/claude-code-action/pull/1708 * fix: use paths in delete_files prompt example by @WeAreResilience in https://github.com/anthropics/claude-code-action/pull/1…",
-      "content_text": "## What's Changed * chore: add .gitattributes to normalize line endings by @MohammedAlkindi in https://github.com/anthropics/claude-code-action/pull/1708 * fix: use paths in delete_files prompt example by @WeAreResilience in https://github.com/anthropics/claude-code-action/pull/1…",
-      "date_published": "2026-08-25T22:33:54+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
       ]
     }
   ]
