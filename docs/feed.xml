@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 09 Sep 2026 19:49:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 22:35:49 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.220</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.220</link>
+<guid isPermaLink="false">frontierfeed:023a3932b504c170</guid>
+<pubDate>Wed, 09 Sep 2026 20:12:09 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.219...v1.0.220</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.267 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.267</link>
@@ -806,14 +814,6 @@
 <pubDate>Wed, 26 Aug 2026 17:14:40 +0000</pubDate>
 <category>api</category>
 <description>## 1.1.0 (2026-08-26) Full Changelog: [v1.0.0...v1.1.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.0.0...v1.1.0) ### Features * **api:** add `updates` thinking display mode (beta) ([eb4a73f](https://github.com/anthropics/anthropic-sdk-python/commit/eb4a73fdddc1…</description>
-</item>
-<item>
-<title>Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies</title>
-<link>https://www.risklytics.ai/</link>
-<guid isPermaLink="false">frontierfeed:cdd26742c4663350</guid>
-<pubDate>Wed, 26 Aug 2026 16:06:01 +0000</pubDate>
-<category>note</category>
-<description>43 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=49451495</description>
 </item>
 </channel>
 </rss>

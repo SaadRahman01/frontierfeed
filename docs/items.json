@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-09T19:49:23.310760+00:00",
+  "generated": "2026-09-09T22:35:49.266940+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.220",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.220",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-09T20:12:09+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.219...v1.0.220",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.219...v1.0.220",
+      "version": "1.0.220",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "023a3932b504c170"
+    },
     {
       "title": "@anthropic-ai/claude-code 2.1.267 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.267",
@@ -4566,21 +4582,6 @@
         "mcp"
       ],
       "uid": "8bd7c7bc7ed1ff76"
-    },
-    {
-      "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
-      "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
-      "source": "hackernews",
-      "published": "2026-08-03T00:22:55+00:00",
-      "body": "69 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49149800",
-      "summary": "69 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49149800",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "acfc4a2ee2b8f3e2"
     }
   ]
 }

@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:023a3932b504c170",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.220",
+      "title": "v1.0.220",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.219...v1.0.220",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.219...v1.0.220",
+      "date_published": "2026-09-09T20:12:09+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:f85f9b45d2cc2c8c",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.267",
       "title": "@anthropic-ai/claude-code 2.1.267 published",
@@ -1367,19 +1381,6 @@
         "release",
         "anthropic-sdk-python",
         "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:cdd26742c4663350",
-      "url": "https://www.risklytics.ai/",
-      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
-      "summary": "43 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=49451495",
-      "content_text": "43 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=49451495",
-      "date_published": "2026-08-26T16:06:01+00:00",
-      "tags": [
-        "note",
-        "feature",
-        "community"
       ]
     }
   ]

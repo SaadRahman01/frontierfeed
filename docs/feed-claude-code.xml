@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 09 Sep 2026 19:49:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 22:35:49 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.220</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.220</link>
+<guid isPermaLink="false">frontierfeed:023a3932b504c170</guid>
+<pubDate>Wed, 09 Sep 2026 20:12:09 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.219...v1.0.220</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.267 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.267</link>
@@ -774,14 +782,6 @@
 <pubDate>Mon, 03 Aug 2026 22:16:25 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.221 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App</title>
-<link>https://daringfireball.net/linked/2026/08/02/cherny-claude-swift</link>
-<guid isPermaLink="false">frontierfeed:acfc4a2ee2b8f3e2</guid>
-<pubDate>Mon, 03 Aug 2026 00:22:55 +0000</pubDate>
-<category>claude-code</category>
-<description>69 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49149800</description>
 </item>
 </channel>
 </rss>
