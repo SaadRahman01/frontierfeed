@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 09 Sep 2026 00:18:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 06:02:29 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>AI Responsibility – OpenAI and Anthropic</title>
+<link>https://twitter.com/hilbertspaess/status/2097476196791709843</link>
+<guid isPermaLink="false">frontierfeed:ef8f740b2a35b52d</guid>
+<pubDate>Wed, 09 Sep 2026 01:32:49 +0000</pubDate>
+<category>note</category>
+<description>73 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49619639</description>
+</item>
+<item>
+<title>I resigned from Anthropic today</title>
+<link>https://twitter.com/hilbertspaess/status/2097476196791709843#m</link>
+<guid isPermaLink="false">frontierfeed:aa377c4a423bff33</guid>
+<pubDate>Wed, 09 Sep 2026 00:40:40 +0000</pubDate>
+<category>note</category>
+<description>329 points, 402 comments. Discussion: https://news.ycombinator.com/item?id=49619227</description>
+</item>
 <item>
 <title>v1.0.219</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.219</link>
@@ -798,22 +814,6 @@
 <pubDate>Tue, 25 Aug 2026 14:00:27 +0000</pubDate>
 <category>note</category>
 <description>47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49434291</description>
-</item>
-<item>
-<title>v1.0.205</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.205</link>
-<guid isPermaLink="false">frontierfeed:691b3e9a837d6770</guid>
-<pubDate>Tue, 25 Aug 2026 05:22:32 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.203...v1.0.205</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.245 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.245</link>
-<guid isPermaLink="false">frontierfeed:d526efba0fd5fa7e</guid>
-<pubDate>Tue, 25 Aug 2026 04:45:52 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.245 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

@@ -9,6 +9,32 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:ef8f740b2a35b52d",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+      "title": "AI Responsibility – OpenAI and Anthropic",
+      "summary": "73 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49619639",
+      "content_text": "73 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49619639",
+      "date_published": "2026-09-09T01:32:49+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:aa377c4a423bff33",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+      "title": "I resigned from Anthropic today",
+      "summary": "329 points, 402 comments. Discussion: https://news.ycombinator.com/item?id=49619227",
+      "content_text": "329 points, 402 comments. Discussion: https://news.ycombinator.com/item?id=49619227",
+      "date_published": "2026-09-09T00:40:40+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:c3ef81693e4e3273",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.219",
       "title": "v1.0.219",
@@ -1359,34 +1385,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:691b3e9a837d6770",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.205",
-      "title": "v1.0.205",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.203...v1.0.205",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.203...v1.0.205",
-      "date_published": "2026-08-25T05:22:32+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:d526efba0fd5fa7e",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.245",
-      "title": "@anthropic-ai/claude-code 2.1.245 published",
-      "summary": "Version 2.1.245 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.245 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-08-25T04:45:52.102000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
