@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 08 Sep 2026 21:54:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 00:18:51 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.219</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.219</link>
+<guid isPermaLink="false">frontierfeed:c3ef81693e4e3273</guid>
+<pubDate>Tue, 08 Sep 2026 23:57:14 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.218...v1.0.219</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.266 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.266</link>
+<guid isPermaLink="false">frontierfeed:91c62935663088b7</guid>
+<pubDate>Tue, 08 Sep 2026 23:32:32 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.266 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>v1.0.218</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.218</link>
@@ -798,22 +814,6 @@
 <pubDate>Tue, 25 Aug 2026 04:45:52 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.245 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Show HN: Screen memory without screenshots, just text to Markdown</title>
-<link>https://github.com/dragthelake/ambient-context</link>
-<guid isPermaLink="false">frontierfeed:0d14373e4f2630a4</guid>
-<pubDate>Tue, 25 Aug 2026 04:33:24 +0000</pubDate>
-<category>note</category>
-<description>43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49429095</description>
-</item>
-<item>
-<title>Curved Inference II: Sleeper Agent Geometry - Extending Interpretability Beyond Probes</title>
-<link>https://arxiv.org/abs/2608.24037v1</link>
-<guid isPermaLink="false">frontierfeed:5435b7a27d0baf5c</guid>
-<pubDate>Tue, 25 Aug 2026 03:51:20 +0000</pubDate>
-<category>research</category>
-<description>This paper extends Anthropic&#x27;s Sleeper Agents research [1], which showed artificial backdoors persist through safety training &amp; can be detected by linear probes with &gt;99% accuracy [2].</description>
 </item>
 </channel>
 </rss>

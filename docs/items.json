@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-08T21:54:54.720873+00:00",
+  "generated": "2026-09-09T00:18:51.313677+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.219",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.219",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-08T23:57:14+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.218...v1.0.219",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.218...v1.0.219",
+      "version": "1.0.219",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "c3ef81693e4e3273"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.266 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.266",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-08T23:32:32.880000+00:00",
+      "body": "Version 2.1.266 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.266 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.266",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "91c62935663088b7"
+    },
     {
       "title": "v1.0.218",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.218",
@@ -4551,38 +4583,6 @@
         "paper"
       ],
       "uid": "20881356289aeb8d"
-    },
-    {
-      "title": "Constitutional Midtraining: Content Presence Drives Alignment Gains",
-      "url": "https://arxiv.org/abs/2607.26654v2",
-      "source": "arxiv",
-      "published": "2026-07-29T09:15:40+00:00",
-      "body": "Post-training alignment is often shallow, eroding under fine-tuning. It remains untested as to whether constitutional midtraining interventions can produce durable alignment when cleanly isolated from post-training. We build a 394M-token constitutional corpus from Anthropic's Constitution and apply constitutional midtraining at 120B scale, where principled, values-based content is inserted into midtraining. A 2x2 design (curriculum ordering x deliberative reasoning) was used to produce four constitutionally midtrained conditions, plus a control, which were evaluated on self-generated and established benchmarks including alignment under pressure, value conflict resolution, blackmail, and emergent misalignment. All models were evaluated across three stages: post-midtraining, post-SFT, and post-benign fine-tuning. Constitutionally midtrained models outperformed the control on alignment generalization and durability, notably on blackmail: SFT instilled a blackmail propensity in all models, but constitutional midtraining blunted it, with the advantage surviving benign fine-tuning (-17.5pp). This durability did not extend to settings that required active resistance to in-context pressure or conflict, where the advantage attenuates after SFT. The presence of constitutional content at midtraining also mattered more than its structure, and constitutional midtraining incurred no capability cost, on average, at any stage (MMLU, ARC-Easy, piqa, GSM8K). A modest amount of constitutional content at midtraining could therefore yield broad, persistent alignment gains, offering a cheap, complementary addition to SFT-centered pipelines. Code, data, and models are available.",
-      "summary": "Post-training alignment is often shallow, eroding under fine-tuning. It remains untested as to whether constitutional midtraining interventions can produce durable alignment when cleanly isolated from post-training.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "ba9bda853cb2c746"
-    },
-    {
-      "title": "Constitutional Midtraining: Content Presence Drives Alignment Gains",
-      "url": "https://arxiv.org/abs/2607.26654v3",
-      "source": "arxiv",
-      "published": "2026-07-29T09:15:40+00:00",
-      "body": "Post-training alignment is often shallow, eroding under fine-tuning. It remains untested as to whether constitutional midtraining interventions can produce durable alignment when cleanly isolated from post-training. We build a 394M-token constitutional corpus from Anthropic's Constitution and apply constitutional midtraining at 120B scale, where principled, values-based content is inserted into midtraining. A 2x2 design (curriculum ordering x deliberative reasoning) was used to produce four constitutionally midtrained conditions, plus a control, which were evaluated on self-generated and established benchmarks including alignment under pressure, value conflict resolution, blackmail, and emergent misalignment. All models were evaluated across three stages: post-midtraining, post-SFT, and post-benign fine-tuning. Constitutionally midtrained models outperformed the control on alignment generalization and durability, notably on blackmail: SFT instilled a blackmail propensity in all models, but constitutional midtraining blunted it, with the advantage surviving benign fine-tuning (-17.5pp). This durability did not extend to settings that required active resistance to in-context pressure or conflict, where the advantage attenuates after SFT. The presence of constitutional content at midtraining also mattered more than its structure, and constitutional midtraining incurred no capability cost, on average, at any stage (MMLU, ARC-Easy, piqa, GSM8K). A modest amount of constitutional content at midtraining could therefore yield broad, persistent alignment gains, offering a cheap, complementary addition to SFT-centered pipelines. Code, data, and models are available.",
-      "summary": "Post-training alignment is often shallow, eroding under fine-tuning. It remains untested as to whether constitutional midtraining interventions can produce durable alignment when cleanly isolated from post-training.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "019994d2f83e58cd"
     }
   ]
 }

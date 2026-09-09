@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:c3ef81693e4e3273",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.219",
+      "title": "v1.0.219",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.218...v1.0.219",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.218...v1.0.219",
+      "date_published": "2026-09-08T23:57:14+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:91c62935663088b7",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.266",
+      "title": "@anthropic-ai/claude-code 2.1.266 published",
+      "summary": "Version 2.1.266 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.266 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-08T23:32:32.880000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:16bddf7bc9161859",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.218",
       "title": "v1.0.218",
@@ -1359,33 +1387,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:0d14373e4f2630a4",
-      "url": "https://github.com/dragthelake/ambient-context",
-      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-      "summary": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49429095",
-      "content_text": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49429095",
-      "date_published": "2026-08-25T04:33:24+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:5435b7a27d0baf5c",
-      "url": "https://arxiv.org/abs/2608.24037v1",
-      "title": "Curved Inference II: Sleeper Agent Geometry - Extending Interpretability Beyond Probes",
-      "summary": "This paper extends Anthropic's Sleeper Agents research [1], which showed artificial backdoors persist through safety training & can be detected by linear probes with >99% accuracy [2].",
-      "content_text": "This paper extends Anthropic's Sleeper Agents research [1], which showed artificial backdoors persist through safety training & can be detected by linear probes with >99% accuracy [2].",
-      "date_published": "2026-08-25T03:51:20+00:00",
-      "tags": [
-        "research",
-        "feature",
-        "research",
-        "paper"
       ]
     }
   ]
