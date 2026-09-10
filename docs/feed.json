@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:d8bfd3712f9cc467",
+      "url": "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
+      "title": "What 1,000 small business owners taught us about AI",
+      "summary": "What 1,000 small business owners taught us about AI",
+      "content_text": "What 1,000 small business owners taught us about AI",
+      "date_published": "2026-09-10T22:38:26.631471+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:476e1c439640e2c0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.221",
+      "title": "v1.0.221",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.220...v1.0.221",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.220...v1.0.221",
+      "date_published": "2026-09-10T20:40:23+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:f62205f155d17361",
       "url": "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process",
       "title": "T. Rowe Price brings more of Claude to its investment process",
@@ -118,6 +146,19 @@
         "breaking",
         "release",
         "anthropic-sdk-python"
+      ]
+    },
+    {
+      "id": "frontierfeed:240738ed6b4fb001",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "summary": "49 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49647300",
+      "content_text": "49 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49647300",
+      "date_published": "2026-09-10T17:23:42+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1336,46 +1377,6 @@
         "release",
         "anthropic-sdk-python",
         "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:47c442ba657686f8",
-      "url": "https://news.ycombinator.com/item?id=49468252",
-      "title": "Tell HN: Man, AI is killing my brain",
-      "summary": "43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49468252",
-      "content_text": "43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49468252",
-      "date_published": "2026-08-27T17:28:27+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:a519f6359da7dd56",
-      "url": "https://github.com/opslane/opslane",
-      "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
-      "summary": "40 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=49466704",
-      "content_text": "40 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=49466704",
-      "date_published": "2026-08-27T15:45:16+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:0a00a327ee651950",
-      "url": "https://arxiv.org/abs/2608.27505v1",
-      "title": "A Survey on Rubric-Guided Reinforcement Learning for Language Models",
-      "summary": "Reinforcement learning from human feedback (RLHF) has become the dominant paradigm for aligning large language models (LLMs) with human preferences.",
-      "content_text": "Reinforcement learning from human feedback (RLHF) has become the dominant paradigm for aligning large language models (LLMs) with human preferences.",
-      "date_published": "2026-08-27T05:21:07+00:00",
-      "tags": [
-        "research",
-        "feature",
-        "research",
-        "paper"
       ]
     }
   ]

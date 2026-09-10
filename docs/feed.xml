@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 10 Sep 2026 19:45:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 22:38:37 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>What 1,000 small business owners taught us about AI</title>
+<link>https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai</link>
+<guid isPermaLink="false">frontierfeed:d8bfd3712f9cc467</guid>
+<pubDate>Thu, 10 Sep 2026 22:38:26 +0000</pubDate>
+<category>note</category>
+<description>What 1,000 small business owners taught us about AI</description>
+</item>
+<item>
+<title>v1.0.221</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.221</link>
+<guid isPermaLink="false">frontierfeed:476e1c439640e2c0</guid>
+<pubDate>Thu, 10 Sep 2026 20:40:23 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.220...v1.0.221</description>
+</item>
 <item>
 <title>T. Rowe Price brings more of Claude to its investment process</title>
 <link>https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process</link>
@@ -78,6 +94,14 @@
 <pubDate>Thu, 10 Sep 2026 17:45:22 +0000</pubDate>
 <category>deprecation</category>
 <description>## 1.5.0 (2026-09-10) Full Changelog: [v1.4.0...v1.5.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.4.0...v1.5.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([62aa21b](https://github.com/anthropics/anthropic-sdk-python/commit/62aa2…</description>
+</item>
+<item>
+<title>Detecting and countering misuse of AI: September 2026</title>
+<link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
+<guid isPermaLink="false">frontierfeed:240738ed6b4fb001</guid>
+<pubDate>Thu, 10 Sep 2026 17:23:42 +0000</pubDate>
+<category>note</category>
+<description>49 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49647300</description>
 </item>
 <item>
 <title>Anthropic Says It Blocked Possible Efforts to Build Biological Weapons</title>
@@ -790,30 +814,6 @@
 <pubDate>Thu, 27 Aug 2026 20:28:58 +0000</pubDate>
 <category>api</category>
 <description>## 1.2.0 (2026-08-27) Full Changelog: [v1.1.0...v1.2.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.1.0...v1.2.0) ### Features * **api:** beta files/skills namespaces use GA shapes; drop dated beta header pins ([9df4565](https://github.com/anthropics/anthropic-s…</description>
-</item>
-<item>
-<title>Tell HN: Man, AI is killing my brain</title>
-<link>https://news.ycombinator.com/item?id=49468252</link>
-<guid isPermaLink="false">frontierfeed:47c442ba657686f8</guid>
-<pubDate>Thu, 27 Aug 2026 17:28:27 +0000</pubDate>
-<category>note</category>
-<description>43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49468252</description>
-</item>
-<item>
-<title>Show HN: Watches user sessions, finds bugs that matter, and fixes them</title>
-<link>https://github.com/opslane/opslane</link>
-<guid isPermaLink="false">frontierfeed:a519f6359da7dd56</guid>
-<pubDate>Thu, 27 Aug 2026 15:45:16 +0000</pubDate>
-<category>note</category>
-<description>40 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=49466704</description>
-</item>
-<item>
-<title>A Survey on Rubric-Guided Reinforcement Learning for Language Models</title>
-<link>https://arxiv.org/abs/2608.27505v1</link>
-<guid isPermaLink="false">frontierfeed:0a00a327ee651950</guid>
-<pubDate>Thu, 27 Aug 2026 05:21:07 +0000</pubDate>
-<category>research</category>
-<description>Reinforcement learning from human feedback (RLHF) has become the dominant paradigm for aligning large language models (LLMs) with human preferences.</description>
 </item>
 </channel>
 </rss>

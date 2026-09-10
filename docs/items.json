@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-10T19:45:53.629765+00:00",
+  "generated": "2026-09-10T22:38:37.503386+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "What 1,000 small business owners taught us about AI",
+      "url": "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
+      "source": "claude-blog",
+      "published": "2026-09-10T22:38:26.631471+00:00",
+      "body": "What 1,000 small business owners taught us about AI",
+      "summary": "What 1,000 small business owners taught us about AI",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "d8bfd3712f9cc467"
+    },
+    {
+      "title": "v1.0.221",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.221",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-10T20:40:23+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.220...v1.0.221",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.220...v1.0.221",
+      "version": "1.0.221",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "476e1c439640e2c0"
+    },
     {
       "title": "T. Rowe Price brings more of Claude to its investment process",
       "url": "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process",
@@ -131,6 +163,21 @@
         "anthropic-sdk-python"
       ],
       "uid": "27d52632edfcf676"
+    },
+    {
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "source": "hackernews",
+      "published": "2026-09-10T17:23:42+00:00",
+      "body": "49 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49647300",
+      "summary": "49 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49647300",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "240738ed6b4fb001"
     },
     {
       "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
@@ -4544,48 +4591,6 @@
       "impact": "info",
       "tags": [],
       "uid": "37147b115f3e1032"
-    },
-    {
-      "title": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
-      "url": "https://www.anthropic.com/news/tino-cuellar",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696452+00:00",
-      "body": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
-      "summary": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "778a0265f5854c98"
-    },
-    {
-      "title": "v1.0.186",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.186",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-06T00:54:23+00:00",
-      "body": "## What's Changed\n* Invoke the formatter directly from the format hook by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1594\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.186",
-      "summary": "## What's Changed * Invoke the formatter directly from the format hook by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1594 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.186",
-      "version": "1.0.186",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "01fc0235c1d41e72"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.223 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.223",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-05T22:51:13.206000+00:00",
-      "body": "Version 2.1.223 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.223 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.223",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "e6d58c6a585e3055"
     }
   ]
 }
