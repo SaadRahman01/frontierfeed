@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 10 Sep 2026 01:07:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 06:01:48 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -30,6 +30,14 @@
 <pubDate>Wed, 09 Sep 2026 18:25:42 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.267 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Show HN: Self-hosted company OS, Claude Code and Codex agents in departments</title>
+<link>https://github.com/OtoDock/oto-dock</link>
+<guid isPermaLink="false">frontierfeed:ddba24638dcf81fd</guid>
+<pubDate>Wed, 09 Sep 2026 17:57:55 +0000</pubDate>
+<category>claude-code</category>
+<description>43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49630606</description>
 </item>
 <item>
 <title>v1.0.219</title>

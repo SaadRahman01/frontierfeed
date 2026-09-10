@@ -37,12 +37,38 @@
       ]
     },
     {
+      "id": "frontierfeed:ddba24638dcf81fd",
+      "url": "https://github.com/OtoDock/oto-dock",
+      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "summary": "43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49630606",
+      "content_text": "43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49630606",
+      "date_published": "2026-09-09T17:57:55+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:dd478225b9929acb",
       "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
       "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
       "summary": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
       "content_text": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
       "date_published": "2026-09-09T16:01:41+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:9d08d70f81d7774f",
+      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+      "title": "Better AI code comment detector",
+      "summary": "40 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49628454",
+      "content_text": "40 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49628454",
+      "date_published": "2026-09-09T15:45:43+00:00",
       "tags": [
         "note",
         "info",
@@ -1351,36 +1377,6 @@
         "fix",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:75b9e6abb5908d3c",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.121.0",
-      "title": "sdk: v0.121.0",
-      "summary": "## 0.121.0 (2026-08-26) Full Changelog: [sdk-v0.120.0...sdk-v0.121.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.120.0...sdk-v0.121.0) ### Features * **api:** add `updates` thinking display mode (beta) ([22274ea](https://github.com/anthropics/anthropic-…",
-      "content_text": "## 0.121.0 (2026-08-26) Full Changelog: [sdk-v0.120.0...sdk-v0.121.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.120.0...sdk-v0.121.0) ### Features * **api:** add `updates` thinking display mode (beta) ([22274ea](https://github.com/anthropics/anthropic-…",
-      "date_published": "2026-08-26T17:24:14+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:de37934515269766",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.1.0",
-      "title": "v1.1.0",
-      "summary": "## 1.1.0 (2026-08-26) Full Changelog: [v1.0.0...v1.1.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.0.0...v1.1.0) ### Features * **api:** add `updates` thinking display mode (beta) ([eb4a73f](https://github.com/anthropics/anthropic-sdk-python/commit/eb4a73fdddc1…",
-      "content_text": "## 1.1.0 (2026-08-26) Full Changelog: [v1.0.0...v1.1.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.0.0...v1.1.0) ### Features * **api:** add `updates` thinking display mode (beta) ([eb4a73f](https://github.com/anthropics/anthropic-sdk-python/commit/eb4a73fdddc1…",
-      "date_published": "2026-08-26T17:14:40+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-python",
-        "skills"
       ]
     }
   ]

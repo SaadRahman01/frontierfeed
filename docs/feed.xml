@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 10 Sep 2026 01:07:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 06:01:48 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -32,12 +32,28 @@
 <description>Version 2.1.267 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 <item>
+<title>Show HN: Self-hosted company OS, Claude Code and Codex agents in departments</title>
+<link>https://github.com/OtoDock/oto-dock</link>
+<guid isPermaLink="false">frontierfeed:ddba24638dcf81fd</guid>
+<pubDate>Wed, 09 Sep 2026 17:57:55 +0000</pubDate>
+<category>claude-code</category>
+<description>43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49630606</description>
+</item>
+<item>
 <title>Anthropic Is Building a Predictive Surveillance System to Monitor Activists</title>
 <link>https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/</link>
 <guid isPermaLink="false">frontierfeed:dd478225b9929acb</guid>
 <pubDate>Wed, 09 Sep 2026 16:01:41 +0000</pubDate>
 <category>note</category>
 <description>123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704</description>
+</item>
+<item>
+<title>Better AI code comment detector</title>
+<link>https://entropicthoughts.com/better-ai-comment-classifier</link>
+<guid isPermaLink="false">frontierfeed:9d08d70f81d7774f</guid>
+<pubDate>Wed, 09 Sep 2026 15:45:43 +0000</pubDate>
+<category>note</category>
+<description>40 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49628454</description>
 </item>
 <item>
 <title>Anthropic researcher says more than 10% chance AI &quot;could kill all humans&quot;</title>
@@ -798,22 +814,6 @@
 <pubDate>Wed, 26 Aug 2026 17:24:20 +0000</pubDate>
 <category>api</category>
 <description>## 0.19.6 (2026-08-26) Full Changelog: [vertex-sdk-v0.19.5...vertex-sdk-v0.19.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.5...vertex-sdk-v0.19.6) ### Chores * **examples:** remove redundant main().catch boilerplate ([154ace7](https://github.…</description>
-</item>
-<item>
-<title>sdk: v0.121.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.121.0</link>
-<guid isPermaLink="false">frontierfeed:75b9e6abb5908d3c</guid>
-<pubDate>Wed, 26 Aug 2026 17:24:14 +0000</pubDate>
-<category>api</category>
-<description>## 0.121.0 (2026-08-26) Full Changelog: [sdk-v0.120.0...sdk-v0.121.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.120.0...sdk-v0.121.0) ### Features * **api:** add `updates` thinking display mode (beta) ([22274ea](https://github.com/anthropics/anthropic-…</description>
-</item>
-<item>
-<title>v1.1.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.1.0</link>
-<guid isPermaLink="false">frontierfeed:de37934515269766</guid>
-<pubDate>Wed, 26 Aug 2026 17:14:40 +0000</pubDate>
-<category>api</category>
-<description>## 1.1.0 (2026-08-26) Full Changelog: [v1.0.0...v1.1.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.0.0...v1.1.0) ### Features * **api:** add `updates` thinking display mode (beta) ([eb4a73f](https://github.com/anthropics/anthropic-sdk-python/commit/eb4a73fdddc1…</description>
 </item>
 </channel>
 </rss>

@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-10T01:07:57.240589+00:00",
+  "generated": "2026-09-10T06:01:48.758533+00:00",
   "count": 300,
   "items": [
     {
@@ -37,6 +37,21 @@
       "uid": "f85f9b45d2cc2c8c"
     },
     {
+      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "url": "https://github.com/OtoDock/oto-dock",
+      "source": "hackernews",
+      "published": "2026-09-09T17:57:55+00:00",
+      "body": "43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49630606",
+      "summary": "43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49630606",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ddba24638dcf81fd"
+    },
+    {
       "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
       "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
       "source": "hackernews",
@@ -50,6 +65,21 @@
         "community"
       ],
       "uid": "dd478225b9929acb"
+    },
+    {
+      "title": "Better AI code comment detector",
+      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+      "source": "hackernews",
+      "published": "2026-09-09T15:45:43+00:00",
+      "body": "40 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49628454",
+      "summary": "40 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49628454",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "9d08d70f81d7774f"
     },
     {
       "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
@@ -4551,37 +4581,6 @@
       "impact": "fix",
       "tags": [],
       "uid": "fe7c34f1bab3ff13"
-    },
-    {
-      "title": "Launch HN: Hoplite (YC S26) \u2013 Effortlessly deploy cloud coding agents",
-      "url": "https://hoplite.sh",
-      "source": "hackernews",
-      "published": "2026-08-03T16:32:06+00:00",
-      "body": "79 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49157997",
-      "summary": "79 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49157997",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "community"
-      ],
-      "uid": "938ce57563624532"
-    },
-    {
-      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-      "url": "https://armature.tech/",
-      "source": "hackernews",
-      "published": "2026-08-03T16:17:59+00:00",
-      "body": "42 points, 7 comments. Discussion: https://news.ycombinator.com/item?id=49157807",
-      "summary": "42 points, 7 comments. Discussion: https://news.ycombinator.com/item?id=49157807",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "community",
-        "mcp"
-      ],
-      "uid": "8bd7c7bc7ed1ff76"
     }
   ]
 }
