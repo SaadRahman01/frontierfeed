@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, breaking changes only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 10 Sep 2026 16:28:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 19:45:53 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-breaking.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — breaking changes</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>[breaking] v1.5.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.5.0</link>
+<guid isPermaLink="false">frontierfeed:27d52632edfcf676</guid>
+<pubDate>Thu, 10 Sep 2026 17:45:22 +0000</pubDate>
+<category>deprecation</category>
+<description>## 1.5.0 (2026-09-10) Full Changelog: [v1.4.0...v1.5.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.4.0...v1.5.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([62aa21b](https://github.com/anthropics/anthropic-sdk-python/commit/62aa2…</description>
+</item>
 <item>
 <title>[breaking] Breaking Claude Code Opus 5 Auto Mode</title>
 <link>https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/</link>

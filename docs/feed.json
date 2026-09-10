@@ -9,6 +9,131 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:f62205f155d17361",
+      "url": "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process",
+      "title": "T. Rowe Price brings more of Claude to its investment process",
+      "summary": "T. Rowe Price brings more of Claude to its investment process",
+      "content_text": "T. Rowe Price brings more of Claude to its investment process",
+      "date_published": "2026-09-10T19:45:42.623998+00:00",
+      "tags": [
+        "pricing",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:8d2d85acc7d5dfbf",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.268",
+      "title": "@anthropic-ai/claude-code 2.1.268 published",
+      "summary": "Version 2.1.268 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.268 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-10T18:41:11.770000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:8ebffac84daa2bd7",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.1",
+      "title": "aws-sdk: v0.7.1",
+      "summary": "## 0.7.1 (2026-09-10) Full Changelog: [aws-sdk-v0.7.0...aws-sdk-v0.7.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.0...aws-sdk-v0.7.1)",
+      "content_text": "## 0.7.1 (2026-09-10) Full Changelog: [aws-sdk-v0.7.0...aws-sdk-v0.7.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.0...aws-sdk-v0.7.1)",
+      "date_published": "2026-09-10T17:48:24+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:ba4c90bba62490ce",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.6",
+      "title": "foundry-sdk: v0.4.6",
+      "summary": "## 0.4.6 (2026-09-10) Full Changelog: [foundry-sdk-v0.4.5...foundry-sdk-v0.4.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.5...foundry-sdk-v0.4.6)",
+      "content_text": "## 0.4.6 (2026-09-10) Full Changelog: [foundry-sdk-v0.4.5...foundry-sdk-v0.4.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.5...foundry-sdk-v0.4.6)",
+      "date_published": "2026-09-10T17:48:17+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:033d6cea3a8fa160",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.5",
+      "title": "bedrock-sdk: v0.33.5",
+      "summary": "## 0.33.5 (2026-09-10) Full Changelog: [bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5)",
+      "content_text": "## 0.33.5 (2026-09-10) Full Changelog: [bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5)",
+      "date_published": "2026-09-10T17:48:11+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:fc52480d8e706ed9",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.8",
+      "title": "vertex-sdk: v0.19.8",
+      "summary": "## 0.19.8 (2026-09-10) Full Changelog: [vertex-sdk-v0.19.7...vertex-sdk-v0.19.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.7...vertex-sdk-v0.19.8)",
+      "content_text": "## 0.19.8 (2026-09-10) Full Changelog: [vertex-sdk-v0.19.7...vertex-sdk-v0.19.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.7...vertex-sdk-v0.19.8)",
+      "date_published": "2026-09-10T17:48:05+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:0f1bfd95b0cdf018",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.125.0",
+      "title": "sdk: v0.125.0",
+      "summary": "## 0.125.0 (2026-09-10) Full Changelog: [sdk-v0.124.0...sdk-v0.125.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.124.0...sdk-v0.125.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([7f5e2c6](https://github.com/anthropics/ant…",
+      "content_text": "## 0.125.0 (2026-09-10) Full Changelog: [sdk-v0.124.0...sdk-v0.125.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.124.0...sdk-v0.125.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([7f5e2c6](https://github.com/anthropics/ant…",
+      "date_published": "2026-09-10T17:47:59+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:27d52632edfcf676",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.5.0",
+      "title": "v1.5.0",
+      "summary": "## 1.5.0 (2026-09-10) Full Changelog: [v1.4.0...v1.5.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.4.0...v1.5.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([62aa21b](https://github.com/anthropics/anthropic-sdk-python/commit/62aa2…",
+      "content_text": "## 1.5.0 (2026-09-10) Full Changelog: [v1.4.0...v1.5.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.4.0...v1.5.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([62aa21b](https://github.com/anthropics/anthropic-sdk-python/commit/62aa2…",
+      "date_published": "2026-09-10T17:45:22+00:00",
+      "tags": [
+        "deprecation",
+        "breaking",
+        "release",
+        "anthropic-sdk-python"
+      ]
+    },
+    {
+      "id": "frontierfeed:3ffd9a31ee06f961",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+      "summary": "47 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=49646988",
+      "content_text": "47 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=49646988",
+      "date_published": "2026-09-10T17:04:34+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:023a3932b504c170",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.220",
       "title": "v1.0.220",
@@ -1251,132 +1376,6 @@
         "feature",
         "research",
         "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:e81c5710f43cde1e",
-      "url": "https://arxiv.org/abs/2608.27505v2",
-      "title": "A Survey on Rubric-Guided Reinforcement Learning for Language Models",
-      "summary": "Reinforcement learning from human feedback (RLHF) has become the dominant paradigm for aligning large language models (LLMs) with human preferences.",
-      "content_text": "Reinforcement learning from human feedback (RLHF) has become the dominant paradigm for aligning large language models (LLMs) with human preferences.",
-      "date_published": "2026-08-27T05:21:07+00:00",
-      "tags": [
-        "research",
-        "feature",
-        "research",
-        "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:d69d348d9245a8fe",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.207",
-      "title": "v1.0.207",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.206...v1.0.207",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.206...v1.0.207",
-      "date_published": "2026-08-27T00:10:27+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:fc05dbe3764b32fe",
-      "url": "https://claude.com/blog/cowork-built-in-browser",
-      "title": "Claude gets its own browser in Cowork",
-      "summary": "Claude gets its own browser in Cowork",
-      "content_text": "Claude gets its own browser in Cowork",
-      "date_published": "2026-08-26T23:40:33.853239+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:34f6c02713000cc4",
-      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
-      "title": "Claude in Chrome is generally available",
-      "summary": "Claude in Chrome is generally available",
-      "content_text": "Claude in Chrome is generally available",
-      "date_published": "2026-08-26T19:22:16.970215+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:963426adfc5ccfc7",
-      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-      "title": "How Warp builds self-improving agents on Claude",
-      "summary": "How Warp builds self-improving agents on Claude",
-      "content_text": "How Warp builds self-improving agents on Claude",
-      "date_published": "2026-08-26T19:22:16.970174+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:2a95ee37dac20a11",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.247",
-      "title": "@anthropic-ai/claude-code 2.1.247 published",
-      "summary": "Version 2.1.247 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.247 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-08-26T18:02:01.046000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:3e9594dfd3a890e2",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.11",
-      "title": "google-cloud-sdk: v0.0.11",
-      "summary": "## 0.0.11 (2026-08-26) Full Changelog: [google-cloud-sdk-v0.0.10...google-cloud-sdk-v0.0.11](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.10...google-cloud-sdk-v0.0.11) ### Chores * **examples:** remove redundant main().catch boilerplate ([…",
-      "content_text": "## 0.0.11 (2026-08-26) Full Changelog: [google-cloud-sdk-v0.0.10...google-cloud-sdk-v0.0.11](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.10...google-cloud-sdk-v0.0.11) ### Chores * **examples:** remove redundant main().catch boilerplate ([…",
-      "date_published": "2026-08-26T17:24:32+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:bc758d2545e08c06",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.2",
-      "title": "bedrock-sdk: v0.33.2",
-      "summary": "## 0.33.2 (2026-08-26) Full Changelog: [bedrock-sdk-v0.33.1...bedrock-sdk-v0.33.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.1...bedrock-sdk-v0.33.2) ### Bug Fixes * **bedrock:** never send ambient first-party credentials to the Mantle endpo…",
-      "content_text": "## 0.33.2 (2026-08-26) Full Changelog: [bedrock-sdk-v0.33.1...bedrock-sdk-v0.33.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.1...bedrock-sdk-v0.33.2) ### Bug Fixes * **bedrock:** never send ambient first-party credentials to the Mantle endpo…",
-      "date_published": "2026-08-26T17:24:26+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:ffc6f905e00156e9",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.6",
-      "title": "vertex-sdk: v0.19.6",
-      "summary": "## 0.19.6 (2026-08-26) Full Changelog: [vertex-sdk-v0.19.5...vertex-sdk-v0.19.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.5...vertex-sdk-v0.19.6) ### Chores * **examples:** remove redundant main().catch boilerplate ([154ace7](https://github.…",
-      "content_text": "## 0.19.6 (2026-08-26) Full Changelog: [vertex-sdk-v0.19.5...vertex-sdk-v0.19.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.5...vertex-sdk-v0.19.6) ### Chores * **examples:** remove redundant main().catch boilerplate ([154ace7](https://github.…",
-      "date_published": "2026-08-26T17:24:20+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]

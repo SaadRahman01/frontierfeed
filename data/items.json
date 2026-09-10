@@ -1,6 +1,149 @@
 {
   "items": [
     {
+      "title": "T. Rowe Price brings more of Claude to its investment process",
+      "url": "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process",
+      "source": "claude-blog",
+      "published": "2026-09-10T19:45:42.623998+00:00",
+      "body": "T. Rowe Price brings more of Claude to its investment process",
+      "summary": "T. Rowe Price brings more of Claude to its investment process",
+      "version": "",
+      "category": "pricing",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "f62205f155d17361"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.268 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.268",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-10T18:41:11.770000+00:00",
+      "body": "Version 2.1.268 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.268 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.268",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "8d2d85acc7d5dfbf"
+    },
+    {
+      "title": "aws-sdk: v0.7.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.1",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-09-10T17:48:24+00:00",
+      "body": "## 0.7.1 (2026-09-10)\n\nFull Changelog: [aws-sdk-v0.7.0...aws-sdk-v0.7.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.0...aws-sdk-v0.7.1)",
+      "summary": "## 0.7.1 (2026-09-10) Full Changelog: [aws-sdk-v0.7.0...aws-sdk-v0.7.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.0...aws-sdk-v0.7.1)",
+      "version": "aws-sdk-v0.7.1",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "8ebffac84daa2bd7"
+    },
+    {
+      "title": "foundry-sdk: v0.4.6",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.6",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-09-10T17:48:17+00:00",
+      "body": "## 0.4.6 (2026-09-10)\n\nFull Changelog: [foundry-sdk-v0.4.5...foundry-sdk-v0.4.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.5...foundry-sdk-v0.4.6)",
+      "summary": "## 0.4.6 (2026-09-10) Full Changelog: [foundry-sdk-v0.4.5...foundry-sdk-v0.4.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.5...foundry-sdk-v0.4.6)",
+      "version": "foundry-sdk-v0.4.6",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "ba4c90bba62490ce"
+    },
+    {
+      "title": "bedrock-sdk: v0.33.5",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.5",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-09-10T17:48:11+00:00",
+      "body": "## 0.33.5 (2026-09-10)\n\nFull Changelog: [bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5)",
+      "summary": "## 0.33.5 (2026-09-10) Full Changelog: [bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5)",
+      "version": "bedrock-sdk-v0.33.5",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "033d6cea3a8fa160"
+    },
+    {
+      "title": "vertex-sdk: v0.19.8",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.8",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-09-10T17:48:05+00:00",
+      "body": "## 0.19.8 (2026-09-10)\n\nFull Changelog: [vertex-sdk-v0.19.7...vertex-sdk-v0.19.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.7...vertex-sdk-v0.19.8)",
+      "summary": "## 0.19.8 (2026-09-10) Full Changelog: [vertex-sdk-v0.19.7...vertex-sdk-v0.19.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.7...vertex-sdk-v0.19.8)",
+      "version": "ertex-sdk-v0.19.8",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "fc52480d8e706ed9"
+    },
+    {
+      "title": "sdk: v0.125.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.125.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-09-10T17:47:59+00:00",
+      "body": "## 0.125.0 (2026-09-10)\n\nFull Changelog: [sdk-v0.124.0...sdk-v0.125.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.124.0...sdk-v0.125.0)\n\n### Features\n\n* **api:** add auto mode tool permissions for Managed Agents ([7f5e2c6](https://github.com/anthropics/anthropic-sdk-typescript/commit/7f5e2c6d01eb3498b86ddbf5eaf1327c266f2ded))\n* **api:** add content_too_large web_fetch tool error code ([f06416e](https://github.com/anthropics/anthropic-sdk-typescript/commit/f06416ebff8d2857d8ca9d06123ef6a9cedf2c94))\n* **api:** add the user-profiles-2026-09-04 beta value and external_user_details to user profiles ([318d42d](https://github.com/anthropics/anthropic-sdk-typescript/commit/318d42daeb7bbba4eefce7590c3db0bb1dd81b5d))\n* **api:** support mounting public GitHub repositories without an authorization_token in Managed Agents sessions ([9e2d945](https://github.com/anthropics/anthropic-sdk-typescript/commit/9e2d945226435360915908c529ba7c6969f64458))\n\n\n### Chores\n\n* **client:** clean up the unused idempotency request option ([4ce2772](https://github.com/anthropics/anthropic-sdk-typescript/commit/4ce2772a5020e252725f21400d211b762eb76cdc))\n* **docs:** correct the environment scope field description ([835c677](https://github.com/anthropics/anthropic-sdk-typescript/commit/835c67764a183cd7d2862b0689a5cce1f4416879))\n* **internal:** restore package version ([b43a7f6](https://github.com/anthropics/anthropic-sdk-typescript/commit/b43a7f68a067206757391d83a4f7e87e742ef9a1))\n* **internal:** stop stamping the package version into generated files ([80ace5e](https://github.com/anthropics/anthropic-sdk-typescript/commit/80ace5ec7737ed08acfccfa7becaa62c0043b90a))\n* **tests:** restore empty test package marker files ([4f27519](https://github.com/anthropics/anthropic-sdk-typescript/commit/4f2751917c04ce1fcd229244f5949acfad804ccd))",
+      "summary": "## 0.125.0 (2026-09-10) Full Changelog: [sdk-v0.124.0...sdk-v0.125.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.124.0...sdk-v0.125.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([7f5e2c6](https://github.com/anthropics/ant\u2026",
+      "version": "sdk-v0.125.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "0f1bfd95b0cdf018"
+    },
+    {
+      "title": "v1.5.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.5.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-09-10T17:45:22+00:00",
+      "body": "## 1.5.0 (2026-09-10)\n\nFull Changelog: [v1.4.0...v1.5.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.4.0...v1.5.0)\n\n### Features\n\n* **api:** add auto mode tool permissions for Managed Agents ([62aa21b](https://github.com/anthropics/anthropic-sdk-python/commit/62aa21bb10c5d058d44ac969b06421f169495bee))\n* **api:** add content_too_large web_fetch tool error code ([4b5dec6](https://github.com/anthropics/anthropic-sdk-python/commit/4b5dec6cb427528f3a4f144f11b1010be80a493b))\n* **api:** add the user-profiles-2026-09-04 beta value and external_user_details to user profiles ([5f881a5](https://github.com/anthropics/anthropic-sdk-python/commit/5f881a587a730455a935ca0e85080026f0c5e6d9))\n* **api:** support mounting public GitHub repositories without an authorization_token in Managed Agents sessions ([285937c](https://github.com/anthropics/anthropic-sdk-python/commit/285937cd7f4d0d63ee55735d74dbb2e643643d8c))\n* **client:** add Message.to_param() and BetaMessage.to_param() ([192a2b2](https://github.com/anthropics/anthropic-sdk-python/commit/192a2b251df49f257d8f73e612b12a3c297d9a6c))\n* **credentials:** add CredentialsError and IdentityTokenFileError ([9acd79f](https://github.com/anthropics/anthropic-sdk-python/commit/9acd79f3d6306c6c9d33e4f9f542db9f67f8dd80))\n* **tools:** accept tool objects directly in messages.create, parse, stream and count_tokens ([ebd2fc5](https://github.com/anthropics/anthropic-sdk-python/commit/ebd2fc5cf6572b37dca115e7f82af0cc7b43d25d))\n\n\n### Bug Fixes\n\n* **client:** merge extra_body before client hooks run ([7aaf887](https://github.com/anthropics/anthropic-sdk-python/commit/7aaf887dd1ffd71b2fa5a8368afd16c39a3d3d18))\n* **credentials:** refuse credentials files accessible by group or others ([7af3e2b](https://github.com/anthropics/anthropic-sdk-python/commit/7af3e2b783ff5231b0172e03c2c89d741427b25b))\n* **streaming:** keep partial tool input JSON off content blocks ([4605bca](https://github.com/anthropics/anthropic-sdk-python/commit/4605bcaf758e0a87ec9257928a347b005235761c))\n* **types:** leave parsed_output out of dumped text blocks ([ca0706d](https://github.com/anthropics/anthropic-sdk-python/commit/ca0706dee59642c2ec45354bca05e1b2a1fac7e1))\n\n\n### Chores\n\n* **client:** clean up the unused idempotency request option ([c97830c](https://github.com/anthropics/anthropic-sdk-python/commit/c97830cb3d1779f84d6456e45cc1717328c8c42c))\n* **client:** keep the idempotency_key request option as a deprecated no-op ([#621](https://github.com/anthropics/anthropic-sdk-python/issues/621)) ([c2ab92e](https://github.com/anthropics/anthropic-sdk-python/commit/c2ab92ef19b4e482001c5ada85b29eebd5909054))\n* **docs:** correct the environment scope field description ([b903ee0](https://github.com/anthropics/anthropic-sdk-python/commit/b903ee02cb192d91dab138e12c9ddf7ccde13336))\n* **internal:** remove generated file header comments ([ae671f8](https://github.com/anthropics/anthropic-sdk-python/commit/ae671f8377dde9f5764ea570a3586fe138db9706))\n* **internal:** restore package version ([f3aefc7](https://github.com/anthropics/anthropic-sdk-python/commit/f3aefc718125b1a1b7cc1586d11f23a6f6ed82d8))\n* **internal:** restore package version ([e3c70e8](https://github.com/anthropics/anthropic-sdk-python/commit/e3c70e8d85bcba86cc4eb2bfbdf7f7bdcb71ecae))\n* **internal:** stop stamping the package version into generated files ([e7a6a28](https://github.com/anthropics/anthropic-sdk-python/commit/e7a6a28a85ab26db86bb093037043d1bef4f33b2))\n* **tests:** restore empty test package marker files ([0803af0](https://github.com/anthropics/anthropic-sdk-python/commit/0803af0f3a2c03ddd5e5c113ec1822f1a7380bf2))",
+      "summary": "## 1.5.0 (2026-09-10) Full Changelog: [v1.4.0...v1.5.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.4.0...v1.5.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([62aa21b](https://github.com/anthropics/anthropic-sdk-python/commit/62aa2\u2026",
+      "version": "1.5.0",
+      "category": "deprecation",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "27d52632edfcf676"
+    },
+    {
+      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "source": "hackernews",
+      "published": "2026-09-10T17:04:34+00:00",
+      "body": "47 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=49646988",
+      "summary": "47 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=49646988",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "3ffd9a31ee06f961"
+    },
+    {
       "title": "v1.0.220",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.220",
       "source": "github:anthropics/claude-code-action",
@@ -4439,144 +4582,6 @@
       "impact": "fix",
       "tags": [],
       "uid": "e6d58c6a585e3055"
-    },
-    {
-      "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
-      "url": "https://www.hyperprobe.co",
-      "source": "hackernews",
-      "published": "2026-08-05T16:47:15+00:00",
-      "body": "62 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=49185389",
-      "summary": "62 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=49185389",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "community"
-      ],
-      "uid": "1d1d9e36f3997819"
-    },
-    {
-      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
-      "source": "hackernews",
-      "published": "2026-08-05T12:16:47+00:00",
-      "body": "54 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49181773",
-      "summary": "54 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49181773",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "a3d2f74020b99862"
-    },
-    {
-      "title": "v1.0.185",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.185",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-04T22:41:47+00:00",
-      "body": "## What's Changed\n* Derive trigger timestamps for issues and pull_request events by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1592\n* Pin bun config for MCP server processes by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1589\n* Match downloaded images to their source URLs by asset identifier by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1588\n* Check collaborator permissions for workflow_run events by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1590\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.185",
-      "summary": "## What's Changed * Derive trigger timestamps for issues and pull_request events by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1592 * Pin bun config for MCP server processes by @ashwin-ant in https://github.com/anthropics/claude-code-action/pull/1589 * M\u2026",
-      "version": "1.0.185",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action",
-        "mcp"
-      ],
-      "uid": "7749d71b497fe48e"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.222 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.222",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-04T20:37:17.953000+00:00",
-      "body": "Version 2.1.222 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.222 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.222",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "d40e5c9daa1716b4"
-    },
-    {
-      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "url": "https://github.com/tikalk/adlc-team-skills",
-      "source": "hackernews",
-      "published": "2026-08-04T14:38:31+00:00",
-      "body": "75 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49169640",
-      "summary": "75 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49169640",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community",
-        "skills"
-      ],
-      "uid": "274f1c50fcbf8ee7"
-    },
-    {
-      "title": "How Closely Do LLM Reviews Align with Human Peer Review?",
-      "url": "https://arxiv.org/abs/2608.03659v1",
-      "source": "arxiv",
-      "published": "2026-08-04T13:39:36+00:00",
-      "body": "Large language models (LLMs) are increasingly used to generate scientific reviews, yet existing evaluations rarely examine whether different providers align with both conference decisions and human reviewing priorities within the same controlled setting. We compare reviews from OpenAI GPT-5.4, Google Gemini 3.1 Pro Preview, and Anthropic Claude Opus 4.6 with human reviews and final decisions for 300 topic-matched ICLR 2026 submissions, equally divided among oral, poster, and rejected papers. Each model reviewed every paper using identical instructions and rating scales after decision information was removed. Our study contributes a cross-provider analysis of three complementary dimensions: alignment with broad and fine-grained decision categories, differences in recommendation-scale usage, and thematic agreement in identified weaknesses. All three LLMs distinguished accepted from rejected papers, but none reproduced the oral versus poster distinction present in human ratings. Scoring patterns were provider-specific: Gemini assigned systematically higher ratings, while OpenAI and Claude were closer to humans for rejected and poster papers but more critical of oral papers. Human and LLM reviews also differed in emphasis, with LLMs more frequently identifying missing baseline comparisons and humans more often raising computational-efficiency concerns. These results show that broad decision alignment does not imply agreement with finer human judgments or reviewing priorities.",
-      "summary": "Large language models (LLMs) are increasingly used to generate scientific reviews, yet existing evaluations rarely examine whether different providers align with both conference decisions and human reviewing priorities within the same controlled setting.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper",
-        "opus"
-      ],
-      "uid": "65d93591f0ed3ea3"
-    },
-    {
-      "title": "Beyond Accuracy: A Multidimensional Evaluation of Statistical Reasoning in Large Language Models",
-      "url": "https://arxiv.org/abs/2608.03038v1",
-      "source": "arxiv",
-      "published": "2026-08-04T02:40:22+00:00",
-      "body": "Statistical reasoning is multidimensional, yet evaluations of large language models (LLMs) typically emphasize response accuracy while overlooking how models construct and communicate statistical explanations. This study demonstrates the value of a multidimensional evaluation by combining response accuracy, response behavior, structural topic modeling, and lexical similarity analysis. The framework is applied to explanations generated by 15 current-generation LLMs responding to 90 questions drawn from four statistics examinations spanning high school, undergraduate, and graduate levels. Accuracy varied substantially across models, ranging from 55\\% to 78\\%. In contrast, structural topic modeling revealed a common conceptual organization of statistical reasoning across all models, while lexical similarity analysis identified modest but consistent vendor-specific differences in explanatory style. Models developed by the same vendor (e.g. Anthropic, OpenAI) produced explanations that were slightly more similar than models from different vendors. These findings demonstrate that statistical reasoning in contemporary LLMs cannot be characterized by accuracy alone and illustrate how complementary analyses of response behavior and model-generated explanations provide a more comprehensive evaluation of statistical reasoning in generative AI.",
-      "summary": "Statistical reasoning is multidimensional, yet evaluations of large language models (LLMs) typically emphasize response accuracy while overlooking how models construct and communicate statistical explanations.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "1b0b1bf5e18e5069"
-    },
-    {
-      "title": "v1.0.184",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.184",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-04T00:16:20+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.184",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1...v1.0.184",
-      "version": "1.0.184",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "2c53706f0defef60"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.221 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.221",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-03T22:16:25.561000+00:00",
-      "body": "Version 2.1.221 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.221 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.221",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [],
-      "uid": "fe7c34f1bab3ff13"
     }
   ]
 }
