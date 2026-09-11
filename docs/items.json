@@ -1,9 +1,105 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-11T16:33:19.022780+00:00",
+  "generated": "2026-09-11T19:46:50.951323+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Introducing Claude for Teachers",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "source": "anthropic-news",
+      "published": "2026-09-11T19:46:37.925096+00:00",
+      "body": "Introducing Claude for Teachers",
+      "summary": "Introducing Claude for Teachers",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "d2853d72add8b969"
+    },
+    {
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "source": "anthropic-news",
+      "published": "2026-09-11T19:46:37.925084+00:00",
+      "body": "Anthropic commits $10 million to Canadian AI research",
+      "summary": "Anthropic commits $10 million to Canadian AI research",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "9cc3635eef1ed303"
+    },
+    {
+      "title": "Apply for Anthropic\u2019s AI for Science rare disease research grants",
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "source": "anthropic-news",
+      "published": "2026-09-11T19:46:37.925073+00:00",
+      "body": "Apply for Anthropic\u2019s AI for Science rare disease research grants",
+      "summary": "Apply for Anthropic\u2019s AI for Science rare disease research grants",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "814defbc4d993719"
+    },
+    {
+      "title": "Anthropic is donating another $20 million to Public First Action",
+      "url": "https://www.anthropic.com/news/donation-public-first-action",
+      "source": "anthropic-news",
+      "published": "2026-09-11T19:46:37.925062+00:00",
+      "body": "Anthropic is donating another $20 million to Public First Action",
+      "summary": "Anthropic is donating another $20 million to Public First Action",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "e4ad39e0daa84e86"
+    },
+    {
+      "title": "v1.0.222",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.222",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-11T19:20:03+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.221...v1.0.222",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.221...v1.0.222",
+      "version": "1.0.222",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "02613596359af508"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.269 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.269",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-11T18:12:49.253000+00:00",
+      "body": "Version 2.1.269 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.269 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.269",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "05c3182a9b9e8d83"
+    },
     {
       "title": "A research agenda for the Economic Futures Research Fund",
       "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
@@ -4539,84 +4635,6 @@
       "impact": "feature",
       "tags": [],
       "uid": "aa18a534f37db212"
-    },
-    {
-      "title": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
-      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696734+00:00",
-      "body": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
-      "summary": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "8701478040a3ec25"
-    },
-    {
-      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696720+00:00",
-      "body": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-      "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "b2528e7b03bcd03e"
-    },
-    {
-      "title": "Inviting hard questions",
-      "url": "https://www.anthropic.com/news/hard-questions",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696705+00:00",
-      "body": "Inviting hard questions",
-      "summary": "Inviting hard questions",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "1b338e30b6b31fa4"
-    },
-    {
-      "title": "UST is bringing Claude to physical AI",
-      "url": "https://www.anthropic.com/news/ust-claude",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696690+00:00",
-      "body": "UST is bringing Claude to physical AI",
-      "summary": "UST is bringing Claude to physical AI",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "98c411147f36a0c1"
-    },
-    {
-      "title": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
-      "url": "https://www.anthropic.com/news/ben-bernanke",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696676+00:00",
-      "body": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
-      "summary": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "4d2c2b1a01b6d2bc"
-    },
-    {
-      "title": "Introducing a way to reflect on how you use Claude",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696660+00:00",
-      "body": "Introducing a way to reflect on how you use Claude",
-      "summary": "Introducing a way to reflect on how you use Claude",
-      "version": "",
-      "category": "launch",
-      "impact": "feature",
-      "tags": [],
-      "uid": "809fa8fc0fec0bfb"
     }
   ]
 }

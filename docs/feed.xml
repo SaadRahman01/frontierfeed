@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 11 Sep 2026 16:33:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 19:46:50 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,54 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing Claude for Teachers</title>
+<link>https://www.anthropic.com/news/claude-for-teachers</link>
+<guid isPermaLink="false">frontierfeed:d2853d72add8b969</guid>
+<pubDate>Fri, 11 Sep 2026 19:46:37 +0000</pubDate>
+<category>launch</category>
+<description>Introducing Claude for Teachers</description>
+</item>
+<item>
+<title>Anthropic commits $10 million to Canadian AI research</title>
+<link>https://www.anthropic.com/news/canadian-ai-research</link>
+<guid isPermaLink="false">frontierfeed:9cc3635eef1ed303</guid>
+<pubDate>Fri, 11 Sep 2026 19:46:37 +0000</pubDate>
+<category>note</category>
+<description>Anthropic commits $10 million to Canadian AI research</description>
+</item>
+<item>
+<title>Apply for Anthropic’s AI for Science rare disease research grants</title>
+<link>https://www.anthropic.com/news/rare-disease-research-grants</link>
+<guid isPermaLink="false">frontierfeed:814defbc4d993719</guid>
+<pubDate>Fri, 11 Sep 2026 19:46:37 +0000</pubDate>
+<category>note</category>
+<description>Apply for Anthropic’s AI for Science rare disease research grants</description>
+</item>
+<item>
+<title>Anthropic is donating another $20 million to Public First Action</title>
+<link>https://www.anthropic.com/news/donation-public-first-action</link>
+<guid isPermaLink="false">frontierfeed:e4ad39e0daa84e86</guid>
+<pubDate>Fri, 11 Sep 2026 19:46:37 +0000</pubDate>
+<category>note</category>
+<description>Anthropic is donating another $20 million to Public First Action</description>
+</item>
+<item>
+<title>v1.0.222</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.222</link>
+<guid isPermaLink="false">frontierfeed:02613596359af508</guid>
+<pubDate>Fri, 11 Sep 2026 19:20:03 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.221...v1.0.222</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.269 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.269</link>
+<guid isPermaLink="false">frontierfeed:05c3182a9b9e8d83</guid>
+<pubDate>Fri, 11 Sep 2026 18:12:49 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.269 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>A research agenda for the Economic Futures Research Fund</title>
 <link>https://www.anthropic.com/news/economic-futures-research-fund-agenda</link>
@@ -766,54 +814,6 @@
 <pubDate>Sat, 29 Aug 2026 02:14:45 +0000</pubDate>
 <category>note</category>
 <description>How Anthropic employees use Claude Tag</description>
-</item>
-<item>
-<title>Claude for Teachers, now available for U.S. K-12 schools and districts</title>
-<link>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</link>
-<guid isPermaLink="false">frontierfeed:26a889ed96a42882</guid>
-<pubDate>Sat, 29 Aug 2026 02:14:45 +0000</pubDate>
-<category>note</category>
-<description>Claude for Teachers, now available for U.S. K-12 schools and districts</description>
-</item>
-<item>
-<title>Claude for Teachers, now available for schools and districts</title>
-<link>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</link>
-<guid isPermaLink="false">frontierfeed:d35cb32ab7bd60e9</guid>
-<pubDate>Fri, 28 Aug 2026 18:46:55 +0000</pubDate>
-<category>note</category>
-<description>Claude for Teachers, now available for schools and districts</description>
-</item>
-<item>
-<title>v1.0.210</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.210</link>
-<guid isPermaLink="false">frontierfeed:d9e30ea20ecd5796</guid>
-<pubDate>Fri, 28 Aug 2026 18:21:48 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.209...v1.0.210</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.251 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.251</link>
-<guid isPermaLink="false">frontierfeed:c2cfd250d6910163</guid>
-<pubDate>Fri, 28 Aug 2026 15:34:26 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.251 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Pentagon&#x27;s blacklisting of Anthropic was unlawful, US judge rules</title>
-<link>https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/</link>
-<guid isPermaLink="false">frontierfeed:9834317f099e72da</guid>
-<pubDate>Fri, 28 Aug 2026 11:25:30 +0000</pubDate>
-<category>note</category>
-<description>319 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=49477055</description>
-</item>
-<item>
-<title>Expanding our support for scientists</title>
-<link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
-<guid isPermaLink="false">frontierfeed:5c538f75557a17d5</guid>
-<pubDate>Fri, 28 Aug 2026 05:27:01 +0000</pubDate>
-<category>note</category>
-<description>Expanding our support for scientists</description>
 </item>
 </channel>
 </rss>

@@ -9,6 +9,90 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:d2853d72add8b969",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "title": "Introducing Claude for Teachers",
+      "summary": "Introducing Claude for Teachers",
+      "content_text": "Introducing Claude for Teachers",
+      "date_published": "2026-09-11T19:46:37.925096+00:00",
+      "tags": [
+        "launch",
+        "feature",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:9cc3635eef1ed303",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "summary": "Anthropic commits $10 million to Canadian AI research",
+      "content_text": "Anthropic commits $10 million to Canadian AI research",
+      "date_published": "2026-09-11T19:46:37.925084+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:814defbc4d993719",
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "summary": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "content_text": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "date_published": "2026-09-11T19:46:37.925073+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:e4ad39e0daa84e86",
+      "url": "https://www.anthropic.com/news/donation-public-first-action",
+      "title": "Anthropic is donating another $20 million to Public First Action",
+      "summary": "Anthropic is donating another $20 million to Public First Action",
+      "content_text": "Anthropic is donating another $20 million to Public First Action",
+      "date_published": "2026-09-11T19:46:37.925062+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:02613596359af508",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.222",
+      "title": "v1.0.222",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.221...v1.0.222",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.221...v1.0.222",
+      "date_published": "2026-09-11T19:20:03+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:05c3182a9b9e8d83",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.269",
+      "title": "@anthropic-ai/claude-code 2.1.269 published",
+      "summary": "Version 2.1.269 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.269 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-11T18:12:49.253000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:0ea1743424c3f00b",
       "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
       "title": "A research agenda for the Economic Futures Research Fund",
@@ -1293,89 +1377,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:26a889ed96a42882",
-      "url": "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts",
-      "title": "Claude for Teachers, now available for U.S. K-12 schools and districts",
-      "summary": "Claude for Teachers, now available for U.S. K-12 schools and districts",
-      "content_text": "Claude for Teachers, now available for U.S. K-12 schools and districts",
-      "date_published": "2026-08-29T02:14:45.325428+00:00",
-      "tags": [
-        "note",
-        "feature",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:d35cb32ab7bd60e9",
-      "url": "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts",
-      "title": "Claude for Teachers, now available for schools and districts",
-      "summary": "Claude for Teachers, now available for schools and districts",
-      "content_text": "Claude for Teachers, now available for schools and districts",
-      "date_published": "2026-08-28T18:46:55.033480+00:00",
-      "tags": [
-        "note",
-        "feature",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:d9e30ea20ecd5796",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.210",
-      "title": "v1.0.210",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.209...v1.0.210",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.209...v1.0.210",
-      "date_published": "2026-08-28T18:21:48+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:c2cfd250d6910163",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.251",
-      "title": "@anthropic-ai/claude-code 2.1.251 published",
-      "summary": "Version 2.1.251 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.251 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-08-28T15:34:26.421000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:9834317f099e72da",
-      "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
-      "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-      "summary": "319 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=49477055",
-      "content_text": "319 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=49477055",
-      "date_published": "2026-08-28T11:25:30+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:5c538f75557a17d5",
-      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "title": "Expanding our support for scientists",
-      "summary": "Expanding our support for scientists",
-      "content_text": "Expanding our support for scientists",
-      "date_published": "2026-08-28T05:27:01.836818+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
       ]
     }
   ]
