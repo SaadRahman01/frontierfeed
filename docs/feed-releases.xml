@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, model releases only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 11 Sep 2026 19:46:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 22:38:28 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-releases.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — model releases</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing a way to reflect on how you use Claude</title>
+<link>https://www.anthropic.com/news/reflect-with-claude</link>
+<guid isPermaLink="false">frontierfeed:809fa8fc0fec0bfb</guid>
+<pubDate>Fri, 11 Sep 2026 22:38:15 +0000</pubDate>
+<category>launch</category>
+<description>Introducing a way to reflect on how you use Claude</description>
+</item>
 <item>
 <title>Introducing Claude for Teachers</title>
 <link>https://www.anthropic.com/news/claude-for-teachers</link>
@@ -46,22 +54,6 @@
 <pubDate>Thu, 06 Aug 2026 13:23:07 +0000</pubDate>
 <category>launch</category>
 <description>We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.</description>
-</item>
-<item>
-<title>Introducing Claude Tag</title>
-<link>https://www.anthropic.com/news/introducing-claude-tag</link>
-<guid isPermaLink="false">frontierfeed:adc6b68bd111afbd</guid>
-<pubDate>Thu, 06 Aug 2026 13:23:06 +0000</pubDate>
-<category>launch</category>
-<description>Introducing Claude Tag</description>
-</item>
-<item>
-<title>Introducing Claude Sonnet 5</title>
-<link>https://www.anthropic.com/news/claude-sonnet-5</link>
-<guid isPermaLink="false">frontierfeed:aab830546368e819</guid>
-<pubDate>Thu, 06 Aug 2026 13:23:06 +0000</pubDate>
-<category>model-release</category>
-<description>Introducing Claude Sonnet 5</description>
 </item>
 </channel>
 </rss>

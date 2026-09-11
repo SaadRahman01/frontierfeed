@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 11 Sep 2026 19:46:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 22:38:28 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,54 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
+<link>https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</link>
+<guid isPermaLink="false">frontierfeed:8701478040a3ec25</guid>
+<pubDate>Fri, 11 Sep 2026 22:38:15 +0000</pubDate>
+<category>note</category>
+<description>More details on Fable 5’s cyber safeguards and our jailbreak framework</description>
+</item>
+<item>
+<title>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</title>
+<link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
+<guid isPermaLink="false">frontierfeed:b2528e7b03bcd03e</guid>
+<pubDate>Fri, 11 Sep 2026 22:38:15 +0000</pubDate>
+<category>note</category>
+<description>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</description>
+</item>
+<item>
+<title>UST is bringing Claude to physical AI</title>
+<link>https://www.anthropic.com/news/ust-claude</link>
+<guid isPermaLink="false">frontierfeed:98c411147f36a0c1</guid>
+<pubDate>Fri, 11 Sep 2026 22:38:15 +0000</pubDate>
+<category>note</category>
+<description>UST is bringing Claude to physical AI</description>
+</item>
+<item>
+<title>Inviting hard questions</title>
+<link>https://www.anthropic.com/news/hard-questions</link>
+<guid isPermaLink="false">frontierfeed:1b338e30b6b31fa4</guid>
+<pubDate>Fri, 11 Sep 2026 22:38:15 +0000</pubDate>
+<category>note</category>
+<description>Inviting hard questions</description>
+</item>
+<item>
+<title>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</title>
+<link>https://www.anthropic.com/news/ben-bernanke</link>
+<guid isPermaLink="false">frontierfeed:4d2c2b1a01b6d2bc</guid>
+<pubDate>Fri, 11 Sep 2026 22:38:15 +0000</pubDate>
+<category>note</category>
+<description>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</description>
+</item>
+<item>
+<title>Introducing a way to reflect on how you use Claude</title>
+<link>https://www.anthropic.com/news/reflect-with-claude</link>
+<guid isPermaLink="false">frontierfeed:809fa8fc0fec0bfb</guid>
+<pubDate>Fri, 11 Sep 2026 22:38:15 +0000</pubDate>
+<category>launch</category>
+<description>Introducing a way to reflect on how you use Claude</description>
+</item>
 <item>
 <title>Introducing Claude for Teachers</title>
 <link>https://www.anthropic.com/news/claude-for-teachers</link>
@@ -766,54 +814,6 @@
 <pubDate>Mon, 31 Aug 2026 19:49:08 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.210...v1.0.211</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.252 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.252</link>
-<guid isPermaLink="false">frontierfeed:d11e3ebf9c838778</guid>
-<pubDate>Mon, 31 Aug 2026 17:07:28 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.252 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>[breaking] Breaking Claude Code Opus 5 Auto Mode</title>
-<link>https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/</link>
-<guid isPermaLink="false">frontierfeed:7c182a3eb48ff78e</guid>
-<pubDate>Mon, 31 Aug 2026 07:49:18 +0000</pubDate>
-<category>claude-code</category>
-<description>192 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49506819</description>
-</item>
-<item>
-<title>Claude Code reduces it&#x27;s weekly limit by 17% – compared to today</title>
-<link>https://twitter.com/ClaudeDevs/status/2093742322525810912</link>
-<guid isPermaLink="false">frontierfeed:07b9169fe9223ee6</guid>
-<pubDate>Mon, 31 Aug 2026 07:02:05 +0000</pubDate>
-<category>claude-code</category>
-<description>50 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49506519</description>
-</item>
-<item>
-<title>Claude Session URL appended to commit messages and PR descriptions by default</title>
-<link>https://github.com/anthropics/claude-code/issues/66504</link>
-<guid isPermaLink="false">frontierfeed:39baca36eab6c30a</guid>
-<pubDate>Sun, 30 Aug 2026 12:50:54 +0000</pubDate>
-<category>note</category>
-<description>113 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=49498201</description>
-</item>
-<item>
-<title>AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes</title>
-<link>https://arxiv.org/abs/2609.00052v1</link>
-<guid isPermaLink="false">frontierfeed:a000684dd2faf6b0</guid>
-<pubDate>Sun, 30 Aug 2026 08:22:12 +0000</pubDate>
-<category>research</category>
-<description>Commercial LLM APIs advertise a specific foundation model, but the served backbone may be silently substituted, quantized, or wrapped, for example to save deployment costs.</description>
-</item>
-<item>
-<title>How Anthropic employees use Claude Tag</title>
-<link>https://claude.com/blog/how-anthropic-employees-use-claude-tag</link>
-<guid isPermaLink="false">frontierfeed:ab9756a74bdf85f1</guid>
-<pubDate>Sat, 29 Aug 2026 02:14:45 +0000</pubDate>
-<category>note</category>
-<description>How Anthropic employees use Claude Tag</description>
 </item>
 </channel>
 </rss>

@@ -1,9 +1,105 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-11T19:46:50.951323+00:00",
+  "generated": "2026-09-11T22:38:28.115717+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "source": "anthropic-news",
+      "published": "2026-09-11T22:38:15.544287+00:00",
+      "body": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
+      "summary": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "8701478040a3ec25"
+    },
+    {
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "source": "anthropic-news",
+      "published": "2026-09-11T22:38:15.544268+00:00",
+      "body": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "b2528e7b03bcd03e"
+    },
+    {
+      "title": "UST is bringing Claude to physical AI",
+      "url": "https://www.anthropic.com/news/ust-claude",
+      "source": "anthropic-news",
+      "published": "2026-09-11T22:38:15.544248+00:00",
+      "body": "UST is bringing Claude to physical AI",
+      "summary": "UST is bringing Claude to physical AI",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "98c411147f36a0c1"
+    },
+    {
+      "title": "Inviting hard questions",
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "source": "anthropic-news",
+      "published": "2026-09-11T22:38:15.544229+00:00",
+      "body": "Inviting hard questions",
+      "summary": "Inviting hard questions",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "1b338e30b6b31fa4"
+    },
+    {
+      "title": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "source": "anthropic-news",
+      "published": "2026-09-11T22:38:15.544210+00:00",
+      "body": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
+      "summary": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "4d2c2b1a01b6d2bc"
+    },
+    {
+      "title": "Introducing a way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "source": "anthropic-news",
+      "published": "2026-09-11T22:38:15.544190+00:00",
+      "body": "Introducing a way to reflect on how you use Claude",
+      "summary": "Introducing a way to reflect on how you use Claude",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "809fa8fc0fec0bfb"
+    },
     {
       "title": "Introducing Claude for Teachers",
       "url": "https://www.anthropic.com/news/claude-for-teachers",
@@ -4555,86 +4651,6 @@
       "impact": "info",
       "tags": [],
       "uid": "276bb016ee4b3eeb"
-    },
-    {
-      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696819+00:00",
-      "body": "TCS and Anthropic partner to bring Claude to regulated industries",
-      "summary": "TCS and Anthropic partner to bring Claude to regulated industries",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "927ef6033397dffa"
-    },
-    {
-      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696805+00:00",
-      "body": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-      "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "25d236c157781389"
-    },
-    {
-      "title": "Introducing Claude Tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696791+00:00",
-      "body": "Introducing Claude Tag",
-      "summary": "Introducing Claude Tag",
-      "version": "",
-      "category": "launch",
-      "impact": "feature",
-      "tags": [],
-      "uid": "adc6b68bd111afbd"
-    },
-    {
-      "title": "Redeploying Fable 5",
-      "url": "https://www.anthropic.com/news/redeploying-fable-5",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696776+00:00",
-      "body": "Redeploying Fable 5",
-      "summary": "Redeploying Fable 5",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "0ca530b95e60a9da"
-    },
-    {
-      "title": "Introducing Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696762+00:00",
-      "body": "Introducing Claude Sonnet 5",
-      "summary": "Introducing Claude Sonnet 5",
-      "version": "",
-      "category": "model-release",
-      "impact": "feature",
-      "tags": [
-        "sonnet"
-      ],
-      "uid": "aab830546368e819"
-    },
-    {
-      "title": "Claude Science, an AI workbench for scientists, is now available",
-      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696748+00:00",
-      "body": "Claude Science, an AI workbench for scientists, is now available",
-      "summary": "Claude Science, an AI workbench for scientists, is now available",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [],
-      "uid": "aa18a534f37db212"
     }
   ]
 }

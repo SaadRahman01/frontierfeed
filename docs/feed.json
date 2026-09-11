@@ -9,6 +9,90 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:8701478040a3ec25",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "summary": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "content_text": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "date_published": "2026-09-11T22:38:15.544287+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:b2528e7b03bcd03e",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "content_text": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "date_published": "2026-09-11T22:38:15.544268+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:98c411147f36a0c1",
+      "url": "https://www.anthropic.com/news/ust-claude",
+      "title": "UST is bringing Claude to physical AI",
+      "summary": "UST is bringing Claude to physical AI",
+      "content_text": "UST is bringing Claude to physical AI",
+      "date_published": "2026-09-11T22:38:15.544248+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:1b338e30b6b31fa4",
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "title": "Inviting hard questions",
+      "summary": "Inviting hard questions",
+      "content_text": "Inviting hard questions",
+      "date_published": "2026-09-11T22:38:15.544229+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:4d2c2b1a01b6d2bc",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "summary": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "content_text": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "date_published": "2026-09-11T22:38:15.544210+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:809fa8fc0fec0bfb",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "title": "Introducing a way to reflect on how you use Claude",
+      "summary": "Introducing a way to reflect on how you use Claude",
+      "content_text": "Introducing a way to reflect on how you use Claude",
+      "date_published": "2026-09-11T22:38:15.544190+00:00",
+      "tags": [
+        "launch",
+        "feature",
+        "official",
+        "news"
+      ]
+    },
+    {
       "id": "frontierfeed:d2853d72add8b969",
       "url": "https://www.anthropic.com/news/claude-for-teachers",
       "title": "Introducing Claude for Teachers",
@@ -1295,88 +1379,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:d11e3ebf9c838778",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.252",
-      "title": "@anthropic-ai/claude-code 2.1.252 published",
-      "summary": "Version 2.1.252 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.252 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-08-31T17:07:28.168000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:7c182a3eb48ff78e",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "summary": "192 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49506819",
-      "content_text": "192 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49506819",
-      "date_published": "2026-08-31T07:49:18+00:00",
-      "tags": [
-        "claude-code",
-        "breaking",
-        "community",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:07b9169fe9223ee6",
-      "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
-      "title": "Claude Code reduces it's weekly limit by 17% – compared to today",
-      "summary": "50 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49506519",
-      "content_text": "50 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49506519",
-      "date_published": "2026-08-31T07:02:05+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:39baca36eab6c30a",
-      "url": "https://github.com/anthropics/claude-code/issues/66504",
-      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-      "summary": "113 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=49498201",
-      "content_text": "113 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=49498201",
-      "date_published": "2026-08-30T12:50:54+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:a000684dd2faf6b0",
-      "url": "https://arxiv.org/abs/2609.00052v1",
-      "title": "AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes",
-      "summary": "Commercial LLM APIs advertise a specific foundation model, but the served backbone may be silently substituted, quantized, or wrapped, for example to save deployment costs.",
-      "content_text": "Commercial LLM APIs advertise a specific foundation model, but the served backbone may be silently substituted, quantized, or wrapped, for example to save deployment costs.",
-      "date_published": "2026-08-30T08:22:12+00:00",
-      "tags": [
-        "research",
-        "feature",
-        "research",
-        "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:ab9756a74bdf85f1",
-      "url": "https://claude.com/blog/how-anthropic-employees-use-claude-tag",
-      "title": "How Anthropic employees use Claude Tag",
-      "summary": "How Anthropic employees use Claude Tag",
-      "content_text": "How Anthropic employees use Claude Tag",
-      "date_published": "2026-08-29T02:14:45.325469+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]
