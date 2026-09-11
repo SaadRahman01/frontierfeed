@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:37147b115f3e1032",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "content_text": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "date_published": "2026-09-11T06:04:01.074294+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
       "id": "frontierfeed:778a0265f5854c98",
       "url": "https://www.anthropic.com/news/tino-cuellar",
       "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
@@ -186,6 +200,20 @@
         "note",
         "info",
         "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:9b5f75870c54d35c",
+      "url": "https://arxiv.org/abs/2609.11739v1",
+      "title": "LOCUS: Task-Aware Low-Rank Post-Training for Token-Efficient Language Generation",
+      "summary": "Large language model serving costs scale directly with output sequence length, yet standard preference alignment often inflates response verbosity without improving utility.",
+      "content_text": "Large language model serving costs scale directly with output sequence length, yet standard preference alignment often inflates response verbosity without improving utility.",
+      "date_published": "2026-09-10T15:53:25+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper"
       ]
     },
     {
@@ -1347,35 +1375,6 @@
         "fix",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:da7ff1dabd847b80",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.3",
-      "title": "bedrock-sdk: v0.33.3",
-      "summary": "## 0.33.3 (2026-08-27) Full Changelog: [bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3) ### Bug Fixes * **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://gi…",
-      "content_text": "## 0.33.3 (2026-08-27) Full Changelog: [bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3) ### Bug Fixes * **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://gi…",
-      "date_published": "2026-08-27T20:33:41+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:70ceb1da61ac334f",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.122.0",
-      "title": "sdk: v0.122.0",
-      "summary": "## 0.122.0 (2026-08-27) Full Changelog: [sdk-v0.121.0...sdk-v0.122.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.121.0...sdk-v0.122.0) ### Features * **api:** beta files/skills namespaces use GA shapes; drop dated beta header pins ([45d693a](https://git…",
-      "content_text": "## 0.122.0 (2026-08-27) Full Changelog: [sdk-v0.121.0...sdk-v0.122.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.121.0...sdk-v0.122.0) ### Features * **api:** beta files/skills namespaces use GA shapes; drop dated beta header pins ([45d693a](https://git…",
-      "date_published": "2026-08-27T20:33:34+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "skills"
       ]
     }
   ]

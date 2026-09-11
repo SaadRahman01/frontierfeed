@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-11T01:09:38.982526+00:00",
+  "generated": "2026-09-11T06:04:13.939879+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "source": "anthropic-news",
+      "published": "2026-09-11T06:04:01.074294+00:00",
+      "body": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "37147b115f3e1032"
+    },
     {
       "title": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
       "url": "https://www.anthropic.com/news/tino-cuellar",
@@ -209,6 +225,22 @@
         "community"
       ],
       "uid": "3ffd9a31ee06f961"
+    },
+    {
+      "title": "LOCUS: Task-Aware Low-Rank Post-Training for Token-Efficient Language Generation",
+      "url": "https://arxiv.org/abs/2609.11739v1",
+      "source": "arxiv",
+      "published": "2026-09-10T15:53:25+00:00",
+      "body": "Large language model serving costs scale directly with output sequence length, yet standard preference alignment often inflates response verbosity without improving utility. We study whether the parameterization of post-training updates affects generation length: low-rank subspaces alter sequence length without modifying the alignment loss. We present LOCUS, a method that selects a task-aware low-rank adaptation subspace to minimize output-token cost subject to a utility constraint. Within this subspace, post-training retains the native preference objective with a frozen backbone. Across Anthropic HH-RLHF dialogue preferences, we evaluate two $\\sim$3B decoder backbones, Pythia-2.8B and Qwen2.5-3B, against protocol-matched full-parameter DPO and DrDPO branches and the released SamPO checkpoint. LOCUS reduces continuation length by up to 39.84\\% on Pythia-2.8B and by 14.87--17.58\\% on Qwen2.5-3B while updating only 0.24--0.28\\% of model parameters, with no material change in the internal preference diagnostic.",
+      "summary": "Large language model serving costs scale directly with output sequence length, yet standard preference alignment often inflates response verbosity without improving utility.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "9b5f75870c54d35c"
     },
     {
       "title": "v1.0.220",
@@ -4566,34 +4598,6 @@
         "opus"
       ],
       "uid": "cb3d7ccb220b7d1b"
-    },
-    {
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696536+00:00",
-      "body": "Our position on open-weights models",
-      "summary": "Our position on open-weights models",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "9a13f34e2ecc4eb4"
-    },
-    {
-      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "url": "https://www.anthropic.com/news/cognizant-anthropic",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696518+00:00",
-      "body": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "enterprise"
-      ],
-      "uid": "f4b18b12b32ef53c"
     }
   ]
 }

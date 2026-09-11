@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 11 Sep 2026 01:09:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 06:04:13 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Investigating three real-world incidents in our cybersecurity evaluations</title>
+<link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
+<guid isPermaLink="false">frontierfeed:37147b115f3e1032</guid>
+<pubDate>Fri, 11 Sep 2026 06:04:01 +0000</pubDate>
+<category>note</category>
+<description>Investigating three real-world incidents in our cybersecurity evaluations</description>
+</item>
 <item>
 <title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
 <link>https://www.anthropic.com/news/tino-cuellar</link>
@@ -118,6 +126,14 @@
 <pubDate>Thu, 10 Sep 2026 17:04:34 +0000</pubDate>
 <category>note</category>
 <description>47 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=49646988</description>
+</item>
+<item>
+<title>LOCUS: Task-Aware Low-Rank Post-Training for Token-Efficient Language Generation</title>
+<link>https://arxiv.org/abs/2609.11739v1</link>
+<guid isPermaLink="false">frontierfeed:9b5f75870c54d35c</guid>
+<pubDate>Thu, 10 Sep 2026 15:53:25 +0000</pubDate>
+<category>research</category>
+<description>Large language model serving costs scale directly with output sequence length, yet standard preference alignment often inflates response verbosity without improving utility.</description>
 </item>
 <item>
 <title>v1.0.220</title>
@@ -798,22 +814,6 @@
 <pubDate>Thu, 27 Aug 2026 20:33:46 +0000</pubDate>
 <category>api</category>
 <description>## 0.6.6 (2026-08-27) Full Changelog: [aws-sdk-v0.6.5...aws-sdk-v0.6.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.5...aws-sdk-v0.6.6) ### Bug Fixes * **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://github.com/anthropics/a…</description>
-</item>
-<item>
-<title>bedrock-sdk: v0.33.3</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.3</link>
-<guid isPermaLink="false">frontierfeed:da7ff1dabd847b80</guid>
-<pubDate>Thu, 27 Aug 2026 20:33:41 +0000</pubDate>
-<category>api</category>
-<description>## 0.33.3 (2026-08-27) Full Changelog: [bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3) ### Bug Fixes * **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://gi…</description>
-</item>
-<item>
-<title>sdk: v0.122.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.122.0</link>
-<guid isPermaLink="false">frontierfeed:70ceb1da61ac334f</guid>
-<pubDate>Thu, 27 Aug 2026 20:33:34 +0000</pubDate>
-<category>api</category>
-<description>## 0.122.0 (2026-08-27) Full Changelog: [sdk-v0.121.0...sdk-v0.122.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.121.0...sdk-v0.122.0) ### Features * **api:** beta files/skills namespaces use GA shapes; drop dated beta header pins ([45d693a](https://git…</description>
 </item>
 </channel>
 </rss>
