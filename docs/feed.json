@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:778a0265f5854c98",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "content_text": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "date_published": "2026-09-11T01:09:25.939770+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
       "id": "frontierfeed:d8bfd3712f9cc467",
       "url": "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
       "title": "What 1,000 small business owners taught us about AI",
@@ -1361,21 +1375,6 @@
         "feature",
         "release",
         "anthropic-sdk-typescript",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:e9c627c0b6b07f2a",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.2.0",
-      "title": "v1.2.0",
-      "summary": "## 1.2.0 (2026-08-27) Full Changelog: [v1.1.0...v1.2.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.1.0...v1.2.0) ### Features * **api:** beta files/skills namespaces use GA shapes; drop dated beta header pins ([9df4565](https://github.com/anthropics/anthropic-s…",
-      "content_text": "## 1.2.0 (2026-08-27) Full Changelog: [v1.1.0...v1.2.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.1.0...v1.2.0) ### Features * **api:** beta files/skills namespaces use GA shapes; drop dated beta header pins ([9df4565](https://github.com/anthropics/anthropic-s…",
-      "date_published": "2026-08-27T20:28:58+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-python",
         "skills"
       ]
     }

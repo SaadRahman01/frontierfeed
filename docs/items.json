@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-10T22:38:37.503386+00:00",
+  "generated": "2026-09-11T01:09:38.982526+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "source": "anthropic-news",
+      "published": "2026-09-11T01:09:25.939770+00:00",
+      "body": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
+      "summary": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "778a0265f5854c98"
+    },
     {
       "title": "What 1,000 small business owners taught us about AI",
       "url": "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
@@ -4578,19 +4594,6 @@
         "enterprise"
       ],
       "uid": "f4b18b12b32ef53c"
-    },
-    {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696497+00:00",
-      "body": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "37147b115f3e1032"
     }
   ]
 }
