@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 11 Sep 2026 06:04:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 11:28:32 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Our position on open-weights models</title>
+<link>https://www.anthropic.com/news/position-open-weights-models</link>
+<guid isPermaLink="false">frontierfeed:9a13f34e2ecc4eb4</guid>
+<pubDate>Fri, 11 Sep 2026 11:28:20 +0000</pubDate>
+<category>note</category>
+<description>Our position on open-weights models</description>
+</item>
+<item>
+<title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
+<link>https://www.anthropic.com/news/cognizant-anthropic</link>
+<guid isPermaLink="false">frontierfeed:f4b18b12b32ef53c</guid>
+<pubDate>Fri, 11 Sep 2026 11:28:20 +0000</pubDate>
+<category>note</category>
+<description>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</description>
+</item>
 <item>
 <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
 <link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
@@ -302,6 +318,14 @@
 <pubDate>Tue, 08 Sep 2026 04:36:26 +0000</pubDate>
 <category>claude-code</category>
 <description>58 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49605644</description>
+</item>
+<item>
+<title>Show HN: Vertumnus – printable posters of farmers&#x27; market produce seasonality</title>
+<link>https://vertumnus.fyi</link>
+<guid isPermaLink="false">frontierfeed:ad0221073f9fc8e8</guid>
+<pubDate>Tue, 08 Sep 2026 01:08:10 +0000</pubDate>
+<category>note</category>
+<description>43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49604581</description>
 </item>
 <item>
 <title>Coop – Isolated VM Environments for Running Claude Code and Codex</title>
@@ -790,30 +814,6 @@
 <pubDate>Thu, 27 Aug 2026 22:13:41 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.207...v1.0.208</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.248 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.248</link>
-<guid isPermaLink="false">frontierfeed:4952e40eabaa1166</guid>
-<pubDate>Thu, 27 Aug 2026 20:35:36 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.248 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Previewing the Model Hardware Standard</title>
-<link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
-<guid isPermaLink="false">frontierfeed:1a42e045640872a6</guid>
-<pubDate>Thu, 27 Aug 2026 20:33:52 +0000</pubDate>
-<category>note</category>
-<description>Previewing the Model Hardware Standard</description>
-</item>
-<item>
-<title>aws-sdk: v0.6.6</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.6.6</link>
-<guid isPermaLink="false">frontierfeed:640a51861748d9cd</guid>
-<pubDate>Thu, 27 Aug 2026 20:33:46 +0000</pubDate>
-<category>api</category>
-<description>## 0.6.6 (2026-08-27) Full Changelog: [aws-sdk-v0.6.5...aws-sdk-v0.6.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.5...aws-sdk-v0.6.6) ### Bug Fixes * **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://github.com/anthropics/a…</description>
 </item>
 </channel>
 </rss>

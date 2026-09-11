@@ -9,6 +9,35 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:9a13f34e2ecc4eb4",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "title": "Our position on open-weights models",
+      "summary": "Our position on open-weights models",
+      "content_text": "Our position on open-weights models",
+      "date_published": "2026-09-11T11:28:20.349762+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:f4b18b12b32ef53c",
+      "url": "https://www.anthropic.com/news/cognizant-anthropic",
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "content_text": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "date_published": "2026-09-11T11:28:20.349740+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news",
+        "enterprise"
+      ]
+    },
+    {
       "id": "frontierfeed:37147b115f3e1032",
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
@@ -492,6 +521,19 @@
       "date_published": "2026-09-08T04:36:26+00:00",
       "tags": [
         "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:ad0221073f9fc8e8",
+      "url": "https://vertumnus.fyi",
+      "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
+      "summary": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49604581",
+      "content_text": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49604581",
+      "date_published": "2026-09-08T01:08:10+00:00",
+      "tags": [
+        "note",
         "info",
         "community"
       ]
@@ -1333,48 +1375,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:4952e40eabaa1166",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.248",
-      "title": "@anthropic-ai/claude-code 2.1.248 published",
-      "summary": "Version 2.1.248 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.248 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-08-27T20:35:36.671000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:1a42e045640872a6",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "title": "Previewing the Model Hardware Standard",
-      "summary": "Previewing the Model Hardware Standard",
-      "content_text": "Previewing the Model Hardware Standard",
-      "date_published": "2026-08-27T20:33:52.855852+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:640a51861748d9cd",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.6.6",
-      "title": "aws-sdk: v0.6.6",
-      "summary": "## 0.6.6 (2026-08-27) Full Changelog: [aws-sdk-v0.6.5...aws-sdk-v0.6.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.5...aws-sdk-v0.6.6) ### Bug Fixes * **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://github.com/anthropics/a…",
-      "content_text": "## 0.6.6 (2026-08-27) Full Changelog: [aws-sdk-v0.6.5...aws-sdk-v0.6.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.5...aws-sdk-v0.6.6) ### Bug Fixes * **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://github.com/anthropics/a…",
-      "date_published": "2026-08-27T20:33:46+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]

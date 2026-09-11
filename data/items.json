@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "anthropic-news",
+      "published": "2026-09-11T11:28:20.349762+00:00",
+      "body": "Our position on open-weights models",
+      "summary": "Our position on open-weights models",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "9a13f34e2ecc4eb4"
+    },
+    {
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "url": "https://www.anthropic.com/news/cognizant-anthropic",
+      "source": "anthropic-news",
+      "published": "2026-09-11T11:28:20.349740+00:00",
+      "body": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news",
+        "enterprise"
+      ],
+      "uid": "f4b18b12b32ef53c"
+    },
+    {
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "source": "anthropic-news",
@@ -559,6 +592,21 @@
         "community"
       ],
       "uid": "08f9127486b0dec7"
+    },
+    {
+      "title": "Show HN: Vertumnus \u2013 printable posters of farmers' market produce seasonality",
+      "url": "https://vertumnus.fyi",
+      "source": "hackernews",
+      "published": "2026-09-08T01:08:10+00:00",
+      "body": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49604581",
+      "summary": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49604581",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ad0221073f9fc8e8"
     },
     {
       "title": "Coop \u2013 Isolated VM Environments for Running Claude Code and Codex",
@@ -4553,47 +4601,6 @@
       "impact": "info",
       "tags": [],
       "uid": "e4ad39e0daa84e86"
-    },
-    {
-      "title": "A research agenda for the Economic Futures Research Fund",
-      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696583+00:00",
-      "body": "A research agenda for the Economic Futures Research Fund",
-      "summary": "A research agenda for the Economic Futures Research Fund",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "0ea1743424c3f00b"
-    },
-    {
-      "title": "Ask Claude about the Anthropic Economic Index",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696568+00:00",
-      "body": "Ask Claude about the Anthropic Economic Index",
-      "summary": "Ask Claude about the Anthropic Economic Index",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "823e8100cfe93440"
-    },
-    {
-      "title": "Introducing Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696552+00:00",
-      "body": "Introducing Claude Opus 5",
-      "summary": "Introducing Claude Opus 5",
-      "version": "",
-      "category": "model-release",
-      "impact": "feature",
-      "tags": [
-        "opus"
-      ],
-      "uid": "cb3d7ccb220b7d1b"
     }
   ]
 }
