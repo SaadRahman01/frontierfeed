@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 11 Sep 2026 11:28:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 16:33:19 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>A research agenda for the Economic Futures Research Fund</title>
+<link>https://www.anthropic.com/news/economic-futures-research-fund-agenda</link>
+<guid isPermaLink="false">frontierfeed:0ea1743424c3f00b</guid>
+<pubDate>Fri, 11 Sep 2026 16:33:06 +0000</pubDate>
+<category>note</category>
+<description>A research agenda for the Economic Futures Research Fund</description>
+</item>
+<item>
+<title>Ask Claude about the Anthropic Economic Index</title>
+<link>https://www.anthropic.com/news/anthropic-economic-index-connector</link>
+<guid isPermaLink="false">frontierfeed:823e8100cfe93440</guid>
+<pubDate>Fri, 11 Sep 2026 16:33:06 +0000</pubDate>
+<category>note</category>
+<description>Ask Claude about the Anthropic Economic Index</description>
+</item>
+<item>
+<title>Introducing Claude Opus 5</title>
+<link>https://www.anthropic.com/news/claude-opus-5</link>
+<guid isPermaLink="false">frontierfeed:cb3d7ccb220b7d1b</guid>
+<pubDate>Fri, 11 Sep 2026 16:33:06 +0000</pubDate>
+<category>model-release</category>
+<description>Introducing Claude Opus 5</description>
+</item>
+<item>
+<title>Moonshot serves Claude instead of Kimi and collects exchanges for model training</title>
+<link>https://twitter.com/DavidAgranovich/status/2098168522862215449</link>
+<guid isPermaLink="false">frontierfeed:938450d2513fc1d5</guid>
+<pubDate>Fri, 11 Sep 2026 11:36:24 +0000</pubDate>
+<category>note</category>
+<description>47 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49656698</description>
+</item>
 <item>
 <title>Our position on open-weights models</title>
 <link>https://www.anthropic.com/news/position-open-weights-models</link>
@@ -782,38 +814,6 @@
 <pubDate>Fri, 28 Aug 2026 05:27:01 +0000</pubDate>
 <category>note</category>
 <description>Expanding our support for scientists</description>
-</item>
-<item>
-<title>Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal</title>
-<link>https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html</link>
-<guid isPermaLink="false">frontierfeed:56f795afe36e8075</guid>
-<pubDate>Fri, 28 Aug 2026 02:03:38 +0000</pubDate>
-<category>note</category>
-<description>180 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=49473522</description>
-</item>
-<item>
-<title>v1.0.209</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.209</link>
-<guid isPermaLink="false">frontierfeed:b30f11572b0fae84</guid>
-<pubDate>Fri, 28 Aug 2026 00:51:06 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.208...v1.0.209</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.250 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.250</link>
-<guid isPermaLink="false">frontierfeed:eb282856df0e5e34</guid>
-<pubDate>Thu, 27 Aug 2026 22:27:48 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.250 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.0.208</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.208</link>
-<guid isPermaLink="false">frontierfeed:0b46d3f9dc9f4e05</guid>
-<pubDate>Thu, 27 Aug 2026 22:13:41 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.207...v1.0.208</description>
 </item>
 </channel>
 </rss>

@@ -9,6 +9,62 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:0ea1743424c3f00b",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "summary": "A research agenda for the Economic Futures Research Fund",
+      "content_text": "A research agenda for the Economic Futures Research Fund",
+      "date_published": "2026-09-11T16:33:06.232382+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:823e8100cfe93440",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "summary": "Ask Claude about the Anthropic Economic Index",
+      "content_text": "Ask Claude about the Anthropic Economic Index",
+      "date_published": "2026-09-11T16:33:06.232361+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:cb3d7ccb220b7d1b",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "title": "Introducing Claude Opus 5",
+      "summary": "Introducing Claude Opus 5",
+      "content_text": "Introducing Claude Opus 5",
+      "date_published": "2026-09-11T16:33:06.232338+00:00",
+      "tags": [
+        "model-release",
+        "feature",
+        "official",
+        "news",
+        "opus"
+      ]
+    },
+    {
+      "id": "frontierfeed:938450d2513fc1d5",
+      "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
+      "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
+      "summary": "47 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49656698",
+      "content_text": "47 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49656698",
+      "date_published": "2026-09-11T11:36:24+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:9a13f34e2ecc4eb4",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
       "title": "Our position on open-weights models",
@@ -1320,61 +1376,6 @@
         "info",
         "official",
         "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:56f795afe36e8075",
-      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-      "summary": "180 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=49473522",
-      "content_text": "180 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=49473522",
-      "date_published": "2026-08-28T02:03:38+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:b30f11572b0fae84",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.209",
-      "title": "v1.0.209",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.208...v1.0.209",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.208...v1.0.209",
-      "date_published": "2026-08-28T00:51:06+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:eb282856df0e5e34",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.250",
-      "title": "@anthropic-ai/claude-code 2.1.250 published",
-      "summary": "Version 2.1.250 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.250 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-08-27T22:27:48.314000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:0b46d3f9dc9f4e05",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.208",
-      "title": "v1.0.208",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.207...v1.0.208",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.207...v1.0.208",
-      "date_published": "2026-08-27T22:13:41+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
       ]
     }
   ]
