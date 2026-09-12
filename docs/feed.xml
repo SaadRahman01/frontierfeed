@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 12 Sep 2026 05:52:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 10:53:35 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -22,6 +22,14 @@
 <pubDate>Sat, 12 Sep 2026 01:11:05 +0000</pubDate>
 <category>note</category>
 <description>Claude Science, an AI workbench for scientists, is now available</description>
+</item>
+<item>
+<title>Houthis used Anthropic to develop guided weapons</title>
+<link>https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/</link>
+<guid isPermaLink="false">frontierfeed:3a25f1d7e2f50c68</guid>
+<pubDate>Fri, 11 Sep 2026 22:44:03 +0000</pubDate>
+<category>note</category>
+<description>51 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49666425</description>
 </item>
 <item>
 <title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
@@ -806,14 +814,6 @@
 <pubDate>Mon, 31 Aug 2026 23:53:37 +0000</pubDate>
 <category>research</category>
 <description>Improving our alignment and security efforts</description>
-</item>
-<item>
-<title>Release 2026.8.31</title>
-<link>https://github.com/modelcontextprotocol/servers/releases/tag/2026.8.31</link>
-<guid isPermaLink="false">frontierfeed:b19a3a69a6b30b32</guid>
-<pubDate>Mon, 31 Aug 2026 20:34:32 +0000</pubDate>
-<category>note</category>
-<description># Release : v2026.8.31 ## Updated packages - @modelcontextprotocol/server-filesystem@2026.8.31 - @modelcontextprotocol/server-memory@2026.8.31 - @modelcontextprotocol/server-sequential-thinking@2026.8.31 - @modelcontextprotocol/server-everything@2026.8.31</description>
 </item>
 </channel>
 </rss>

@@ -23,6 +23,19 @@
       ]
     },
     {
+      "id": "frontierfeed:3a25f1d7e2f50c68",
+      "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
+      "title": "Houthis used Anthropic to develop guided weapons",
+      "summary": "51 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49666425",
+      "content_text": "51 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49666425",
+      "date_published": "2026-09-11T22:44:03+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:8701478040a3ec25",
       "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
       "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
@@ -1365,20 +1378,6 @@
         "info",
         "official",
         "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:b19a3a69a6b30b32",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2026.8.31",
-      "title": "Release 2026.8.31",
-      "summary": "# Release : v2026.8.31 ## Updated packages - @modelcontextprotocol/server-filesystem@2026.8.31 - @modelcontextprotocol/server-memory@2026.8.31 - @modelcontextprotocol/server-sequential-thinking@2026.8.31 - @modelcontextprotocol/server-everything@2026.8.31",
-      "content_text": "# Release : v2026.8.31 ## Updated packages - @modelcontextprotocol/server-filesystem@2026.8.31 - @modelcontextprotocol/server-memory@2026.8.31 - @modelcontextprotocol/server-sequential-thinking@2026.8.31 - @modelcontextprotocol/server-everything@2026.8.31",
-      "date_published": "2026-08-31T20:34:32+00:00",
-      "tags": [
-        "note",
-        "fix",
-        "release",
-        "servers"
       ]
     }
   ]
