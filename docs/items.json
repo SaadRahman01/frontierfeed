@@ -1,9 +1,40 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-12T17:15:18.311103+00:00",
+  "generated": "2026-09-12T19:26:57.164460+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "@anthropic-ai/claude-code 2.1.270 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.270",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-12T18:52:44.937000+00:00",
+      "body": "Version 2.1.270 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.270 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.270",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "38040b6db6ccbfa3"
+    },
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+      "source": "hackernews",
+      "published": "2026-09-12T16:56:52+00:00",
+      "body": "45 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=49674395",
+      "summary": "45 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=49674395",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b0c4a22f738fedc4"
+    },
     {
       "title": "Claude Science, an AI workbench for scientists, is now available",
       "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
@@ -4630,32 +4661,6 @@
       "impact": "info",
       "tags": [],
       "uid": "0053e0c582e53587"
-    },
-    {
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "source": "anthropic-engineering",
-      "published": "2026-08-06T13:23:07.781666+00:00",
-      "body": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened and what we're changing.",
-      "summary": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened and what we're changing.",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [],
-      "uid": "bf46dd6669ed40e2"
-    },
-    {
-      "title": "How we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "source": "anthropic-engineering",
-      "published": "2026-08-06T13:23:07.781609+00:00",
-      "body": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here\u2019s what we\u2019ve learned building containment for claude.ai, Claude Code, and Cowork.\\n",
-      "summary": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here\u2019s what we\u2019ve learned building containment for claude.ai, Claude Code, and Cowork.\\n",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [],
-      "uid": "fe20721a36aabacb"
     }
   ]
 }

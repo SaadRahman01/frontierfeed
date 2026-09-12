@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 12 Sep 2026 17:15:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 19:26:57 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>@anthropic-ai/claude-code 2.1.270 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.270</link>
+<guid isPermaLink="false">frontierfeed:38040b6db6ccbfa3</guid>
+<pubDate>Sat, 12 Sep 2026 18:52:44 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.270 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Anthropic boss Dario Amodei calls for AI development to slow down</title>
+<link>https://www.bbc.com/news/articles/c14dpgm0rg4o</link>
+<guid isPermaLink="false">frontierfeed:b0c4a22f738fedc4</guid>
+<pubDate>Sat, 12 Sep 2026 16:56:52 +0000</pubDate>
+<category>note</category>
+<description>45 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=49674395</description>
+</item>
 <item>
 <title>Claude Science, an AI workbench for scientists, is now available</title>
 <link>https://www.anthropic.com/news/claude-science-ai-workbench</link>
@@ -798,22 +814,6 @@
 <pubDate>Tue, 01 Sep 2026 17:36:55 +0000</pubDate>
 <category>api</category>
 <description>## 1.3.0 (2026-09-01) Full Changelog: [v1.2.0...v1.3.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.2.0...v1.3.0) ### Features * **api:** beta user profiles: add external_user_onboarded_at, remove relationship in favor of access_type ([74080c3](https://github.co…</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.257 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257</link>
-<guid isPermaLink="false">frontierfeed:e032c45747e0062b</guid>
-<pubDate>Tue, 01 Sep 2026 17:15:33 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.257 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Improving our alignment and security efforts</title>
-<link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
-<guid isPermaLink="false">frontierfeed:417fed66f67d9d66</guid>
-<pubDate>Mon, 31 Aug 2026 23:53:37 +0000</pubDate>
-<category>research</category>
-<description>Improving our alignment and security efforts</description>
 </item>
 </channel>
 </rss>

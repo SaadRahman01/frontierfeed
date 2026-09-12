@@ -9,6 +9,33 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:38040b6db6ccbfa3",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.270",
+      "title": "@anthropic-ai/claude-code 2.1.270 published",
+      "summary": "Version 2.1.270 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.270 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-12T18:52:44.937000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:b0c4a22f738fedc4",
+      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "summary": "45 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=49674395",
+      "content_text": "45 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=49674395",
+      "date_published": "2026-09-12T16:56:52+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:aa18a534f37db212",
       "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
       "title": "Claude Science, an AI workbench for scientists, is now available",
@@ -1350,34 +1377,6 @@
         "release",
         "anthropic-sdk-python",
         "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:e032c45747e0062b",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257",
-      "title": "@anthropic-ai/claude-code 2.1.257 published",
-      "summary": "Version 2.1.257 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.257 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-01T17:15:33.223000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:417fed66f67d9d66",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "title": "Improving our alignment and security efforts",
-      "summary": "Improving our alignment and security efforts",
-      "content_text": "Improving our alignment and security efforts",
-      "date_published": "2026-08-31T23:53:37.372269+00:00",
-      "tags": [
-        "research",
-        "info",
-        "official",
-        "news"
       ]
     }
   ]
