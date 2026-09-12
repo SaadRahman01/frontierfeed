@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:aa18a534f37db212",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "summary": "Claude Science, an AI workbench for scientists, is now available",
+      "content_text": "Claude Science, an AI workbench for scientists, is now available",
+      "date_published": "2026-09-12T01:11:05.866239+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "official",
+        "news"
+      ]
+    },
+    {
       "id": "frontierfeed:8701478040a3ec25",
       "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
       "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
@@ -1365,20 +1379,6 @@
         "fix",
         "release",
         "servers"
-      ]
-    },
-    {
-      "id": "frontierfeed:adc416bcd175bc02",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.211",
-      "title": "v1.0.211",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.210...v1.0.211",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.210...v1.0.211",
-      "date_published": "2026-08-31T19:49:08+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
       ]
     }
   ]

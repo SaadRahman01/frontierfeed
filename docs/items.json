@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-11T22:38:28.115717+00:00",
+  "generated": "2026-09-12T01:11:33.848735+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "source": "anthropic-news",
+      "published": "2026-09-12T01:11:05.866239+00:00",
+      "body": "Claude Science, an AI workbench for scientists, is now available",
+      "summary": "Claude Science, an AI workbench for scientists, is now available",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "aa18a534f37db212"
+    },
     {
       "title": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
       "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
@@ -4638,19 +4654,6 @@
       "impact": "info",
       "tags": [],
       "uid": "8ebcc5c550395042"
-    },
-    {
-      "title": "Results from the first Anthropic Public Record",
-      "url": "https://www.anthropic.com/news/anthropic-public-record",
-      "source": "anthropic-news",
-      "published": "2026-08-06T13:23:06.696835+00:00",
-      "body": "Results from the first Anthropic Public Record",
-      "summary": "Results from the first Anthropic Public Record",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "276bb016ee4b3eeb"
     }
   ]
 }

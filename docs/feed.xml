@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 11 Sep 2026 22:38:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 01:11:33 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude Science, an AI workbench for scientists, is now available</title>
+<link>https://www.anthropic.com/news/claude-science-ai-workbench</link>
+<guid isPermaLink="false">frontierfeed:aa18a534f37db212</guid>
+<pubDate>Sat, 12 Sep 2026 01:11:05 +0000</pubDate>
+<category>note</category>
+<description>Claude Science, an AI workbench for scientists, is now available</description>
+</item>
 <item>
 <title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
 <link>https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</link>
@@ -806,14 +814,6 @@
 <pubDate>Mon, 31 Aug 2026 20:34:32 +0000</pubDate>
 <category>note</category>
 <description># Release : v2026.8.31 ## Updated packages - @modelcontextprotocol/server-filesystem@2026.8.31 - @modelcontextprotocol/server-memory@2026.8.31 - @modelcontextprotocol/server-sequential-thinking@2026.8.31 - @modelcontextprotocol/server-everything@2026.8.31</description>
-</item>
-<item>
-<title>v1.0.211</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.211</link>
-<guid isPermaLink="false">frontierfeed:adc416bcd175bc02</guid>
-<pubDate>Mon, 31 Aug 2026 19:49:08 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.210...v1.0.211</description>
 </item>
 </channel>
 </rss>
