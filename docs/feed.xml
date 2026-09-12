@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 12 Sep 2026 19:26:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 22:21:45 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -16,6 +16,30 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
 <item>
+<title>An update on recent Claude Code quality reports</title>
+<link>https://www.anthropic.com/engineering/april-23-postmortem</link>
+<guid isPermaLink="false">frontierfeed:bf46dd6669ed40e2</guid>
+<pubDate>Sat, 12 Sep 2026 22:21:34 +0000</pubDate>
+<category>claude-code</category>
+<description>We traced recent reports of Claude Code quality issues to three separate changes. Here&#x27;s what happened and what we&#x27;re changing.</description>
+</item>
+<item>
+<title>How we contain Claude across products</title>
+<link>https://www.anthropic.com/engineering/how-we-contain-claude</link>
+<guid isPermaLink="false">frontierfeed:fe20721a36aabacb</guid>
+<pubDate>Sat, 12 Sep 2026 22:21:34 +0000</pubDate>
+<category>claude-code</category>
+<description>As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.\n</description>
+</item>
+<item>
+<title>v1.0.223</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.223</link>
+<guid isPermaLink="false">frontierfeed:97295264b452467e</guid>
+<pubDate>Sat, 12 Sep 2026 19:47:51 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.222...v1.0.223</description>
+</item>
+<item>
 <title>@anthropic-ai/claude-code 2.1.270 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.270</link>
 <guid isPermaLink="false">frontierfeed:38040b6db6ccbfa3</guid>
@@ -24,12 +48,28 @@
 <description>Version 2.1.270 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 <item>
+<title>Anthropic CEO Says It&#x27;s Time to Slow AI Model Advances</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models</link>
+<guid isPermaLink="false">frontierfeed:ce21ba8d88ec51b8</guid>
+<pubDate>Sat, 12 Sep 2026 18:07:07 +0000</pubDate>
+<category>note</category>
+<description>44 points, 64 comments. Discussion: https://news.ycombinator.com/item?id=49675247</description>
+</item>
+<item>
 <title>Anthropic boss Dario Amodei calls for AI development to slow down</title>
 <link>https://www.bbc.com/news/articles/c14dpgm0rg4o</link>
 <guid isPermaLink="false">frontierfeed:b0c4a22f738fedc4</guid>
 <pubDate>Sat, 12 Sep 2026 16:56:52 +0000</pubDate>
 <category>note</category>
 <description>45 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=49674395</description>
+</item>
+<item>
+<title>Ask HN: What default model do you use and why?</title>
+<link>https://news.ycombinator.com/item?id=49672966</link>
+<guid isPermaLink="false">frontierfeed:ae244c42d0e02698</guid>
+<pubDate>Sat, 12 Sep 2026 14:58:44 +0000</pubDate>
+<category>note</category>
+<description>43 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=49672966</description>
 </item>
 <item>
 <title>Claude Science, an AI workbench for scientists, is now available</title>
@@ -774,46 +814,6 @@
 <pubDate>Tue, 01 Sep 2026 22:25:07 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.258 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Developing Enterprise Frontier Safeguards with our customers</title>
-<link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
-<guid isPermaLink="false">frontierfeed:abd8d79a176a9a73</guid>
-<pubDate>Tue, 01 Sep 2026 21:49:54 +0000</pubDate>
-<category>note</category>
-<description>Developing Enterprise Frontier Safeguards with our customers</description>
-</item>
-<item>
-<title>Claude Fable 5.1 and Claude Mythos 5.1</title>
-<link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
-<guid isPermaLink="false">frontierfeed:ae4b268f34afddba</guid>
-<pubDate>Tue, 01 Sep 2026 18:01:24 +0000</pubDate>
-<category>model-release</category>
-<description>68 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=49525496</description>
-</item>
-<item>
-<title>v1.0.212</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.212</link>
-<guid isPermaLink="false">frontierfeed:25ddba1ef7e6532b</guid>
-<pubDate>Tue, 01 Sep 2026 17:55:35 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.211...v1.0.212</description>
-</item>
-<item>
-<title>sdk: v0.123.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.123.0</link>
-<guid isPermaLink="false">frontierfeed:707d70b045c5f07f</guid>
-<pubDate>Tue, 01 Sep 2026 17:50:12 +0000</pubDate>
-<category>api</category>
-<description>## 0.123.0 (2026-09-01) Full Changelog: [sdk-v0.122.0...sdk-v0.123.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.122.0...sdk-v0.123.0) ### Features * **api:** beta user profiles: add external_user_onboarded_at, remove relationship in favor of access_typ…</description>
-</item>
-<item>
-<title>v1.3.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.3.0</link>
-<guid isPermaLink="false">frontierfeed:665ac17f79baf9cb</guid>
-<pubDate>Tue, 01 Sep 2026 17:36:55 +0000</pubDate>
-<category>api</category>
-<description>## 1.3.0 (2026-09-01) Full Changelog: [v1.2.0...v1.3.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.2.0...v1.3.0) ### Features * **api:** beta user profiles: add external_user_onboarded_at, remove relationship in favor of access_type ([74080c3](https://github.co…</description>
 </item>
 </channel>
 </rss>

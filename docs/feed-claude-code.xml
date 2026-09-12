@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 12 Sep 2026 19:26:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 22:21:45 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>An update on recent Claude Code quality reports</title>
+<link>https://www.anthropic.com/engineering/april-23-postmortem</link>
+<guid isPermaLink="false">frontierfeed:bf46dd6669ed40e2</guid>
+<pubDate>Sat, 12 Sep 2026 22:21:34 +0000</pubDate>
+<category>claude-code</category>
+<description>We traced recent reports of Claude Code quality issues to three separate changes. Here&#x27;s what happened and what we&#x27;re changing.</description>
+</item>
+<item>
+<title>How we contain Claude across products</title>
+<link>https://www.anthropic.com/engineering/how-we-contain-claude</link>
+<guid isPermaLink="false">frontierfeed:fe20721a36aabacb</guid>
+<pubDate>Sat, 12 Sep 2026 22:21:34 +0000</pubDate>
+<category>claude-code</category>
+<description>As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.\n</description>
+</item>
+<item>
+<title>v1.0.223</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.223</link>
+<guid isPermaLink="false">frontierfeed:97295264b452467e</guid>
+<pubDate>Sat, 12 Sep 2026 19:47:51 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.222...v1.0.223</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.270 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.270</link>
@@ -750,14 +774,6 @@
 <pubDate>Thu, 06 Aug 2026 13:23:07 +0000</pubDate>
 <category>claude-code</category>
 <description>Claude Code&#x27;s new sandboxing features, a bash tool and Claude Code on the web, reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.</description>
-</item>
-<item>
-<title>How we built Claude Code auto mode: a safer way to skip permissions</title>
-<link>https://www.anthropic.com/engineering/claude-code-auto-mode</link>
-<guid isPermaLink="false">frontierfeed:03a152ee697246cd</guid>
-<pubDate>Thu, 06 Aug 2026 13:23:07 +0000</pubDate>
-<category>claude-code</category>
-<description>Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here&#x27;s what it catches, and what it misses.\n</description>
 </item>
 </channel>
 </rss>
