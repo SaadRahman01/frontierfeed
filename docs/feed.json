@@ -9,6 +9,76 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:c343e840b5a491e6",
+      "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "title": "Introducing advanced tool use on the Claude Developer Platform",
+      "summary": "We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.",
+      "content_text": "We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.",
+      "date_published": "2026-09-13T06:15:18.079482+00:00",
+      "tags": [
+        "launch",
+        "feature",
+        "official",
+        "engineering"
+      ]
+    },
+    {
+      "id": "frontierfeed:e6b63261de37bce8",
+      "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "title": "Effective harnesses for long-running agents",
+      "summary": "Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.",
+      "content_text": "Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.",
+      "date_published": "2026-09-13T06:15:18.079457+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "engineering"
+      ]
+    },
+    {
+      "id": "frontierfeed:0c6dc2bdd58b522a",
+      "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+      "title": "Demystifying evals for AI agents",
+      "summary": "The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \\n",
+      "content_text": "The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \\n",
+      "date_published": "2026-09-13T06:15:18.079434+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "engineering"
+      ]
+    },
+    {
+      "id": "frontierfeed:bf23981790fd7bc8",
+      "url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
+      "title": "Designing AI-resistant technical evaluations",
+      "summary": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
+      "content_text": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
+      "date_published": "2026-09-13T06:15:18.079385+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "engineering"
+      ]
+    },
+    {
+      "id": "frontierfeed:47646435ea1166b3",
+      "url": "https://www.anthropic.com/engineering/infrastructure-noise",
+      "title": "Quantifying infrastructure noise in agentic coding evals",
+      "summary": "Infrastructure configuration can swing agentic coding benchmarks by several percentage points—sometimes more than the leaderboard gap between top models.\\n\\n",
+      "content_text": "Infrastructure configuration can swing agentic coding benchmarks by several percentage points—sometimes more than the leaderboard gap between top models.\\n\\n",
+      "date_published": "2026-09-13T06:15:18.079364+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "engineering"
+      ]
+    },
+    {
       "id": "frontierfeed:aa45b159f4c36bd6",
       "url": "https://www.anthropic.com/engineering/building-c-compiler",
       "title": "Building a C compiler with a team of parallel Claudes",
@@ -1306,75 +1376,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:0ab40b8d350f7c32",
-      "url": "https://reactoratlas.com",
-      "title": "Show HN: Reactor Atlas",
-      "summary": "55 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49549148",
-      "content_text": "55 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49549148",
-      "date_published": "2026-09-03T12:33:01+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:61ce6c06c6fc7489",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214",
-      "title": "v1.0.214",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.213...v1.0.214",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.213...v1.0.214",
-      "date_published": "2026-09-02T22:35:40+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:c0efcdfa2697076b",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259",
-      "title": "@anthropic-ai/claude-code 2.1.259 published",
-      "summary": "Version 2.1.259 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.259 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-02T21:21:42.115000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:0844248559bee3a8",
-      "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-      "title": "A guide to the anatomy of effective commerce agents",
-      "summary": "A guide to the anatomy of effective commerce agents",
-      "content_text": "A guide to the anatomy of effective commerce agents",
-      "date_published": "2026-09-02T16:38:38.539192+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:02b70a8c89e7cd5f",
-      "url": "https://claude.com/blog/claude-for-commerce-agents",
-      "title": "Building commerce agents with Claude",
-      "summary": "Building commerce agents with Claude",
-      "content_text": "Building commerce agents with Claude",
-      "date_published": "2026-09-02T16:38:38.539150+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]

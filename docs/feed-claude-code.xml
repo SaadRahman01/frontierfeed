@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 13 Sep 2026 01:05:23 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 06:16:29 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -774,14 +774,6 @@
 <pubDate>Thu, 06 Aug 2026 13:23:08 +0000</pubDate>
 <category>claude-code</category>
 <description>Building verification loops in Claude Code with skills</description>
-</item>
-<item>
-<title>Beyond permission prompts: making Claude Code more secure and autonomous</title>
-<link>https://www.anthropic.com/engineering/claude-code-sandboxing</link>
-<guid isPermaLink="false">frontierfeed:ea6b38174b7d3154</guid>
-<pubDate>Thu, 06 Aug 2026 13:23:07 +0000</pubDate>
-<category>claude-code</category>
-<description>Claude Code&#x27;s new sandboxing features, a bash tool and Claude Code on the web, reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.</description>
 </item>
 </channel>
 </rss>

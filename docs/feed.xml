@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 13 Sep 2026 01:05:23 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 06:16:29 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,46 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing advanced tool use on the Claude Developer Platform</title>
+<link>https://www.anthropic.com/engineering/advanced-tool-use</link>
+<guid isPermaLink="false">frontierfeed:c343e840b5a491e6</guid>
+<pubDate>Sun, 13 Sep 2026 06:15:18 +0000</pubDate>
+<category>launch</category>
+<description>We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.</description>
+</item>
+<item>
+<title>Effective harnesses for long-running agents</title>
+<link>https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents</link>
+<guid isPermaLink="false">frontierfeed:e6b63261de37bce8</guid>
+<pubDate>Sun, 13 Sep 2026 06:15:18 +0000</pubDate>
+<category>note</category>
+<description>Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.</description>
+</item>
+<item>
+<title>Demystifying evals for AI agents</title>
+<link>https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents</link>
+<guid isPermaLink="false">frontierfeed:0c6dc2bdd58b522a</guid>
+<pubDate>Sun, 13 Sep 2026 06:15:18 +0000</pubDate>
+<category>note</category>
+<description>The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \n</description>
+</item>
+<item>
+<title>Designing AI-resistant technical evaluations</title>
+<link>https://www.anthropic.com/engineering/AI-resistant-technical-evaluations</link>
+<guid isPermaLink="false">frontierfeed:bf23981790fd7bc8</guid>
+<pubDate>Sun, 13 Sep 2026 06:15:18 +0000</pubDate>
+<category>note</category>
+<description>What we learned from three iterations of a performance engineering take-home that Claude keeps beating.</description>
+</item>
+<item>
+<title>Quantifying infrastructure noise in agentic coding evals</title>
+<link>https://www.anthropic.com/engineering/infrastructure-noise</link>
+<guid isPermaLink="false">frontierfeed:47646435ea1166b3</guid>
+<pubDate>Sun, 13 Sep 2026 06:15:18 +0000</pubDate>
+<category>note</category>
+<description>Infrastructure configuration can swing agentic coding benchmarks by several percentage points—sometimes more than the leaderboard gap between top models.\n\n</description>
+</item>
 <item>
 <title>Building a C compiler with a team of parallel Claudes</title>
 <link>https://www.anthropic.com/engineering/building-c-compiler</link>
@@ -774,46 +814,6 @@
 <pubDate>Thu, 03 Sep 2026 13:29:12 +0000</pubDate>
 <category>note</category>
 <description>194 points, 146 comments. Discussion: https://news.ycombinator.com/item?id=49549676</description>
-</item>
-<item>
-<title>Show HN: Reactor Atlas</title>
-<link>https://reactoratlas.com</link>
-<guid isPermaLink="false">frontierfeed:0ab40b8d350f7c32</guid>
-<pubDate>Thu, 03 Sep 2026 12:33:01 +0000</pubDate>
-<category>note</category>
-<description>55 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49549148</description>
-</item>
-<item>
-<title>v1.0.214</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214</link>
-<guid isPermaLink="false">frontierfeed:61ce6c06c6fc7489</guid>
-<pubDate>Wed, 02 Sep 2026 22:35:40 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.213...v1.0.214</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.259 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259</link>
-<guid isPermaLink="false">frontierfeed:c0efcdfa2697076b</guid>
-<pubDate>Wed, 02 Sep 2026 21:21:42 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.259 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>A guide to the anatomy of effective commerce agents</title>
-<link>https://claude.com/blog/the-anatomy-of-effective-commerce-agents</link>
-<guid isPermaLink="false">frontierfeed:0844248559bee3a8</guid>
-<pubDate>Wed, 02 Sep 2026 16:38:38 +0000</pubDate>
-<category>note</category>
-<description>A guide to the anatomy of effective commerce agents</description>
-</item>
-<item>
-<title>Building commerce agents with Claude</title>
-<link>https://claude.com/blog/claude-for-commerce-agents</link>
-<guid isPermaLink="false">frontierfeed:02b70a8c89e7cd5f</guid>
-<pubDate>Wed, 02 Sep 2026 16:38:38 +0000</pubDate>
-<category>note</category>
-<description>Building commerce agents with Claude</description>
 </item>
 </channel>
 </rss>

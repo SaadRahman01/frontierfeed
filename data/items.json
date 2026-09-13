@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Introducing advanced tool use on the Claude Developer Platform",
+      "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T06:15:18.079482+00:00",
+      "body": "We\u2019ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here\u2019s how they work.",
+      "summary": "We\u2019ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here\u2019s how they work.",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "c343e840b5a491e6"
+    },
+    {
+      "title": "Effective harnesses for long-running agents",
+      "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T06:15:18.079457+00:00",
+      "body": "Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.",
+      "summary": "Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "e6b63261de37bce8"
+    },
+    {
+      "title": "Demystifying evals for AI agents",
+      "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T06:15:18.079434+00:00",
+      "body": "The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \\n",
+      "summary": "The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \\n",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "0c6dc2bdd58b522a"
+    },
+    {
+      "title": "Designing AI-resistant technical evaluations",
+      "url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T06:15:18.079385+00:00",
+      "body": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
+      "summary": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "bf23981790fd7bc8"
+    },
+    {
+      "title": "Quantifying infrastructure noise in agentic coding evals",
+      "url": "https://www.anthropic.com/engineering/infrastructure-noise",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T06:15:18.079364+00:00",
+      "body": "Infrastructure configuration can swing agentic coding benchmarks by several percentage points\u2014sometimes more than the leaderboard gap between top models.\\n\\n",
+      "summary": "Infrastructure configuration can swing agentic coding benchmarks by several percentage points\u2014sometimes more than the leaderboard gap between top models.\\n\\n",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "47646435ea1166b3"
+    },
+    {
       "title": "Building a C compiler with a team of parallel Claudes",
       "url": "https://www.anthropic.com/engineering/building-c-compiler",
       "source": "anthropic-engineering",
@@ -4612,77 +4692,6 @@
       "impact": "info",
       "tags": [],
       "uid": "729d6806c42b4112"
-    },
-    {
-      "title": "Inference hooks: inline data loss prevention for Claude Enterprise",
-      "url": "https://claude.com/blog/claude-enterprise-inference-hooks",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859358+00:00",
-      "body": "Inference hooks: inline data loss prevention for Claude Enterprise",
-      "summary": "Inference hooks: inline data loss prevention for Claude Enterprise",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "enterprise"
-      ],
-      "uid": "84f44597accb60c3"
-    },
-    {
-      "title": "Millennium and Anthropic are building a digital risk analyst with Claude",
-      "url": "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859324+00:00",
-      "body": "Millennium and Anthropic are building a digital risk analyst with Claude",
-      "summary": "Millennium and Anthropic are building a digital risk analyst with Claude",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "8620295457e3a849"
-    },
-    {
-      "title": "Equipping agents for the real world with Agent Skills",
-      "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
-      "source": "anthropic-engineering",
-      "published": "2026-08-06T13:23:07.781879+00:00",
-      "body": "Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.",
-      "summary": "Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "skills"
-      ],
-      "uid": "7134ab1e57c51a9f"
-    },
-    {
-      "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
-      "url": "https://www.anthropic.com/engineering/claude-code-sandboxing",
-      "source": "anthropic-engineering",
-      "published": "2026-08-06T13:23:07.781865+00:00",
-      "body": "Claude Code's new sandboxing features, a bash tool and Claude Code on the web,  reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.",
-      "summary": "Claude Code's new sandboxing features, a bash tool and Claude Code on the web, reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [],
-      "uid": "ea6b38174b7d3154"
-    },
-    {
-      "title": "Code execution with MCP: Building more efficient agents",
-      "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
-      "source": "anthropic-engineering",
-      "published": "2026-08-06T13:23:07.781850+00:00",
-      "body": "Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.",
-      "summary": "Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "mcp"
-      ],
-      "uid": "dd9b37132b0ca3bc"
     }
   ]
 }
