@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 13 Sep 2026 06:16:29 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 12:03:28 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Equipping agents for the real world with Agent Skills</title>
+<link>https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills</link>
+<guid isPermaLink="false">frontierfeed:7134ab1e57c51a9f</guid>
+<pubDate>Sun, 13 Sep 2026 12:02:47 +0000</pubDate>
+<category>note</category>
+<description>Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.</description>
+</item>
+<item>
+<title>Beyond permission prompts: making Claude Code more secure and autonomous</title>
+<link>https://www.anthropic.com/engineering/claude-code-sandboxing</link>
+<guid isPermaLink="false">frontierfeed:ea6b38174b7d3154</guid>
+<pubDate>Sun, 13 Sep 2026 12:02:47 +0000</pubDate>
+<category>claude-code</category>
+<description>Claude Code&#x27;s new sandboxing features, a bash tool and Claude Code on the web, reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.</description>
+</item>
+<item>
+<title>Code execution with MCP: Building more efficient agents</title>
+<link>https://www.anthropic.com/engineering/code-execution-with-mcp</link>
+<guid isPermaLink="false">frontierfeed:dd9b37132b0ca3bc</guid>
+<pubDate>Sun, 13 Sep 2026 12:02:47 +0000</pubDate>
+<category>api</category>
+<description>Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here&#x27;s how it works with MCP.</description>
+</item>
 <item>
 <title>Introducing advanced tool use on the Claude Developer Platform</title>
 <link>https://www.anthropic.com/engineering/advanced-tool-use</link>
@@ -790,30 +814,6 @@
 <pubDate>Thu, 03 Sep 2026 22:32:02 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.260 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out</title>
-<link>https://armature.tech/blog/which-tools-coding-agents-install</link>
-<guid isPermaLink="false">frontierfeed:9e3c0ed520eccdd1</guid>
-<pubDate>Thu, 03 Sep 2026 21:20:34 +0000</pubDate>
-<category>note</category>
-<description>80 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49557206</description>
-</item>
-<item>
-<title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
-<link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
-<guid isPermaLink="false">frontierfeed:11dfbbd3efe1e2bd</guid>
-<pubDate>Thu, 03 Sep 2026 14:28:18 +0000</pubDate>
-<category>note</category>
-<description>78 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=49550375</description>
-</item>
-<item>
-<title>Elevated Errors for Multiple Models</title>
-<link>https://status.claude.com/incidents/461yvfrzpwtt</link>
-<guid isPermaLink="false">frontierfeed:9a38a74e387d779b</guid>
-<pubDate>Thu, 03 Sep 2026 13:29:12 +0000</pubDate>
-<category>note</category>
-<description>194 points, 146 comments. Discussion: https://news.ycombinator.com/item?id=49549676</description>
 </item>
 </channel>
 </rss>

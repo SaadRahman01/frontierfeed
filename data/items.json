@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "title": "Equipping agents for the real world with Agent Skills",
+      "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T12:02:47.170691+00:00",
+      "body": "Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.",
+      "summary": "Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "engineering",
+        "skills"
+      ],
+      "uid": "7134ab1e57c51a9f"
+    },
+    {
+      "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
+      "url": "https://www.anthropic.com/engineering/claude-code-sandboxing",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T12:02:47.170677+00:00",
+      "body": "Claude Code's new sandboxing features, a bash tool and Claude Code on the web,  reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.",
+      "summary": "Claude Code's new sandboxing features, a bash tool and Claude Code on the web, reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "ea6b38174b7d3154"
+    },
+    {
+      "title": "Code execution with MCP: Building more efficient agents",
+      "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T12:02:47.170663+00:00",
+      "body": "Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.",
+      "summary": "Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering",
+        "mcp"
+      ],
+      "uid": "dd9b37132b0ca3bc"
+    },
+    {
       "title": "Introducing advanced tool use on the Claude Developer Platform",
       "url": "https://www.anthropic.com/engineering/advanced-tool-use",
       "source": "anthropic-engineering",
@@ -4651,47 +4701,6 @@
       "impact": "info",
       "tags": [],
       "uid": "20edab203a0e2e81"
-    },
-    {
-      "title": "Claude models explained: choosing the best model for your use case",
-      "url": "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859408+00:00",
-      "body": "Claude models explained: choosing the best model for your use case",
-      "summary": "Claude models explained: choosing the best model for your use case",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "de9ce95eb5410548"
-    },
-    {
-      "title": "Bringing MCP 2026-07-28 to Claude",
-      "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859392+00:00",
-      "body": "Bringing MCP 2026-07-28 to Claude",
-      "summary": "Bringing MCP 2026-07-28 to Claude",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "mcp"
-      ],
-      "uid": "ac602b433f542c4e"
-    },
-    {
-      "title": "A guide to cost visibility and control in Claude",
-      "url": "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859376+00:00",
-      "body": "A guide to cost visibility and control in Claude",
-      "summary": "A guide to cost visibility and control in Claude",
-      "version": "",
-      "category": "pricing",
-      "impact": "info",
-      "tags": [],
-      "uid": "729d6806c42b4112"
     }
   ]
 }

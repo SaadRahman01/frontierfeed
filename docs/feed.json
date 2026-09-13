@@ -9,6 +9,50 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:7134ab1e57c51a9f",
+      "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+      "title": "Equipping agents for the real world with Agent Skills",
+      "summary": "Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.",
+      "content_text": "Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.",
+      "date_published": "2026-09-13T12:02:47.170691+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "official",
+        "engineering",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:ea6b38174b7d3154",
+      "url": "https://www.anthropic.com/engineering/claude-code-sandboxing",
+      "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
+      "summary": "Claude Code's new sandboxing features, a bash tool and Claude Code on the web, reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.",
+      "content_text": "Claude Code's new sandboxing features, a bash tool and Claude Code on the web, reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.",
+      "date_published": "2026-09-13T12:02:47.170677+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "official",
+        "engineering"
+      ]
+    },
+    {
+      "id": "frontierfeed:dd9b37132b0ca3bc",
+      "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+      "title": "Code execution with MCP: Building more efficient agents",
+      "summary": "Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.",
+      "content_text": "Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.",
+      "date_published": "2026-09-13T12:02:47.170663+00:00",
+      "tags": [
+        "api",
+        "info",
+        "official",
+        "engineering",
+        "mcp"
+      ]
+    },
+    {
       "id": "frontierfeed:c343e840b5a491e6",
       "url": "https://www.anthropic.com/engineering/advanced-tool-use",
       "title": "Introducing advanced tool use on the Claude Developer Platform",
@@ -1337,45 +1381,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:9e3c0ed520eccdd1",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "summary": "80 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49557206",
-      "content_text": "80 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49557206",
-      "date_published": "2026-09-03T21:20:34+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:11dfbbd3efe1e2bd",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "summary": "78 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=49550375",
-      "content_text": "78 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=49550375",
-      "date_published": "2026-09-03T14:28:18+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:9a38a74e387d779b",
-      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-      "title": "Elevated Errors for Multiple Models",
-      "summary": "194 points, 146 comments. Discussion: https://news.ycombinator.com/item?id=49549676",
-      "content_text": "194 points, 146 comments. Discussion: https://news.ycombinator.com/item?id=49549676",
-      "date_published": "2026-09-03T13:29:12+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
