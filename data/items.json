@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "source": "hackernews",
+      "published": "2026-09-13T14:15:40+00:00",
+      "body": "57 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49684266",
+      "summary": "57 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49684266",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "631d7913c94e27ca"
+    },
+    {
       "title": "Equipping agents for the real world with Agent Skills",
       "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
       "source": "anthropic-engineering",
@@ -129,6 +144,21 @@
         "engineering"
       ],
       "uid": "47646435ea1166b3"
+    },
+    {
+      "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+      "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+      "source": "hackernews",
+      "published": "2026-09-13T03:25:32+00:00",
+      "body": "42 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49679685",
+      "summary": "42 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49679685",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "deae260c8d670fcf"
     },
     {
       "title": "Building a C compiler with a team of parallel Claudes",
@@ -4675,32 +4705,6 @@
       "impact": "info",
       "tags": [],
       "uid": "1d7fd83c5b4f7c86"
-    },
-    {
-      "title": "How the product designer who built Claude Design uses it to explore ideas before building them",
-      "url": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859438+00:00",
-      "body": "How the product designer who built Claude Design uses it to explore ideas before building them",
-      "summary": "How the product designer who built Claude Design uses it to explore ideas before building them",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "b3ba984540568ee1"
-    },
-    {
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859423+00:00",
-      "body": "The new rules of context engineering for Claude 5 generation models",
-      "summary": "The new rules of context engineering for Claude 5 generation models",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "20edab203a0e2e81"
     }
   ]
 }

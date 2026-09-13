@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:631d7913c94e27ca",
+      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+      "summary": "57 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49684266",
+      "content_text": "57 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49684266",
+      "date_published": "2026-09-13T14:15:40+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:7134ab1e57c51a9f",
       "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
       "title": "Equipping agents for the real world with Agent Skills",
@@ -120,6 +133,19 @@
         "info",
         "official",
         "engineering"
+      ]
+    },
+    {
+      "id": "frontierfeed:deae260c8d670fcf",
+      "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+      "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+      "summary": "42 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49679685",
+      "content_text": "42 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49679685",
+      "date_published": "2026-09-13T03:25:32+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1353,34 +1379,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:9e45436f87e49a71",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215",
-      "title": "v1.0.215",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.214...v1.0.215",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.214...v1.0.215",
-      "date_published": "2026-09-03T23:50:05+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:f79d9558a7e81da9",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260",
-      "title": "@anthropic-ai/claude-code 2.1.260 published",
-      "summary": "Version 2.1.260 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.260 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-03T22:32:02.087000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
