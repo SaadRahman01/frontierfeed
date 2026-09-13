@@ -9,6 +9,78 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:aa45b159f4c36bd6",
+      "url": "https://www.anthropic.com/engineering/building-c-compiler",
+      "title": "Building a C compiler with a team of parallel Claudes",
+      "summary": "We tasked Opus 4.6 using agent teams to build a C Compiler, and then (mostly) walked away. Here's what it taught us about the future of autonomous software development.",
+      "content_text": "We tasked Opus 4.6 using agent teams to build a C Compiler, and then (mostly) walked away. Here's what it taught us about the future of autonomous software development.",
+      "date_published": "2026-09-13T01:04:25.132298+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "engineering",
+        "opus"
+      ]
+    },
+    {
+      "id": "frontierfeed:f0814aaface4c956",
+      "url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
+      "title": "Eval awareness in Claude Opus 4.6’s BrowseComp performance",
+      "summary": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it—raising questions about eval integrity in web-enabled environments.",
+      "content_text": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it—raising questions about eval integrity in web-enabled environments.",
+      "date_published": "2026-09-13T01:04:25.132285+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "engineering",
+        "opus"
+      ]
+    },
+    {
+      "id": "frontierfeed:cbc62fbd516489f9",
+      "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+      "title": "Harness design for long-running application development",
+      "summary": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
+      "content_text": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
+      "date_published": "2026-09-13T01:04:25.132271+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "engineering"
+      ]
+    },
+    {
+      "id": "frontierfeed:03a152ee697246cd",
+      "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+      "title": "How we built Claude Code auto mode: a safer way to skip permissions",
+      "summary": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.\\n",
+      "content_text": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.\\n",
+      "date_published": "2026-09-13T01:04:25.132257+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "official",
+        "engineering"
+      ]
+    },
+    {
+      "id": "frontierfeed:0053e0c582e53587",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "summary": "Harnesses encode assumptions that go stale as models improve. Managed Agents—our hosted service for long-horizon agent work—is built around interfaces that stay stable as harnesses change.",
+      "content_text": "Harnesses encode assumptions that go stale as models improve. Managed Agents—our hosted service for long-horizon agent work—is built around interfaces that stay stable as harnesses change.",
+      "date_published": "2026-09-13T01:04:25.132242+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "engineering"
+      ]
+    },
+    {
       "id": "frontierfeed:bf46dd6669ed40e2",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
       "title": "An update on recent Claude Code quality reports",
@@ -1303,76 +1375,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:6c18b5fd9461a006",
-      "url": "https://arxiv.org/abs/2609.02707v1",
-      "title": "Door-in-the-Face Requests and Refusal Behaviour in Large Language Models",
-      "summary": "Does the door-in-the-face technique work on language models? In humans, a large request that is refused makes a smaller follow-up request more likely to be granted.",
-      "content_text": "Does the door-in-the-face technique work on language models? In humans, a large request that is refused makes a smaller follow-up request more likely to be granted.",
-      "date_published": "2026-09-02T15:08:51+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper",
-        "opus",
-        "haiku"
-      ]
-    },
-    {
-      "id": "frontierfeed:f696fea65788ab9d",
-      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-      "summary": "103 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=49536114",
-      "content_text": "103 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=49536114",
-      "date_published": "2026-09-02T13:43:14+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:4722420ddca75e3b",
-      "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
-      "title": "Anthropic banned me for \"suspicious signals\"",
-      "summary": "40 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49530298",
-      "content_text": "40 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49530298",
-      "date_published": "2026-09-02T00:38:49+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:dc6c279e6c47fc34",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.213",
-      "title": "v1.0.213",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.212...v1.0.213",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.212...v1.0.213",
-      "date_published": "2026-09-01T22:34:45+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:02dd3cefcc377204",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.258",
-      "title": "@anthropic-ai/claude-code 2.1.258 published",
-      "summary": "Version 2.1.258 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.258 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-01T22:25:07.449000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]

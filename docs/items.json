@@ -1,9 +1,91 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-12T22:21:45.578425+00:00",
+  "generated": "2026-09-13T01:05:23.174902+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Building a C compiler with a team of parallel Claudes",
+      "url": "https://www.anthropic.com/engineering/building-c-compiler",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T01:04:25.132298+00:00",
+      "body": "We tasked Opus 4.6 using agent teams to build a C Compiler, and then (mostly) walked away. Here's what it taught us about the future of autonomous software development.",
+      "summary": "We tasked Opus 4.6 using agent teams to build a C Compiler, and then (mostly) walked away. Here's what it taught us about the future of autonomous software development.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering",
+        "opus"
+      ],
+      "uid": "aa45b159f4c36bd6"
+    },
+    {
+      "title": "Eval awareness in Claude Opus 4.6\u2019s BrowseComp performance",
+      "url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T01:04:25.132285+00:00",
+      "body": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it\u2014raising questions about eval integrity in web-enabled environments.",
+      "summary": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it\u2014raising questions about eval integrity in web-enabled environments.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering",
+        "opus"
+      ],
+      "uid": "f0814aaface4c956"
+    },
+    {
+      "title": "Harness design for long-running application development",
+      "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T01:04:25.132271+00:00",
+      "body": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
+      "summary": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "cbc62fbd516489f9"
+    },
+    {
+      "title": "How we built Claude Code auto mode: a safer way to skip permissions",
+      "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T01:04:25.132257+00:00",
+      "body": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.\\n",
+      "summary": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.\\n",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "03a152ee697246cd"
+    },
+    {
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "source": "anthropic-engineering",
+      "published": "2026-09-13T01:04:25.132242+00:00",
+      "body": "Harnesses encode assumptions that go stale as models improve. Managed Agents\u2014our hosted service for long-horizon agent work\u2014is built around interfaces that stay stable as harnesses change.",
+      "summary": "Harnesses encode assumptions that go stale as models improve. Managed Agents\u2014our hosted service for long-horizon agent work\u2014is built around interfaces that stay stable as harnesses change.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "0053e0c582e53587"
+    },
     {
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
@@ -4605,71 +4687,6 @@
         "mcp"
       ],
       "uid": "dd9b37132b0ca3bc"
-    },
-    {
-      "title": "Introducing advanced tool use on the Claude Developer Platform",
-      "url": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "source": "anthropic-engineering",
-      "published": "2026-08-06T13:23:07.781835+00:00",
-      "body": "We\u2019ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here\u2019s how they work.",
-      "summary": "We\u2019ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here\u2019s how they work.",
-      "version": "",
-      "category": "launch",
-      "impact": "feature",
-      "tags": [],
-      "uid": "c343e840b5a491e6"
-    },
-    {
-      "title": "Effective harnesses for long-running agents",
-      "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
-      "source": "anthropic-engineering",
-      "published": "2026-08-06T13:23:07.781820+00:00",
-      "body": "Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.",
-      "summary": "Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "e6b63261de37bce8"
-    },
-    {
-      "title": "Demystifying evals for AI agents",
-      "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
-      "source": "anthropic-engineering",
-      "published": "2026-08-06T13:23:07.781806+00:00",
-      "body": "The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \\n",
-      "summary": "The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \\n",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "0c6dc2bdd58b522a"
-    },
-    {
-      "title": "Designing AI-resistant technical evaluations",
-      "url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
-      "source": "anthropic-engineering",
-      "published": "2026-08-06T13:23:07.781790+00:00",
-      "body": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
-      "summary": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "bf23981790fd7bc8"
-    },
-    {
-      "title": "Quantifying infrastructure noise in agentic coding evals",
-      "url": "https://www.anthropic.com/engineering/infrastructure-noise",
-      "source": "anthropic-engineering",
-      "published": "2026-08-06T13:23:07.781775+00:00",
-      "body": "Infrastructure configuration can swing agentic coding benchmarks by several percentage points\u2014sometimes more than the leaderboard gap between top models.\\n\\n",
-      "summary": "Infrastructure configuration can swing agentic coding benchmarks by several percentage points\u2014sometimes more than the leaderboard gap between top models.\\n\\n",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "47646435ea1166b3"
     }
   ]
 }
