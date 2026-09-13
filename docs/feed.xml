@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 13 Sep 2026 16:24:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 19:30:51 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>David Sacks: OpenAI and Anthropic Don&#x27;t Need Regulations to Pace Frontier Models</title>
+<link>https://twitter.com/DavidSacks/status/2098973625252708460</link>
+<guid isPermaLink="false">frontierfeed:05d738e1b88034dc</guid>
+<pubDate>Sun, 13 Sep 2026 16:52:33 +0000</pubDate>
+<category>note</category>
+<description>133 points, 99 comments. Discussion: https://news.ycombinator.com/item?id=49685991</description>
+</item>
 <item>
 <title>Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic</title>
 <link>https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo</link>
@@ -806,14 +814,6 @@
 <pubDate>Fri, 04 Sep 2026 15:33:45 +0000</pubDate>
 <category>note</category>
 <description>43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137</description>
-</item>
-<item>
-<title>Corporate America is getting hooked on open-source AI</title>
-<link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
-<guid isPermaLink="false">frontierfeed:ec514f242a3743c5</guid>
-<pubDate>Fri, 04 Sep 2026 15:33:45 +0000</pubDate>
-<category>note</category>
-<description>194 points, 170 comments. Discussion: https://news.ycombinator.com/item?id=49566137</description>
 </item>
 </channel>
 </rss>

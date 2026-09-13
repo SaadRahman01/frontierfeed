@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-13T16:24:13.941058+00:00",
+  "generated": "2026-09-13T19:30:51.699739+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "source": "hackernews",
+      "published": "2026-09-13T16:52:33+00:00",
+      "body": "133 points, 99 comments. Discussion: https://news.ycombinator.com/item?id=49685991",
+      "summary": "133 points, 99 comments. Discussion: https://news.ycombinator.com/item?id=49685991",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "05d738e1b88034dc"
+    },
     {
       "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
       "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
@@ -4696,19 +4711,6 @@
       "impact": "info",
       "tags": [],
       "uid": "d3e539eeba3055a1"
-    },
-    {
-      "title": "Think through hard problems in voice mode",
-      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859452+00:00",
-      "body": "Think through hard problems in voice mode",
-      "summary": "Think through hard problems in voice mode",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "1d7fd83c5b4f7c86"
     }
   ]
 }

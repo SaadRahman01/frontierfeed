@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:05d738e1b88034dc",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "summary": "133 points, 99 comments. Discussion: https://news.ycombinator.com/item?id=49685991",
+      "content_text": "133 points, 99 comments. Discussion: https://news.ycombinator.com/item?id=49685991",
+      "date_published": "2026-09-13T16:52:33+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:631d7913c94e27ca",
       "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
       "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
@@ -1361,19 +1374,6 @@
       "title": "Corporate America Is Getting Hooked on Open-Source A.I",
       "summary": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
       "content_text": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
-      "date_published": "2026-09-04T15:33:45+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:ec514f242a3743c5",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "title": "Corporate America is getting hooked on open-source AI",
-      "summary": "194 points, 170 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
-      "content_text": "194 points, 170 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
       "date_published": "2026-09-04T15:33:45+00:00",
       "tags": [
         "note",
