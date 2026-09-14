@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:90810c8dbe31c4a4",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "summary": "104 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49695409",
+      "content_text": "104 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49695409",
+      "date_published": "2026-09-14T12:01:32+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:05d738e1b88034dc",
       "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
       "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
@@ -1366,19 +1379,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:2da982e720d9dac1",
-      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-      "summary": "140 points, 105 comments. Discussion: https://news.ycombinator.com/item?id=49567594",
-      "content_text": "140 points, 105 comments. Discussion: https://news.ycombinator.com/item?id=49567594",
-      "date_published": "2026-09-04T17:29:22+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]

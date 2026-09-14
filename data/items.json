@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "source": "hackernews",
+      "published": "2026-09-14T12:01:32+00:00",
+      "body": "104 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49695409",
+      "summary": "104 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49695409",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "90810c8dbe31c4a4"
+    },
+    {
       "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
       "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
       "source": "hackernews",
@@ -4696,19 +4711,6 @@
         "skills"
       ],
       "uid": "7d7ecaf4c5822345"
-    },
-    {
-      "title": "How Outtake built a cyber investigator on Claude",
-      "url": "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859481+00:00",
-      "body": "How Outtake built a cyber investigator on Claude",
-      "summary": "How Outtake built a cyber investigator on Claude",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "edec9ad788034b2b"
     }
   ]
 }
