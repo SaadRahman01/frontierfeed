@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 14 Sep 2026 19:26:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 23:11:19 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.224</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.224</link>
+<guid isPermaLink="false">frontierfeed:e2dbb50bea54bfc7</guid>
+<pubDate>Mon, 14 Sep 2026 22:14:28 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.223...v1.0.224</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.271 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.271</link>
+<guid isPermaLink="false">frontierfeed:09aaae37555e7509</guid>
+<pubDate>Mon, 14 Sep 2026 19:45:19 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.271 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic</title>
 <link>https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo</link>
@@ -758,22 +774,6 @@
 <pubDate>Sat, 08 Aug 2026 01:53:22 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.226 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>How Anthropic runs large-scale code migrations with Claude Code</title>
-<link>https://claude.com/blog/ai-code-migration</link>
-<guid isPermaLink="false">frontierfeed:98459f55998be428</guid>
-<pubDate>Thu, 06 Aug 2026 13:23:08 +0000</pubDate>
-<category>claude-code</category>
-<description>How Anthropic runs large-scale code migrations with Claude Code</description>
-</item>
-<item>
-<title>Working with Claude Fable 5 in Claude Cowork</title>
-<link>https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork</link>
-<guid isPermaLink="false">frontierfeed:6dc77424dd26457d</guid>
-<pubDate>Thu, 06 Aug 2026 13:23:08 +0000</pubDate>
-<category>claude-code</category>
-<description>Working with Claude Fable 5 in Claude Cowork</description>
 </item>
 </channel>
 </rss>

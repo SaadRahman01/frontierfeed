@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 14 Sep 2026 19:26:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 23:11:19 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Deploying AI from pilot to production</title>
+<link>https://claude.com/blog/deploying-ai-from-pilot-to-production</link>
+<guid isPermaLink="false">frontierfeed:e6300bd96c6f5992</guid>
+<pubDate>Mon, 14 Sep 2026 23:10:38 +0000</pubDate>
+<category>note</category>
+<description>Deploying AI from pilot to production</description>
+</item>
+<item>
+<title>v1.0.224</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.224</link>
+<guid isPermaLink="false">frontierfeed:e2dbb50bea54bfc7</guid>
+<pubDate>Mon, 14 Sep 2026 22:14:28 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.223...v1.0.224</description>
+</item>
+<item>
+<title>A single firm is behind OpenAI, Anthropic, and Meta hacking scandals</title>
+<link>https://www.effort.news/irregular</link>
+<guid isPermaLink="false">frontierfeed:1f969257dd62e1c3</guid>
+<pubDate>Mon, 14 Sep 2026 21:15:01 +0000</pubDate>
+<category>note</category>
+<description>88 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49704132</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.271 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.271</link>
+<guid isPermaLink="false">frontierfeed:09aaae37555e7509</guid>
+<pubDate>Mon, 14 Sep 2026 19:45:19 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.271 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic</title>
 <link>https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic</link>
@@ -782,38 +814,6 @@
 <pubDate>Fri, 04 Sep 2026 22:20:42 +0000</pubDate>
 <category>api</category>
 <description>## 0.4.5 (2026-09-04) Full Changelog: [foundry-sdk-v0.4.4...foundry-sdk-v0.4.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.4...foundry-sdk-v0.4.5) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics/anth…</description>
-</item>
-<item>
-<title>bedrock-sdk: v0.33.4</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.4</link>
-<guid isPermaLink="false">frontierfeed:fa4c0e0245115501</guid>
-<pubDate>Fri, 04 Sep 2026 22:20:37 +0000</pubDate>
-<category>api</category>
-<description>## 0.33.4 (2026-09-04) Full Changelog: [bedrock-sdk-v0.33.3...bedrock-sdk-v0.33.4](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.3...bedrock-sdk-v0.33.4) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics…</description>
-</item>
-<item>
-<title>vertex-sdk: v0.19.7</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.7</link>
-<guid isPermaLink="false">frontierfeed:56027954546bb06f</guid>
-<pubDate>Fri, 04 Sep 2026 22:20:30 +0000</pubDate>
-<category>api</category>
-<description>## 0.19.7 (2026-09-04) Full Changelog: [vertex-sdk-v0.19.6...vertex-sdk-v0.19.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.6...vertex-sdk-v0.19.7) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics/ant…</description>
-</item>
-<item>
-<title>sdk: v0.124.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.124.0</link>
-<guid isPermaLink="false">frontierfeed:9a8418248aef2e07</guid>
-<pubDate>Fri, 04 Sep 2026 22:20:24 +0000</pubDate>
-<category>api</category>
-<description>## 0.124.0 (2026-09-04) Full Changelog: [sdk-v0.123.0...sdk-v0.124.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.123.0...sdk-v0.124.0) ### Features * **api:** add Claude Tag category and user breakdowns to usage reports ([669ff22](https://github.com/ant…</description>
-</item>
-<item>
-<title>v1.4.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.4.0</link>
-<guid isPermaLink="false">frontierfeed:3804d4986161254d</guid>
-<pubDate>Fri, 04 Sep 2026 22:20:20 +0000</pubDate>
-<category>api</category>
-<description>## 1.4.0 (2026-09-04) Full Changelog: [v1.3.0...v1.4.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.3.0...v1.4.0) ### Features * **api:** add Claude Tag category and user breakdowns to usage reports ([9fce1e4](https://github.com/anthropics/anthropic-sdk-python/c…</description>
 </item>
 </channel>
 </rss>

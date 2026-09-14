@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "title": "Deploying AI from pilot to production",
+      "url": "https://claude.com/blog/deploying-ai-from-pilot-to-production",
+      "source": "claude-blog",
+      "published": "2026-09-14T23:10:38.703413+00:00",
+      "body": "Deploying AI from pilot to production",
+      "summary": "Deploying AI from pilot to production",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "e6300bd96c6f5992"
+    },
+    {
+      "title": "v1.0.224",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.224",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-14T22:14:28+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.223...v1.0.224",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.223...v1.0.224",
+      "version": "1.0.224",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "e2dbb50bea54bfc7"
+    },
+    {
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "url": "https://www.effort.news/irregular",
+      "source": "hackernews",
+      "published": "2026-09-14T21:15:01+00:00",
+      "body": "88 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49704132",
+      "summary": "88 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49704132",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "1f969257dd62e1c3"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.271 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.271",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-14T19:45:19.456000+00:00",
+      "body": "Version 2.1.271 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.271 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.271",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "09aaae37555e7509"
+    },
+    {
       "title": "Agentic coding is straining CI. Here\u2019s how we scaled test impact analysis at Anthropic",
       "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
       "source": "claude-blog",
@@ -4673,58 +4736,6 @@
         "community"
       ],
       "uid": "b651d8b1199993e5"
-    },
-    {
-      "title": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
-      "url": "https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859632+00:00",
-      "body": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
-      "summary": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "e52114accf158484"
-    },
-    {
-      "title": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
-      "url": "https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859617+00:00",
-      "body": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
-      "summary": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "d7411d0641d0fe83"
-    },
-    {
-      "title": "How Anthropic runs large-scale code migrations with Claude Code",
-      "url": "https://claude.com/blog/ai-code-migration",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859602+00:00",
-      "body": "How Anthropic runs large-scale code migrations with Claude Code",
-      "summary": "How Anthropic runs large-scale code migrations with Claude Code",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [],
-      "uid": "98459f55998be428"
-    },
-    {
-      "title": "Working with Claude Fable 5 in Claude Cowork",
-      "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859587+00:00",
-      "body": "Working with Claude Fable 5 in Claude Cowork",
-      "summary": "Working with Claude Fable 5 in Claude Cowork",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [],
-      "uid": "6dc77424dd26457d"
     }
   ]
 }
