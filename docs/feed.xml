@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 14 Sep 2026 14:10:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 19:26:44 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,46 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic</title>
+<link>https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic</link>
+<guid isPermaLink="false">frontierfeed:eb27b9b4719dec2b</guid>
+<pubDate>Mon, 14 Sep 2026 19:25:48 +0000</pubDate>
+<category>note</category>
+<description>Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic</description>
+</item>
+<item>
+<title>Claude for Financial Advisors</title>
+<link>https://claude.com/blog/claude-for-financial-advisors</link>
+<guid isPermaLink="false">frontierfeed:9333eb3740a949b9</guid>
+<pubDate>Mon, 14 Sep 2026 19:25:48 +0000</pubDate>
+<category>note</category>
+<description>Claude for Financial Advisors</description>
+</item>
+<item>
+<title>How healthcare organizations use Claude Tag</title>
+<link>https://claude.com/blog/how-healthcare-organizations-use-claude-tag</link>
+<guid isPermaLink="false">frontierfeed:1bf334d1ccc26892</guid>
+<pubDate>Mon, 14 Sep 2026 19:25:48 +0000</pubDate>
+<category>note</category>
+<description>How healthcare organizations use Claude Tag</description>
+</item>
+<item>
+<title>Anthropic tells investors it will be profitable for second straight quarter</title>
+<link>https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/</link>
+<guid isPermaLink="false">frontierfeed:a057ec6883ac185f</guid>
+<pubDate>Mon, 14 Sep 2026 15:47:29 +0000</pubDate>
+<category>note</category>
+<description>47 points, 71 comments. Discussion: https://news.ycombinator.com/item?id=49698936</description>
+</item>
+<item>
+<title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
+<link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
+<guid isPermaLink="false">frontierfeed:7abc7cafe46cb9b8</guid>
+<pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
+<category>note</category>
+<description>89 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49697014</description>
+</item>
 <item>
 <title>Apple&#x27;s Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows</title>
 <link>https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/</link>
@@ -400,6 +440,14 @@
 <description>What 1,000 small business owners taught us about AI</description>
 </item>
 <item>
+<title>Anthropic CEOs wife once asked Epstein to fund porn venture – now steers Claude</title>
+<link>https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire/</link>
+<guid isPermaLink="false">frontierfeed:8219d985bfdd8238</guid>
+<pubDate>Thu, 10 Sep 2026 22:38:00 +0000</pubDate>
+<category>note</category>
+<description>40 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49651084</description>
+</item>
+<item>
 <title>v1.0.221</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.221</link>
 <guid isPermaLink="false">frontierfeed:476e1c439640e2c0</guid>
@@ -766,54 +814,6 @@
 <pubDate>Fri, 04 Sep 2026 22:20:20 +0000</pubDate>
 <category>api</category>
 <description>## 1.4.0 (2026-09-04) Full Changelog: [v1.3.0...v1.4.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.3.0...v1.4.0) ### Features * **api:** add Claude Tag category and user breakdowns to usage reports ([9fce1e4](https://github.com/anthropics/anthropic-sdk-python/c…</description>
-</item>
-<item>
-<title>Fermat&#x27;s Last Theorem: Anthropic has beaten me to it</title>
-<link>https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/</link>
-<guid isPermaLink="false">frontierfeed:f3acdfdaf9c729c0</guid>
-<pubDate>Fri, 04 Sep 2026 21:00:02 +0000</pubDate>
-<category>note</category>
-<description>41 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49570133</description>
-</item>
-<item>
-<title>v1.0.216</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.216</link>
-<guid isPermaLink="false">frontierfeed:e9225d6fde69c9d8</guid>
-<pubDate>Fri, 04 Sep 2026 19:59:57 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.215...v1.0.216</description>
-</item>
-<item>
-<title>Fermat&#x27;s Last Theorem in Lean 4</title>
-<link>https://github.com/anthropics/fermats-last-theorem</link>
-<guid isPermaLink="false">frontierfeed:dd4d8d7bc00842fb</guid>
-<pubDate>Fri, 04 Sep 2026 18:57:32 +0000</pubDate>
-<category>note</category>
-<description>59 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49568697</description>
-</item>
-<item>
-<title>Formalizing Fermat&#x27;s Last Theorem</title>
-<link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
-<guid isPermaLink="false">frontierfeed:c15277b9db2335c2</guid>
-<pubDate>Fri, 04 Sep 2026 18:42:56 +0000</pubDate>
-<category>note</category>
-<description>124 points, 58 comments. Discussion: https://news.ycombinator.com/item?id=49568506</description>
-</item>
-<item>
-<title>Show HN: Jigsaw Haiku</title>
-<link>https://jigsawhaiku.com/</link>
-<guid isPermaLink="false">frontierfeed:ede266f9b37c972e</guid>
-<pubDate>Fri, 04 Sep 2026 18:14:44 +0000</pubDate>
-<category>note</category>
-<description>74 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49568162</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.261 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.261</link>
-<guid isPermaLink="false">frontierfeed:cd0f6cd7626e05db</guid>
-<pubDate>Fri, 04 Sep 2026 17:49:34 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.261 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

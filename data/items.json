@@ -1,6 +1,85 @@
 {
   "items": [
     {
+      "title": "Agentic coding is straining CI. Here\u2019s how we scaled test impact analysis at Anthropic",
+      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "source": "claude-blog",
+      "published": "2026-09-14T19:25:48.328466+00:00",
+      "body": "Agentic coding is straining CI. Here\u2019s how we scaled test impact analysis at Anthropic",
+      "summary": "Agentic coding is straining CI. Here\u2019s how we scaled test impact analysis at Anthropic",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "eb27b9b4719dec2b"
+    },
+    {
+      "title": "Claude for Financial Advisors",
+      "url": "https://claude.com/blog/claude-for-financial-advisors",
+      "source": "claude-blog",
+      "published": "2026-09-14T19:25:48.328441+00:00",
+      "body": "Claude for Financial Advisors",
+      "summary": "Claude for Financial Advisors",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "9333eb3740a949b9"
+    },
+    {
+      "title": "How healthcare organizations use Claude Tag",
+      "url": "https://claude.com/blog/how-healthcare-organizations-use-claude-tag",
+      "source": "claude-blog",
+      "published": "2026-09-14T19:25:48.328398+00:00",
+      "body": "How healthcare organizations use Claude Tag",
+      "summary": "How healthcare organizations use Claude Tag",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "1bf334d1ccc26892"
+    },
+    {
+      "title": "Anthropic tells investors it will be profitable for second straight quarter",
+      "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/",
+      "source": "hackernews",
+      "published": "2026-09-14T15:47:29+00:00",
+      "body": "47 points, 71 comments. Discussion: https://news.ycombinator.com/item?id=49698936",
+      "summary": "47 points, 71 comments. Discussion: https://news.ycombinator.com/item?id=49698936",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "a057ec6883ac185f"
+    },
+    {
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "source": "hackernews",
+      "published": "2026-09-14T13:59:09+00:00",
+      "body": "89 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49697014",
+      "summary": "89 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49697014",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "7abc7cafe46cb9b8"
+    },
+    {
       "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
       "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
       "source": "hackernews",
@@ -763,6 +842,21 @@
         "product"
       ],
       "uid": "d8bfd3712f9cc467"
+    },
+    {
+      "title": "Anthropic CEOs wife once asked Epstein to fund porn venture \u2013 now steers Claude",
+      "url": "https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire/",
+      "source": "hackernews",
+      "published": "2026-09-10T22:38:00+00:00",
+      "body": "40 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49651084",
+      "summary": "40 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49651084",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "8219d985bfdd8238"
     },
     {
       "title": "v1.0.221",
@@ -4631,86 +4725,6 @@
       "impact": "info",
       "tags": [],
       "uid": "6dc77424dd26457d"
-    },
-    {
-      "title": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
-      "url": "https://claude.com/blog/working-at-the-frontier-cursor",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859571+00:00",
-      "body": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
-      "summary": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "1c294aa7381f1629"
-    },
-    {
-      "title": "Zero risk isn't the job: a CISO's guide to agentic AI",
-      "url": "https://claude.com/blog/ciso-guide-to-agentic-ai",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859556+00:00",
-      "body": "Zero risk isn't the job: a CISO's guide to agentic AI",
-      "summary": "Zero risk isn't the job: a CISO's guide to agentic AI",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "992925aaef1e490b"
-    },
-    {
-      "title": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
-      "url": "https://claude.com/blog/working-at-the-frontier-rakuten",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859540+00:00",
-      "body": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
-      "summary": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "57ea816d152b7226"
-    },
-    {
-      "title": "How Anthropic secures its AI-native software development lifecycle",
-      "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859525+00:00",
-      "body": "How Anthropic secures its AI-native software development lifecycle",
-      "summary": "How Anthropic secures its AI-native software development lifecycle",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "d59381a90ef0a83e"
-    },
-    {
-      "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
-      "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859511+00:00",
-      "body": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
-      "summary": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [],
-      "uid": "cdfa5b541ed204f7"
-    },
-    {
-      "title": "Building verification loops in Claude Code with skills",
-      "url": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859496+00:00",
-      "body": "Building verification loops in Claude Code with skills",
-      "summary": "Building verification loops in Claude Code with skills",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "skills"
-      ],
-      "uid": "7d7ecaf4c5822345"
     }
   ]
 }
