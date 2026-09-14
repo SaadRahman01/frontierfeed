@@ -623,6 +623,19 @@
       ]
     },
     {
+      "id": "frontierfeed:dd0d766f247e2492",
+      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+      "summary": "54 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49653311",
+      "content_text": "54 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49653311",
+      "date_published": "2026-09-11T03:45:42+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:778a0265f5854c98",
       "url": "https://www.anthropic.com/news/tino-cuellar",
       "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
@@ -1362,19 +1375,6 @@
       "summary": "140 points, 105 comments. Discussion: https://news.ycombinator.com/item?id=49567594",
       "content_text": "140 points, 105 comments. Discussion: https://news.ycombinator.com/item?id=49567594",
       "date_published": "2026-09-04T17:29:22+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:631854626ae66ad3",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "title": "Corporate America Is Getting Hooked on Open-Source A.I",
-      "summary": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
-      "content_text": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
-      "date_published": "2026-09-04T15:33:45+00:00",
       "tags": [
         "note",
         "info",

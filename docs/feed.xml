@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 13 Sep 2026 22:28:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 01:11:36 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -366,6 +366,14 @@
 <pubDate>Fri, 11 Sep 2026 06:04:01 +0000</pubDate>
 <category>note</category>
 <description>Investigating three real-world incidents in our cybersecurity evaluations</description>
+</item>
+<item>
+<title>Reverse-Engineering Claude Web&#x27;s MicroVM: Uncovering Anthropic&#x27;s Hidden Antspace</title>
+<link>https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace</link>
+<guid isPermaLink="false">frontierfeed:dd0d766f247e2492</guid>
+<pubDate>Fri, 11 Sep 2026 03:45:42 +0000</pubDate>
+<category>note</category>
+<description>54 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49653311</description>
 </item>
 <item>
 <title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
@@ -806,14 +814,6 @@
 <pubDate>Fri, 04 Sep 2026 17:29:22 +0000</pubDate>
 <category>note</category>
 <description>140 points, 105 comments. Discussion: https://news.ycombinator.com/item?id=49567594</description>
-</item>
-<item>
-<title>Corporate America Is Getting Hooked on Open-Source A.I</title>
-<link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
-<guid isPermaLink="false">frontierfeed:631854626ae66ad3</guid>
-<pubDate>Fri, 04 Sep 2026 15:33:45 +0000</pubDate>
-<category>note</category>
-<description>43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137</description>
 </item>
 </channel>
 </rss>

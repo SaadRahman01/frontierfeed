@@ -703,6 +703,21 @@
       "uid": "37147b115f3e1032"
     },
     {
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "source": "hackernews",
+      "published": "2026-09-11T03:45:42+00:00",
+      "body": "54 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49653311",
+      "summary": "54 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49653311",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "dd0d766f247e2492"
+    },
+    {
       "title": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
       "url": "https://www.anthropic.com/news/tino-cuellar",
       "source": "anthropic-news",
@@ -4694,19 +4709,6 @@
       "impact": "info",
       "tags": [],
       "uid": "edec9ad788034b2b"
-    },
-    {
-      "title": "Four role-based certifications for the people who put Claude to work for customers",
-      "url": "https://claude.com/blog/four-role-based-claude-certifications",
-      "source": "claude-blog",
-      "published": "2026-08-06T13:23:08.859467+00:00",
-      "body": "Four role-based certifications for the people who put Claude to work for customers",
-      "summary": "Four role-based certifications for the people who put Claude to work for customers",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [],
-      "uid": "d3e539eeba3055a1"
     }
   ]
 }
