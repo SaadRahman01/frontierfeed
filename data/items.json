@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks",
+      "url": "https://twitter.com/brianchau57/status/2099580981271318606",
+      "source": "hackernews",
+      "published": "2026-09-15T02:05:35+00:00",
+      "body": "41 points, 7 comments. Discussion: https://news.ycombinator.com/item?id=49706829",
+      "summary": "41 points, 7 comments. Discussion: https://news.ycombinator.com/item?id=49706829",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "8b88cc623240f385"
+    },
+    {
       "title": "v1.0.225",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.225",
       "source": "github:anthropics/claude-code-action",
@@ -31,6 +46,21 @@
         "npm"
       ],
       "uid": "931f201367ea22d2"
+    },
+    {
+      "title": "Anthropic is in regulatory-capture financial loop",
+      "url": "https://twitter.com/kevinnbass/status/2099626156660043891",
+      "source": "hackernews",
+      "published": "2026-09-14T23:23:46+00:00",
+      "body": "59 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49705630",
+      "summary": "59 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49705630",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "786078f443719db2"
     },
     {
       "title": "Deploying AI from pilot to production",
@@ -4704,37 +4734,6 @@
         "opus"
       ],
       "uid": "f3885ca9db0aa616"
-    },
-    {
-      "title": "Message your other Claude Code sessions",
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "source": "hackernews",
-      "published": "2026-08-08T15:34:49+00:00",
-      "body": "173 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=49222824",
-      "summary": "173 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=49222824",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "1f0b469c7dc51d58"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.226 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.226",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-08T01:53:22.182000+00:00",
-      "body": "Version 2.1.226 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.226 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.226",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "817132682b6a3dcf"
     }
   ]
 }

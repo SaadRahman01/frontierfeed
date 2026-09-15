@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:8b88cc623240f385",
+      "url": "https://twitter.com/brianchau57/status/2099580981271318606",
+      "title": "Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks",
+      "summary": "41 points, 7 comments. Discussion: https://news.ycombinator.com/item?id=49706829",
+      "content_text": "41 points, 7 comments. Discussion: https://news.ycombinator.com/item?id=49706829",
+      "date_published": "2026-09-15T02:05:35+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:fc9721416bd2aca1",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.225",
       "title": "v1.0.225",
@@ -34,6 +47,19 @@
         "fix",
         "release",
         "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:786078f443719db2",
+      "url": "https://twitter.com/kevinnbass/status/2099626156660043891",
+      "title": "Anthropic is in regulatory-capture financial loop",
+      "summary": "59 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49705630",
+      "content_text": "59 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49705630",
+      "date_published": "2026-09-14T23:23:46+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1352,33 +1378,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:f5fc8c7dbed68175",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "summary": "77 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49571465",
-      "content_text": "77 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49571465",
-      "date_published": "2026-09-04T23:38:50+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:dd98f07d58acd2a8",
-      "url": "https://github.com/NeoLabHQ/context-engineering-kit",
-      "title": "Claude Code skills for advanced context engineering techniques and patterns",
-      "summary": "40 points, 4 comments. Discussion: https://news.ycombinator.com/item?id=49571131",
-      "content_text": "40 points, 4 comments. Discussion: https://news.ycombinator.com/item?id=49571131",
-      "date_published": "2026-09-04T22:52:14+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community",
-        "skills"
       ]
     }
   ]

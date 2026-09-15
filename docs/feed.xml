@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 15 Sep 2026 01:32:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 07:50:12 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks</title>
+<link>https://twitter.com/brianchau57/status/2099580981271318606</link>
+<guid isPermaLink="false">frontierfeed:8b88cc623240f385</guid>
+<pubDate>Tue, 15 Sep 2026 02:05:35 +0000</pubDate>
+<category>note</category>
+<description>41 points, 7 comments. Discussion: https://news.ycombinator.com/item?id=49706829</description>
+</item>
 <item>
 <title>v1.0.225</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.225</link>
@@ -30,6 +38,14 @@
 <pubDate>Mon, 14 Sep 2026 23:34:13 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.272 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Anthropic is in regulatory-capture financial loop</title>
+<link>https://twitter.com/kevinnbass/status/2099626156660043891</link>
+<guid isPermaLink="false">frontierfeed:786078f443719db2</guid>
+<pubDate>Mon, 14 Sep 2026 23:23:46 +0000</pubDate>
+<category>note</category>
+<description>59 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49705630</description>
 </item>
 <item>
 <title>Deploying AI from pilot to production</title>
@@ -798,22 +814,6 @@
 <pubDate>Sat, 05 Sep 2026 06:31:31 +0000</pubDate>
 <category>note</category>
 <description>42 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49573677</description>
-</item>
-<item>
-<title>Portal by Spotify cut my Claude Code token usage by 90%</title>
-<link>https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</link>
-<guid isPermaLink="false">frontierfeed:f5fc8c7dbed68175</guid>
-<pubDate>Fri, 04 Sep 2026 23:38:50 +0000</pubDate>
-<category>claude-code</category>
-<description>77 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49571465</description>
-</item>
-<item>
-<title>Claude Code skills for advanced context engineering techniques and patterns</title>
-<link>https://github.com/NeoLabHQ/context-engineering-kit</link>
-<guid isPermaLink="false">frontierfeed:dd98f07d58acd2a8</guid>
-<pubDate>Fri, 04 Sep 2026 22:52:14 +0000</pubDate>
-<category>claude-code</category>
-<description>40 points, 4 comments. Discussion: https://news.ycombinator.com/item?id=49571131</description>
 </item>
 </channel>
 </rss>

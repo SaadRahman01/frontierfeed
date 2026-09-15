@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 15 Sep 2026 01:32:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 07:50:12 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -774,22 +774,6 @@
 <pubDate>Mon, 10 Aug 2026 03:50:00 +0000</pubDate>
 <category>claude-code</category>
 <description>291 points, 313 comments. Discussion: https://news.ycombinator.com/item?id=49239021</description>
-</item>
-<item>
-<title>Message your other Claude Code sessions</title>
-<link>https://code.claude.com/docs/en/cross-session-messaging</link>
-<guid isPermaLink="false">frontierfeed:1f0b469c7dc51d58</guid>
-<pubDate>Sat, 08 Aug 2026 15:34:49 +0000</pubDate>
-<category>claude-code</category>
-<description>173 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=49222824</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.226 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.226</link>
-<guid isPermaLink="false">frontierfeed:817132682b6a3dcf</guid>
-<pubDate>Sat, 08 Aug 2026 01:53:22 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.226 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>
