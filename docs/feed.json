@@ -9,6 +9,160 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:0f0524b3f1f2c774",
+      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+      "title": "Claude for Small Business launches new workflows, integrations, and training programs",
+      "summary": "Claude for Small Business launches new workflows, integrations, and training programs",
+      "content_text": "Claude for Small Business launches new workflows, integrations, and training programs",
+      "date_published": "2026-09-15T18:15:03.571883+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:75b7cf7a0e6ad94f",
+      "url": "https://claude.com/blog/salesforce-in-claude",
+      "title": "Bringing Salesforce into Claude",
+      "summary": "Bringing Salesforce into Claude",
+      "content_text": "Bringing Salesforce into Claude",
+      "date_published": "2026-09-15T18:15:03.571856+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:5725b9637f6a0732",
+      "url": "https://claude.com/blog/building-an-ai-native-revenue-organization",
+      "title": "Building an AI-native revenue organization",
+      "summary": "Building an AI-native revenue organization",
+      "content_text": "Building an AI-native revenue organization",
+      "date_published": "2026-09-15T18:15:03.571813+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:59dadfe716a9d1de",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.273",
+      "title": "@anthropic-ai/claude-code 2.1.273 published",
+      "summary": "Version 2.1.273 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.273 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-15T18:06:34.098000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:5e55884df5209ad3",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.12",
+      "title": "google-cloud-sdk: v0.0.12",
+      "summary": "## 0.0.12 (2026-09-15) Full Changelog: [google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12) ### Chores * **internal:** move the sub-packages off ts-node and modern…",
+      "content_text": "## 0.0.12 (2026-09-15) Full Changelog: [google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12) ### Chores * **internal:** move the sub-packages off ts-node and modern…",
+      "date_published": "2026-09-15T17:34:43+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:fb41d17e6944b705",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.2",
+      "title": "aws-sdk: v0.7.2",
+      "summary": "## 0.7.2 (2026-09-15) Full Changelog: [aws-sdk-v0.7.1...aws-sdk-v0.7.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.1...aws-sdk-v0.7.2) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig ([1d7cd91](https://git…",
+      "content_text": "## 0.7.2 (2026-09-15) Full Changelog: [aws-sdk-v0.7.1...aws-sdk-v0.7.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.1...aws-sdk-v0.7.2) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig ([1d7cd91](https://git…",
+      "date_published": "2026-09-15T17:34:38+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:31c2e89725785050",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.7",
+      "title": "foundry-sdk: v0.4.7",
+      "summary": "## 0.4.7 (2026-09-15) Full Changelog: [foundry-sdk-v0.4.6...foundry-sdk-v0.4.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.6...foundry-sdk-v0.4.7) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig ([1d7c…",
+      "content_text": "## 0.4.7 (2026-09-15) Full Changelog: [foundry-sdk-v0.4.6...foundry-sdk-v0.4.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.6...foundry-sdk-v0.4.7) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig ([1d7c…",
+      "date_published": "2026-09-15T17:34:32+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:df1ddbf9b9496831",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.6",
+      "title": "bedrock-sdk: v0.33.6",
+      "summary": "## 0.33.6 (2026-09-15) Full Changelog: [bedrock-sdk-v0.33.5...bedrock-sdk-v0.33.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.5...bedrock-sdk-v0.33.6) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig (…",
+      "content_text": "## 0.33.6 (2026-09-15) Full Changelog: [bedrock-sdk-v0.33.5...bedrock-sdk-v0.33.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.5...bedrock-sdk-v0.33.6) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig (…",
+      "date_published": "2026-09-15T17:34:25+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:09f1d14349cfe923",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.9",
+      "title": "vertex-sdk: v0.19.9",
+      "summary": "## 0.19.9 (2026-09-15) Full Changelog: [vertex-sdk-v0.19.8...vertex-sdk-v0.19.9](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.8...vertex-sdk-v0.19.9) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig ([1d7…",
+      "content_text": "## 0.19.9 (2026-09-15) Full Changelog: [vertex-sdk-v0.19.8...vertex-sdk-v0.19.9](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.8...vertex-sdk-v0.19.9) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig ([1d7…",
+      "date_published": "2026-09-15T17:34:18+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:f0f9ca56365d0f12",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.126.0",
+      "title": "sdk: v0.126.0",
+      "summary": "## 0.126.0 (2026-09-15) Full Changelog: [sdk-v0.125.0...sdk-v0.126.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.125.0...sdk-v0.126.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([7829b43](https://github.com/anthropics/ant…",
+      "content_text": "## 0.126.0 (2026-09-15) Full Changelog: [sdk-v0.125.0...sdk-v0.126.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.125.0...sdk-v0.126.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([7829b43](https://github.com/anthropics/ant…",
+      "date_published": "2026-09-15T17:34:12+00:00",
+      "tags": [
+        "deprecation",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:27c22754ab98cee0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.6.0",
+      "title": "v1.6.0",
+      "summary": "## 1.6.0 (2026-09-15) Full Changelog: [v1.5.0...v1.6.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.5.0...v1.6.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([909d92f](https://github.com/anthropics/anthropic-sdk-python/commit/909d9…",
+      "content_text": "## 1.6.0 (2026-09-15) Full Changelog: [v1.5.0...v1.6.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.5.0...v1.6.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([909d92f](https://github.com/anthropics/anthropic-sdk-python/commit/909d9…",
+      "date_published": "2026-09-15T15:14:42+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-python"
+      ]
+    },
+    {
       "id": "frontierfeed:8b88cc623240f385",
       "url": "https://twitter.com/brianchau57/status/2099580981271318606",
       "title": "Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks",
@@ -340,6 +494,22 @@
       ]
     },
     {
+      "id": "frontierfeed:862e80935f399e76",
+      "url": "https://arxiv.org/abs/2609.14288v1",
+      "title": "Editorial routing shapes how computational results are qualified in AI-assisted scientific writing",
+      "summary": "Large language models increasingly analyze computational results and draft manuscripts, making reliable communication as important as correct analysis.",
+      "content_text": "Large language models increasingly analyze computational results and draft manuscripts, making reliable communication as important as correct analysis.",
+      "date_published": "2026-09-13T05:15:56+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper",
+        "opus",
+        "sonnet"
+      ]
+    },
+    {
       "id": "frontierfeed:deae260c8d670fcf",
       "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
       "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
@@ -350,6 +520,20 @@
         "note",
         "info",
         "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:0dc8b3108531f1a9",
+      "url": "https://arxiv.org/abs/2609.14226v1",
+      "title": "Corpus Characterization and Inverse Constitutional Fine-Tuning for Style-Aware Radiology Reports",
+      "summary": "Automated radiology report generation has advanced rapidly in diagnostic accuracy, yet generated reports frequently diverge from the stylistic conventions of authentic radiologist writing in structure, diction, and uncertainty language, a gap which has direct implications for cli…",
+      "content_text": "Automated radiology report generation has advanced rapidly in diagnostic accuracy, yet generated reports frequently diverge from the stylistic conventions of authentic radiologist writing in structure, diction, and uncertainty language, a gap which has direct implications for cli…",
+      "date_published": "2026-09-13T01:40:23+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper"
       ]
     },
     {
@@ -1198,182 +1382,6 @@
       "summary": "52 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49622554",
       "content_text": "52 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49622554",
       "date_published": "2026-09-09T07:22:28+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:ef8f740b2a35b52d",
-      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
-      "title": "AI Responsibility – OpenAI and Anthropic",
-      "summary": "73 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49619639",
-      "content_text": "73 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49619639",
-      "date_published": "2026-09-09T01:32:49+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:aa377c4a423bff33",
-      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-      "title": "I resigned from Anthropic today",
-      "summary": "329 points, 402 comments. Discussion: https://news.ycombinator.com/item?id=49619227",
-      "content_text": "329 points, 402 comments. Discussion: https://news.ycombinator.com/item?id=49619227",
-      "date_published": "2026-09-09T00:40:40+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:c3ef81693e4e3273",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.219",
-      "title": "v1.0.219",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.218...v1.0.219",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.218...v1.0.219",
-      "date_published": "2026-09-08T23:57:14+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:91c62935663088b7",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.266",
-      "title": "@anthropic-ai/claude-code 2.1.266 published",
-      "summary": "Version 2.1.266 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.266 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-08T23:32:32.880000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:16bddf7bc9161859",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.218",
-      "title": "v1.0.218",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.217...v1.0.218",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.217...v1.0.218",
-      "date_published": "2026-09-08T20:39:25+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:9649bb63a5c679e3",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.265",
-      "title": "@anthropic-ai/claude-code 2.1.265 published",
-      "summary": "Version 2.1.265 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.265 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-08T19:05:16.492000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:ed48e2980f93df04",
-      "url": "https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform",
-      "title": "Reducing cost and improving performance with Claude Platform",
-      "summary": "Reducing cost and improving performance with Claude Platform",
-      "content_text": "Reducing cost and improving performance with Claude Platform",
-      "date_published": "2026-09-08T18:44:52.688683+00:00",
-      "tags": [
-        "pricing",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:08f9127486b0dec7",
-      "url": "https://rohanadwankar.github.io/posts/platforms.html",
-      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-      "summary": "58 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49605644",
-      "content_text": "58 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49605644",
-      "date_published": "2026-09-08T04:36:26+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:ad0221073f9fc8e8",
-      "url": "https://vertumnus.fyi",
-      "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
-      "summary": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49604581",
-      "content_text": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49604581",
-      "date_published": "2026-09-08T01:08:10+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:bb029c965dd0df41",
-      "url": "https://github.com/trailofbits/coop",
-      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "summary": "43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49593842",
-      "content_text": "43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49593842",
-      "date_published": "2026-09-07T04:18:28+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:aa52eb5b00038d58",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.217",
-      "title": "v1.0.217",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.216...v1.0.217",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.216...v1.0.217",
-      "date_published": "2026-09-06T02:56:44+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:c77ee5e0d3242032",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.263",
-      "title": "@anthropic-ai/claude-code 2.1.263 published",
-      "summary": "Version 2.1.263 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.263 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-06T02:07:58.391000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:a0e9884ce0ff7afb",
-      "url": "https://www.effort.news/revelation",
-      "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
-      "summary": "42 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49573677",
-      "content_text": "42 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49573677",
-      "date_published": "2026-09-05T06:31:31+00:00",
       "tags": [
         "note",
         "info",
