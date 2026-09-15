@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 14 Sep 2026 23:11:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 01:32:30 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.225</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.225</link>
+<guid isPermaLink="false">frontierfeed:fc9721416bd2aca1</guid>
+<pubDate>Tue, 15 Sep 2026 00:44:47 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.224...v1.0.225</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.272 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.272</link>
+<guid isPermaLink="false">frontierfeed:931f201367ea22d2</guid>
+<pubDate>Mon, 14 Sep 2026 23:34:13 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.272 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Deploying AI from pilot to production</title>
 <link>https://claude.com/blog/deploying-ai-from-pilot-to-production</link>
@@ -798,22 +814,6 @@
 <pubDate>Fri, 04 Sep 2026 22:52:14 +0000</pubDate>
 <category>claude-code</category>
 <description>40 points, 4 comments. Discussion: https://news.ycombinator.com/item?id=49571131</description>
-</item>
-<item>
-<title>aws-sdk: v0.7.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.0</link>
-<guid isPermaLink="false">frontierfeed:f01b1637ba156dfd</guid>
-<pubDate>Fri, 04 Sep 2026 22:20:48 +0000</pubDate>
-<category>api</category>
-<description>## 0.7.0 (2026-09-04) Full Changelog: [aws-sdk-v0.6.6...aws-sdk-v0.7.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.6...aws-sdk-v0.7.0) ### Features * **api:** add support for sending a workspace ID on more endpoints ([a11e6f1](https://github.com/a…</description>
-</item>
-<item>
-<title>foundry-sdk: v0.4.5</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.5</link>
-<guid isPermaLink="false">frontierfeed:518a1874a5186a81</guid>
-<pubDate>Fri, 04 Sep 2026 22:20:42 +0000</pubDate>
-<category>api</category>
-<description>## 0.4.5 (2026-09-04) Full Changelog: [foundry-sdk-v0.4.4...foundry-sdk-v0.4.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.4...foundry-sdk-v0.4.5) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics/anth…</description>
 </item>
 </channel>
 </rss>

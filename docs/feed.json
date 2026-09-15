@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:fc9721416bd2aca1",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.225",
+      "title": "v1.0.225",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.224...v1.0.225",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.224...v1.0.225",
+      "date_published": "2026-09-15T00:44:47+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:931f201367ea22d2",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.272",
+      "title": "@anthropic-ai/claude-code 2.1.272 published",
+      "summary": "Version 2.1.272 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.272 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-14T23:34:13.565000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:e6300bd96c6f5992",
       "url": "https://claude.com/blog/deploying-ai-from-pilot-to-production",
       "title": "Deploying AI from pilot to production",
@@ -1351,34 +1379,6 @@
         "info",
         "community",
         "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:f01b1637ba156dfd",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.0",
-      "title": "aws-sdk: v0.7.0",
-      "summary": "## 0.7.0 (2026-09-04) Full Changelog: [aws-sdk-v0.6.6...aws-sdk-v0.7.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.6...aws-sdk-v0.7.0) ### Features * **api:** add support for sending a workspace ID on more endpoints ([a11e6f1](https://github.com/a…",
-      "content_text": "## 0.7.0 (2026-09-04) Full Changelog: [aws-sdk-v0.6.6...aws-sdk-v0.7.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.6...aws-sdk-v0.7.0) ### Features * **api:** add support for sending a workspace ID on more endpoints ([a11e6f1](https://github.com/a…",
-      "date_published": "2026-09-04T22:20:48+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:518a1874a5186a81",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.5",
-      "title": "foundry-sdk: v0.4.5",
-      "summary": "## 0.4.5 (2026-09-04) Full Changelog: [foundry-sdk-v0.4.4...foundry-sdk-v0.4.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.4...foundry-sdk-v0.4.5) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics/anth…",
-      "content_text": "## 0.4.5 (2026-09-04) Full Changelog: [foundry-sdk-v0.4.4...foundry-sdk-v0.4.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.4...foundry-sdk-v0.4.5) ### Chores * **examples:** refresh platform model IDs ([#376](https://github.com/anthropics/anth…",
-      "date_published": "2026-09-04T22:20:42+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]
