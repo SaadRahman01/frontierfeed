@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 15 Sep 2026 18:15:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 21:29:16 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.226</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.226</link>
+<guid isPermaLink="false">frontierfeed:ddec65fa8391f47c</guid>
+<pubDate>Tue, 15 Sep 2026 20:24:45 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.225...v1.0.226</description>
+</item>
 <item>
 <title>Claude for Small Business launches new workflows, integrations, and training programs</title>
 <link>https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</link>
@@ -806,14 +814,6 @@
 <pubDate>Wed, 09 Sep 2026 08:43:27 +0000</pubDate>
 <category>note</category>
 <description>63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306</description>
-</item>
-<item>
-<title>I&#x27;m going back to coding by hand</title>
-<link>https://news.ycombinator.com/item?id=49622554</link>
-<guid isPermaLink="false">frontierfeed:e33b88afb69d2e99</guid>
-<pubDate>Wed, 09 Sep 2026 07:22:28 +0000</pubDate>
-<category>note</category>
-<description>52 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49622554</description>
 </item>
 </channel>
 </rss>

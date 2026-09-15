@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "v1.0.226",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.226",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-15T20:24:45+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.225...v1.0.226",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.225...v1.0.226",
+      "version": "1.0.226",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "ddec65fa8391f47c"
+    },
+    {
       "title": "Claude for Small Business launches new workflows, integrations, and training programs",
       "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
       "source": "claude-blog",
@@ -4728,21 +4744,6 @@
         "community"
       ],
       "uid": "29e69b6bfbbfaef2"
-    },
-    {
-      "title": "Claude users are mad that Anthropic's new watermarks will catch them using it",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "source": "hackernews",
-      "published": "2026-08-13T10:23:51+00:00",
-      "body": "65 points, 94 comments. Discussion: https://news.ycombinator.com/item?id=49283891",
-      "summary": "65 points, 94 comments. Discussion: https://news.ycombinator.com/item?id=49283891",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "9a81e0a5f222c0f1"
     }
   ]
 }

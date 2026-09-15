@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:ddec65fa8391f47c",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.226",
+      "title": "v1.0.226",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.225...v1.0.226",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.225...v1.0.226",
+      "date_published": "2026-09-15T20:24:45+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:0f0524b3f1f2c774",
       "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
       "title": "Claude for Small Business launches new workflows, integrations, and training programs",
@@ -1369,19 +1383,6 @@
       "summary": "63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306",
       "content_text": "63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306",
       "date_published": "2026-09-09T08:43:27+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:e33b88afb69d2e99",
-      "url": "https://news.ycombinator.com/item?id=49622554",
-      "title": "I'm going back to coding by hand",
-      "summary": "52 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49622554",
-      "content_text": "52 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49622554",
-      "date_published": "2026-09-09T07:22:28+00:00",
       "tags": [
         "note",
         "info",
