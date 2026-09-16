@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 16 Sep 2026 20:12:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 22:59:59 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>@anthropic-ai/claude-code 2.1.274 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.274</link>
+<guid isPermaLink="false">frontierfeed:77b57b1a134396c5</guid>
+<pubDate>Wed, 16 Sep 2026 22:36:09 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.274 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Claude Cowork and chat are now one Claude</title>
 <link>https://claude.com/blog/cowork-is-now-claude</link>
@@ -806,14 +814,6 @@
 <pubDate>Wed, 09 Sep 2026 13:38:23 +0000</pubDate>
 <category>note</category>
 <description>101 points, 158 comments. Discussion: https://news.ycombinator.com/item?id=49626373</description>
-</item>
-<item>
-<title>Anthropic researcher believes more than 10% chance AI &#x27;could kill all humans&#x27;</title>
-<link>https://www.bbc.co.uk/news/articles/ckgwy1k42w4o</link>
-<guid isPermaLink="false">frontierfeed:1fad8d5343f674ca</guid>
-<pubDate>Wed, 09 Sep 2026 10:37:16 +0000</pubDate>
-<category>note</category>
-<description>40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255</description>
 </item>
 </channel>
 </rss>

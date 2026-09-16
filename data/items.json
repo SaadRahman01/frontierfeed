@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "@anthropic-ai/claude-code 2.1.274 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.274",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-16T22:36:09.883000+00:00",
+      "body": "Version 2.1.274 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.274 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.274",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "77b57b1a134396c5"
+    },
+    {
       "title": "Claude Cowork and chat are now one Claude",
       "url": "https://claude.com/blog/cowork-is-now-claude",
       "source": "claude-blog",
@@ -4725,22 +4741,6 @@
         "community"
       ],
       "uid": "6f6f183c52ea0ca7"
-    },
-    {
-      "title": "vertex-sdk: v0.19.4",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.4",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-08-13T22:06:54+00:00",
-      "body": "## 0.19.4 (2026-08-13)\n\nFull Changelog: [vertex-sdk-v0.19.3...vertex-sdk-v0.19.4](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.3...vertex-sdk-v0.19.4)\n\n### Chores\n\n* **internal:** empty commit to trigger builds ([#1148](https://github.com/anthropics/anthropic-sdk-typescript/issues/1148)) ([c5c1d5c](https://github.com/anthropics/anthropic-sdk-typescript/commit/c5c1d5c0f84c564dd25ea2a65488ad8b282cb603))\n* **internal:** empty commit to trigger builds ([#1148](https://github.com/anthropics/anthropic-sdk-typescript/issues/1148)) ([366ca73](https://github.com/anthropics/anthropic-sdk-typescript/commit/366ca73374e8577b5c8c453ce2344a388e021a68))",
-      "summary": "## 0.19.4 (2026-08-13) Full Changelog: [vertex-sdk-v0.19.3...vertex-sdk-v0.19.4](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.3...vertex-sdk-v0.19.4) ### Chores * **internal:** empty commit to trigger builds ([#1148](https://github.com/anthropic\u2026",
-      "version": "ertex-sdk-v0.19.4",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "20436dcf5b74637c"
     }
   ]
 }

@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:77b57b1a134396c5",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.274",
+      "title": "@anthropic-ai/claude-code 2.1.274 published",
+      "summary": "Version 2.1.274 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.274 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-16T22:36:09.883000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:945b6d1d03e10596",
       "url": "https://claude.com/blog/cowork-is-now-claude",
       "title": "Claude Cowork and chat are now one Claude",
@@ -1371,19 +1385,6 @@
       "summary": "101 points, 158 comments. Discussion: https://news.ycombinator.com/item?id=49626373",
       "content_text": "101 points, 158 comments. Discussion: https://news.ycombinator.com/item?id=49626373",
       "date_published": "2026-09-09T13:38:23+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:1fad8d5343f674ca",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
-      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "summary": "40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255",
-      "content_text": "40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255",
-      "date_published": "2026-09-09T10:37:16+00:00",
       "tags": [
         "note",
         "info",
