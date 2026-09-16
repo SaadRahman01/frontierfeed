@@ -163,6 +163,19 @@
       ]
     },
     {
+      "id": "frontierfeed:c2ecb7ae0820b1da",
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "summary": "42 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=49713894",
+      "content_text": "42 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=49713894",
+      "date_published": "2026-09-15T15:20:26+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:27c22754ab98cee0",
       "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.6.0",
       "title": "v1.6.0",
@@ -1369,19 +1382,6 @@
       "title": "Claude, change the \"Add to Cart\" button to blue",
       "summary": "620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
       "content_text": "620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
-      "date_published": "2026-09-09T09:39:46+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:39b82b95e0ac7fd9",
-      "url": "https://opusfived.dev/",
-      "title": "Claude, change the “Add to Cart” button to blue",
-      "summary": "818 points, 337 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
-      "content_text": "818 points, 337 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
       "date_published": "2026-09-09T09:39:46+00:00",
       "tags": [
         "note",

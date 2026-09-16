@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 16 Sep 2026 00:25:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 06:06:25 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -102,6 +102,14 @@
 <pubDate>Tue, 15 Sep 2026 17:34:12 +0000</pubDate>
 <category>deprecation</category>
 <description>## 0.126.0 (2026-09-15) Full Changelog: [sdk-v0.125.0...sdk-v0.126.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.125.0...sdk-v0.126.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([7829b43](https://github.com/anthropics/ant…</description>
+</item>
+<item>
+<title>Show HN: Pizza Bot – An inbox for AI agents that work in the background</title>
+<link>https://github.com/pizza-bot-app/pizza-bot</link>
+<guid isPermaLink="false">frontierfeed:c2ecb7ae0820b1da</guid>
+<pubDate>Tue, 15 Sep 2026 15:20:26 +0000</pubDate>
+<category>note</category>
+<description>42 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=49713894</description>
 </item>
 <item>
 <title>v1.6.0</title>
@@ -806,14 +814,6 @@
 <pubDate>Wed, 09 Sep 2026 09:39:46 +0000</pubDate>
 <category>note</category>
 <description>620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754</description>
-</item>
-<item>
-<title>Claude, change the “Add to Cart” button to blue</title>
-<link>https://opusfived.dev/</link>
-<guid isPermaLink="false">frontierfeed:39b82b95e0ac7fd9</guid>
-<pubDate>Wed, 09 Sep 2026 09:39:46 +0000</pubDate>
-<category>note</category>
-<description>818 points, 337 comments. Discussion: https://news.ycombinator.com/item?id=49623754</description>
 </item>
 </channel>
 </rss>
