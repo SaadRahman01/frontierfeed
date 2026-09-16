@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 15 Sep 2026 21:29:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 00:25:53 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -110,6 +110,14 @@
 <pubDate>Tue, 15 Sep 2026 15:14:42 +0000</pubDate>
 <category>api</category>
 <description>## 1.6.0 (2026-09-15) Full Changelog: [v1.5.0...v1.6.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.5.0...v1.6.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([909d92f](https://github.com/anthropics/anthropic-sdk-python/commit/909d9…</description>
+</item>
+<item>
+<title>AI &#x27;kill switch&#x27; may need to be mandatory, Anthropic co-founder tells BBC</title>
+<link>https://www.bbc.com/news/articles/cqgk5e2j0gg8o</link>
+<guid isPermaLink="false">frontierfeed:460c387beacfe5b2</guid>
+<pubDate>Tue, 15 Sep 2026 13:41:28 +0000</pubDate>
+<category>note</category>
+<description>41 points, 100 comments. Discussion: https://news.ycombinator.com/item?id=49712409</description>
 </item>
 <item>
 <title>Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks</title>
@@ -806,14 +814,6 @@
 <pubDate>Wed, 09 Sep 2026 09:39:46 +0000</pubDate>
 <category>note</category>
 <description>818 points, 337 comments. Discussion: https://news.ycombinator.com/item?id=49623754</description>
-</item>
-<item>
-<title>Gambling with our lives: AI researcher quits Anthropic with warning about safety</title>
-<link>https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/</link>
-<guid isPermaLink="false">frontierfeed:5fc6eba2270fcd0c</guid>
-<pubDate>Wed, 09 Sep 2026 08:43:27 +0000</pubDate>
-<category>note</category>
-<description>63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306</description>
 </item>
 </channel>
 </rss>

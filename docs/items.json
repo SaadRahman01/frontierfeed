@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-15T21:29:16.263783+00:00",
+  "generated": "2026-09-16T00:25:53.009054+00:00",
   "count": 300,
   "items": [
     {
@@ -195,6 +195,21 @@
         "anthropic-sdk-python"
       ],
       "uid": "27c22754ab98cee0"
+    },
+    {
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+      "source": "hackernews",
+      "published": "2026-09-15T13:41:28+00:00",
+      "body": "41 points, 100 comments. Discussion: https://news.ycombinator.com/item?id=49712409",
+      "summary": "41 points, 100 comments. Discussion: https://news.ycombinator.com/item?id=49712409",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "460c387beacfe5b2"
     },
     {
       "title": "Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks",
@@ -4733,21 +4748,6 @@
         "paper"
       ],
       "uid": "a9f3777c3612ad8c"
-    },
-    {
-      "title": "The Conceptual Reasoning Index",
-      "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
-      "source": "hackernews",
-      "published": "2026-08-13T13:48:14+00:00",
-      "body": "78 points, 54 comments. Discussion: https://news.ycombinator.com/item?id=49285909",
-      "summary": "78 points, 54 comments. Discussion: https://news.ycombinator.com/item?id=49285909",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "29e69b6bfbbfaef2"
     }
   ]
 }
