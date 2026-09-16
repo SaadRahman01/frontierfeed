@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 16 Sep 2026 17:04:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 20:12:10 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude Cowork and chat are now one Claude</title>
+<link>https://claude.com/blog/cowork-is-now-claude</link>
+<guid isPermaLink="false">frontierfeed:945b6d1d03e10596</guid>
+<pubDate>Wed, 16 Sep 2026 20:11:59 +0000</pubDate>
+<category>claude-code</category>
+<description>Claude Cowork and chat are now one Claude</description>
+</item>
+<item>
+<title>Microsoft says AI rival Anthropic could have &#x27;disastrous impact&#x27; on humanity</title>
+<link>https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo</link>
+<guid isPermaLink="false">frontierfeed:8c352e830af87814</guid>
+<pubDate>Wed, 16 Sep 2026 14:32:15 +0000</pubDate>
+<category>note</category>
+<description>40 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49727661</description>
+</item>
 <item>
 <title>v1.0.226</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.226</link>
@@ -798,22 +814,6 @@
 <pubDate>Wed, 09 Sep 2026 10:37:16 +0000</pubDate>
 <category>note</category>
 <description>40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255</description>
-</item>
-<item>
-<title>I resigned from Anthropic today (Jacob Coxon)</title>
-<link>https://xcancel.com/hilbertspaess/status/2097476196791709843?s=20</link>
-<guid isPermaLink="false">frontierfeed:272baf504b1b5103</guid>
-<pubDate>Wed, 09 Sep 2026 10:25:03 +0000</pubDate>
-<category>note</category>
-<description>45 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49624157</description>
-</item>
-<item>
-<title>Claude, change the &quot;Add to Cart&quot; button to blue</title>
-<link>https://opusfived.dev/</link>
-<guid isPermaLink="false">frontierfeed:4fce00394eab12d8</guid>
-<pubDate>Wed, 09 Sep 2026 09:39:46 +0000</pubDate>
-<category>note</category>
-<description>620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754</description>
 </item>
 </channel>
 </rss>

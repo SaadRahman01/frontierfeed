@@ -9,6 +9,33 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:945b6d1d03e10596",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "title": "Claude Cowork and chat are now one Claude",
+      "summary": "Claude Cowork and chat are now one Claude",
+      "content_text": "Claude Cowork and chat are now one Claude",
+      "date_published": "2026-09-16T20:11:59.804445+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:8c352e830af87814",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "summary": "40 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49727661",
+      "content_text": "40 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49727661",
+      "date_published": "2026-09-16T14:32:15+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:ddec65fa8391f47c",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.226",
       "title": "v1.0.226",
@@ -1357,32 +1384,6 @@
       "summary": "40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255",
       "content_text": "40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255",
       "date_published": "2026-09-09T10:37:16+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:272baf504b1b5103",
-      "url": "https://xcancel.com/hilbertspaess/status/2097476196791709843?s=20",
-      "title": "I resigned from Anthropic today (Jacob Coxon)",
-      "summary": "45 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49624157",
-      "content_text": "45 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49624157",
-      "date_published": "2026-09-09T10:25:03+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:4fce00394eab12d8",
-      "url": "https://opusfived.dev/",
-      "title": "Claude, change the \"Add to Cart\" button to blue",
-      "summary": "620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
-      "content_text": "620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
-      "date_published": "2026-09-09T09:39:46+00:00",
       "tags": [
         "note",
         "info",
