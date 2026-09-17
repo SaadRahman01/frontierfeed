@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:b00319912a9f06c8",
+      "url": "https://claude.com/blog/projects-redesigned",
+      "title": "Projects redesigned: from folder to conversation",
+      "summary": "Projects redesigned: from folder to conversation",
+      "content_text": "Projects redesigned: from folder to conversation",
+      "date_published": "2026-09-17T18:18:09.533761+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:773e2f6fa0b8f009",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "title": "Introducing the Life Sciences Verification Program",
+      "summary": "Introducing the Life Sciences Verification Program",
+      "content_text": "Introducing the Life Sciences Verification Program",
+      "date_published": "2026-09-17T18:18:07.460026+00:00",
+      "tags": [
+        "launch",
+        "feature",
+        "official",
+        "news"
+      ]
+    },
+    {
       "id": "frontierfeed:b70407d8023850c1",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.227",
       "title": "v1.0.227",
@@ -1360,32 +1388,6 @@
       "summary": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
       "content_text": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
       "date_published": "2026-09-09T16:01:41+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:9d08d70f81d7774f",
-      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
-      "title": "Better AI code comment detector",
-      "summary": "40 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49628454",
-      "content_text": "40 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49628454",
-      "date_published": "2026-09-09T15:45:43+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:f773bde146081ff9",
-      "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
-      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
-      "summary": "42 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=49627887",
-      "content_text": "42 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=49627887",
-      "date_published": "2026-09-09T15:10:39+00:00",
       "tags": [
         "note",
         "info",

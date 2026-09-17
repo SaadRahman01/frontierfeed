@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-17T13:32:28.782221+00:00",
+  "generated": "2026-09-17T18:18:20.547448+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Projects redesigned: from folder to conversation",
+      "url": "https://claude.com/blog/projects-redesigned",
+      "source": "claude-blog",
+      "published": "2026-09-17T18:18:09.533761+00:00",
+      "body": "Projects redesigned: from folder to conversation",
+      "summary": "Projects redesigned: from folder to conversation",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "b00319912a9f06c8"
+    },
+    {
+      "title": "Introducing the Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "source": "anthropic-news",
+      "published": "2026-09-17T18:18:07.460026+00:00",
+      "body": "Introducing the Life Sciences Verification Program",
+      "summary": "Introducing the Life Sciences Verification Program",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "773e2f6fa0b8f009"
+    },
     {
       "title": "v1.0.227",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.227",
@@ -4715,37 +4747,6 @@
         "community"
       ],
       "uid": "c64515004b6161a0"
-    },
-    {
-      "title": "How Claude's text watermarking works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "source": "hackernews",
-      "published": "2026-08-14T19:15:51+00:00",
-      "body": "75 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49303350",
-      "summary": "75 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49303350",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "a4f8d0f66f443561"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.233 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.233",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-14T18:50:44.102000+00:00",
-      "body": "Version 2.1.233 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.233 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.233",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "c6adc271174a3e92"
     }
   ]
 }

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 17 Sep 2026 13:32:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 18:18:20 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Projects redesigned: from folder to conversation</title>
+<link>https://claude.com/blog/projects-redesigned</link>
+<guid isPermaLink="false">frontierfeed:b00319912a9f06c8</guid>
+<pubDate>Thu, 17 Sep 2026 18:18:09 +0000</pubDate>
+<category>note</category>
+<description>Projects redesigned: from folder to conversation</description>
+</item>
+<item>
+<title>Introducing the Life Sciences Verification Program</title>
+<link>https://www.anthropic.com/news/life-sciences-verification-program</link>
+<guid isPermaLink="false">frontierfeed:773e2f6fa0b8f009</guid>
+<pubDate>Thu, 17 Sep 2026 18:18:07 +0000</pubDate>
+<category>launch</category>
+<description>Introducing the Life Sciences Verification Program</description>
+</item>
 <item>
 <title>v1.0.227</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.227</link>
@@ -798,22 +814,6 @@
 <pubDate>Wed, 09 Sep 2026 16:01:41 +0000</pubDate>
 <category>note</category>
 <description>123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704</description>
-</item>
-<item>
-<title>Better AI code comment detector</title>
-<link>https://entropicthoughts.com/better-ai-comment-classifier</link>
-<guid isPermaLink="false">frontierfeed:9d08d70f81d7774f</guid>
-<pubDate>Wed, 09 Sep 2026 15:45:43 +0000</pubDate>
-<category>note</category>
-<description>40 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49628454</description>
-</item>
-<item>
-<title>Anthropic researcher says more than 10% chance AI &quot;could kill all humans&quot;</title>
-<link>https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/</link>
-<guid isPermaLink="false">frontierfeed:f773bde146081ff9</guid>
-<pubDate>Wed, 09 Sep 2026 15:10:39 +0000</pubDate>
-<category>note</category>
-<description>42 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=49627887</description>
 </item>
 </channel>
 </rss>
