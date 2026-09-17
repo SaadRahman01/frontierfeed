@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-17T18:18:20.547448+00:00",
+  "generated": "2026-09-17T22:13:48.828223+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
+      "url": "https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
+      "source": "claude-blog",
+      "published": "2026-09-17T22:13:38.238429+00:00",
+      "body": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
+      "summary": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "81fa87b6cbb33dc9"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.275 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.275",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-17T20:20:31.805000+00:00",
+      "body": "Version 2.1.275 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.275 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.275",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "8bef08b6569f43e3"
+    },
     {
       "title": "Projects redesigned: from folder to conversation",
       "url": "https://claude.com/blog/projects-redesigned",
@@ -4716,37 +4748,6 @@
         "community"
       ],
       "uid": "29e50b5258d122e8"
-    },
-    {
-      "title": "v1.0.193",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.193",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-14T22:22:46+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.192...v1.0.193",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.192...v1.0.193",
-      "version": "1.0.193",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "a4860d048dee29c4"
-    },
-    {
-      "title": "Anthropic Risk August 2026 [pdf]",
-      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-      "source": "hackernews",
-      "published": "2026-08-14T19:32:15+00:00",
-      "body": "56 points, 58 comments. Discussion: https://news.ycombinator.com/item?id=49303540",
-      "summary": "56 points, 58 comments. Discussion: https://news.ycombinator.com/item?id=49303540",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "c64515004b6161a0"
     }
   ]
 }

@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:81fa87b6cbb33dc9",
+      "url": "https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
+      "title": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
+      "summary": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
+      "content_text": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
+      "date_published": "2026-09-17T22:13:38.238429+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:8bef08b6569f43e3",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.275",
+      "title": "@anthropic-ai/claude-code 2.1.275 published",
+      "summary": "Version 2.1.275 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.275 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-17T20:20:31.805000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:b00319912a9f06c8",
       "url": "https://claude.com/blog/projects-redesigned",
       "title": "Projects redesigned: from folder to conversation",
@@ -1366,32 +1394,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:ddba24638dcf81fd",
-      "url": "https://github.com/OtoDock/oto-dock",
-      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "summary": "43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49630606",
-      "content_text": "43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49630606",
-      "date_published": "2026-09-09T17:57:55+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:dd478225b9929acb",
-      "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
-      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-      "summary": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
-      "content_text": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
-      "date_published": "2026-09-09T16:01:41+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
