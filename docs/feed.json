@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:b70407d8023850c1",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.227",
+      "title": "v1.0.227",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.226...v1.0.227",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.226...v1.0.227",
+      "date_published": "2026-09-17T00:13:35+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:77b57b1a134396c5",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.274",
       "title": "@anthropic-ai/claude-code 2.1.274 published",
@@ -1372,19 +1386,6 @@
       "summary": "42 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=49627887",
       "content_text": "42 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=49627887",
       "date_published": "2026-09-09T15:10:39+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:d5835276af5126fd",
-      "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "title": "What will our economic future look like?",
-      "summary": "101 points, 158 comments. Discussion: https://news.ycombinator.com/item?id=49626373",
-      "content_text": "101 points, 158 comments. Discussion: https://news.ycombinator.com/item?id=49626373",
-      "date_published": "2026-09-09T13:38:23+00:00",
       "tags": [
         "note",
         "info",
