@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 18 Sep 2026 19:40:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 22:37:39 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude Code now reads AGENTS.md if there is no Claude.md</title>
+<link>https://code.claude.com/docs/en/changelog</link>
+<guid isPermaLink="false">frontierfeed:25e3b90ede10630f</guid>
+<pubDate>Fri, 18 Sep 2026 21:00:32 +0000</pubDate>
+<category>claude-code</category>
+<description>245 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=49760187</description>
+</item>
+<item>
+<title>Anthropic finally adds AGENTS.md support to Claude Code</title>
+<link>https://twitter.com/trq212/status/2101009392611278961</link>
+<guid isPermaLink="false">frontierfeed:20b26f3da8e79424</guid>
+<pubDate>Fri, 18 Sep 2026 18:26:34 +0000</pubDate>
+<category>claude-code</category>
+<description>41 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=49758250</description>
+</item>
 <item>
 <title>v1.0.230</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.230</link>

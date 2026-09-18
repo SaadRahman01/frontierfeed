@@ -9,6 +9,46 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:f28145f8cf320c8a",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "summary": "Partnering with Accenture on embedded evaluation",
+      "content_text": "Partnering with Accenture on embedded evaluation",
+      "date_published": "2026-09-18T22:37:27.099860+00:00",
+      "tags": [
+        "research",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:25e3b90ede10630f",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "summary": "245 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=49760187",
+      "content_text": "245 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=49760187",
+      "date_published": "2026-09-18T21:00:32+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:20b26f3da8e79424",
+      "url": "https://twitter.com/trq212/status/2101009392611278961",
+      "title": "Anthropic finally adds AGENTS.md support to Claude Code",
+      "summary": "41 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=49758250",
+      "content_text": "41 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=49758250",
+      "date_published": "2026-09-18T18:26:34+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:9e93d46149241592",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.230",
       "title": "v1.0.230",
@@ -1350,47 +1390,6 @@
       "summary": "54 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49653311",
       "content_text": "54 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49653311",
       "date_published": "2026-09-11T03:45:42+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:778a0265f5854c98",
-      "url": "https://www.anthropic.com/news/tino-cuellar",
-      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "content_text": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "date_published": "2026-09-11T01:09:25.939770+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:d8bfd3712f9cc467",
-      "url": "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
-      "title": "What 1,000 small business owners taught us about AI",
-      "summary": "What 1,000 small business owners taught us about AI",
-      "content_text": "What 1,000 small business owners taught us about AI",
-      "date_published": "2026-09-10T22:38:26.631471+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:8219d985bfdd8238",
-      "url": "https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire/",
-      "title": "Anthropic CEOs wife once asked Epstein to fund porn venture – now steers Claude",
-      "summary": "40 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49651084",
-      "content_text": "40 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49651084",
-      "date_published": "2026-09-10T22:38:00+00:00",
       "tags": [
         "note",
         "info",
