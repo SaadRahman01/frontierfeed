@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-18T16:29:14.247670+00:00",
+  "generated": "2026-09-18T19:40:52.388452+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.230",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.230",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-18T18:09:06+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.229...v1.0.230",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.229...v1.0.230",
+      "version": "1.0.230",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "9e93d46149241592"
+    },
     {
       "title": "google-cloud-sdk: v0.0.13",
       "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.13",
@@ -196,6 +212,21 @@
         "product"
       ],
       "uid": "81fa87b6cbb33dc9"
+    },
+    {
+      "title": "Show HN: Microsoft Office running with Wine on Linux with no virtualization",
+      "url": "https://github.com/Tombert/office365_flake",
+      "source": "hackernews",
+      "published": "2026-09-17T20:52:22+00:00",
+      "body": "75 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=49746401",
+      "summary": "75 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=49746401",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "1c04fbce036c20cf"
     },
     {
       "title": "@anthropic-ai/claude-code 2.1.275 published",
@@ -4723,37 +4754,6 @@
         "community"
       ],
       "uid": "64f04ace974dbb11"
-    },
-    {
-      "title": "Claude Code teaching macOS to natively print to the HP Laser 1008a",
-      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "source": "hackernews",
-      "published": "2026-08-18T21:14:21+00:00",
-      "body": "130 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=49352806",
-      "summary": "130 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=49352806",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "79d995527a59ed17"
-    },
-    {
-      "title": "v1.0.195",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.195",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-18T20:40:51+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.194...v1.0.195",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.194...v1.0.195",
-      "version": "1.0.195",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "9c3ef16722af5396"
     }
   ]
 }

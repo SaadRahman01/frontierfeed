@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:9e93d46149241592",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.230",
+      "title": "v1.0.230",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.229...v1.0.230",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.229...v1.0.230",
+      "date_published": "2026-09-18T18:09:06+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:d8920fe6c7127d71",
       "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.13",
       "title": "google-cloud-sdk: v0.0.13",
@@ -175,6 +189,19 @@
         "info",
         "official",
         "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:1c04fbce036c20cf",
+      "url": "https://github.com/Tombert/office365_flake",
+      "title": "Show HN: Microsoft Office running with Wine on Linux with no virtualization",
+      "summary": "75 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=49746401",
+      "content_text": "75 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=49746401",
+      "date_published": "2026-09-17T20:52:22+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1368,34 +1395,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:476e1c439640e2c0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.221",
-      "title": "v1.0.221",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.220...v1.0.221",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.220...v1.0.221",
-      "date_published": "2026-09-10T20:40:23+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:f62205f155d17361",
-      "url": "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process",
-      "title": "T. Rowe Price brings more of Claude to its investment process",
-      "summary": "T. Rowe Price brings more of Claude to its investment process",
-      "content_text": "T. Rowe Price brings more of Claude to its investment process",
-      "date_published": "2026-09-10T19:45:42.623998+00:00",
-      "tags": [
-        "pricing",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]

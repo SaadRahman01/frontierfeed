@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 18 Sep 2026 16:29:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 19:40:52 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.230</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.230</link>
+<guid isPermaLink="false">frontierfeed:9e93d46149241592</guid>
+<pubDate>Fri, 18 Sep 2026 18:09:06 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.229...v1.0.230</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.277 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.277</link>
@@ -742,22 +750,6 @@
 <pubDate>Wed, 19 Aug 2026 18:45:14 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.236 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Claude Code teaching macOS to natively print to the HP Laser 1008a</title>
-<link>https://cdn.kuber.studio/chat/hp-laser-1008a-driver</link>
-<guid isPermaLink="false">frontierfeed:79d995527a59ed17</guid>
-<pubDate>Tue, 18 Aug 2026 21:14:21 +0000</pubDate>
-<category>claude-code</category>
-<description>130 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=49352806</description>
-</item>
-<item>
-<title>v1.0.195</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.195</link>
-<guid isPermaLink="false">frontierfeed:9c3ef16722af5396</guid>
-<pubDate>Tue, 18 Aug 2026 20:40:51 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.194...v1.0.195</description>
 </item>
 </channel>
 </rss>

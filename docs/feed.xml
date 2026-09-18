@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 18 Sep 2026 16:29:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 19:40:52 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.230</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.230</link>
+<guid isPermaLink="false">frontierfeed:9e93d46149241592</guid>
+<pubDate>Fri, 18 Sep 2026 18:09:06 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.229...v1.0.230</description>
+</item>
 <item>
 <title>google-cloud-sdk: v0.0.13</title>
 <link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.13</link>
@@ -110,6 +118,14 @@
 <pubDate>Thu, 17 Sep 2026 22:13:38 +0000</pubDate>
 <category>note</category>
 <description>Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5</description>
+</item>
+<item>
+<title>Show HN: Microsoft Office running with Wine on Linux with no virtualization</title>
+<link>https://github.com/Tombert/office365_flake</link>
+<guid isPermaLink="false">frontierfeed:1c04fbce036c20cf</guid>
+<pubDate>Thu, 17 Sep 2026 20:52:22 +0000</pubDate>
+<category>note</category>
+<description>75 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=49746401</description>
 </item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.275 published</title>
@@ -798,22 +814,6 @@
 <pubDate>Thu, 10 Sep 2026 22:38:00 +0000</pubDate>
 <category>note</category>
 <description>40 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49651084</description>
-</item>
-<item>
-<title>v1.0.221</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.221</link>
-<guid isPermaLink="false">frontierfeed:476e1c439640e2c0</guid>
-<pubDate>Thu, 10 Sep 2026 20:40:23 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.220...v1.0.221</description>
-</item>
-<item>
-<title>T. Rowe Price brings more of Claude to its investment process</title>
-<link>https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process</link>
-<guid isPermaLink="false">frontierfeed:f62205f155d17361</guid>
-<pubDate>Thu, 10 Sep 2026 19:45:42 +0000</pubDate>
-<category>pricing</category>
-<description>T. Rowe Price brings more of Claude to its investment process</description>
 </item>
 </channel>
 </rss>
