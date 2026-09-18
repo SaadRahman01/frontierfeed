@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:ed3a7b9c4277b4db",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.228",
+      "title": "v1.0.228",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.227...v1.0.228",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.227...v1.0.228",
+      "date_published": "2026-09-17T22:34:26+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:81fa87b6cbb33dc9",
       "url": "https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
       "title": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
@@ -62,6 +76,19 @@
         "feature",
         "official",
         "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:44001de17910dbf7",
+      "url": "https://news.ycombinator.com/item?id=49743049",
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "summary": "42 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=49743049",
+      "content_text": "42 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=49743049",
+      "date_published": "2026-09-17T16:22:15+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "community"
       ]
     },
     {
@@ -1366,34 +1393,6 @@
         "info",
         "research",
         "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:023a3932b504c170",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.220",
-      "title": "v1.0.220",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.219...v1.0.220",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.219...v1.0.220",
-      "date_published": "2026-09-09T20:12:09+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:f85f9b45d2cc2c8c",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.267",
-      "title": "@anthropic-ai/claude-code 2.1.267 published",
-      "summary": "Version 2.1.267 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.267 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-09T18:25:42.820000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]

@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-17T22:13:48.828223+00:00",
+  "generated": "2026-09-18T00:26:28.596341+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.228",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.228",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-17T22:34:26+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.227...v1.0.228",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.227...v1.0.228",
+      "version": "1.0.228",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "ed3a7b9c4277b4db"
+    },
     {
       "title": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
       "url": "https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
@@ -67,6 +83,21 @@
         "news"
       ],
       "uid": "773e2f6fa0b8f009"
+    },
+    {
+      "title": "Launch HN: Skillsync (YC W26) \u2013 AI chat sessions made portable across agents",
+      "url": "https://news.ycombinator.com/item?id=49743049",
+      "source": "hackernews",
+      "published": "2026-09-17T16:22:15+00:00",
+      "body": "42 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=49743049",
+      "summary": "42 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=49743049",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "44001de17910dbf7"
     },
     {
       "title": "v1.0.227",
@@ -4718,36 +4749,6 @@
         "community"
       ],
       "uid": "a81c1445c4b6a2cc"
-    },
-    {
-      "title": "Patterns and problems in emerging multi-agent systems",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "source": "hackernews",
-      "published": "2026-08-16T02:12:53+00:00",
-      "body": "198 points, 139 comments. Discussion: https://news.ycombinator.com/item?id=49316271",
-      "summary": "198 points, 139 comments. Discussion: https://news.ycombinator.com/item?id=49316271",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "e4faaad217d38717"
-    },
-    {
-      "title": "Anthropic CEO wife asked Epstein for porn business",
-      "url": "https://www.forbes.com/sites/alisondurkee/2026/08/14/who-is-cami-clark-anthropic-ceos-wife-asked-epstein-to-invest-in-porn-business/",
-      "source": "hackernews",
-      "published": "2026-08-15T22:54:41+00:00",
-      "body": "40 points, 4 comments. Discussion: https://news.ycombinator.com/item?id=49315059",
-      "summary": "40 points, 4 comments. Discussion: https://news.ycombinator.com/item?id=49315059",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "29e50b5258d122e8"
     }
   ]
 }

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 17 Sep 2026 22:13:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 00:26:28 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.228</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.228</link>
+<guid isPermaLink="false">frontierfeed:ed3a7b9c4277b4db</guid>
+<pubDate>Thu, 17 Sep 2026 22:34:26 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.227...v1.0.228</description>
+</item>
 <item>
 <title>Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5</title>
 <link>https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5</link>
@@ -46,6 +54,14 @@
 <pubDate>Thu, 17 Sep 2026 18:18:07 +0000</pubDate>
 <category>launch</category>
 <description>Introducing the Life Sciences Verification Program</description>
+</item>
+<item>
+<title>Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents</title>
+<link>https://news.ycombinator.com/item?id=49743049</link>
+<guid isPermaLink="false">frontierfeed:44001de17910dbf7</guid>
+<pubDate>Thu, 17 Sep 2026 16:22:15 +0000</pubDate>
+<category>note</category>
+<description>42 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=49743049</description>
 </item>
 <item>
 <title>v1.0.227</title>
@@ -798,22 +814,6 @@
 <pubDate>Thu, 10 Sep 2026 15:53:25 +0000</pubDate>
 <category>research</category>
 <description>Large language model serving costs scale directly with output sequence length, yet standard preference alignment often inflates response verbosity without improving utility.</description>
-</item>
-<item>
-<title>v1.0.220</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.220</link>
-<guid isPermaLink="false">frontierfeed:023a3932b504c170</guid>
-<pubDate>Wed, 09 Sep 2026 20:12:09 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.219...v1.0.220</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.267 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.267</link>
-<guid isPermaLink="false">frontierfeed:f85f9b45d2cc2c8c</guid>
-<pubDate>Wed, 09 Sep 2026 18:25:42 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.267 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>
