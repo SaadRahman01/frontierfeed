@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, breaking changes only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 18 Sep 2026 11:22:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 16:29:14 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-breaking.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — breaking changes</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>[breaking] sdk: v0.127.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.127.0</link>
+<guid isPermaLink="false">frontierfeed:3e2c3f5dfef91030</guid>
+<pubDate>Fri, 18 Sep 2026 16:24:51 +0000</pubDate>
+<category>deprecation</category>
+<description>## 0.127.0 (2026-09-18) Full Changelog: [sdk-v0.126.0...sdk-v0.127.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.126.0...sdk-v0.127.0) ### Features * **api:** add group with display_name to rate limits, deprecate group_type ([2575d97](https://github.com…</description>
+</item>
+<item>
+<title>[breaking] v1.7.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.7.0</link>
+<guid isPermaLink="false">frontierfeed:e0f2b52f5aaebd3d</guid>
+<pubDate>Fri, 18 Sep 2026 16:12:53 +0000</pubDate>
+<category>deprecation</category>
+<description>## 1.7.0 (2026-09-18) Full Changelog: [v1.6.0...v1.7.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.6.0...v1.7.0) ### Features * **api:** add group with display_name to rate limits, deprecate group_type ([28f0a83](https://github.com/anthropics/anthropic-sdk-pyth…</description>
+</item>
 <item>
 <title>[breaking] sdk: v0.126.0</title>
 <link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.126.0</link>

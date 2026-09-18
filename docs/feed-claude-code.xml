@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 18 Sep 2026 11:22:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 16:29:14 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>@anthropic-ai/claude-code 2.1.277 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.277</link>
+<guid isPermaLink="false">frontierfeed:f29935ea683c959d</guid>
+<pubDate>Fri, 18 Sep 2026 16:22:26 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.277 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>v1.0.229</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.229</link>
@@ -750,38 +758,6 @@
 <pubDate>Tue, 18 Aug 2026 20:40:51 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.194...v1.0.195</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.235 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.235</link>
-<guid isPermaLink="false">frontierfeed:5a9dec997e064077</guid>
-<pubDate>Tue, 18 Aug 2026 18:24:10 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.235 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Claude Code May–August 2026 weekly limits promotion</title>
-<link>https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion</link>
-<guid isPermaLink="false">frontierfeed:86976fcdd6ffa129</guid>
-<pubDate>Tue, 18 Aug 2026 17:02:15 +0000</pubDate>
-<category>claude-code</category>
-<description>295 points, 265 comments. Discussion: https://news.ycombinator.com/item?id=49348751</description>
-</item>
-<item>
-<title>v1.0.194</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.194</link>
-<guid isPermaLink="false">frontierfeed:54634e244478e789</guid>
-<pubDate>Mon, 17 Aug 2026 20:25:16 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed * Harden delete_files MCP tool: validate paths within repo root (consistency with commit_files) by @GabrielOnRails in https://github.com/anthropics/claude-code-action/pull/1636 * Only limit fetch depth when the checkout is already shallow by @winklemad in https:…</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.234 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.234</link>
-<guid isPermaLink="false">frontierfeed:f6d37c4ab97e8eb9</guid>
-<pubDate>Mon, 17 Aug 2026 18:19:13 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.234 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

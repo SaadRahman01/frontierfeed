@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 18 Sep 2026 11:22:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 16:29:14 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,70 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>google-cloud-sdk: v0.0.13</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.13</link>
+<guid isPermaLink="false">frontierfeed:d8920fe6c7127d71</guid>
+<pubDate>Fri, 18 Sep 2026 16:25:20 +0000</pubDate>
+<category>api</category>
+<description>## 0.0.13 (2026-09-18) Full Changelog: [google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3…</description>
+</item>
+<item>
+<title>aws-sdk: v0.7.3</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.3</link>
+<guid isPermaLink="false">frontierfeed:22bdaf94cc381f52</guid>
+<pubDate>Fri, 18 Sep 2026 16:25:14 +0000</pubDate>
+<category>api</category>
+<description>## 0.7.3 (2026-09-18) Full Changelog: [aws-sdk-v0.7.2...aws-sdk-v0.7.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.2...aws-sdk-v0.7.3) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://github.com/anthropics…</description>
+</item>
+<item>
+<title>foundry-sdk: v0.4.8</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.8</link>
+<guid isPermaLink="false">frontierfeed:1ea572f6177c780a</guid>
+<pubDate>Fri, 18 Sep 2026 16:25:08 +0000</pubDate>
+<category>api</category>
+<description>## 0.4.8 (2026-09-18) Full Changelog: [foundry-sdk-v0.4.7...foundry-sdk-v0.4.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.7...foundry-sdk-v0.4.8) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://githu…</description>
+</item>
+<item>
+<title>bedrock-sdk: v0.33.7</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.7</link>
+<guid isPermaLink="false">frontierfeed:9dbcbe4f93ec7527</guid>
+<pubDate>Fri, 18 Sep 2026 16:25:02 +0000</pubDate>
+<category>api</category>
+<description>## 0.33.7 (2026-09-18) Full Changelog: [bedrock-sdk-v0.33.6...bedrock-sdk-v0.33.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.6...bedrock-sdk-v0.33.7) ### Bug Fixes * **bedrock:** raise APIError for mid-stream exception and error frames ([#62…</description>
+</item>
+<item>
+<title>vertex-sdk: v0.19.10</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.10</link>
+<guid isPermaLink="false">frontierfeed:1c6a895524e03498</guid>
+<pubDate>Fri, 18 Sep 2026 16:24:56 +0000</pubDate>
+<category>api</category>
+<description>## 0.19.10 (2026-09-18) Full Changelog: [vertex-sdk-v0.19.9...vertex-sdk-v0.19.10](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.9...vertex-sdk-v0.19.10) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://g…</description>
+</item>
+<item>
+<title>[breaking] sdk: v0.127.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.127.0</link>
+<guid isPermaLink="false">frontierfeed:3e2c3f5dfef91030</guid>
+<pubDate>Fri, 18 Sep 2026 16:24:51 +0000</pubDate>
+<category>deprecation</category>
+<description>## 0.127.0 (2026-09-18) Full Changelog: [sdk-v0.126.0...sdk-v0.127.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.126.0...sdk-v0.127.0) ### Features * **api:** add group with display_name to rate limits, deprecate group_type ([2575d97](https://github.com…</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.277 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.277</link>
+<guid isPermaLink="false">frontierfeed:f29935ea683c959d</guid>
+<pubDate>Fri, 18 Sep 2026 16:22:26 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.277 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>[breaking] v1.7.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.7.0</link>
+<guid isPermaLink="false">frontierfeed:e0f2b52f5aaebd3d</guid>
+<pubDate>Fri, 18 Sep 2026 16:12:53 +0000</pubDate>
+<category>deprecation</category>
+<description>## 1.7.0 (2026-09-18) Full Changelog: [v1.6.0...v1.7.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.6.0...v1.7.0) ### Features * **api:** add group with display_name to rate limits, deprecate group_type ([28f0a83](https://github.com/anthropics/anthropic-sdk-pyth…</description>
+</item>
 <item>
 <title>v1.0.229</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.229</link>
@@ -750,70 +814,6 @@
 <pubDate>Thu, 10 Sep 2026 19:45:42 +0000</pubDate>
 <category>pricing</category>
 <description>T. Rowe Price brings more of Claude to its investment process</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.268 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.268</link>
-<guid isPermaLink="false">frontierfeed:8d2d85acc7d5dfbf</guid>
-<pubDate>Thu, 10 Sep 2026 18:41:11 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.268 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>aws-sdk: v0.7.1</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.1</link>
-<guid isPermaLink="false">frontierfeed:8ebffac84daa2bd7</guid>
-<pubDate>Thu, 10 Sep 2026 17:48:24 +0000</pubDate>
-<category>api</category>
-<description>## 0.7.1 (2026-09-10) Full Changelog: [aws-sdk-v0.7.0...aws-sdk-v0.7.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.0...aws-sdk-v0.7.1)</description>
-</item>
-<item>
-<title>foundry-sdk: v0.4.6</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.6</link>
-<guid isPermaLink="false">frontierfeed:ba4c90bba62490ce</guid>
-<pubDate>Thu, 10 Sep 2026 17:48:17 +0000</pubDate>
-<category>api</category>
-<description>## 0.4.6 (2026-09-10) Full Changelog: [foundry-sdk-v0.4.5...foundry-sdk-v0.4.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.5...foundry-sdk-v0.4.6)</description>
-</item>
-<item>
-<title>bedrock-sdk: v0.33.5</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.5</link>
-<guid isPermaLink="false">frontierfeed:033d6cea3a8fa160</guid>
-<pubDate>Thu, 10 Sep 2026 17:48:11 +0000</pubDate>
-<category>api</category>
-<description>## 0.33.5 (2026-09-10) Full Changelog: [bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5)</description>
-</item>
-<item>
-<title>vertex-sdk: v0.19.8</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.8</link>
-<guid isPermaLink="false">frontierfeed:fc52480d8e706ed9</guid>
-<pubDate>Thu, 10 Sep 2026 17:48:05 +0000</pubDate>
-<category>api</category>
-<description>## 0.19.8 (2026-09-10) Full Changelog: [vertex-sdk-v0.19.7...vertex-sdk-v0.19.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.7...vertex-sdk-v0.19.8)</description>
-</item>
-<item>
-<title>sdk: v0.125.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.125.0</link>
-<guid isPermaLink="false">frontierfeed:0f1bfd95b0cdf018</guid>
-<pubDate>Thu, 10 Sep 2026 17:47:59 +0000</pubDate>
-<category>api</category>
-<description>## 0.125.0 (2026-09-10) Full Changelog: [sdk-v0.124.0...sdk-v0.125.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.124.0...sdk-v0.125.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([7f5e2c6](https://github.com/anthropics/ant…</description>
-</item>
-<item>
-<title>[breaking] v1.5.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.5.0</link>
-<guid isPermaLink="false">frontierfeed:27d52632edfcf676</guid>
-<pubDate>Thu, 10 Sep 2026 17:45:22 +0000</pubDate>
-<category>deprecation</category>
-<description>## 1.5.0 (2026-09-10) Full Changelog: [v1.4.0...v1.5.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.4.0...v1.5.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([62aa21b](https://github.com/anthropics/anthropic-sdk-python/commit/62aa2…</description>
-</item>
-<item>
-<title>Detecting and countering misuse of AI: September 2026</title>
-<link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
-<guid isPermaLink="false">frontierfeed:240738ed6b4fb001</guid>
-<pubDate>Thu, 10 Sep 2026 17:23:42 +0000</pubDate>
-<category>note</category>
-<description>49 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49647300</description>
 </item>
 </channel>
 </rss>
