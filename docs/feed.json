@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:bec9fc87dbd58da8",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.229",
+      "title": "v1.0.229",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.228...v1.0.229",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.228...v1.0.229",
+      "date_published": "2026-09-18T02:14:16+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:1da3ba726f1e0728",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.276",
+      "title": "@anthropic-ai/claude-code 2.1.276 published",
+      "summary": "Version 2.1.276 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.276 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-18T01:39:31.986000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:ed3a7b9c4277b4db",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.228",
       "title": "v1.0.228",
@@ -1366,33 +1394,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:3ffd9a31ee06f961",
-      "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-      "summary": "47 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=49646988",
-      "content_text": "47 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=49646988",
-      "date_published": "2026-09-10T17:04:34+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:9b5f75870c54d35c",
-      "url": "https://arxiv.org/abs/2609.11739v1",
-      "title": "LOCUS: Task-Aware Low-Rank Post-Training for Token-Efficient Language Generation",
-      "summary": "Large language model serving costs scale directly with output sequence length, yet standard preference alignment often inflates response verbosity without improving utility.",
-      "content_text": "Large language model serving costs scale directly with output sequence length, yet standard preference alignment often inflates response verbosity without improving utility.",
-      "date_published": "2026-09-10T15:53:25+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper"
       ]
     }
   ]

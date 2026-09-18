@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-18T00:26:28.596341+00:00",
+  "generated": "2026-09-18T05:59:28.889768+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.229",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.229",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-18T02:14:16+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.228...v1.0.229",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.228...v1.0.229",
+      "version": "1.0.229",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "bec9fc87dbd58da8"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.276 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.276",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-18T01:39:31.986000+00:00",
+      "body": "Version 2.1.276 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.276 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.276",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "1da3ba726f1e0728"
+    },
     {
       "title": "v1.0.228",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.228",
@@ -4719,36 +4751,6 @@
         "community"
       ],
       "uid": "6acfa4f5bae21d15"
-    },
-    {
-      "title": "Anthropic's \u2018watermark\u2019 text adulteration in Claude is a perversion of writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "source": "hackernews",
-      "published": "2026-08-16T21:53:43+00:00",
-      "body": "823 points, 730 comments. Discussion: https://news.ycombinator.com/item?id=49324087",
-      "summary": "823 points, 730 comments. Discussion: https://news.ycombinator.com/item?id=49324087",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "b395dbb8b9ba8d79"
-    },
-    {
-      "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-      "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
-      "source": "hackernews",
-      "published": "2026-08-16T21:00:25+00:00",
-      "body": "43 points, 67 comments. Discussion: https://news.ycombinator.com/item?id=49323620",
-      "summary": "43 points, 67 comments. Discussion: https://news.ycombinator.com/item?id=49323620",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "a81c1445c4b6a2cc"
     }
   ]
 }
