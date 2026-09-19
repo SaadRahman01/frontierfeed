@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 19 Sep 2026 01:14:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 05:59:26 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.231</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.231</link>
+<guid isPermaLink="false">frontierfeed:bd69a5648d9b1acf</guid>
+<pubDate>Sat, 19 Sep 2026 03:12:04 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.230...v1.0.231</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.278 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.278</link>
+<guid isPermaLink="false">frontierfeed:fa8cbdfdf74f1bec</guid>
+<pubDate>Sat, 19 Sep 2026 01:48:59 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.278 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Partnering with Accenture on embedded evaluation</title>
 <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
@@ -798,22 +814,6 @@
 <pubDate>Fri, 11 Sep 2026 11:28:20 +0000</pubDate>
 <category>note</category>
 <description>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</description>
-</item>
-<item>
-<title>Investigating three real-world incidents in our cybersecurity evaluations</title>
-<link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
-<guid isPermaLink="false">frontierfeed:37147b115f3e1032</guid>
-<pubDate>Fri, 11 Sep 2026 06:04:01 +0000</pubDate>
-<category>note</category>
-<description>Investigating three real-world incidents in our cybersecurity evaluations</description>
-</item>
-<item>
-<title>Reverse-Engineering Claude Web&#x27;s MicroVM: Uncovering Anthropic&#x27;s Hidden Antspace</title>
-<link>https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace</link>
-<guid isPermaLink="false">frontierfeed:dd0d766f247e2492</guid>
-<pubDate>Fri, 11 Sep 2026 03:45:42 +0000</pubDate>
-<category>note</category>
-<description>54 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49653311</description>
 </item>
 </channel>
 </rss>

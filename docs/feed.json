@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:bd69a5648d9b1acf",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.231",
+      "title": "v1.0.231",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.230...v1.0.231",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.230...v1.0.231",
+      "date_published": "2026-09-19T03:12:04+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:fa8cbdfdf74f1bec",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.278",
+      "title": "@anthropic-ai/claude-code 2.1.278 published",
+      "summary": "Version 2.1.278 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.278 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-19T01:48:59.758000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:f28145f8cf320c8a",
       "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
       "title": "Partnering with Accenture on embedded evaluation",
@@ -1367,33 +1395,6 @@
         "official",
         "news",
         "enterprise"
-      ]
-    },
-    {
-      "id": "frontierfeed:37147b115f3e1032",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "content_text": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "date_published": "2026-09-11T06:04:01.074294+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:dd0d766f247e2492",
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "summary": "54 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49653311",
-      "content_text": "54 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49653311",
-      "date_published": "2026-09-11T03:45:42+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
