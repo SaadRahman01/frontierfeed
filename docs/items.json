@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-19T20:46:09.760975+00:00",
+  "generated": "2026-09-19T23:11:10.704669+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Show HN: CUA-S1 \u2013 A System One Model for Computer Use",
+      "url": "https://github.com/trycua/cua",
+      "source": "hackernews",
+      "published": "2026-09-19T15:52:51+00:00",
+      "body": "49 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=49767564",
+      "summary": "49 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=49767564",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "91dc999c365e5da3"
+    },
     {
       "title": "v1.0.231",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.231",
@@ -4734,23 +4749,6 @@
         "skills"
       ],
       "uid": "f698e7da86be73df"
-    },
-    {
-      "title": "bedrock-sdk: v0.33.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-08-19T16:51:03+00:00",
-      "body": "## 0.33.0 (2026-08-19)\n\nFull Changelog: [bedrock-sdk-v0.32.4...bedrock-sdk-v0.33.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.32.4...bedrock-sdk-v0.33.0)\n\n### Features\n\n* **api:** Files and Skills APIs are now GA; add computer use and browser use toolsets ([ab41aa3](https://github.com/anthropics/anthropic-sdk-typescript/commit/ab41aa32b92a7964b35beb42a6be5b0bec1dd735))",
-      "summary": "## 0.33.0 (2026-08-19) Full Changelog: [bedrock-sdk-v0.32.4...bedrock-sdk-v0.33.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.32.4...bedrock-sdk-v0.33.0) ### Features * **api:** Files and Skills APIs are now GA; add computer use and browser use\u2026",
-      "version": "bedrock-sdk-v0.33.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript",
-        "skills"
-      ],
-      "uid": "6153da0ab29b7314"
     }
   ]
 }
