@@ -22,6 +22,19 @@
       ]
     },
     {
+      "id": "frontierfeed:8502ac223fef9ddd",
+      "url": "https://news.ycombinator.com/item?id=49768826",
+      "title": "Ask HN: How do you interview devs in a post-AI world?",
+      "summary": "41 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=49768826",
+      "content_text": "41 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=49768826",
+      "date_published": "2026-09-19T18:10:34+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:91dc999c365e5da3",
       "url": "https://github.com/trycua/cua",
       "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
@@ -1379,19 +1392,6 @@
         "official",
         "news",
         "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:938450d2513fc1d5",
-      "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
-      "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
-      "summary": "47 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49656698",
-      "content_text": "47 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49656698",
-      "date_published": "2026-09-11T11:36:24+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]

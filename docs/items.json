@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-20T19:30:16.360357+00:00",
+  "generated": "2026-09-20T22:30:17.410837+00:00",
   "count": 300,
   "items": [
     {
@@ -18,6 +18,21 @@
         "community"
       ],
       "uid": "590ee92c26a8fa7a"
+    },
+    {
+      "title": "Ask HN: How do you interview devs in a post-AI world?",
+      "url": "https://news.ycombinator.com/item?id=49768826",
+      "source": "hackernews",
+      "published": "2026-09-19T18:10:34+00:00",
+      "body": "41 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=49768826",
+      "summary": "41 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=49768826",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "8502ac223fef9ddd"
     },
     {
       "title": "Show HN: CUA-S1 \u2013 A System One Model for Computer Use",
@@ -4731,22 +4746,6 @@
         "npm"
       ],
       "uid": "aa6271e0e49b5073"
-    },
-    {
-      "title": "Opus 5.0 drives incoherence into the stratosphere",
-      "url": "https://github.com/anthropics/claude-code/issues/77136",
-      "source": "hackernews",
-      "published": "2026-08-19T17:40:06+00:00",
-      "body": "189 points, 170 comments. Discussion: https://news.ycombinator.com/item?id=49364658",
-      "summary": "189 points, 170 comments. Discussion: https://news.ycombinator.com/item?id=49364658",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "798c4f848efde45b"
     }
   ]
 }
