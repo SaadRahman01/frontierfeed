@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:590ee92c26a8fa7a",
+      "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+      "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+      "summary": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49769050",
+      "content_text": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49769050",
+      "date_published": "2026-09-19T18:36:44+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:91dc999c365e5da3",
       "url": "https://github.com/trycua/cua",
       "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
@@ -1379,20 +1392,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:9a13f34e2ecc4eb4",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "title": "Our position on open-weights models",
-      "summary": "Our position on open-weights models",
-      "content_text": "Our position on open-weights models",
-      "date_published": "2026-09-11T11:28:20.349762+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
       ]
     }
   ]

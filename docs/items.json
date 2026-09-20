@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-19T23:11:10.704669+00:00",
+  "generated": "2026-09-20T01:14:03.208014+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+      "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+      "source": "hackernews",
+      "published": "2026-09-19T18:36:44+00:00",
+      "body": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49769050",
+      "summary": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49769050",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "590ee92c26a8fa7a"
+    },
     {
       "title": "Show HN: CUA-S1 \u2013 A System One Model for Computer Use",
       "url": "https://github.com/trycua/cua",
@@ -4732,23 +4747,6 @@
         "opus"
       ],
       "uid": "798c4f848efde45b"
-    },
-    {
-      "title": "v0.124.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.124.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-08-19T16:51:20+00:00",
-      "body": "## 0.124.0 (2026-08-19)\n\nFull Changelog: [v0.123.0...v0.124.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.123.0...v0.124.0)\n\n### Features\n\n* **api:** Files and Skills APIs are now GA; add computer use and browser use toolsets ([9a09e84](https://github.com/anthropics/anthropic-sdk-python/commit/9a09e84608944172088acf371e7584133ca19844))",
-      "summary": "## 0.124.0 (2026-08-19) Full Changelog: [v0.123.0...v0.124.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.123.0...v0.124.0) ### Features * **api:** Files and Skills APIs are now GA; add computer use and browser use toolsets ([9a09e84](https://github.com/anthropi\u2026",
-      "version": "0.124.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-python",
-        "skills"
-      ],
-      "uid": "f698e7da86be73df"
     }
   ]
 }
