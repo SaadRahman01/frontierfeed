@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:78a2c87b80d275a1",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "summary": "190 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49783133",
+      "content_text": "190 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49783133",
+      "date_published": "2026-09-21T04:42:37+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:590ee92c26a8fa7a",
       "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
       "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
@@ -1377,21 +1390,6 @@
         "info",
         "official",
         "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:cb3d7ccb220b7d1b",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "title": "Introducing Claude Opus 5",
-      "summary": "Introducing Claude Opus 5",
-      "content_text": "Introducing Claude Opus 5",
-      "date_published": "2026-09-11T16:33:06.232338+00:00",
-      "tags": [
-        "model-release",
-        "feature",
-        "official",
-        "news",
-        "opus"
       ]
     }
   ]

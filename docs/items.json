@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-21T06:26:30.810036+00:00",
+  "generated": "2026-09-21T14:15:36.558862+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "source": "hackernews",
+      "published": "2026-09-21T04:42:37+00:00",
+      "body": "190 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49783133",
+      "summary": "190 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49783133",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "78a2c87b80d275a1"
+    },
     {
       "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
       "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
@@ -4730,22 +4745,6 @@
         "claude-code-action"
       ],
       "uid": "d9944f878af9d1c1"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.236 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.236",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-19T18:45:14.539000+00:00",
-      "body": "Version 2.1.236 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.236 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.236",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "aa6271e0e49b5073"
     }
   ]
 }
