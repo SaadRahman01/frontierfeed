@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-22T05:04:36.384585+00:00",
+  "generated": "2026-09-22T10:02:53.813286+00:00",
   "count": 300,
   "items": [
     {
@@ -18,6 +18,21 @@
         "community"
       ],
       "uid": "92967edb37f083d3"
+    },
+    {
+      "title": "Show HN: Foremerge \u2013 Catch intent conflicts between parallel coding agents",
+      "url": "https://github.com/naw103/foremerge",
+      "source": "hackernews",
+      "published": "2026-09-21T16:22:06+00:00",
+      "body": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49789356",
+      "summary": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49789356",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "945dd5b21dacb9d2"
     },
     {
       "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
@@ -4730,22 +4745,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "63e53812f5194763"
-    },
-    {
-      "title": "vertex-sdk: v0.19.5",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.5",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-08-19T22:00:22+00:00",
-      "body": "## 0.19.5 (2026-08-19)\n\nFull Changelog: [vertex-sdk-v0.19.4...vertex-sdk-v0.19.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.4...vertex-sdk-v0.19.5)\n\n### Chores\n\n* **internal:** use a single pnpm workspace lockfile ([#359](https://github.com/anthropics/anthropic-sdk-typescript/issues/359)) ([3c32145](https://github.com/anthropics/anthropic-sdk-typescript/commit/3c32145d2bc4d53888c6c6857c9af216eec95fb9))",
-      "summary": "## 0.19.5 (2026-08-19) Full Changelog: [vertex-sdk-v0.19.4...vertex-sdk-v0.19.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.4...vertex-sdk-v0.19.5) ### Chores * **internal:** use a single pnpm workspace lockfile ([#359](https://github.com/anth\u2026",
-      "version": "ertex-sdk-v0.19.5",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "940976bf5e922875"
     }
   ]
 }

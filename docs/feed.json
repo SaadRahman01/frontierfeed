@@ -22,6 +22,19 @@
       ]
     },
     {
+      "id": "frontierfeed:945dd5b21dacb9d2",
+      "url": "https://github.com/naw103/foremerge",
+      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+      "summary": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49789356",
+      "content_text": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49789356",
+      "date_published": "2026-09-21T16:22:06+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:78a2c87b80d275a1",
       "url": "https://github.com/volotat/mini-AGI/",
       "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
@@ -1375,20 +1388,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:05c3182a9b9e8d83",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.269",
-      "title": "@anthropic-ai/claude-code 2.1.269 published",
-      "summary": "Version 2.1.269 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.269 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-11T18:12:49.253000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
