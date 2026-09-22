@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-21T23:20:25.410368+00:00",
+  "generated": "2026-09-22T05:04:36.384585+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Claude Status \u2013 Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "source": "hackernews",
+      "published": "2026-09-22T01:05:19+00:00",
+      "body": "84 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49795579",
+      "summary": "84 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49795579",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "92967edb37f083d3"
+    },
     {
       "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
       "url": "https://github.com/volotat/mini-AGI/",
@@ -63,6 +78,22 @@
         "community"
       ],
       "uid": "91dc999c365e5da3"
+    },
+    {
+      "title": "Auditing Political Alignment in LLM Assistants: Engagement, Stance, and User Identity",
+      "url": "https://arxiv.org/abs/2609.23039v1",
+      "source": "arxiv",
+      "published": "2026-09-19T14:15:43+00:00",
+      "body": "LLM-based AI systems answer political questions for hundreds of millions of people. Current audits measure what they say to an average user, but their behavior is dynamic. I argue that their political behavior is a set of policies over whom to answer, what to say, and whether to engage at all, conditional on the topic and what the system knows about the user. I call these policies the system's speech regime, which is how a developer settles the tradeoff between answering, accommodating the user, and refusing, each of which carries a cost that varies by topic. I derive a typology of five regimes from two dimensions, engagement and stance. I test six AI systems (OpenAI, Anthropic, xAI, Google, Mistral, DeepSeek) in a preregistered experiment of 7,500 multi-turn conversations that randomly assign the user's political identity across five topics: abortion, Catalan independence, climate change, Nazism, and a zero-stakes control (pineapple on pizza). Two LLM judges from different developers score every answer, validated against human coding, and refusal is treated as an outcome rather than missing data. Every system accommodates the user on the control topic, showing that political restraint is a policy. On contested topics the systems fall into different regimes: on abortion, GPT engages and mirrors every user, Gemma refuses everyone, Claude answers strongly conservative users 35 percent of the time and almost no one else, and Grok accommodates conservatives only. On settled topics such as climate change and Nazism, five systems hold firm for every user. The systems also infer the user's overall ideology, so accommodation can spill over to topics not yet discussed. A comparison of two Grok releases shows the regime changing between versions in a way current audits miss. Speech regimes matter for alignment research and for polarization, political knowledge, and the quality of democracy.",
+      "summary": "LLM-based AI systems answer political questions for hundreds of millions of people. Current audits measure what they say to an average user, but their behavior is dynamic.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "eb345ea3b8f3f1e8"
     },
     {
       "title": "v1.0.231",
@@ -2792,6 +2823,23 @@
       "uid": "f696fea65788ab9d"
     },
     {
+      "title": "Can Coding Agents Reproduce Official Statistics? Metadata, Retry Budget and the Limits of Execution Feedback in a Controlled Eurostat Benchmark",
+      "url": "https://arxiv.org/abs/2609.22222v1",
+      "source": "arxiv",
+      "published": "2026-09-02T13:21:14+00:00",
+      "body": "Large language models can generate executable data-analysis code, but successful execution is not equivalent to a valid official-statistics result. This study asks whether authoritative metadata and execution feedback improve the reproducibility of Eurostat answers produced by a coding agent, and isolates what execution feedback actually contributes. A benchmark of 30 natural-language tasks covering seven domains, seven Eurostat datasets and four difficulty tiers was run under four conditions: task only (A), task plus a frozen dataset metadata card (B), metadata plus a repair loop driven by sanitized execution feedback (C), and metadata plus the same attempt budget with no diagnostics of any kind (D). Claude Sonnet 5 generated Python through the Anthropic Messages API in three independent replicates, yielding 360 task-runs. Exact correctness required successful execution, the correct dataset, filters, output shape, values and unit. A companion experiment run under an under-specified output contract, in which the required ranking key and unit representation were never stated to the model, understated condition C by 23.4 points, showing that evaluator and contract design can dominate measured agent error. Reliable statistical coding agents need semantic validation against frozen specifications, a fully specified output contract, and a retry budget - not execution diagnostics.",
+      "summary": "Large language models can generate executable data-analysis code, but successful execution is not equivalent to a valid official-statistics result.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper",
+        "sonnet"
+      ],
+      "uid": "290af41a0c404d65"
+    },
+    {
       "title": "Anthropic banned me for \"suspicious signals\"",
       "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
       "source": "hackernews",
@@ -4698,53 +4746,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "940976bf5e922875"
-    },
-    {
-      "title": "sdk: v0.120.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.120.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-08-19T22:00:16+00:00",
-      "body": "## 0.120.0 (2026-08-19)\n\nFull Changelog: [sdk-v0.119.0...sdk-v0.120.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.119.0...sdk-v0.120.0)\n\n### Features\n\n* **api:** managed agents web search config and self hosted sandbox memory ([ba8ec50](https://github.com/anthropics/anthropic-sdk-typescript/commit/ba8ec50ffe31e10781971a942d54289439307424))\n\n\n### Chores\n\n* **internal:** use a single pnpm workspace lockfile ([#359](https://github.com/anthropics/anthropic-sdk-typescript/issues/359)) ([3c32145](https://github.com/anthropics/anthropic-sdk-typescript/commit/3c32145d2bc4d53888c6c6857c9af216eec95fb9))",
-      "summary": "## 0.120.0 (2026-08-19) Full Changelog: [sdk-v0.119.0...sdk-v0.120.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.119.0...sdk-v0.120.0) ### Features * **api:** managed agents web search config and self hosted sandbox memory ([ba8ec50](https://github.com/\u2026",
-      "version": "sdk-v0.120.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "9607c90acf268e89"
-    },
-    {
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "source": "hackernews",
-      "published": "2026-08-19T21:19:50+00:00",
-      "body": "375 points, 219 comments. Discussion: https://news.ycombinator.com/item?id=49367350",
-      "summary": "375 points, 219 comments. Discussion: https://news.ycombinator.com/item?id=49367350",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "9c77de4546f265db"
-    },
-    {
-      "title": "v1.0.196",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.196",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-19T20:06:48+00:00",
-      "body": "## What's Changed\n* fix(security): unify secret redaction in public comment outputs by @Juwan-Hwang in https://github.com/anthropics/claude-code-action/pull/1693\n* fix: strip unused ALL_INPUTS environment variable from Claude subprocess env by @Juwan-Hwang in https://github.com/anthropics/claude-code-action/pull/1692\n* fix(github): match bot actors in comment filters using GraphQL __typename by @Neal006 in https://github.com/anthropics/claude-code-action/pull/1616\n\n## New Contributors\n* @Juwan-Hwang made their first contribution in https://github.com/anthropics/claude-code-action/pull/1693\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.195...v1.0.196",
-      "summary": "## What's Changed * fix(security): unify secret redaction in public comment outputs by @Juwan-Hwang in https://github.com/anthropics/claude-code-action/pull/1693 * fix: strip unused ALL_INPUTS environment variable from Claude subprocess env by @Juwan-Hwang in https://github.com/a\u2026",
-      "version": "1.0.196",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "d9944f878af9d1c1"
     }
   ]
 }

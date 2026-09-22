@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:92967edb37f083d3",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "summary": "84 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49795579",
+      "content_text": "84 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49795579",
+      "date_published": "2026-09-22T01:05:19+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:78a2c87b80d275a1",
       "url": "https://github.com/volotat/mini-AGI/",
       "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
@@ -58,6 +71,20 @@
         "note",
         "info",
         "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:eb345ea3b8f3f1e8",
+      "url": "https://arxiv.org/abs/2609.23039v1",
+      "title": "Auditing Political Alignment in LLM Assistants: Engagement, Stance, and User Identity",
+      "summary": "LLM-based AI systems answer political questions for hundreds of millions of people. Current audits measure what they say to an average user, but their behavior is dynamic.",
+      "content_text": "LLM-based AI systems answer political questions for hundreds of millions of people. Current audits measure what they say to an average user, but their behavior is dynamic.",
+      "date_published": "2026-09-19T14:15:43+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper"
       ]
     },
     {
@@ -1362,34 +1389,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:0ea1743424c3f00b",
-      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "title": "A research agenda for the Economic Futures Research Fund",
-      "summary": "A research agenda for the Economic Futures Research Fund",
-      "content_text": "A research agenda for the Economic Futures Research Fund",
-      "date_published": "2026-09-11T16:33:06.232382+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:823e8100cfe93440",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "title": "Ask Claude about the Anthropic Economic Index",
-      "summary": "Ask Claude about the Anthropic Economic Index",
-      "content_text": "Ask Claude about the Anthropic Economic Index",
-      "date_published": "2026-09-11T16:33:06.232361+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
       ]
     }
   ]
