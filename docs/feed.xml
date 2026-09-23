@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 23 Sep 2026 17:08:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 20:27:03 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace</title>
+<link>https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</link>
+<guid isPermaLink="false">frontierfeed:56185ec142d8d37f</guid>
+<pubDate>Wed, 23 Sep 2026 20:26:53 +0000</pubDate>
+<category>note</category>
+<description>How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace</description>
+</item>
+<item>
+<title>Claude Marketplace: one place to discover plugins, agents, and services from our partners</title>
+<link>https://claude.com/blog/claude-marketplace</link>
+<guid isPermaLink="false">frontierfeed:20fb7ec00500f312</guid>
+<pubDate>Wed, 23 Sep 2026 20:26:53 +0000</pubDate>
+<category>note</category>
+<description>Claude Marketplace: one place to discover plugins, agents, and services from our partners</description>
+</item>
+<item>
+<title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
+<link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
+<guid isPermaLink="false">frontierfeed:6d87425449e9b6fb</guid>
+<pubDate>Wed, 23 Sep 2026 20:26:51 +0000</pubDate>
+<category>note</category>
+<description>Claude discovers a novel enzyme system with CRISPR-like repeats</description>
+</item>
+<item>
+<title>v1.0.233</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.233</link>
+<guid isPermaLink="false">frontierfeed:0ec9ed12e2a18484</guid>
+<pubDate>Wed, 23 Sep 2026 19:40:57 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.232...v1.0.233</description>
+</item>
 <item>
 <title>How to prepare for AI-driven code modernization projects</title>
 <link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
@@ -782,38 +814,6 @@
 <pubDate>Sun, 13 Sep 2026 01:04:25 +0000</pubDate>
 <category>note</category>
 <description>Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it—raising questions about eval integrity in web-enabled environments.</description>
-</item>
-<item>
-<title>Harness design for long-running application development</title>
-<link>https://www.anthropic.com/engineering/harness-design-long-running-apps</link>
-<guid isPermaLink="false">frontierfeed:cbc62fbd516489f9</guid>
-<pubDate>Sun, 13 Sep 2026 01:04:25 +0000</pubDate>
-<category>note</category>
-<description>Harness design is key to performance at the frontier of agentic coding. Here&#x27;s how we pushed Claude further in frontend design and long-running autonomous software engineering.</description>
-</item>
-<item>
-<title>How we built Claude Code auto mode: a safer way to skip permissions</title>
-<link>https://www.anthropic.com/engineering/claude-code-auto-mode</link>
-<guid isPermaLink="false">frontierfeed:03a152ee697246cd</guid>
-<pubDate>Sun, 13 Sep 2026 01:04:25 +0000</pubDate>
-<category>claude-code</category>
-<description>Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here&#x27;s what it catches, and what it misses.\n</description>
-</item>
-<item>
-<title>Scaling Managed Agents: Decoupling the brain from the hands</title>
-<link>https://www.anthropic.com/engineering/managed-agents</link>
-<guid isPermaLink="false">frontierfeed:0053e0c582e53587</guid>
-<pubDate>Sun, 13 Sep 2026 01:04:25 +0000</pubDate>
-<category>note</category>
-<description>Harnesses encode assumptions that go stale as models improve. Managed Agents—our hosted service for long-horizon agent work—is built around interfaces that stay stable as harnesses change.</description>
-</item>
-<item>
-<title>An update on recent Claude Code quality reports</title>
-<link>https://www.anthropic.com/engineering/april-23-postmortem</link>
-<guid isPermaLink="false">frontierfeed:bf46dd6669ed40e2</guid>
-<pubDate>Sat, 12 Sep 2026 22:21:34 +0000</pubDate>
-<category>claude-code</category>
-<description>We traced recent reports of Claude Code quality issues to three separate changes. Here&#x27;s what happened and what we&#x27;re changing.</description>
 </item>
 </channel>
 </rss>

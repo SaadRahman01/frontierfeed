@@ -1,9 +1,74 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-23T17:08:52.000518+00:00",
+  "generated": "2026-09-23T20:27:03.938882+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
+      "url": "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
+      "source": "claude-blog",
+      "published": "2026-09-23T20:26:53.225457+00:00",
+      "body": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
+      "summary": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "56185ec142d8d37f"
+    },
+    {
+      "title": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
+      "url": "https://claude.com/blog/claude-marketplace",
+      "source": "claude-blog",
+      "published": "2026-09-23T20:26:53.225416+00:00",
+      "body": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
+      "summary": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "skills"
+      ],
+      "uid": "20fb7ec00500f312"
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source": "anthropic-news",
+      "published": "2026-09-23T20:26:51.148248+00:00",
+      "body": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "6d87425449e9b6fb"
+    },
+    {
+      "title": "v1.0.233",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.233",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-23T19:40:57+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.232...v1.0.233",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.232...v1.0.233",
+      "version": "1.0.233",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "0ec9ed12e2a18484"
+    },
     {
       "title": "How to prepare for AI-driven code modernization projects",
       "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
@@ -4684,68 +4749,6 @@
         "news"
       ],
       "uid": "b7a1e2afb6e77707"
-    },
-    {
-      "title": "v1.0.201",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.201",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-23T00:56:58+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.200...v1.0.201",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.200...v1.0.201",
-      "version": "1.0.201",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "21fb4e03ccc954ef"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.241 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.241",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-22T23:58:33.046000+00:00",
-      "body": "Version 2.1.241 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.241 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.241",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "828a5e2e993c2789"
-    },
-    {
-      "title": "Show HN: Make your logo extra bright on HDR screens",
-      "url": "https://www.soverybright.com/",
-      "source": "hackernews",
-      "published": "2026-08-22T18:43:03+00:00",
-      "body": "64 points, 85 comments. Discussion: https://news.ycombinator.com/item?id=49402521",
-      "summary": "64 points, 85 comments. Discussion: https://news.ycombinator.com/item?id=49402521",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "8e35d2709afff13a"
-    },
-    {
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "source": "hackernews",
-      "published": "2026-08-22T16:58:49+00:00",
-      "body": "196 points, 175 comments. Discussion: https://news.ycombinator.com/item?id=49401549",
-      "summary": "196 points, 175 comments. Discussion: https://news.ycombinator.com/item?id=49401549",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "1f175a4aa1a187f3"
     }
   ]
 }
