@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 23 Sep 2026 11:44:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 17:08:51 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>How to prepare for AI-driven code modernization projects</title>
+<link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
+<guid isPermaLink="false">frontierfeed:c5ae6ffe5ce86854</guid>
+<pubDate>Wed, 23 Sep 2026 17:08:41 +0000</pubDate>
+<category>note</category>
+<description>How to prepare for AI-driven code modernization projects</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.281 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.281</link>
+<guid isPermaLink="false">frontierfeed:bac5b5a3e703f1ab</guid>
+<pubDate>Wed, 23 Sep 2026 17:01:17 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.281 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>v1.0.232</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.232</link>
+<guid isPermaLink="false">frontierfeed:8c34d0ea2e416539</guid>
+<pubDate>Wed, 23 Sep 2026 16:51:14 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed * ci: pin the integration tests to claude-opus-5 by @mhegazy in https://github.com/anthropics/claude-code-action/pull/1853 ## New Contributors * @mhegazy made their first contribution in https://github.com/anthropics/claude-code-action/pull/1853 **Full Changelog…</description>
+</item>
+<item>
+<title>Claude Code reads AGENTS.md only when telemetry is on [fixed]</title>
+<link>https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/</link>
+<guid isPermaLink="false">frontierfeed:213a9a56ffca51b5</guid>
+<pubDate>Wed, 23 Sep 2026 12:15:33 +0000</pubDate>
+<category>claude-code</category>
+<description>360 points, 199 comments. Discussion: https://news.ycombinator.com/item?id=49814947</description>
+</item>
 <item>
 <title>What a task costs on Opus 5.5</title>
 <link>https://claude.com/blog/what-a-task-costs-on-opus-5-5</link>
@@ -94,6 +126,14 @@
 <pubDate>Tue, 22 Sep 2026 16:25:23 +0000</pubDate>
 <category>api</category>
 <description>## 1.8.0 (2026-09-22) Full Changelog: [v1.7.0...v1.8.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.7.0...v1.8.0) ### Features * **api:** add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ([b5cc700](https://github.com/anth…</description>
+</item>
+<item>
+<title>Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why</title>
+<link>https://ai-rete-rag.com/</link>
+<guid isPermaLink="false">frontierfeed:3a78366e23978c05</guid>
+<pubDate>Tue, 22 Sep 2026 16:15:06 +0000</pubDate>
+<category>note</category>
+<description>41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49803683</description>
 </item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.280 published</title>
@@ -774,46 +814,6 @@
 <pubDate>Sat, 12 Sep 2026 22:21:34 +0000</pubDate>
 <category>claude-code</category>
 <description>We traced recent reports of Claude Code quality issues to three separate changes. Here&#x27;s what happened and what we&#x27;re changing.</description>
-</item>
-<item>
-<title>How we contain Claude across products</title>
-<link>https://www.anthropic.com/engineering/how-we-contain-claude</link>
-<guid isPermaLink="false">frontierfeed:fe20721a36aabacb</guid>
-<pubDate>Sat, 12 Sep 2026 22:21:34 +0000</pubDate>
-<category>claude-code</category>
-<description>As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.\n</description>
-</item>
-<item>
-<title>v1.0.223</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.223</link>
-<guid isPermaLink="false">frontierfeed:97295264b452467e</guid>
-<pubDate>Sat, 12 Sep 2026 19:47:51 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.222...v1.0.223</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.270 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.270</link>
-<guid isPermaLink="false">frontierfeed:38040b6db6ccbfa3</guid>
-<pubDate>Sat, 12 Sep 2026 18:52:44 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.270 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Anthropic CEO Says It&#x27;s Time to Slow AI Model Advances</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models</link>
-<guid isPermaLink="false">frontierfeed:ce21ba8d88ec51b8</guid>
-<pubDate>Sat, 12 Sep 2026 18:07:07 +0000</pubDate>
-<category>note</category>
-<description>44 points, 64 comments. Discussion: https://news.ycombinator.com/item?id=49675247</description>
-</item>
-<item>
-<title>Anthropic boss Dario Amodei calls for AI development to slow down</title>
-<link>https://www.bbc.com/news/articles/c14dpgm0rg4o</link>
-<guid isPermaLink="false">frontierfeed:b0c4a22f738fedc4</guid>
-<pubDate>Sat, 12 Sep 2026 16:56:52 +0000</pubDate>
-<category>note</category>
-<description>45 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=49674395</description>
 </item>
 </channel>
 </rss>

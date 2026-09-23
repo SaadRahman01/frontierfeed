@@ -2,66 +2,66 @@
   "http://export.arxiv.org/api/query?search_query=all%3A%22Anthropic%22+AND+cat%3Acs.CL&sortBy=submittedDate&sortOrder=descending&max_results=10": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790163889.9407544
+    "seen": 1790183328.5953526
   },
   "http://export.arxiv.org/api/query?search_query=all%3A%22constitutional+AI%22&sortBy=submittedDate&sortOrder=descending&max_results=10": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790163893.2515743
+    "seen": 1790183331.9622126
   },
   "https://api.github.com/repos/anthropics/anthropic-sdk-python/releases?per_page=10": {
-    "etag": "W/\"f8a2005056b72c7f023e3edaf1eca2bd88fd9d0c45aa10b161ff6988c39a0747\"",
+    "etag": "W/\"72085d5c9fdc9519922474e412651448522e2534f09b27a93486930a4948ae46\"",
     "last_modified": null,
-    "seen": 1790163873.9361105
+    "seen": 1790183312.347281
   },
   "https://api.github.com/repos/anthropics/anthropic-sdk-typescript/releases?per_page=10": {
-    "etag": "W/\"673aea658addc2d08a651bc6153bb69cfaff001891de9beb86a1c8c464010538\"",
+    "etag": "W/\"91bcafa9baa7eab3cc5caf83e7fa459f2970377cc2627f70e1f00c09e853d0b7\"",
     "last_modified": null,
-    "seen": 1790163875.2606556
+    "seen": 1790183313.7028706
   },
   "https://api.github.com/repos/anthropics/claude-code-action/releases?per_page=10": {
-    "etag": "W/\"79ee424f357f7eae811fc7e6894620d30bcc23602c67fac0d0c2204463608c84\"",
+    "etag": "W/\"7d308d2f64b43ca604e834b13c57b9cf0cf2b164c019dfb1d286e2a6342ae00d\"",
     "last_modified": null,
-    "seen": 1790163876.5706813
+    "seen": 1790183315.1534886
   },
   "https://api.github.com/repos/modelcontextprotocol/servers/releases?per_page=10": {
-    "etag": "W/\"8f751b0fbdd64762e2995ebc2fee41103e702f46b5215526f0d9850009e56aff\"",
+    "etag": "W/\"ee3aec988c1fc63617446bd7c23164ca8ef298273a419c2fd37cfe99d45620fe\"",
     "last_modified": null,
-    "seen": 1790163877.9211495
+    "seen": 1790183316.5070307
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Anthropic&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790163883.9458168
+    "seen": 1790183322.5043283
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Claude+Code&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790163885.2392907
+    "seen": 1790183323.7929602
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Claude+Opus&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790163886.501503
+    "seen": 1790183325.101781
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml": {
-    "etag": "W/\"aa186a66f06179f98b05034d2c56e808b95dcd834c8d46f2276b644b640670f2\"",
+    "etag": "W/\"3e35277e8afc2ff3be9d17474a1bc73f901ffc15b4d7d286891c9ec43f806934\"",
     "last_modified": null,
-    "seen": 1790163881.5381699
+    "seen": 1790183320.129911
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml": {
-    "etag": "W/\"be4674df9569ca8e41dee2867d4b32e3b8025e73e09c33f135ba79b3d4c5b4cb\"",
+    "etag": "W/\"96553d2f0111ae4abc9376ddced467d137dd12491850891ab891c729f6ccd3de\"",
     "last_modified": null,
-    "seen": 1790163880.44743
+    "seen": 1790183319.0332627
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml": {
-    "etag": "W/\"e4e1737e34df12cb2efb8bb010037ec593bed2100e4d505669a3485d34fe8914\"",
+    "etag": "W/\"98527a7abb0ec4f072b63ec7f6a8a7e24f241666e738938d3d277ca25abe5a81\"",
     "last_modified": null,
-    "seen": 1790163882.5689192
+    "seen": 1790183321.1502278
   },
   "https://registry.npmjs.org/@anthropic-ai%2Fclaude-code": {
-    "etag": "W/\"2d1d62b86b6dfa18efb0dcb3b8394035\"",
-    "last_modified": "Tue, 22 Sep 2026 16:38:20 GMT",
-    "seen": 1790103457.8589911
+    "etag": "W/\"556604d3dd57a3c10200e771af03831a\"",
+    "last_modified": "Wed, 23 Sep 2026 17:01:21 GMT",
+    "seen": 1790183310.726262
   }
 }

@@ -9,6 +9,62 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:c5ae6ffe5ce86854",
+      "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+      "title": "How to prepare for AI-driven code modernization projects",
+      "summary": "How to prepare for AI-driven code modernization projects",
+      "content_text": "How to prepare for AI-driven code modernization projects",
+      "date_published": "2026-09-23T17:08:41.209191+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:bac5b5a3e703f1ab",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.281",
+      "title": "@anthropic-ai/claude-code 2.1.281 published",
+      "summary": "Version 2.1.281 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.281 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-23T17:01:17.780000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:8c34d0ea2e416539",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.232",
+      "title": "v1.0.232",
+      "summary": "## What's Changed * ci: pin the integration tests to claude-opus-5 by @mhegazy in https://github.com/anthropics/claude-code-action/pull/1853 ## New Contributors * @mhegazy made their first contribution in https://github.com/anthropics/claude-code-action/pull/1853 **Full Changelog…",
+      "content_text": "## What's Changed * ci: pin the integration tests to claude-opus-5 by @mhegazy in https://github.com/anthropics/claude-code-action/pull/1853 ## New Contributors * @mhegazy made their first contribution in https://github.com/anthropics/claude-code-action/pull/1853 **Full Changelog…",
+      "date_published": "2026-09-23T16:51:14+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action",
+        "opus"
+      ]
+    },
+    {
+      "id": "frontierfeed:213a9a56ffca51b5",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "summary": "360 points, 199 comments. Discussion: https://news.ycombinator.com/item?id=49814947",
+      "content_text": "360 points, 199 comments. Discussion: https://news.ycombinator.com/item?id=49814947",
+      "date_published": "2026-09-23T12:15:33+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:fb73c8c386b392cb",
       "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
       "title": "What a task costs on Opus 5.5",
@@ -151,6 +207,19 @@
         "anthropic-sdk-python",
         "opus",
         "mcp"
+      ]
+    },
+    {
+      "id": "frontierfeed:3a78366e23978c05",
+      "url": "https://ai-rete-rag.com/",
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "summary": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49803683",
+      "content_text": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49803683",
+      "date_published": "2026-09-22T16:15:06+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1324,74 +1393,6 @@
         "info",
         "official",
         "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:fe20721a36aabacb",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "title": "How we contain Claude across products",
-      "summary": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.\\n",
-      "content_text": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.\\n",
-      "date_published": "2026-09-12T22:21:34.292515+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:97295264b452467e",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.223",
-      "title": "v1.0.223",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.222...v1.0.223",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.222...v1.0.223",
-      "date_published": "2026-09-12T19:47:51+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:38040b6db6ccbfa3",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.270",
-      "title": "@anthropic-ai/claude-code 2.1.270 published",
-      "summary": "Version 2.1.270 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.270 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-12T18:52:44.937000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:ce21ba8d88ec51b8",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-      "summary": "44 points, 64 comments. Discussion: https://news.ycombinator.com/item?id=49675247",
-      "content_text": "44 points, 64 comments. Discussion: https://news.ycombinator.com/item?id=49675247",
-      "date_published": "2026-09-12T18:07:07+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:b0c4a22f738fedc4",
-      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "summary": "45 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=49674395",
-      "content_text": "45 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=49674395",
-      "date_published": "2026-09-12T16:56:52+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]

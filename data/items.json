@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "title": "How to prepare for AI-driven code modernization projects",
+      "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+      "source": "claude-blog",
+      "published": "2026-09-23T17:08:41.209191+00:00",
+      "body": "How to prepare for AI-driven code modernization projects",
+      "summary": "How to prepare for AI-driven code modernization projects",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "c5ae6ffe5ce86854"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.281 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.281",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-23T17:01:17.780000+00:00",
+      "body": "Version 2.1.281 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.281 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.281",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "bac5b5a3e703f1ab"
+    },
+    {
+      "title": "v1.0.232",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.232",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-23T16:51:14+00:00",
+      "body": "## What's Changed\n* ci: pin the integration tests to claude-opus-5 by @mhegazy in https://github.com/anthropics/claude-code-action/pull/1853\n\n## New Contributors\n* @mhegazy made their first contribution in https://github.com/anthropics/claude-code-action/pull/1853\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.231...v1.0.232",
+      "summary": "## What's Changed * ci: pin the integration tests to claude-opus-5 by @mhegazy in https://github.com/anthropics/claude-code-action/pull/1853 ## New Contributors * @mhegazy made their first contribution in https://github.com/anthropics/claude-code-action/pull/1853 **Full Changelog\u2026",
+      "version": "1.0.232",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action",
+        "opus"
+      ],
+      "uid": "8c34d0ea2e416539"
+    },
+    {
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "source": "hackernews",
+      "published": "2026-09-23T12:15:33+00:00",
+      "body": "360 points, 199 comments. Discussion: https://news.ycombinator.com/item?id=49814947",
+      "summary": "360 points, 199 comments. Discussion: https://news.ycombinator.com/item?id=49814947",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "213a9a56ffca51b5"
+    },
+    {
       "title": "What a task costs on Opus 5.5",
       "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
       "source": "claude-blog",
@@ -164,6 +228,21 @@
         "mcp"
       ],
       "uid": "171276edd0ba1c41"
+    },
+    {
+      "title": "Show HN: AI\u00b7rete\u00b7RAG \u2013 a Rete rule engine decides, RAG explains why",
+      "url": "https://ai-rete-rag.com/",
+      "source": "hackernews",
+      "published": "2026-09-22T16:15:06+00:00",
+      "body": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49803683",
+      "summary": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49803683",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "3a78366e23978c05"
     },
     {
       "title": "@anthropic-ai/claude-code 2.1.280 published",
@@ -4663,87 +4742,6 @@
         "community"
       ],
       "uid": "1f175a4aa1a187f3"
-    },
-    {
-      "title": "v1.0.200",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.200",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-22T14:47:00+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.199...v1.0.200",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.199...v1.0.200",
-      "version": "1.0.200",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "7b0f4df96dfd472e"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.240 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.240",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-22T13:03:23.566000+00:00",
-      "body": "Version 2.1.240 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.240 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.240",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "795abc2a5a3083db"
-    },
-    {
-      "title": "Architecture as Capability Equalizer for Coding Agents",
-      "url": "https://arxiv.org/abs/2608.21747v1",
-      "source": "arxiv",
-      "published": "2026-08-22T03:04:12+00:00",
-      "body": "LLM-based coding agents generate complete software systems from high-level descriptions, yet little is known about how the format of architecture specifications affects the quality of generated code or whether this effect depends on model capability. We present a controlled experiment comparing five informationally equivalent specification formats (informal prose, Mermaid diagrams with constraints and ADRs, OpenAPI, C4/Structurizr DSL, and TypeScript interface contracts with ArchUnit-style rules) across six models from three vendor families (Anthropic Claude, OpenAI GPT, Google Gemini). Across 90 multi-turn agent trials, specification format shows a strong format x model interaction. On the strongest models (Sonnet 4.6, GPT-5), format barely matters (quality spread 0.17-0.92). On weaker models, format produces spreads of 0.83-2.42 points, with code-proximate formats (OpenAPI, TypeScript contracts) recovering most of the capability gap. Mid-tier models can consume more tokens than frontier models for worse output when they enter compilation debugging loops that stronger models avoid. Self-validation rates collapse from 100% (Sonnet) to 0% (Gemini Flash) across the capability spectrum. TypeScript contracts triple API route coverage for the weakest model (33% to 100%). Structured architecture specifications serve as a capability equalizer, with value inversely proportional to model strength and the largest returns for cost-optimized deployments.",
-      "summary": "LLM-based coding agents generate complete software systems from high-level descriptions, yet little is known about how the format of architecture specifications affects the quality of generated code or whether this effect depends on model capability.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper",
-        "sonnet"
-      ],
-      "uid": "e6b6d3c71252ceb2"
-    },
-    {
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
-      "source": "hackernews",
-      "published": "2026-08-21T23:09:06+00:00",
-      "body": "85 points, 50 comments. Discussion: https://news.ycombinator.com/item?id=49394827",
-      "summary": "85 points, 50 comments. Discussion: https://news.ycombinator.com/item?id=49394827",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "0f62779c4c4d2e22"
-    },
-    {
-      "title": "v1.0.199",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.199",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-21T19:57:05+00:00",
-      "body": "## What's Changed\n* fix(github): honor GITHUB_GRAPHQL_URL for the GraphQL client by @rover0811 in https://github.com/anthropics/claude-code-action/pull/1575\n* fix(cleanup): keep the base-branch config revert out of the auto-commit by @GautamSharma99 in https://github.com/anthropics/claude-code-action/pull/1677\n* fix(mcp): recognize mcp__github aggregate selector for GitHub MCP server initialization by @anishesg in https://github.com/anthropics/claude-code-action/pull/1657\n* Document 1M gateway models and surface resolved limits by @ulofiai in https://github.com/anthropics/claude-code-action/pull/1608\n* fix: teach claude_args --allowedTools in the signed prompt by @WeAreResilience in https://github.com/anthropics/claude-code-action/pull/1704\n\n## New Contributors\n* @rover0811 made their first contribution in https://github.com/anthropics/claude-code-action/pull/1575\n* @GautamSharma99 made their first contribution in https://github.com/anthropics/claude-code-action/pull/1677\n* @WeAreResilience made their first contribution in https://github.com/anthropics/claude-code-action/pull/1704\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.198...v1.0.199",
-      "summary": "## What's Changed * fix(github): honor GITHUB_GRAPHQL_URL for the GraphQL client by @rover0811 in https://github.com/anthropics/claude-code-action/pull/1575 * fix(cleanup): keep the base-branch config revert out of the auto-commit by @GautamSharma99 in https://github.com/anthropi\u2026",
-      "version": "1.0.199",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action",
-        "mcp"
-      ],
-      "uid": "aef404cd1b7ca325"
     }
   ]
 }
