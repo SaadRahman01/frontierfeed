@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 24 Sep 2026 15:11:55 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 19:14:29 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
+<link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
+<guid isPermaLink="false">frontierfeed:c2472e4aae9f4f13</guid>
+<pubDate>Thu, 24 Sep 2026 19:14:18 +0000</pubDate>
+<category>note</category>
+<description>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</description>
+</item>
+<item>
+<title>Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design</title>
+<link>https://github.com/devdotfast/whiteboard</link>
+<guid isPermaLink="false">frontierfeed:c86d7469f076690e</guid>
+<pubDate>Thu, 24 Sep 2026 17:21:36 +0000</pubDate>
+<category>note</category>
+<description>87 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49833867</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.282 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.282</link>
+<guid isPermaLink="false">frontierfeed:08cafbd1f1392a0c</guid>
+<pubDate>Thu, 24 Sep 2026 15:56:22 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.282 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace</title>
 <link>https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</link>
@@ -790,30 +814,6 @@
 <pubDate>Sun, 13 Sep 2026 03:25:32 +0000</pubDate>
 <category>note</category>
 <description>42 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49679685</description>
-</item>
-<item>
-<title>Corpus Characterization and Inverse Constitutional Fine-Tuning for Style-Aware Radiology Reports</title>
-<link>https://arxiv.org/abs/2609.14226v1</link>
-<guid isPermaLink="false">frontierfeed:0dc8b3108531f1a9</guid>
-<pubDate>Sun, 13 Sep 2026 01:40:23 +0000</pubDate>
-<category>research</category>
-<description>Automated radiology report generation has advanced rapidly in diagnostic accuracy, yet generated reports frequently diverge from the stylistic conventions of authentic radiologist writing in structure, diction, and uncertainty language, a gap which has direct implications for cli…</description>
-</item>
-<item>
-<title>Building a C compiler with a team of parallel Claudes</title>
-<link>https://www.anthropic.com/engineering/building-c-compiler</link>
-<guid isPermaLink="false">frontierfeed:aa45b159f4c36bd6</guid>
-<pubDate>Sun, 13 Sep 2026 01:04:25 +0000</pubDate>
-<category>note</category>
-<description>We tasked Opus 4.6 using agent teams to build a C Compiler, and then (mostly) walked away. Here&#x27;s what it taught us about the future of autonomous software development.</description>
-</item>
-<item>
-<title>Eval awareness in Claude Opus 4.6’s BrowseComp performance</title>
-<link>https://www.anthropic.com/engineering/eval-awareness-browsecomp</link>
-<guid isPermaLink="false">frontierfeed:f0814aaface4c956</guid>
-<pubDate>Sun, 13 Sep 2026 01:04:25 +0000</pubDate>
-<category>note</category>
-<description>Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it—raising questions about eval integrity in web-enabled environments.</description>
 </item>
 </channel>
 </rss>

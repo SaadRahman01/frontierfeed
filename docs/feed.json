@@ -9,6 +9,48 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:c2472e4aae9f4f13",
+      "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "summary": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "content_text": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "date_published": "2026-09-24T19:14:18.840478+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product",
+        "opus"
+      ]
+    },
+    {
+      "id": "frontierfeed:c86d7469f076690e",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "summary": "87 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49833867",
+      "content_text": "87 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49833867",
+      "date_published": "2026-09-24T17:21:36+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:08cafbd1f1392a0c",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.282",
+      "title": "@anthropic-ai/claude-code 2.1.282 published",
+      "summary": "Version 2.1.282 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.282 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-24T15:56:22.706000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:56185ec142d8d37f",
       "url": "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
       "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
@@ -1350,50 +1392,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:0dc8b3108531f1a9",
-      "url": "https://arxiv.org/abs/2609.14226v1",
-      "title": "Corpus Characterization and Inverse Constitutional Fine-Tuning for Style-Aware Radiology Reports",
-      "summary": "Automated radiology report generation has advanced rapidly in diagnostic accuracy, yet generated reports frequently diverge from the stylistic conventions of authentic radiologist writing in structure, diction, and uncertainty language, a gap which has direct implications for cli…",
-      "content_text": "Automated radiology report generation has advanced rapidly in diagnostic accuracy, yet generated reports frequently diverge from the stylistic conventions of authentic radiologist writing in structure, diction, and uncertainty language, a gap which has direct implications for cli…",
-      "date_published": "2026-09-13T01:40:23+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:aa45b159f4c36bd6",
-      "url": "https://www.anthropic.com/engineering/building-c-compiler",
-      "title": "Building a C compiler with a team of parallel Claudes",
-      "summary": "We tasked Opus 4.6 using agent teams to build a C Compiler, and then (mostly) walked away. Here's what it taught us about the future of autonomous software development.",
-      "content_text": "We tasked Opus 4.6 using agent teams to build a C Compiler, and then (mostly) walked away. Here's what it taught us about the future of autonomous software development.",
-      "date_published": "2026-09-13T01:04:25.132298+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:f0814aaface4c956",
-      "url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
-      "title": "Eval awareness in Claude Opus 4.6’s BrowseComp performance",
-      "summary": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it—raising questions about eval integrity in web-enabled environments.",
-      "content_text": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it—raising questions about eval integrity in web-enabled environments.",
-      "date_published": "2026-09-13T01:04:25.132285+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering",
-        "opus"
       ]
     }
   ]

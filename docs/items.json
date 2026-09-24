@@ -1,9 +1,57 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-24T15:11:55.435933+00:00",
+  "generated": "2026-09-24T19:14:29.566118+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+      "source": "claude-blog",
+      "published": "2026-09-24T19:14:18.840478+00:00",
+      "body": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "summary": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "opus"
+      ],
+      "uid": "c2472e4aae9f4f13"
+    },
+    {
+      "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "source": "hackernews",
+      "published": "2026-09-24T17:21:36+00:00",
+      "body": "87 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49833867",
+      "summary": "87 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49833867",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "c86d7469f076690e"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.282 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.282",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-24T15:56:22.706000+00:00",
+      "body": "Version 2.1.282 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.282 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.282",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "08cafbd1f1392a0c"
+    },
     {
       "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
       "url": "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
@@ -4701,54 +4749,6 @@
         "product"
       ],
       "uid": "675c778171615709"
-    },
-    {
-      "title": "The AI-Native SDLC playbook",
-      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044497+00:00",
-      "body": "The AI-Native SDLC playbook",
-      "summary": "The AI-Native SDLC playbook",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "eeb32cab9ab14580"
-    },
-    {
-      "title": "Improving Fable 5's biology safeguards",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "source": "anthropic-news",
-      "published": "2026-08-23T16:07:21.956887+00:00",
-      "body": "Improving Fable 5's biology safeguards",
-      "summary": "Improving Fable 5's biology safeguards",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "4d79082435796095"
-    },
-    {
-      "title": "How Claude\u2019s text watermark works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "source": "anthropic-news",
-      "published": "2026-08-23T16:07:21.956840+00:00",
-      "body": "How Claude\u2019s text watermark works",
-      "summary": "How Claude\u2019s text watermark works",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "b7a1e2afb6e77707"
     }
   ]
 }
