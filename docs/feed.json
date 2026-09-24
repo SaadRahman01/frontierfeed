@@ -9,6 +9,62 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:06c781742c977685",
+      "url": "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
+      "title": "Claude Tag now supports personal connectors in channels",
+      "summary": "Claude Tag now supports personal connectors in channels",
+      "content_text": "Claude Tag now supports personal connectors in channels",
+      "date_published": "2026-09-24T22:29:58.740980+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:4d79082435796095",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "title": "Improving Fable 5's biology safeguards",
+      "summary": "Improving Fable 5's biology safeguards",
+      "content_text": "Improving Fable 5's biology safeguards",
+      "date_published": "2026-09-24T22:29:56.653989+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:b7a1e2afb6e77707",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "title": "How Claude’s text watermark works",
+      "summary": "How Claude’s text watermark works",
+      "content_text": "How Claude’s text watermark works",
+      "date_published": "2026-09-24T22:29:56.653976+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:a1015231b632efb7",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.234",
+      "title": "v1.0.234",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.233...v1.0.234",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.233...v1.0.234",
+      "date_published": "2026-09-24T20:27:59+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:c2472e4aae9f4f13",
       "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
       "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
@@ -1335,63 +1391,6 @@
         "info",
         "official",
         "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:bf23981790fd7bc8",
-      "url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
-      "title": "Designing AI-resistant technical evaluations",
-      "summary": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
-      "content_text": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
-      "date_published": "2026-09-13T06:15:18.079385+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:47646435ea1166b3",
-      "url": "https://www.anthropic.com/engineering/infrastructure-noise",
-      "title": "Quantifying infrastructure noise in agentic coding evals",
-      "summary": "Infrastructure configuration can swing agentic coding benchmarks by several percentage points—sometimes more than the leaderboard gap between top models.\\n\\n",
-      "content_text": "Infrastructure configuration can swing agentic coding benchmarks by several percentage points—sometimes more than the leaderboard gap between top models.\\n\\n",
-      "date_published": "2026-09-13T06:15:18.079364+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:862e80935f399e76",
-      "url": "https://arxiv.org/abs/2609.14288v1",
-      "title": "Editorial routing shapes how computational results are qualified in AI-assisted scientific writing",
-      "summary": "Large language models increasingly analyze computational results and draft manuscripts, making reliable communication as important as correct analysis.",
-      "content_text": "Large language models increasingly analyze computational results and draft manuscripts, making reliable communication as important as correct analysis.",
-      "date_published": "2026-09-13T05:15:56+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper",
-        "opus",
-        "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:deae260c8d670fcf",
-      "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
-      "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
-      "summary": "42 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49679685",
-      "content_text": "42 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49679685",
-      "date_published": "2026-09-13T03:25:32+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]

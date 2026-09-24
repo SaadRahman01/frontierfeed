@@ -1,9 +1,73 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-24T19:14:29.566118+00:00",
+  "generated": "2026-09-24T22:30:10.211841+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Claude Tag now supports personal connectors in channels",
+      "url": "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
+      "source": "claude-blog",
+      "published": "2026-09-24T22:29:58.740980+00:00",
+      "body": "Claude Tag now supports personal connectors in channels",
+      "summary": "Claude Tag now supports personal connectors in channels",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "06c781742c977685"
+    },
+    {
+      "title": "Improving Fable 5's biology safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "source": "anthropic-news",
+      "published": "2026-09-24T22:29:56.653989+00:00",
+      "body": "Improving Fable 5's biology safeguards",
+      "summary": "Improving Fable 5's biology safeguards",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "4d79082435796095"
+    },
+    {
+      "title": "How Claude\u2019s text watermark works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "anthropic-news",
+      "published": "2026-09-24T22:29:56.653976+00:00",
+      "body": "How Claude\u2019s text watermark works",
+      "summary": "How Claude\u2019s text watermark works",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "b7a1e2afb6e77707"
+    },
+    {
+      "title": "v1.0.234",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.234",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-24T20:27:59+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.233...v1.0.234",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.233...v1.0.234",
+      "version": "1.0.234",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "a1015231b632efb7"
+    },
     {
       "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
       "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
@@ -4684,71 +4748,6 @@
         "product"
       ],
       "uid": "0018da3bbe62028a"
-    },
-    {
-      "title": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate",
-      "url": "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044637+00:00",
-      "body": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate",
-      "summary": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "c7d2cc4493e3580e"
-    },
-    {
-      "title": "The Claude Code guide for startups",
-      "url": "https://claude.com/blog/claude-code-guide-for-startups",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044610+00:00",
-      "body": "The Claude Code guide for startups",
-      "summary": "The Claude Code guide for startups",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "ebdccda43e74c164"
-    },
-    {
-      "title": "Build production agents with computer use, the Skills API, and the Files API",
-      "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044564+00:00",
-      "body": "Build production agents with computer use, the Skills API, and the Files API",
-      "summary": "Build production agents with computer use, the Skills API, and the Files API",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product",
-        "skills"
-      ],
-      "uid": "6342de4b99b7a2b6"
-    },
-    {
-      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044539+00:00",
-      "body": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "summary": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "675c778171615709"
     }
   ]
 }

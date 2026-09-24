@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 24 Sep 2026 19:14:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 22:30:10 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude Tag now supports personal connectors in channels</title>
+<link>https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</link>
+<guid isPermaLink="false">frontierfeed:06c781742c977685</guid>
+<pubDate>Thu, 24 Sep 2026 22:29:58 +0000</pubDate>
+<category>note</category>
+<description>Claude Tag now supports personal connectors in channels</description>
+</item>
+<item>
+<title>Improving Fable 5&#x27;s biology safeguards</title>
+<link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
+<guid isPermaLink="false">frontierfeed:4d79082435796095</guid>
+<pubDate>Thu, 24 Sep 2026 22:29:56 +0000</pubDate>
+<category>note</category>
+<description>Improving Fable 5&#x27;s biology safeguards</description>
+</item>
+<item>
+<title>How Claude’s text watermark works</title>
+<link>https://www.anthropic.com/news/claude-text-watermark</link>
+<guid isPermaLink="false">frontierfeed:b7a1e2afb6e77707</guid>
+<pubDate>Thu, 24 Sep 2026 22:29:56 +0000</pubDate>
+<category>note</category>
+<description>How Claude’s text watermark works</description>
+</item>
+<item>
+<title>v1.0.234</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.234</link>
+<guid isPermaLink="false">frontierfeed:a1015231b632efb7</guid>
+<pubDate>Thu, 24 Sep 2026 20:27:59 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.233...v1.0.234</description>
+</item>
 <item>
 <title>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
 <link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
@@ -782,38 +814,6 @@
 <pubDate>Sun, 13 Sep 2026 06:15:18 +0000</pubDate>
 <category>note</category>
 <description>The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \n</description>
-</item>
-<item>
-<title>Designing AI-resistant technical evaluations</title>
-<link>https://www.anthropic.com/engineering/AI-resistant-technical-evaluations</link>
-<guid isPermaLink="false">frontierfeed:bf23981790fd7bc8</guid>
-<pubDate>Sun, 13 Sep 2026 06:15:18 +0000</pubDate>
-<category>note</category>
-<description>What we learned from three iterations of a performance engineering take-home that Claude keeps beating.</description>
-</item>
-<item>
-<title>Quantifying infrastructure noise in agentic coding evals</title>
-<link>https://www.anthropic.com/engineering/infrastructure-noise</link>
-<guid isPermaLink="false">frontierfeed:47646435ea1166b3</guid>
-<pubDate>Sun, 13 Sep 2026 06:15:18 +0000</pubDate>
-<category>note</category>
-<description>Infrastructure configuration can swing agentic coding benchmarks by several percentage points—sometimes more than the leaderboard gap between top models.\n\n</description>
-</item>
-<item>
-<title>Editorial routing shapes how computational results are qualified in AI-assisted scientific writing</title>
-<link>https://arxiv.org/abs/2609.14288v1</link>
-<guid isPermaLink="false">frontierfeed:862e80935f399e76</guid>
-<pubDate>Sun, 13 Sep 2026 05:15:56 +0000</pubDate>
-<category>research</category>
-<description>Large language models increasingly analyze computational results and draft manuscripts, making reliable communication as important as correct analysis.</description>
-</item>
-<item>
-<title>Anthropic CEO says AI swarm could &#x27;take over the Internet&#x27; in 6-12 months</title>
-<link>https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan</link>
-<guid isPermaLink="false">frontierfeed:deae260c8d670fcf</guid>
-<pubDate>Sun, 13 Sep 2026 03:25:32 +0000</pubDate>
-<category>note</category>
-<description>42 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49679685</description>
 </item>
 </channel>
 </rss>
