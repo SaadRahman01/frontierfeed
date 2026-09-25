@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "title": "Build plugins for Claude",
+      "url": "https://claude.com/blog/build-plugins-for-claude",
+      "source": "claude-blog",
+      "published": "2026-09-25T18:40:52.512121+00:00",
+      "body": "Build plugins for Claude",
+      "summary": "Build plugins for Claude",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "skills"
+      ],
+      "uid": "4d76baa23a107e33"
+    },
+    {
+      "title": "Jevmem \u2013 automatic project memory for Claude Code, built on Jev",
+      "url": "https://github.com/Avinash-jetwani/jevmem",
+      "source": "hackernews",
+      "published": "2026-09-25T16:04:04+00:00",
+      "body": "52 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49846391",
+      "summary": "52 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49846391",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "deb5758605368daa"
+    },
+    {
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "source": "hackernews",
+      "published": "2026-09-25T15:29:25+00:00",
+      "body": "229 points, 323 comments. Discussion: https://news.ycombinator.com/item?id=49845977",
+      "summary": "229 points, 323 comments. Discussion: https://news.ycombinator.com/item?id=49845977",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "8814c67170e60eab"
+    },
+    {
       "title": "Claude Tag now supports personal connectors in channels",
       "url": "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
       "source": "claude-blog",
@@ -4696,54 +4743,6 @@
         "product"
       ],
       "uid": "3f0313fe0e0df659"
-    },
-    {
-      "title": "Claude on call: How Claude Tag serves as Anthropic\u2019s first responder for CI/CD failures",
-      "url": "https://claude.com/blog/ai-ci-cd-on-call",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044702+00:00",
-      "body": "Claude on call: How Claude Tag serves as Anthropic\u2019s first responder for CI/CD failures",
-      "summary": "Claude on call: How Claude Tag serves as Anthropic\u2019s first responder for CI/CD failures",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "b3619d6ea5d0acf0"
-    },
-    {
-      "title": "Turning conversation into knowledge: how Slack builds human-agent teams",
-      "url": "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044681+00:00",
-      "body": "Turning conversation into knowledge: how Slack builds human-agent teams",
-      "summary": "Turning conversation into knowledge: how Slack builds human-agent teams",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "3a2bae2c799e55c8"
-    },
-    {
-      "title": "Anthropic\u2019s approach to teaching and learning AI",
-      "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044659+00:00",
-      "body": "Anthropic\u2019s approach to teaching and learning AI",
-      "summary": "Anthropic\u2019s approach to teaching and learning AI",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "0018da3bbe62028a"
     }
   ]
 }

@@ -9,6 +9,47 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:4d76baa23a107e33",
+      "url": "https://claude.com/blog/build-plugins-for-claude",
+      "title": "Build plugins for Claude",
+      "summary": "Build plugins for Claude",
+      "content_text": "Build plugins for Claude",
+      "date_published": "2026-09-25T18:40:52.512121+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:deb5758605368daa",
+      "url": "https://github.com/Avinash-jetwani/jevmem",
+      "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+      "summary": "52 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49846391",
+      "content_text": "52 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49846391",
+      "date_published": "2026-09-25T16:04:04+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:8814c67170e60eab",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "summary": "229 points, 323 comments. Discussion: https://news.ycombinator.com/item?id=49845977",
+      "content_text": "229 points, 323 comments. Discussion: https://news.ycombinator.com/item?id=49845977",
+      "date_published": "2026-09-25T15:29:25+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:06c781742c977685",
       "url": "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
       "title": "Claude Tag now supports personal connectors in channels",
@@ -1349,48 +1390,6 @@
         "official",
         "engineering",
         "mcp"
-      ]
-    },
-    {
-      "id": "frontierfeed:c343e840b5a491e6",
-      "url": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "title": "Introducing advanced tool use on the Claude Developer Platform",
-      "summary": "We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.",
-      "content_text": "We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.",
-      "date_published": "2026-09-13T06:15:18.079482+00:00",
-      "tags": [
-        "launch",
-        "feature",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:e6b63261de37bce8",
-      "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
-      "title": "Effective harnesses for long-running agents",
-      "summary": "Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.",
-      "content_text": "Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.",
-      "date_published": "2026-09-13T06:15:18.079457+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:0c6dc2bdd58b522a",
-      "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
-      "title": "Demystifying evals for AI agents",
-      "summary": "The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \\n",
-      "content_text": "The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \\n",
-      "date_published": "2026-09-13T06:15:18.079434+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering"
       ]
     }
   ]
