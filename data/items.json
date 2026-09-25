@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "v1.0.235",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.235",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-25T21:51:57+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.234...v1.0.235",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.234...v1.0.235",
+      "version": "1.0.235",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "20801ae591ecb475"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.283 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.283",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-25T18:46:11.330000+00:00",
+      "body": "Version 2.1.283 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.283 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.283",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "47bd34feb1a1d6d5"
+    },
+    {
       "title": "Build plugins for Claude",
       "url": "https://claude.com/blog/build-plugins-for-claude",
       "source": "claude-blog",
@@ -16,6 +48,36 @@
         "skills"
       ],
       "uid": "4d76baa23a107e33"
+    },
+    {
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "source": "hackernews",
+      "published": "2026-09-25T18:37:05+00:00",
+      "body": "102 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49848295",
+      "summary": "102 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49848295",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "e886ced3ad306028"
+    },
+    {
+      "title": "Yes, Claude can do nine loops",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "source": "hackernews",
+      "published": "2026-09-25T18:11:48+00:00",
+      "body": "101 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49848033",
+      "summary": "101 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49848033",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "4dcbec3ac2fff264"
     },
     {
       "title": "Jevmem \u2013 automatic project memory for Claude Code, built on Jev",
@@ -4679,70 +4741,6 @@
         "product"
       ],
       "uid": "d3e9b4347a7b7c38"
-    },
-    {
-      "title": "Claude Tag now reads even more of the room",
-      "url": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044786+00:00",
-      "body": "Claude Tag now reads even more of the room",
-      "summary": "Claude Tag now reads even more of the room",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "ed471de317763d48"
-    },
-    {
-      "title": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
-      "url": "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044765+00:00",
-      "body": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
-      "summary": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "dc5dc1f499e19ee0"
-    },
-    {
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044744+00:00",
-      "body": "Maximizing the value of your Claude Code sessions",
-      "summary": "Maximizing the value of your Claude Code sessions",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "aad9e3a29c04eecc"
-    },
-    {
-      "title": "How ABC Legal turned every employee into a builder with Claude Managed Agents",
-      "url": "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044723+00:00",
-      "body": "How ABC Legal turned every employee into a builder with Claude Managed Agents",
-      "summary": "How ABC Legal turned every employee into a builder with Claude Managed Agents",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "3f0313fe0e0df659"
     }
   ]
 }

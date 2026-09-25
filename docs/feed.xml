@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 25 Sep 2026 18:41:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 22:25:52 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -16,12 +16,44 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
 <item>
+<title>v1.0.235</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.235</link>
+<guid isPermaLink="false">frontierfeed:20801ae591ecb475</guid>
+<pubDate>Fri, 25 Sep 2026 21:51:57 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.234...v1.0.235</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.283 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.283</link>
+<guid isPermaLink="false">frontierfeed:47bd34feb1a1d6d5</guid>
+<pubDate>Fri, 25 Sep 2026 18:46:11 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.283 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
 <title>Build plugins for Claude</title>
 <link>https://claude.com/blog/build-plugins-for-claude</link>
 <guid isPermaLink="false">frontierfeed:4d76baa23a107e33</guid>
 <pubDate>Fri, 25 Sep 2026 18:40:52 +0000</pubDate>
 <category>note</category>
 <description>Build plugins for Claude</description>
+</item>
+<item>
+<title>Alan Kay: Shannon gave us a way of dealing with noisy channels [video]</title>
+<link>https://www.youtube.com/watch?v=Cjntrqhn8pk</link>
+<guid isPermaLink="false">frontierfeed:e886ced3ad306028</guid>
+<pubDate>Fri, 25 Sep 2026 18:37:05 +0000</pubDate>
+<category>note</category>
+<description>102 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49848295</description>
+</item>
+<item>
+<title>Yes, Claude can do nine loops</title>
+<link>https://www.anthropic.com/research/yes-claude-can-do-nine-loops</link>
+<guid isPermaLink="false">frontierfeed:4dcbec3ac2fff264</guid>
+<pubDate>Fri, 25 Sep 2026 18:11:48 +0000</pubDate>
+<category>note</category>
+<description>101 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49848033</description>
 </item>
 <item>
 <title>Jevmem – automatic project memory for Claude Code, built on Jev</title>
@@ -782,38 +814,6 @@
 <pubDate>Sun, 13 Sep 2026 16:52:33 +0000</pubDate>
 <category>note</category>
 <description>133 points, 99 comments. Discussion: https://news.ycombinator.com/item?id=49685991</description>
-</item>
-<item>
-<title>Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic</title>
-<link>https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo</link>
-<guid isPermaLink="false">frontierfeed:631d7913c94e27ca</guid>
-<pubDate>Sun, 13 Sep 2026 14:15:40 +0000</pubDate>
-<category>claude-code</category>
-<description>57 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49684266</description>
-</item>
-<item>
-<title>Equipping agents for the real world with Agent Skills</title>
-<link>https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills</link>
-<guid isPermaLink="false">frontierfeed:7134ab1e57c51a9f</guid>
-<pubDate>Sun, 13 Sep 2026 12:02:47 +0000</pubDate>
-<category>note</category>
-<description>Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.</description>
-</item>
-<item>
-<title>Beyond permission prompts: making Claude Code more secure and autonomous</title>
-<link>https://www.anthropic.com/engineering/claude-code-sandboxing</link>
-<guid isPermaLink="false">frontierfeed:ea6b38174b7d3154</guid>
-<pubDate>Sun, 13 Sep 2026 12:02:47 +0000</pubDate>
-<category>claude-code</category>
-<description>Claude Code&#x27;s new sandboxing features, a bash tool and Claude Code on the web, reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.</description>
-</item>
-<item>
-<title>Code execution with MCP: Building more efficient agents</title>
-<link>https://www.anthropic.com/engineering/code-execution-with-mcp</link>
-<guid isPermaLink="false">frontierfeed:dd9b37132b0ca3bc</guid>
-<pubDate>Sun, 13 Sep 2026 12:02:47 +0000</pubDate>
-<category>api</category>
-<description>Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here&#x27;s how it works with MCP.</description>
 </item>
 </channel>
 </rss>

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 25 Sep 2026 18:41:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 22:25:52 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.235</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.235</link>
+<guid isPermaLink="false">frontierfeed:20801ae591ecb475</guid>
+<pubDate>Fri, 25 Sep 2026 21:51:57 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.234...v1.0.235</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.283 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.283</link>
+<guid isPermaLink="false">frontierfeed:47bd34feb1a1d6d5</guid>
+<pubDate>Fri, 25 Sep 2026 18:46:11 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.283 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Jevmem – automatic project memory for Claude Code, built on Jev</title>
 <link>https://github.com/Avinash-jetwani/jevmem</link>
@@ -734,14 +750,6 @@
 <pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
 <category>claude-code</category>
 <description>The Claude in Chrome side panel is now Claude Cowork</description>
-</item>
-<item>
-<title>Maximizing the value of your Claude Code sessions</title>
-<link>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</link>
-<guid isPermaLink="false">frontierfeed:aad9e3a29c04eecc</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>claude-code</category>
-<description>Maximizing the value of your Claude Code sessions</description>
 </item>
 </channel>
 </rss>
