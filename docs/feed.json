@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:2764fc19aa415523",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "summary": "60 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49857528",
+      "content_text": "60 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49857528",
+      "date_published": "2026-09-26T15:34:53+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community",
+        "skills"
+      ]
+    },
+    {
       "id": "frontierfeed:20801ae591ecb475",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.235",
       "title": "v1.0.235",
@@ -1370,19 +1384,6 @@
       "summary": "104 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49695409",
       "content_text": "104 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49695409",
       "date_published": "2026-09-14T12:01:32+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:05d738e1b88034dc",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "summary": "133 points, 99 comments. Discussion: https://news.ycombinator.com/item?id=49685991",
-      "content_text": "133 points, 99 comments. Discussion: https://news.ycombinator.com/item?id=49685991",
-      "date_published": "2026-09-13T16:52:33+00:00",
       "tags": [
         "note",
         "info",

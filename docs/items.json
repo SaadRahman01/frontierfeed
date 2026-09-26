@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-26T17:14:16.669352+00:00",
+  "generated": "2026-09-26T19:55:39.772078+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "source": "hackernews",
+      "published": "2026-09-26T15:34:53+00:00",
+      "body": "60 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49857528",
+      "summary": "60 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49857528",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community",
+        "skills"
+      ],
+      "uid": "2764fc19aa415523"
+    },
     {
       "title": "v1.0.235",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.235",
@@ -4729,22 +4745,6 @@
         "product"
       ],
       "uid": "d07a5fcd399f4633"
-    },
-    {
-      "title": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
-      "url": "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044807+00:00",
-      "body": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
-      "summary": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "d3e9b4347a7b7c38"
     }
   ]
 }
