@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-27T14:05:51.508093+00:00",
+  "generated": "2026-09-27T18:28:52.571728+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "source": "hackernews",
+      "published": "2026-09-27T17:32:02+00:00",
+      "body": "76 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49868831",
+      "summary": "76 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49868831",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "495c64177bbc30b6"
+    },
     {
       "title": "Show HN: A Claude Code skill to analyze your chess games",
       "url": "https://github.com/brumar/chess-postmortem-skills",
@@ -4729,22 +4744,6 @@
         "product"
       ],
       "uid": "2965f68e6fcc7682"
-    },
-    {
-      "title": "The Claude in Chrome side panel is now Claude Cowork",
-      "url": "https://claude.com/blog/cowork-chrome-side-panel",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044828+00:00",
-      "body": "The Claude in Chrome side panel is now Claude Cowork",
-      "summary": "The Claude in Chrome side panel is now Claude Cowork",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "d07a5fcd399f4633"
     }
   ]
 }

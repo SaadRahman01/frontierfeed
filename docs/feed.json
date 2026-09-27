@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:495c64177bbc30b6",
+      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+      "summary": "76 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49868831",
+      "content_text": "76 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49868831",
+      "date_published": "2026-09-27T17:32:02+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:2764fc19aa415523",
       "url": "https://github.com/brumar/chess-postmortem-skills",
       "title": "Show HN: A Claude Code skill to analyze your chess games",
@@ -1375,19 +1388,6 @@
         "info",
         "community",
         "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:90810c8dbe31c4a4",
-      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "summary": "104 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49695409",
-      "content_text": "104 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49695409",
-      "date_published": "2026-09-14T12:01:32+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
