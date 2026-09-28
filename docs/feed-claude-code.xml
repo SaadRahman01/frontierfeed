@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 15:34:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 22:06:06 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.236</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.236</link>
+<guid isPermaLink="false">frontierfeed:ac39232ec1c08aee</guid>
+<pubDate>Mon, 28 Sep 2026 18:05:26 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.235...v1.0.236</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.284 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.284</link>
+<guid isPermaLink="false">frontierfeed:fdaec24b0105ddbe</guid>
+<pubDate>Mon, 28 Sep 2026 17:11:59 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.284 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Show HN: A Claude Code skill to analyze your chess games</title>
 <link>https://github.com/brumar/chess-postmortem-skills</link>
@@ -694,46 +710,6 @@
 <pubDate>Mon, 24 Aug 2026 23:43:03 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.201...v1.0.202</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.243 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.243</link>
-<guid isPermaLink="false">frontierfeed:2fd0f84ea6177ca2</guid>
-<pubDate>Mon, 24 Aug 2026 23:10:45 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.243 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>A Claude Code skill that recovers export-blocked Kindle highlights</title>
-<link>https://github.com/l3a0/claude-plugins</link>
-<guid isPermaLink="false">frontierfeed:4246a9c40b541d8d</guid>
-<pubDate>Mon, 24 Aug 2026 19:32:18 +0000</pubDate>
-<category>claude-code</category>
-<description>43 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=49424758</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.242 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.242</link>
-<guid isPermaLink="false">frontierfeed:8f314fddaf59c308</guid>
-<pubDate>Mon, 24 Aug 2026 19:16:14 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.242 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</title>
-<link>https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep</link>
-<guid isPermaLink="false">frontierfeed:e827e70e8f2157e7</guid>
-<pubDate>Mon, 24 Aug 2026 15:58:22 +0000</pubDate>
-<category>claude-code</category>
-<description>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</description>
-</item>
-<item>
-<title>Run Claude Code sessions on your own compute</title>
-<link>https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</link>
-<guid isPermaLink="false">frontierfeed:124d2acb982c289d</guid>
-<pubDate>Sun, 23 Aug 2026 16:07:24 +0000</pubDate>
-<category>claude-code</category>
-<description>Run Claude Code sessions on your own compute</description>
 </item>
 </channel>
 </rss>

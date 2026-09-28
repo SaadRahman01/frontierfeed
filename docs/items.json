@@ -1,9 +1,190 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-28T15:34:09.405223+00:00",
+  "generated": "2026-09-28T22:06:06.917870+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Giving companies more control over their AI agents, with NVIDIA",
+      "url": "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia",
+      "source": "claude-blog",
+      "published": "2026-09-28T22:05:55.938873+00:00",
+      "body": "Giving companies more control over their AI agents, with NVIDIA",
+      "summary": "Giving companies more control over their AI agents, with NVIDIA",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "d981f0eac7f664af"
+    },
+    {
+      "title": "v1.0.236",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.236",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-28T18:05:26+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.235...v1.0.236",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.235...v1.0.236",
+      "version": "1.0.236",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "ac39232ec1c08aee"
+    },
+    {
+      "title": "google-cloud-sdk: v0.0.15",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.15",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-09-28T18:04:24+00:00",
+      "body": "## 0.0.15 (2026-09-28)\n\nFull Changelog: [google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15)",
+      "summary": "## 0.0.15 (2026-09-28) Full Changelog: [google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15)",
+      "version": "google-cloud-sdk-v0.0.15",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "f8724d89e35f2a9a"
+    },
+    {
+      "title": "aws-sdk: v0.7.5",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.5",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-09-28T18:04:18+00:00",
+      "body": "## 0.7.5 (2026-09-28)\n\nFull Changelog: [aws-sdk-v0.7.4...aws-sdk-v0.7.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.4...aws-sdk-v0.7.5)",
+      "summary": "## 0.7.5 (2026-09-28) Full Changelog: [aws-sdk-v0.7.4...aws-sdk-v0.7.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.4...aws-sdk-v0.7.5)",
+      "version": "aws-sdk-v0.7.5",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "4554f7da9059dfea"
+    },
+    {
+      "title": "foundry-sdk: v0.5.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-09-28T18:04:12+00:00",
+      "body": "## 0.5.0 (2026-09-28)\n\nFull Changelog: [foundry-sdk-v0.4.9...foundry-sdk-v0.5.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.9...foundry-sdk-v0.5.0)\n\n### Features\n\n* **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthropic-sdk-typescript/commit/4e7736625fd23a5607800e8de4aa3c37daa74a07))",
+      "summary": "## 0.5.0 (2026-09-28) Full Changelog: [foundry-sdk-v0.4.9...foundry-sdk-v0.5.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.9...foundry-sdk-v0.5.0) ### Features * **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthropic\u2026",
+      "version": "foundry-sdk-v0.5.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "sonnet"
+      ],
+      "uid": "370b3321440764ae"
+    },
+    {
+      "title": "bedrock-sdk: v0.34.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-09-28T18:04:06+00:00",
+      "body": "## 0.34.0 (2026-09-28)\n\nFull Changelog: [bedrock-sdk-v0.33.8...bedrock-sdk-v0.34.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.8...bedrock-sdk-v0.34.0)\n\n### Features\n\n* **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthropic-sdk-typescript/commit/4e7736625fd23a5607800e8de4aa3c37daa74a07))",
+      "summary": "## 0.34.0 (2026-09-28) Full Changelog: [bedrock-sdk-v0.33.8...bedrock-sdk-v0.34.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.8...bedrock-sdk-v0.34.0) ### Features * **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anth\u2026",
+      "version": "bedrock-sdk-v0.34.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "sonnet"
+      ],
+      "uid": "ca31a974b7cd49e4"
+    },
+    {
+      "title": "vertex-sdk: v0.20.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-09-28T18:04:00+00:00",
+      "body": "## 0.20.0 (2026-09-28)\n\nFull Changelog: [vertex-sdk-v0.19.11...vertex-sdk-v0.20.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.11...vertex-sdk-v0.20.0)\n\n### Features\n\n* **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthropic-sdk-typescript/commit/4e7736625fd23a5607800e8de4aa3c37daa74a07))",
+      "summary": "## 0.20.0 (2026-09-28) Full Changelog: [vertex-sdk-v0.19.11...vertex-sdk-v0.20.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.11...vertex-sdk-v0.20.0) ### Features * **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthro\u2026",
+      "version": "ertex-sdk-v0.20.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "sonnet"
+      ],
+      "uid": "9642e4f9f48d29a3"
+    },
+    {
+      "title": "v1.9.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.9.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-09-28T18:03:49+00:00",
+      "body": "## 1.9.0 (2026-09-28)\n\nFull Changelog: [v1.8.0...v1.9.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.8.0...v1.9.0)\n\n### Features\n\n* **api:** add between_tools thinking type ([a9a577d](https://github.com/anthropics/anthropic-sdk-python/commit/a9a577d5a98cb2e133c1f8362f69fff856808da1))\n* **api:** add claude-sonnet-5-5 ([a5a25e9](https://github.com/anthropics/anthropic-sdk-python/commit/a5a25e9e35ac32f100149d1dfa0fbf8cac42a8b4))\n* **api:** add include_inherited and source to workspace rate limits ([0bf4af8](https://github.com/anthropics/anthropic-sdk-python/commit/0bf4af824331c424a03d9f486de2f53a656d3bba))\n* **api:** add typed event type values to the Managed Agents events list filter ([1b82cd9](https://github.com/anthropics/anthropic-sdk-python/commit/1b82cd91ddd0874fb59a020fabc76618cb036ced))\n* **api:** cache diagnostics GA \u2014 diagnostics on Message / MessageCreateParams ([22062b8](https://github.com/anthropics/anthropic-sdk-python/commit/22062b8fd130d3f90159845c1bde444ba1887f37))\n* **tools:** optionally run tool calls while the reply streams ([26d0812](https://github.com/anthropics/anthropic-sdk-python/commit/26d08121bc80427665834f1b3fe767f813b4e4a4))\n\n\n### Bug Fixes\n\n* **client:** send no placeholder filename for unnamed file uploads ([9e9709d](https://github.com/anthropics/anthropic-sdk-python/commit/9e9709d7dc4202953a1935e8930b0f0fd80fa8b6))\n* **helpers:** degrade between_tools thinking to disabled on fallback hops ([#952](https://github.com/anthropics/anthropic-sdk-python/issues/952)) ([a3834d4](https://github.com/anthropics/anthropic-sdk-python/commit/a3834d4cd849bc6a01a2bf4e292c5cd3893e1ca9))\n* **messages:** accept diagnostics in stream() and parse() ([#929](https://github.com/anthropics/anthropic-sdk-python/issues/929)) ([fad840c](https://github.com/anthropics/anthropic-sdk-python/commit/fad840c2eeea413df35df8f79d41b92922c8ee89))\n\n\n### Chores\n\n* **api:** list the known model ids first in the Model types ([e5a082a](https://github.com/anthropics/anthropic-sdk-python/commit/e5a082a709950d2cbcc8add3351172942bcfaee5))\n* **ci:** choose the CI runner by repository ([39ccf62](https://github.com/anthropics/anthropic-sdk-python/commit/39ccf62b127348f5ac8f3a78e6c1896aaa7cb746))\n* **client:** stop sending beta header from parse and tool runner ([#907](https://github.com/anthropics/anthropic-sdk-python/issues/907)) ([1428100](https://github.com/anthropics/anthropic-sdk-python/commit/142810093d685841e6058b8c6cf61e4c449fc2a1))\n* **docs:** clarify that stream: true returns the raw event stream ([82918fa](https://github.com/anthropics/anthropic-sdk-python/commit/82918fa9eb24d9d6bc63dcba23f9db396f4fd769))\n* **docs:** make Managed Agents actor descriptions resource-neutral ([34ef524](https://github.com/anthropics/anthropic-sdk-python/commit/34ef5243ca062d7878f4c673503c57c84dfdbaa2))\n* **docs:** restore the research-preview notice on the Dream type ([f03e32e](https://github.com/anthropics/anthropic-sdk-python/commit/f03e32e0d5e5a8df05f5966e0fcba0fd23845a00))\n\n\n### Documentation\n\n* add field docstring spacing rule to CLAUDE.md ([e5c35f4](https://github.com/anthropics/anthropic-sdk-python/commit/e5c35f4a70c38289286e16fe3d5e4ef0d3a3731a))\n* **api:** prefer each field's own description over its shared type's ([d79a2e7](https://github.com/anthropics/anthropic-sdk-python/commit/d79a2e75c2b36f3620c6eb2c646de827da80b9d1))\n* **claude.md:** add function body spacing rule ([3174f8f](https://github.com/anthropics/anthropic-sdk-python/commit/3174f8f4215edefa2dfe5d895ae003c292c5dd2a))\n* list importable type names in api.md ([56a42ab](https://github.com/anthropics/anthropic-sdk-python/commit/56a42ab6ecca901939d41f1604bd98c162d52def))",
+      "summary": "## 1.9.0 (2026-09-28) Full Changelog: [v1.8.0...v1.9.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.8.0...v1.9.0) ### Features * **api:** add between_tools thinking type ([a9a577d](https://github.com/anthropics/anthropic-sdk-python/commit/a9a577d5a98cb2e133c1f83\u2026",
+      "version": "1.9.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "sonnet"
+      ],
+      "uid": "ffa4a85d8c4796a8"
+    },
+    {
+      "title": "sdk: v0.129.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.129.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-09-28T18:03:48+00:00",
+      "body": "## 0.129.0 (2026-09-28)\n\nFull Changelog: [sdk-v0.128.0...sdk-v0.129.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.128.0...sdk-v0.129.0)\n\n### Features\n\n* **api:** add between_tools thinking type ([ab51075](https://github.com/anthropics/anthropic-sdk-typescript/commit/ab51075609a2d583dffdca24856f4214779d9e7f))\n* **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthropic-sdk-typescript/commit/4e7736625fd23a5607800e8de4aa3c37daa74a07))\n* **api:** add ClientToolUnion type for client-executed tools ([2c1d2d7](https://github.com/anthropics/anthropic-sdk-typescript/commit/2c1d2d712071a5f10d2e70ea02dc33425b087799))\n* **api:** add include_inherited and source to workspace rate limits ([66e925e](https://github.com/anthropics/anthropic-sdk-typescript/commit/66e925e54ff3435a56f51f687641728b94aff306))\n* **api:** add typed event type values to the Managed Agents events list filter ([8ac4a26](https://github.com/anthropics/anthropic-sdk-typescript/commit/8ac4a26809418453b64fee79f8ec790d32d1f92c))\n* **api:** cache diagnostics GA \u2014 diagnostics on Message / MessageCreateParams ([5ba5f29](https://github.com/anthropics/anthropic-sdk-typescript/commit/5ba5f29696d520f68a794936eff7337dce83ac05))\n* **tools:** optionally start tool calls while the reply streams ([083969b](https://github.com/anthropics/anthropic-sdk-typescript/commit/083969beadb360b9c4b329ee2541f67bd78d9caf))\n\n\n### Bug Fixes\n\n* **client:** also send X-Stainless-Timeout for client-level timeouts ([b84783b](https://github.com/anthropics/anthropic-sdk-typescript/commit/b84783b6ee03eed519d622ea1e477cf8eb3863bf))\n* **client:** send upload filenames as given, with no placeholder ([f9d3e98](https://github.com/anthropics/anthropic-sdk-typescript/commit/f9d3e980b1b498c1c452300a205811f6a56de69b))\n* **helpers:** degrade between_tools thinking to disabled on fallback hops ([#841](https://github.com/anthropics/anthropic-sdk-typescript/issues/841)) ([edbbf05](https://github.com/anthropics/anthropic-sdk-typescript/commit/edbbf05a62ffe2c95c13810f6d7a0a2796786e5f))\n* **internal:** let bundlers drop unused classes with more than ten private-member assignments ([67c7adb](https://github.com/anthropics/anthropic-sdk-typescript/commit/67c7adbe5ebae805631e104b341d932a1554bda8))\n* **streaming:** show every complete array item and hold back unfinished numbers in partial tool input ([#781](https://github.com/anthropics/anthropic-sdk-typescript/issues/781)) ([5806588](https://github.com/anthropics/anthropic-sdk-typescript/commit/58065889d6b112db6da5127484e0a24025e3fa37))\n\n\n### Performance Improvements\n\n* **streaming:** drop the redundant iterSSEChunks layer ([0357f81](https://github.com/anthropics/anthropic-sdk-typescript/commit/0357f812dab273c0780c558606663a03e93e34df))\n* **streaming:** take each string token as one slice in the partial JSON tokenizer ([#255](https://github.com/anthropics/anthropic-sdk-typescript/issues/255)) ([cdfb1e5](https://github.com/anthropics/anthropic-sdk-typescript/commit/cdfb1e55afebe1c3be50401ca56bebf0ff009a4e))\n\n\n### Chores\n\n* **api:** deprecate the betas param on GA models and completions methods ([5c74e45](https://github.com/anthropics/anthropic-sdk-typescript/commit/5c74e4532bb69f22afa3e08013645ac059440aef))\n* **api:** list the known model ids first in the Model types ([9452822](https://github.com/anthropics/anthropic-sdk-typescript/commit/94528226386311c3ade468cbdea0326c06a1e53d))\n* **ci:** choose the CI runner by repository ([33db1ec](https://github.com/anthropics/anthropic-sdk-typescript/commit/33db1ec2e99a415ff98619cf88ddddbf2b7ca7b1))\n* **docs:** clarify that stream: true returns the raw event stream ([4286c22](https://github.com/anthropics/anthropic-sdk-typescript/commit/4286c227c3a605bf04d4f59ffb496f44c102a6ec))\n* **docs:** make Managed Agents actor descriptions resource-neutral ([15733f9](https://github.com/anthropics/anthropic-sdk-typescript/commit/15733f98deaae4aee2fba26c1bfe4ee1514c7080))\n* **docs:** restore the research-preview notice on the Dream type ([b32f8ba](https://github.com/anthropics/anthropic-sdk-typescript/commit/b32f8baa27c40ad5901531024bae86e0ca046bb5))\n* **internal:** move old constants around ([0cd8edf](https://github.com/anthropics/anthropic-sdk-typescript/commit/0cd8edfdc6dd91af4ffee4ed3cc7fc8cc22d65e3))\n* **tests:** add diagnostics to the parser test's Message fixtures ([eb5ca58](https://github.com/anthropics/anthropic-sdk-typescript/commit/eb5ca58d51ed3309b1f317b20f7d248b036ba76a))\n* **tools:** remove client-side compaction control ([#802](https://github.com/anthropics/anthropic-sdk-typescript/issues/802)) ([9c3e8a5](https://github.com/anthropics/anthropic-sdk-typescript/commit/9c3e8a5ffa38c35dec32f0258becd360babd5fb1))\n\n\n### Documentation\n\n* **api:** prefer each field's own description over its shared type's ([5193478](https://github.com/anthropics/anthropic-sdk-typescript/commit/51934782720725acca570edeb0a3a7501ca7dbd8))\n* expand CLAUDE.md into a full contributor guide ([98d2ddb](https://github.com/anthropics/anthropic-sdk-typescript/commit/98d2ddbce7c1eabbabe5a130d18d307c237fb75c))",
+      "summary": "## 0.129.0 (2026-09-28) Full Changelog: [sdk-v0.128.0...sdk-v0.129.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.128.0...sdk-v0.129.0) ### Features * **api:** add between_tools thinking type ([ab51075](https://github.com/anthropics/anthropic-sdk-typescr\u2026",
+      "version": "sdk-v0.129.0",
+      "category": "deprecation",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "sonnet"
+      ],
+      "uid": "88a9cc4acbaff11f"
+    },
+    {
+      "title": "Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "source": "hackernews",
+      "published": "2026-09-28T17:58:11+00:00",
+      "body": "465 points, 315 comments. Discussion: https://news.ycombinator.com/item?id=49881850",
+      "summary": "465 points, 315 comments. Discussion: https://news.ycombinator.com/item?id=49881850",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community",
+        "sonnet"
+      ],
+      "uid": "3e6a6ba00af2f111"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.284 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.284",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-28T17:11:59.750000+00:00",
+      "body": "Version 2.1.284 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.284 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.284",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "fdaec24b0105ddbe"
+    },
     {
       "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
       "url": "https://github.com/seamusc/papermono-shopping-list",
@@ -4570,178 +4751,6 @@
         "claude-code-action"
       ],
       "uid": "45655f76df53e19c"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.243 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.243",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-24T23:10:45.498000+00:00",
-      "body": "Version 2.1.243 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.243 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.243",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "2fd0f84ea6177ca2"
-    },
-    {
-      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-      "url": "https://github.com/l3a0/claude-plugins",
-      "source": "hackernews",
-      "published": "2026-08-24T19:32:18+00:00",
-      "body": "43 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=49424758",
-      "summary": "43 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=49424758",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community",
-        "skills"
-      ],
-      "uid": "4246a9c40b541d8d"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.242 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.242",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-24T19:16:14.767000+00:00",
-      "body": "Version 2.1.242 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.242 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.242",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "8f314fddaf59c308"
-    },
-    {
-      "title": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
-      "url": "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
-      "source": "claude-blog",
-      "published": "2026-08-24T15:58:22.915307+00:00",
-      "body": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
-      "summary": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "e827e70e8f2157e7"
-    },
-    {
-      "title": "Anthropic Claude and API service outages",
-      "url": "https://status.claude.com/uptime",
-      "source": "hackernews",
-      "published": "2026-08-24T06:32:28+00:00",
-      "body": "73 points, 60 comments. Discussion: https://news.ycombinator.com/item?id=49415907",
-      "summary": "73 points, 60 comments. Discussion: https://news.ycombinator.com/item?id=49415907",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "c2c164e4f53d9b3d"
-    },
-    {
-      "title": "Why is Anthropic's public writing style so unlike Claude's?",
-      "url": "https://cmart.blog/claude-writing/",
-      "source": "hackernews",
-      "published": "2026-08-24T03:32:42+00:00",
-      "body": "68 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49414934",
-      "summary": "68 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49414934",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "58581e14bcfdafe9"
-    },
-    {
-      "title": "XTC: Head-Aware Sampling by Excluding Top Choices",
-      "url": "https://arxiv.org/abs/2608.22758v1",
-      "source": "arxiv",
-      "published": "2026-08-24T03:27:30+00:00",
-      "body": "Standard decoding rules for autoregressive language models promote diversity by rescaling the full next-token distribution or truncating its low-probability tail. These strategies overlook a common regime of open-ended generation in which several continuations are plausible but too much probability mass remains concentrated on the most generic choice. We introduce XTC (Exclude Top Choices), a lightweight head-aware decoding operator that targets this regime directly. XTC identifies tokens whose probabilities exceed an absolute plausibility threshold $\u03c4$: when at least two qualify, it removes the dominant eligible choices with probability $\u03c1$ and retains only the weakest plausible alternative before renormalization. Across 60 experiments on Gemma 3 27B Q4, Gemma 3 12B Q6, and DeepSeek R1 14B Q6, with scaling validation on Llama 3.3 70B Q4, XTC improves the diversity-repetition Pareto frontier. On creative generation, Distinct-2 increases by 11--15% and repeat trigrams decrease by 27--47% across the four models. Combined with temperature scaling, gains reach 38% in Distinct-2 and 71% in repeat-trigram reduction over baseline. A blinded Amazon Mechanical Turk study with 150 Master raters yields a 62.3% creativity preference for XTC ($p<10^{-4}$) without reduced fluency, while a GPT-4o control judge reproduces the Anthropic-judge direction on every measure. On IFEval with Llama 3.3 70B Q4, XTC preserves prompt-level strict accuracy within 1.7 percentage points of baseline while recovering most of the diversity gain; a temperature setting matched on Distinct-2 reduces IFEval by 8.8 points. The effect is additive with temperature and repetition penalties, robust across quantization levels and model families, and consistent across twelve prompt genres. XTC has been adopted by llama.cpp, ExLlamaV2, and text-generation-webui.",
-      "summary": "Standard decoding rules for autoregressive language models promote diversity by rescaling the full next-token distribution or truncating its low-probability tail.",
-      "version": "",
-      "category": "research",
-      "impact": "feature",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "d82f7702ba952b43"
-    },
-    {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "source": "hackernews",
-      "published": "2026-08-23T18:16:37+00:00",
-      "body": "745 points, 651 comments. Discussion: https://news.ycombinator.com/item?id=49411102",
-      "summary": "745 points, 651 comments. Discussion: https://news.ycombinator.com/item?id=49411102",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "c8fb2c7f7cdc021c"
-    },
-    {
-      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models \u2013 for 1/5 the cost",
-      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-      "source": "hackernews",
-      "published": "2026-08-23T16:24:21+00:00",
-      "body": "236 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=49410097",
-      "summary": "236 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=49410097",
-      "version": "",
-      "category": "pricing",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "f861dec05f200b24"
-    },
-    {
-      "title": "Run Claude Code sessions on your own compute",
-      "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044938+00:00",
-      "body": "Run Claude Code sessions on your own compute",
-      "summary": "Run Claude Code sessions on your own compute",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "124d2acb982c289d"
-    },
-    {
-      "title": "How Anthropic's business development team uses Claude to run inbound and outbound at scale",
-      "url": "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044916+00:00",
-      "body": "How Anthropic's business development team uses Claude to run inbound and outbound at scale",
-      "summary": "How Anthropic's business development team uses Claude to run inbound and outbound at scale",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "3d38d803fddaf759"
     }
   ]
 }

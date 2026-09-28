@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, breaking changes only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 15:34:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 22:06:06 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-breaking.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — breaking changes</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>[breaking] sdk: v0.129.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.129.0</link>
+<guid isPermaLink="false">frontierfeed:88a9cc4acbaff11f</guid>
+<pubDate>Mon, 28 Sep 2026 18:03:48 +0000</pubDate>
+<category>deprecation</category>
+<description>## 0.129.0 (2026-09-28) Full Changelog: [sdk-v0.128.0...sdk-v0.129.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.128.0...sdk-v0.129.0) ### Features * **api:** add between_tools thinking type ([ab51075](https://github.com/anthropics/anthropic-sdk-typescr…</description>
+</item>
 <item>
 <title>[breaking] sdk: v0.127.0</title>
 <link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.127.0</link>
