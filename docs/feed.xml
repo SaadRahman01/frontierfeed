@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 07:00:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 15:34:09 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page</title>
+<link>https://github.com/seamusc/papermono-shopping-list</link>
+<guid isPermaLink="false">frontierfeed:a776f5c70c3e93d3</guid>
+<pubDate>Mon, 28 Sep 2026 10:14:41 +0000</pubDate>
+<category>note</category>
+<description>47 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49875801</description>
+</item>
+<item>
+<title>Prompting Claude Opus 5.5</title>
+<link>https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</link>
+<guid isPermaLink="false">frontierfeed:f7e78dac1e409772</guid>
+<pubDate>Mon, 28 Sep 2026 07:33:29 +0000</pubDate>
+<category>note</category>
+<description>179 points, 195 comments. Discussion: https://news.ycombinator.com/item?id=49874728</description>
+</item>
 <item>
 <title>SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.&#x27;S Threat to Humanity [video]</title>
 <link>https://www.youtube.com/watch?v=-Nvne3LzBls</link>
@@ -798,22 +814,6 @@
 <pubDate>Mon, 14 Sep 2026 19:25:48 +0000</pubDate>
 <category>note</category>
 <description>Claude for Financial Advisors</description>
-</item>
-<item>
-<title>How healthcare organizations use Claude Tag</title>
-<link>https://claude.com/blog/how-healthcare-organizations-use-claude-tag</link>
-<guid isPermaLink="false">frontierfeed:1bf334d1ccc26892</guid>
-<pubDate>Mon, 14 Sep 2026 19:25:48 +0000</pubDate>
-<category>note</category>
-<description>How healthcare organizations use Claude Tag</description>
-</item>
-<item>
-<title>Anthropic tells investors it will be profitable for second straight quarter</title>
-<link>https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/</link>
-<guid isPermaLink="false">frontierfeed:a057ec6883ac185f</guid>
-<pubDate>Mon, 14 Sep 2026 15:47:29 +0000</pubDate>
-<category>note</category>
-<description>47 points, 71 comments. Discussion: https://news.ycombinator.com/item?id=49698936</description>
 </item>
 </channel>
 </rss>

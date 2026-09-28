@@ -1,9 +1,40 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-28T07:00:41.651356+00:00",
+  "generated": "2026-09-28T15:34:09.405223+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+      "url": "https://github.com/seamusc/papermono-shopping-list",
+      "source": "hackernews",
+      "published": "2026-09-28T10:14:41+00:00",
+      "body": "47 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49875801",
+      "summary": "47 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49875801",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "a776f5c70c3e93d3"
+    },
+    {
+      "title": "Prompting Claude Opus 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "source": "hackernews",
+      "published": "2026-09-28T07:33:29+00:00",
+      "body": "179 points, 195 comments. Discussion: https://news.ycombinator.com/item?id=49874728",
+      "summary": "179 points, 195 comments. Discussion: https://news.ycombinator.com/item?id=49874728",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "f7e78dac1e409772"
+    },
     {
       "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
       "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
@@ -4711,38 +4742,6 @@
         "product"
       ],
       "uid": "3d38d803fddaf759"
-    },
-    {
-      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044895+00:00",
-      "body": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-      "summary": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "6cfadaabc80a0eb5"
-    },
-    {
-      "title": "Running auto mode in production",
-      "url": "https://claude.com/blog/auto-mode-in-production",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044873+00:00",
-      "body": "Running auto mode in production",
-      "summary": "Running auto mode in production",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "0da836b7d0306ba7"
     }
   ]
 }

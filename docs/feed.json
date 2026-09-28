@@ -9,6 +9,33 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:a776f5c70c3e93d3",
+      "url": "https://github.com/seamusc/papermono-shopping-list",
+      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+      "summary": "47 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49875801",
+      "content_text": "47 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49875801",
+      "date_published": "2026-09-28T10:14:41+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:f7e78dac1e409772",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "title": "Prompting Claude Opus 5.5",
+      "summary": "179 points, 195 comments. Discussion: https://news.ycombinator.com/item?id=49874728",
+      "content_text": "179 points, 195 comments. Discussion: https://news.ycombinator.com/item?id=49874728",
+      "date_published": "2026-09-28T07:33:29+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community",
+        "opus"
+      ]
+    },
+    {
       "id": "frontierfeed:495c64177bbc30b6",
       "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
       "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
@@ -1360,33 +1387,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:1bf334d1ccc26892",
-      "url": "https://claude.com/blog/how-healthcare-organizations-use-claude-tag",
-      "title": "How healthcare organizations use Claude Tag",
-      "summary": "How healthcare organizations use Claude Tag",
-      "content_text": "How healthcare organizations use Claude Tag",
-      "date_published": "2026-09-14T19:25:48.328398+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:a057ec6883ac185f",
-      "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/",
-      "title": "Anthropic tells investors it will be profitable for second straight quarter",
-      "summary": "47 points, 71 comments. Discussion: https://news.ycombinator.com/item?id=49698936",
-      "content_text": "47 points, 71 comments. Discussion: https://news.ycombinator.com/item?id=49698936",
-      "date_published": "2026-09-14T15:47:29+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
