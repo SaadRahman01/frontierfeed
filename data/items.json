@@ -48,6 +48,21 @@
       "uid": "20801ae591ecb475"
     },
     {
+      "title": "Show HN: Ekselio \u2013 Loveable for finance workflows (local first)",
+      "url": "https://www.gptbeyond.com/try?home=1",
+      "source": "hackernews",
+      "published": "2026-09-25T21:09:28+00:00",
+      "body": "40 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49849986",
+      "summary": "40 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49849986",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "c22f3b9281f98303"
+    },
+    {
       "title": "@anthropic-ai/claude-code 2.1.283 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.283",
       "source": "npm:@anthropic-ai/claude-code",
@@ -4724,22 +4739,6 @@
         "product"
       ],
       "uid": "0da836b7d0306ba7"
-    },
-    {
-      "title": "Compliance API coverage extends to Claude Cowork and Claude Code",
-      "url": "https://claude.com/blog/compliance-api-cowork-and-claude-code",
-      "source": "claude-blog",
-      "published": "2026-08-23T16:07:24.044851+00:00",
-      "body": "Compliance API coverage extends to Claude Cowork and Claude Code",
-      "summary": "Compliance API coverage extends to Claude Cowork and Claude Code",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "2965f68e6fcc7682"
     }
   ]
 }

@@ -50,6 +50,19 @@
       ]
     },
     {
+      "id": "frontierfeed:c22f3b9281f98303",
+      "url": "https://www.gptbeyond.com/try?home=1",
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "summary": "40 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49849986",
+      "content_text": "40 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49849986",
+      "date_published": "2026-09-25T21:09:28+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:47bd34feb1a1d6d5",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.283",
       "title": "@anthropic-ai/claude-code 2.1.283 published",
@@ -1374,20 +1387,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:7abc7cafe46cb9b8",
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "summary": "89 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49697014",
-      "content_text": "89 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49697014",
-      "date_published": "2026-09-14T13:59:09+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community",
-        "opus"
       ]
     }
   ]
