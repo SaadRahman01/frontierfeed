@@ -1,9 +1,56 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-29T15:57:04.007811+00:00",
+  "generated": "2026-09-29T20:52:11.283798+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.237",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.237",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-09-29T19:30:41+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.236...v1.0.237",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.236...v1.0.237",
+      "version": "1.0.237",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "adff89584c89655e"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.285 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.285",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-09-29T17:32:09.173000+00:00",
+      "body": "Version 2.1.285 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.285 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.285",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "d4ab4937f85c1868"
+    },
+    {
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "source": "hackernews",
+      "published": "2026-09-29T17:31:26+00:00",
+      "body": "78 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=49897075",
+      "summary": "78 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=49897075",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b0c9118363559ddf"
+    },
     {
       "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
       "url": "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
@@ -4705,53 +4752,6 @@
         "community"
       ],
       "uid": "20917208590b0baf"
-    },
-    {
-      "title": "v1.0.205",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.205",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-25T05:22:32+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.203...v1.0.205",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.203...v1.0.205",
-      "version": "1.0.205",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "691b3e9a837d6770"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.245 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.245",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-25T04:45:52.102000+00:00",
-      "body": "Version 2.1.245 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.245 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.245",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "d526efba0fd5fa7e"
-    },
-    {
-      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-      "url": "https://github.com/dragthelake/ambient-context",
-      "source": "hackernews",
-      "published": "2026-08-25T04:33:24+00:00",
-      "body": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49429095",
-      "summary": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49429095",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "0d14373e4f2630a4"
     }
   ]
 }

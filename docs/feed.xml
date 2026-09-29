@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 15:57:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 20:52:11 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.237</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.237</link>
+<guid isPermaLink="false">frontierfeed:adff89584c89655e</guid>
+<pubDate>Tue, 29 Sep 2026 19:30:41 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.236...v1.0.237</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.285 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.285</link>
+<guid isPermaLink="false">frontierfeed:d4ab4937f85c1868</guid>
+<pubDate>Tue, 29 Sep 2026 17:32:09 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.285 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>GLM-5.3 and the spread of advanced cyber capabilities</title>
+<link>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</link>
+<guid isPermaLink="false">frontierfeed:b0c9118363559ddf</guid>
+<pubDate>Tue, 29 Sep 2026 17:31:26 +0000</pubDate>
+<category>note</category>
+<description>78 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=49897075</description>
+</item>
 <item>
 <title>Agents you can coach: how Asana builds human-agent teams with Claude</title>
 <link>https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude</link>
@@ -790,30 +814,6 @@
 <pubDate>Tue, 15 Sep 2026 17:34:43 +0000</pubDate>
 <category>api</category>
 <description>## 0.0.12 (2026-09-15) Full Changelog: [google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12) ### Chores * **internal:** move the sub-packages off ts-node and modern…</description>
-</item>
-<item>
-<title>aws-sdk: v0.7.2</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.2</link>
-<guid isPermaLink="false">frontierfeed:fb41d17e6944b705</guid>
-<pubDate>Tue, 15 Sep 2026 17:34:38 +0000</pubDate>
-<category>api</category>
-<description>## 0.7.2 (2026-09-15) Full Changelog: [aws-sdk-v0.7.1...aws-sdk-v0.7.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.1...aws-sdk-v0.7.2) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig ([1d7cd91](https://git…</description>
-</item>
-<item>
-<title>foundry-sdk: v0.4.7</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.7</link>
-<guid isPermaLink="false">frontierfeed:31c2e89725785050</guid>
-<pubDate>Tue, 15 Sep 2026 17:34:32 +0000</pubDate>
-<category>api</category>
-<description>## 0.4.7 (2026-09-15) Full Changelog: [foundry-sdk-v0.4.6...foundry-sdk-v0.4.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.6...foundry-sdk-v0.4.7) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig ([1d7c…</description>
-</item>
-<item>
-<title>bedrock-sdk: v0.33.6</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.6</link>
-<guid isPermaLink="false">frontierfeed:df1ddbf9b9496831</guid>
-<pubDate>Tue, 15 Sep 2026 17:34:25 +0000</pubDate>
-<category>api</category>
-<description>## 0.33.6 (2026-09-15) Full Changelog: [bedrock-sdk-v0.33.5...bedrock-sdk-v0.33.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.5...bedrock-sdk-v0.33.6) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig (…</description>
 </item>
 </channel>
 </rss>

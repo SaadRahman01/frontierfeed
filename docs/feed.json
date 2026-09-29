@@ -9,6 +9,47 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:adff89584c89655e",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.237",
+      "title": "v1.0.237",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.236...v1.0.237",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.236...v1.0.237",
+      "date_published": "2026-09-29T19:30:41+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:d4ab4937f85c1868",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.285",
+      "title": "@anthropic-ai/claude-code 2.1.285 published",
+      "summary": "Version 2.1.285 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.285 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-09-29T17:32:09.173000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:b0c9118363559ddf",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "summary": "78 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=49897075",
+      "content_text": "78 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=49897075",
+      "date_published": "2026-09-29T17:31:26+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:c3516fd826ac38d4",
       "url": "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
       "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
@@ -1351,48 +1392,6 @@
       "summary": "## 0.0.12 (2026-09-15) Full Changelog: [google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12) ### Chores * **internal:** move the sub-packages off ts-node and modern…",
       "content_text": "## 0.0.12 (2026-09-15) Full Changelog: [google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12) ### Chores * **internal:** move the sub-packages off ts-node and modern…",
       "date_published": "2026-09-15T17:34:43+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:fb41d17e6944b705",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.2",
-      "title": "aws-sdk: v0.7.2",
-      "summary": "## 0.7.2 (2026-09-15) Full Changelog: [aws-sdk-v0.7.1...aws-sdk-v0.7.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.1...aws-sdk-v0.7.2) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig ([1d7cd91](https://git…",
-      "content_text": "## 0.7.2 (2026-09-15) Full Changelog: [aws-sdk-v0.7.1...aws-sdk-v0.7.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.1...aws-sdk-v0.7.2) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig ([1d7cd91](https://git…",
-      "date_published": "2026-09-15T17:34:38+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:31c2e89725785050",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.7",
-      "title": "foundry-sdk: v0.4.7",
-      "summary": "## 0.4.7 (2026-09-15) Full Changelog: [foundry-sdk-v0.4.6...foundry-sdk-v0.4.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.6...foundry-sdk-v0.4.7) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig ([1d7c…",
-      "content_text": "## 0.4.7 (2026-09-15) Full Changelog: [foundry-sdk-v0.4.6...foundry-sdk-v0.4.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.6...foundry-sdk-v0.4.7) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig ([1d7c…",
-      "date_published": "2026-09-15T17:34:32+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:df1ddbf9b9496831",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.6",
-      "title": "bedrock-sdk: v0.33.6",
-      "summary": "## 0.33.6 (2026-09-15) Full Changelog: [bedrock-sdk-v0.33.5...bedrock-sdk-v0.33.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.5...bedrock-sdk-v0.33.6) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig (…",
-      "content_text": "## 0.33.6 (2026-09-15) Full Changelog: [bedrock-sdk-v0.33.5...bedrock-sdk-v0.33.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.5...bedrock-sdk-v0.33.6) ### Chores * **internal:** move the sub-packages off ts-node and modernise their tsconfig (…",
-      "date_published": "2026-09-15T17:34:25+00:00",
       "tags": [
         "api",
         "fix",
