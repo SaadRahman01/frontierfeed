@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "source": "hackernews",
+      "published": "2026-09-28T23:40:59+00:00",
+      "body": "69 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49886005",
+      "summary": "69 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49886005",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "f02c188dd7a3a704"
+    },
+    {
       "title": "Giving companies more control over their AI agents, with NVIDIA",
       "url": "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia",
       "source": "claude-blog",
@@ -242,6 +257,22 @@
         "skills"
       ],
       "uid": "2764fc19aa415523"
+    },
+    {
+      "title": "Masking Frequent Tokens Sharpens Direct Preference Optimization",
+      "url": "https://arxiv.org/abs/2609.32445v1",
+      "source": "arxiv",
+      "published": "2026-09-26T10:21:46+00:00",
+      "body": "Direct Preference Optimization (DPO) aligns language models by optimizing over sequence-level sums of token-wise implicit reward differences. However, we identify a pervasive pathology in this formulation: a disproportionately small subset of high-frequency token types dominates cumulative sequence scores while appearing symmetrically across both preferred and dispreferred responses. Specifically, under canonical Qwen tokenization on Anthropic HH-RLHF, merely 69 token types account for $55.1\\%$ of all response tokens and $85.9\\%$ of within-pair shared token mass, exhibiting substantially lower preference-side specificity than the remaining vocabulary. This symmetric ubiquity induces gradient entanglement and dilutes the discriminative preference signal propagated through the objective. To resolve this issue, we introduce \\emph{Anisotropic DPO} (\\textsf{ADPO}) and its canonical realization, \\emph{Frequency-Hard DPO}. Using a fixed, label-agnostic vocabulary mask, our method zeroes the implicit reward contribution of high-frequency response tokens while assigning unit weight to informative positions, thereby suppressing gradient interference without modifying preference pairs, discarding context, or introducing learned parameters. Here, \\emph{anisotropy} designates non-uniform token-level objective weighting rather than representational geometry. Extensive empirical evaluations on AlpacaEval, MT-Bench, and Arena-Hard demonstrate that Frequency-Hard DPO consistently outperforms standard DPO across Qwen-2.5-7B-Instruct and Llama-3-8B-Instruct, establishing that selectively masking shared high-frequency tokens offers an effective, zero-overhead mechanism for robust preference alignment.",
+      "summary": "Direct Preference Optimization (DPO) aligns language models by optimizing over sequence-level sums of token-wise implicit reward differences.",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "9525aee886e1e5b6"
     },
     {
       "title": "v1.0.235",
@@ -4715,38 +4746,6 @@
         "claude-code-action"
       ],
       "uid": "2bb6703a34ecc105"
-    },
-    {
-      "title": "v1.0.203",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.203",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-25T03:44:25+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.203",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.202...v1.0.203",
-      "version": "1.0.203",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "341a666866ada0dc"
-    },
-    {
-      "title": "v1.0.202",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.202",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-24T23:43:03+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.201...v1.0.202",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.201...v1.0.202",
-      "version": "1.0.202",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "45655f76df53e19c"
     }
   ]
 }

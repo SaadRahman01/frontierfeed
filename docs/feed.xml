@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 22:06:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 02:02:43 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Anthropic&#x27;s IPO prospectus shows AI vision, surging costs</title>
+<link>https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/</link>
+<guid isPermaLink="false">frontierfeed:f02c188dd7a3a704</guid>
+<pubDate>Mon, 28 Sep 2026 23:40:59 +0000</pubDate>
+<category>note</category>
+<description>69 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49886005</description>
+</item>
 <item>
 <title>Giving companies more control over their AI agents, with NVIDIA</title>
 <link>https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia</link>
@@ -134,6 +142,14 @@
 <pubDate>Sat, 26 Sep 2026 15:34:53 +0000</pubDate>
 <category>claude-code</category>
 <description>60 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49857528</description>
+</item>
+<item>
+<title>Masking Frequent Tokens Sharpens Direct Preference Optimization</title>
+<link>https://arxiv.org/abs/2609.32445v1</link>
+<guid isPermaLink="false">frontierfeed:9525aee886e1e5b6</guid>
+<pubDate>Sat, 26 Sep 2026 10:21:46 +0000</pubDate>
+<category>research</category>
+<description>Direct Preference Optimization (DPO) aligns language models by optimizing over sequence-level sums of token-wise implicit reward differences.</description>
 </item>
 <item>
 <title>v1.0.235</title>
@@ -798,22 +814,6 @@
 <pubDate>Tue, 15 Sep 2026 17:34:12 +0000</pubDate>
 <category>deprecation</category>
 <description>## 0.126.0 (2026-09-15) Full Changelog: [sdk-v0.125.0...sdk-v0.126.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.125.0...sdk-v0.126.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([7829b43](https://github.com/anthropics/ant…</description>
-</item>
-<item>
-<title>Show HN: Pizza Bot – An inbox for AI agents that work in the background</title>
-<link>https://github.com/pizza-bot-app/pizza-bot</link>
-<guid isPermaLink="false">frontierfeed:c2ecb7ae0820b1da</guid>
-<pubDate>Tue, 15 Sep 2026 15:20:26 +0000</pubDate>
-<category>note</category>
-<description>42 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=49713894</description>
-</item>
-<item>
-<title>v1.6.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.6.0</link>
-<guid isPermaLink="false">frontierfeed:27c22754ab98cee0</guid>
-<pubDate>Tue, 15 Sep 2026 15:14:42 +0000</pubDate>
-<category>api</category>
-<description>## 1.6.0 (2026-09-15) Full Changelog: [v1.5.0...v1.6.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.5.0...v1.6.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([909d92f](https://github.com/anthropics/anthropic-sdk-python/commit/909d9…</description>
 </item>
 </channel>
 </rss>

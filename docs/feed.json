@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:f02c188dd7a3a704",
+      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "summary": "69 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49886005",
+      "content_text": "69 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49886005",
+      "date_published": "2026-09-28T23:40:59+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:d981f0eac7f664af",
       "url": "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia",
       "title": "Giving companies more control over their AI agents, with NVIDIA",
@@ -219,6 +232,20 @@
         "info",
         "community",
         "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:9525aee886e1e5b6",
+      "url": "https://arxiv.org/abs/2609.32445v1",
+      "title": "Masking Frequent Tokens Sharpens Direct Preference Optimization",
+      "summary": "Direct Preference Optimization (DPO) aligns language models by optimizing over sequence-level sums of token-wise implicit reward differences.",
+      "content_text": "Direct Preference Optimization (DPO) aligns language models by optimizing over sequence-level sums of token-wise implicit reward differences.",
+      "date_published": "2026-09-26T10:21:46+00:00",
+      "tags": [
+        "research",
+        "feature",
+        "research",
+        "paper"
       ]
     },
     {
@@ -1369,33 +1396,6 @@
         "breaking",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:c2ecb7ae0820b1da",
-      "url": "https://github.com/pizza-bot-app/pizza-bot",
-      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-      "summary": "42 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=49713894",
-      "content_text": "42 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=49713894",
-      "date_published": "2026-09-15T15:20:26+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:27c22754ab98cee0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.6.0",
-      "title": "v1.6.0",
-      "summary": "## 1.6.0 (2026-09-15) Full Changelog: [v1.5.0...v1.6.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.5.0...v1.6.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([909d92f](https://github.com/anthropics/anthropic-sdk-python/commit/909d9…",
-      "content_text": "## 1.6.0 (2026-09-15) Full Changelog: [v1.5.0...v1.6.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.5.0...v1.6.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([909d92f](https://github.com/anthropics/anthropic-sdk-python/commit/909d9…",
-      "date_published": "2026-09-15T15:14:42+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-python"
       ]
     }
   ]
