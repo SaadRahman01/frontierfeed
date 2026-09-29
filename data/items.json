@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
+      "url": "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
+      "source": "claude-blog",
+      "published": "2026-09-29T15:56:53.476402+00:00",
+      "body": "Agents you can coach: how Asana builds human-agent teams with Claude",
+      "summary": "Agents you can coach: how Asana builds human-agent teams with Claude",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "c3516fd826ac38d4"
+    },
+    {
       "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
       "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
       "source": "hackernews",
@@ -4732,22 +4748,6 @@
         "community"
       ],
       "uid": "0d14373e4f2630a4"
-    },
-    {
-      "title": "Curved Inference II: Sleeper Agent Geometry - Extending Interpretability Beyond Probes",
-      "url": "https://arxiv.org/abs/2608.24037v1",
-      "source": "arxiv",
-      "published": "2026-08-25T03:51:20+00:00",
-      "body": "This paper extends Anthropic's Sleeper Agents research [1], which showed artificial backdoors persist through safety training & can be detected by linear probes with >99% accuracy [2]. However, probe-based detection relies on linear separability that may be an artefact of backdoor insertion rather than a property of naturally occurring deceptive alignment. Sophisticated deceptive behaviours emerging through natural training are unlikely to produce such convenient linear signals.\n  We introduce a naturalistic methodology using multi-turn context windows that simulates realistic deceptive reasoning without artificial triggers or supervised backdoor insertion. Rather than binary trigger-response patterns, we examine how semantic complexity emerges through gradual context development.\n  Building on our Curved Inference framework, we analyse curvature, salience, & introduce semantic surface area (A'), a new metric of representational work capturing both the magnitude & directional change of meaning construction in unnormalised residual space. Without backdoors, labels, or probes, we apply this framework to naturalistic deceptive prompts & classify model outputs via LLM consensus.\n  Geometric structure reliably predicts semantic classification, with statistically significant differences in surface area across five prompt strategies & two model families. Critically, measurement precision can reveal geometric signatures hidden by classification noise - some strategies improve from non-significant (p = 0.555) to significant (p = 0.048). This validates that sophisticated reasoning creates intrinsic geometric patterns that persist even when detection appears to fail, suggesting the shape of inference itself encodes semantic patterns regardless of whether models have learned to suppress linear indicators of deception - a scalable, unsupervised path for detection when linear methods fail.",
-      "summary": "This paper extends Anthropic's Sleeper Agents research [1], which showed artificial backdoors persist through safety training & can be detected by linear probes with >99% accuracy [2].",
-      "version": "",
-      "category": "research",
-      "impact": "feature",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "5435b7a27d0baf5c"
     }
   ]
 }
