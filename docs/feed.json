@@ -208,6 +208,22 @@
       ]
     },
     {
+      "id": "frontierfeed:3cc6aa239a4cb79a",
+      "url": "https://arxiv.org/abs/2609.34428v1",
+      "title": "AgentHop: A Diagnostic Benchmark for Agentic Multi-Hop Scientific Question Answering",
+      "summary": "Agentic tasks require a large language model to interact with the world, navigating information and gathering evidence across multiple steps with restricted resources.",
+      "content_text": "Agentic tasks require a large language model to interact with the world, navigating information and gathering evidence across multiple steps with restricted resources.",
+      "date_published": "2026-09-28T06:45:01+00:00",
+      "tags": [
+        "research",
+        "feature",
+        "research",
+        "paper",
+        "opus",
+        "sonnet"
+      ]
+    },
+    {
       "id": "frontierfeed:495c64177bbc30b6",
       "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
       "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
@@ -1380,20 +1396,6 @@
       "tags": [
         "api",
         "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:f0f9ca56365d0f12",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.126.0",
-      "title": "sdk: v0.126.0",
-      "summary": "## 0.126.0 (2026-09-15) Full Changelog: [sdk-v0.125.0...sdk-v0.126.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.125.0...sdk-v0.126.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([7829b43](https://github.com/anthropics/ant…",
-      "content_text": "## 0.126.0 (2026-09-15) Full Changelog: [sdk-v0.125.0...sdk-v0.126.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.125.0...sdk-v0.126.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([7829b43](https://github.com/anthropics/ant…",
-      "date_published": "2026-09-15T17:34:12+00:00",
-      "tags": [
-        "deprecation",
-        "breaking",
         "release",
         "anthropic-sdk-typescript"
       ]
