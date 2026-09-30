@@ -64,6 +64,19 @@
       ]
     },
     {
+      "id": "frontierfeed:ee0d0ffba11ae45d",
+      "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+      "summary": "42 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49891721",
+      "content_text": "42 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49891721",
+      "date_published": "2026-09-29T12:01:07+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:f02c188dd7a3a704",
       "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
       "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
@@ -1383,20 +1396,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:5e55884df5209ad3",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.12",
-      "title": "google-cloud-sdk: v0.0.12",
-      "summary": "## 0.0.12 (2026-09-15) Full Changelog: [google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12) ### Chores * **internal:** move the sub-packages off ts-node and modern…",
-      "content_text": "## 0.0.12 (2026-09-15) Full Changelog: [google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12) ### Chores * **internal:** move the sub-packages off ts-node and modern…",
-      "date_published": "2026-09-15T17:34:43+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]

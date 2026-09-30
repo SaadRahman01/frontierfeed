@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-09-29T20:52:11.283798+00:00",
+  "generated": "2026-09-30T00:31:45.486391+00:00",
   "count": 300,
   "items": [
     {
@@ -66,6 +66,21 @@
         "product"
       ],
       "uid": "c3516fd826ac38d4"
+    },
+    {
+      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+      "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+      "source": "hackernews",
+      "published": "2026-09-29T12:01:07+00:00",
+      "body": "42 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49891721",
+      "summary": "42 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49891721",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ee0d0ffba11ae45d"
     },
     {
       "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
@@ -4737,21 +4752,6 @@
         "paper"
       ],
       "uid": "2333b0e93f0ac0d0"
-    },
-    {
-      "title": "Anthropic tells staff to work from home due to possible security team strike",
-      "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-      "source": "hackernews",
-      "published": "2026-08-25T14:00:27+00:00",
-      "body": "47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49434291",
-      "summary": "47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49434291",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "20917208590b0baf"
     }
   ]
 }

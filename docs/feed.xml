@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 20:52:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 00:31:45 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -46,6 +46,14 @@
 <pubDate>Tue, 29 Sep 2026 15:56:53 +0000</pubDate>
 <category>note</category>
 <description>Agents you can coach: how Asana builds human-agent teams with Claude</description>
+</item>
+<item>
+<title>Mistral CEO says U.S. AI safety debate masks competitors&#x27; &#x27;negligence&#x27;</title>
+<link>https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html</link>
+<guid isPermaLink="false">frontierfeed:ee0d0ffba11ae45d</guid>
+<pubDate>Tue, 29 Sep 2026 12:01:07 +0000</pubDate>
+<category>note</category>
+<description>42 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49891721</description>
 </item>
 <item>
 <title>Anthropic&#x27;s IPO prospectus shows AI vision, surging costs</title>
@@ -806,14 +814,6 @@
 <pubDate>Tue, 15 Sep 2026 18:06:34 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.273 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>google-cloud-sdk: v0.0.12</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.12</link>
-<guid isPermaLink="false">frontierfeed:5e55884df5209ad3</guid>
-<pubDate>Tue, 15 Sep 2026 17:34:43 +0000</pubDate>
-<category>api</category>
-<description>## 0.0.12 (2026-09-15) Full Changelog: [google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.11...google-cloud-sdk-v0.0.12) ### Chores * **internal:** move the sub-packages off ts-node and modern…</description>
 </item>
 </channel>
 </rss>
