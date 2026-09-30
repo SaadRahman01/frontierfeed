@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 13:49:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 19:26:09 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.238</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.238</link>
+<guid isPermaLink="false">frontierfeed:2ef56e08af23bee0</guid>
+<pubDate>Wed, 30 Sep 2026 19:17:33 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed * ci: security hardening for GitHub Actions workflows that call Claude by @qing-ant in https://github.com/anthropics/claude-code-action/pull/1867 ## New Contributors * @qing-ant made their first contribution in https://github.com/anthropics/claude-code-action/pu…</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.286 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.286</link>
+<guid isPermaLink="false">frontierfeed:29f792af9220856c</guid>
+<pubDate>Wed, 30 Sep 2026 17:14:38 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.286 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>v1.0.237</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.237</link>
@@ -670,22 +686,6 @@
 <pubDate>Wed, 26 Aug 2026 18:02:01 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.247 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.0.206</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.206</link>
-<guid isPermaLink="false">frontierfeed:7b044e99e90ecaee</guid>
-<pubDate>Tue, 25 Aug 2026 22:33:54 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed * chore: add .gitattributes to normalize line endings by @MohammedAlkindi in https://github.com/anthropics/claude-code-action/pull/1708 * fix: use paths in delete_files prompt example by @WeAreResilience in https://github.com/anthropics/claude-code-action/pull/1…</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.246 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.246</link>
-<guid isPermaLink="false">frontierfeed:10ebc77791480619</guid>
-<pubDate>Tue, 25 Aug 2026 19:17:34 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.246 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

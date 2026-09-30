@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 13:49:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 19:26:09 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,94 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude for Government is now generally available</title>
+<link>https://claude.com/blog/claude-for-government-is-now-generally-available</link>
+<guid isPermaLink="false">frontierfeed:038cf5bcb5ab5431</guid>
+<pubDate>Wed, 30 Sep 2026 19:25:59 +0000</pubDate>
+<category>note</category>
+<description>Claude for Government is now generally available</description>
+</item>
+<item>
+<title>How Anthropic&#x27;s sales team rebuilt inbound with Claude Managed Agents</title>
+<link>https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</link>
+<guid isPermaLink="false">frontierfeed:b6b1285f4817e54e</guid>
+<pubDate>Wed, 30 Sep 2026 19:25:59 +0000</pubDate>
+<category>note</category>
+<description>How Anthropic&#x27;s sales team rebuilt inbound with Claude Managed Agents</description>
+</item>
+<item>
+<title>v1.0.238</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.238</link>
+<guid isPermaLink="false">frontierfeed:2ef56e08af23bee0</guid>
+<pubDate>Wed, 30 Sep 2026 19:17:33 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed * ci: security hardening for GitHub Actions workflows that call Claude by @qing-ant in https://github.com/anthropics/claude-code-action/pull/1867 ## New Contributors * @qing-ant made their first contribution in https://github.com/anthropics/claude-code-action/pu…</description>
+</item>
+<item>
+<title>google-cloud-sdk: v0.0.16</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.16</link>
+<guid isPermaLink="false">frontierfeed:d7fee75dfe10b7cc</guid>
+<pubDate>Wed, 30 Sep 2026 18:30:00 +0000</pubDate>
+<category>api</category>
+<description>## 0.0.16 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16)</description>
+</item>
+<item>
+<title>aws-sdk: v0.7.6</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.6</link>
+<guid isPermaLink="false">frontierfeed:4f082830bcbedf82</guid>
+<pubDate>Wed, 30 Sep 2026 18:29:54 +0000</pubDate>
+<category>api</category>
+<description>## 0.7.6 (2026-09-30) Full Changelog: [aws-sdk-v0.7.5...aws-sdk-v0.7.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.5...aws-sdk-v0.7.6)</description>
+</item>
+<item>
+<title>foundry-sdk: v0.5.1</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.1</link>
+<guid isPermaLink="false">frontierfeed:a25cd6e8ee545be3</guid>
+<pubDate>Wed, 30 Sep 2026 18:29:48 +0000</pubDate>
+<category>api</category>
+<description>## 0.5.1 (2026-09-30) Full Changelog: [foundry-sdk-v0.5.0...foundry-sdk-v0.5.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.0...foundry-sdk-v0.5.1)</description>
+</item>
+<item>
+<title>bedrock-sdk: v0.34.1</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.1</link>
+<guid isPermaLink="false">frontierfeed:c9703db50b6c4313</guid>
+<pubDate>Wed, 30 Sep 2026 18:29:41 +0000</pubDate>
+<category>api</category>
+<description>## 0.34.1 (2026-09-30) Full Changelog: [bedrock-sdk-v0.34.0...bedrock-sdk-v0.34.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.0...bedrock-sdk-v0.34.1)</description>
+</item>
+<item>
+<title>vertex-sdk: v0.20.1</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.1</link>
+<guid isPermaLink="false">frontierfeed:15f9bbc6288c4c9b</guid>
+<pubDate>Wed, 30 Sep 2026 18:29:34 +0000</pubDate>
+<category>api</category>
+<description>## 0.20.1 (2026-09-30) Full Changelog: [vertex-sdk-v0.20.0...vertex-sdk-v0.20.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.0...vertex-sdk-v0.20.1)</description>
+</item>
+<item>
+<title>sdk: v0.130.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.130.0</link>
+<guid isPermaLink="false">frontierfeed:2c2bc8d0873bd879</guid>
+<pubDate>Wed, 30 Sep 2026 18:29:28 +0000</pubDate>
+<category>pricing</category>
+<description>## 0.130.0 (2026-09-30) Full Changelog: [sdk-v0.129.0...sdk-v0.130.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.129.0...sdk-v0.130.0) ### Features * **api:** add a refusal stop reason and stop_details to Managed Agents session idle events ([5cd6910](ht…</description>
+</item>
+<item>
+<title>v1.10.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.10.0</link>
+<guid isPermaLink="false">frontierfeed:995d04ed98a215fe</guid>
+<pubDate>Wed, 30 Sep 2026 18:28:45 +0000</pubDate>
+<category>pricing</category>
+<description>## 1.10.0 (2026-09-30) Full Changelog: [v1.9.0...v1.10.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.9.0...v1.10.0) ### Features * **api:** add a refusal stop reason and stop_details to Managed Agents session idle events ([cba653f](https://github.com/anthropics…</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.286 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.286</link>
+<guid isPermaLink="false">frontierfeed:29f792af9220856c</guid>
+<pubDate>Wed, 30 Sep 2026 17:14:38 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.286 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>v1.0.237</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.237</link>
@@ -726,94 +814,6 @@
 <pubDate>Thu, 17 Sep 2026 18:18:09 +0000</pubDate>
 <category>note</category>
 <description>Projects redesigned: from folder to conversation</description>
-</item>
-<item>
-<title>Introducing the Life Sciences Verification Program</title>
-<link>https://www.anthropic.com/news/life-sciences-verification-program</link>
-<guid isPermaLink="false">frontierfeed:773e2f6fa0b8f009</guid>
-<pubDate>Thu, 17 Sep 2026 18:18:07 +0000</pubDate>
-<category>launch</category>
-<description>Introducing the Life Sciences Verification Program</description>
-</item>
-<item>
-<title>Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents</title>
-<link>https://news.ycombinator.com/item?id=49743049</link>
-<guid isPermaLink="false">frontierfeed:44001de17910dbf7</guid>
-<pubDate>Thu, 17 Sep 2026 16:22:15 +0000</pubDate>
-<category>note</category>
-<description>42 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=49743049</description>
-</item>
-<item>
-<title>v1.0.227</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.227</link>
-<guid isPermaLink="false">frontierfeed:b70407d8023850c1</guid>
-<pubDate>Thu, 17 Sep 2026 00:13:35 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.226...v1.0.227</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.274 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.274</link>
-<guid isPermaLink="false">frontierfeed:77b57b1a134396c5</guid>
-<pubDate>Wed, 16 Sep 2026 22:36:09 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.274 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Claude Cowork and chat are now one Claude</title>
-<link>https://claude.com/blog/cowork-is-now-claude</link>
-<guid isPermaLink="false">frontierfeed:945b6d1d03e10596</guid>
-<pubDate>Wed, 16 Sep 2026 20:11:59 +0000</pubDate>
-<category>claude-code</category>
-<description>Claude Cowork and chat are now one Claude</description>
-</item>
-<item>
-<title>Microsoft says AI rival Anthropic could have &#x27;disastrous impact&#x27; on humanity</title>
-<link>https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo</link>
-<guid isPermaLink="false">frontierfeed:8c352e830af87814</guid>
-<pubDate>Wed, 16 Sep 2026 14:32:15 +0000</pubDate>
-<category>note</category>
-<description>40 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49727661</description>
-</item>
-<item>
-<title>v1.0.226</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.226</link>
-<guid isPermaLink="false">frontierfeed:ddec65fa8391f47c</guid>
-<pubDate>Tue, 15 Sep 2026 20:24:45 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.225...v1.0.226</description>
-</item>
-<item>
-<title>Claude for Small Business launches new workflows, integrations, and training programs</title>
-<link>https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</link>
-<guid isPermaLink="false">frontierfeed:0f0524b3f1f2c774</guid>
-<pubDate>Tue, 15 Sep 2026 18:15:03 +0000</pubDate>
-<category>note</category>
-<description>Claude for Small Business launches new workflows, integrations, and training programs</description>
-</item>
-<item>
-<title>Bringing Salesforce into Claude</title>
-<link>https://claude.com/blog/salesforce-in-claude</link>
-<guid isPermaLink="false">frontierfeed:75b7cf7a0e6ad94f</guid>
-<pubDate>Tue, 15 Sep 2026 18:15:03 +0000</pubDate>
-<category>note</category>
-<description>Bringing Salesforce into Claude</description>
-</item>
-<item>
-<title>Building an AI-native revenue organization</title>
-<link>https://claude.com/blog/building-an-ai-native-revenue-organization</link>
-<guid isPermaLink="false">frontierfeed:5725b9637f6a0732</guid>
-<pubDate>Tue, 15 Sep 2026 18:15:03 +0000</pubDate>
-<category>note</category>
-<description>Building an AI-native revenue organization</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.273 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.273</link>
-<guid isPermaLink="false">frontierfeed:59dadfe716a9d1de</guid>
-<pubDate>Tue, 15 Sep 2026 18:06:34 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.273 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>
