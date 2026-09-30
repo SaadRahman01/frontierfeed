@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, breaking changes only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 19:26:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 23:54:53 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-breaking.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed — breaking changes</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>[breaking] bedrock-sdk: v0.34.2</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.2</link>
+<guid isPermaLink="false">frontierfeed:b377653792f914ed</guid>
+<pubDate>Wed, 30 Sep 2026 22:58:35 +0000</pubDate>
+<category>deprecation</category>
+<description>## 0.34.2 (2026-09-30) Full Changelog: [bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2) ### Chores * **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anth…</description>
+</item>
+<item>
+<title>[breaking] vertex-sdk: v0.20.2</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.2</link>
+<guid isPermaLink="false">frontierfeed:b43e93e3b9b5058b</guid>
+<pubDate>Wed, 30 Sep 2026 22:58:29 +0000</pubDate>
+<category>deprecation</category>
+<description>## 0.20.2 (2026-09-30) Full Changelog: [vertex-sdk-v0.20.1...vertex-sdk-v0.20.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.1...vertex-sdk-v0.20.2) ### Chores * **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anthropi…</description>
+</item>
+<item>
+<title>[breaking] sdk: v0.131.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.131.0</link>
+<guid isPermaLink="false">frontierfeed:d5a33d1e9600dab8</guid>
+<pubDate>Wed, 30 Sep 2026 22:58:20 +0000</pubDate>
+<category>deprecation</category>
+<description>## 0.131.0 (2026-09-30) Full Changelog: [sdk-v0.130.0...sdk-v0.131.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.130.0...sdk-v0.131.0) ### Features * **api:** add list spend limits endpoint ([cfb78c8](https://github.com/anthropics/anthropic-sdk-typescri…</description>
+</item>
+<item>
+<title>[breaking] v1.11.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.11.0</link>
+<guid isPermaLink="false">frontierfeed:cc4d4baf7005bc22</guid>
+<pubDate>Wed, 30 Sep 2026 22:58:09 +0000</pubDate>
+<category>deprecation</category>
+<description>## 1.11.0 (2026-09-30) Full Changelog: [v1.10.0...v1.11.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.10.0...v1.11.0) ### Features * **api:** add list spend limits endpoint ([e8f0cac](https://github.com/anthropics/anthropic-sdk-python/commit/e8f0cac35af67a083ba…</description>
+</item>
 <item>
 <title>[breaking] sdk: v0.129.0</title>
 <link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.129.0</link>

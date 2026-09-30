@@ -9,6 +9,121 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:1dad5134d5fbe6b5",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "summary": "Funding better evaluations of AI’s impact on wellbeing",
+      "content_text": "Funding better evaluations of AI’s impact on wellbeing",
+      "date_published": "2026-09-30T23:54:41.145695+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:c119c4ffa0b04a24",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.17",
+      "title": "google-cloud-sdk: v0.0.17",
+      "summary": "## 0.0.17 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17)",
+      "content_text": "## 0.0.17 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17)",
+      "date_published": "2026-09-30T22:58:53+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:3001b8c34a2faa4e",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.2",
+      "title": "foundry-sdk: v0.5.2",
+      "summary": "## 0.5.2 (2026-09-30) Full Changelog: [foundry-sdk-v0.5.1...foundry-sdk-v0.5.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.1...foundry-sdk-v0.5.2)",
+      "content_text": "## 0.5.2 (2026-09-30) Full Changelog: [foundry-sdk-v0.5.1...foundry-sdk-v0.5.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.1...foundry-sdk-v0.5.2)",
+      "date_published": "2026-09-30T22:58:41+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:b377653792f914ed",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.2",
+      "title": "bedrock-sdk: v0.34.2",
+      "summary": "## 0.34.2 (2026-09-30) Full Changelog: [bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2) ### Chores * **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anth…",
+      "content_text": "## 0.34.2 (2026-09-30) Full Changelog: [bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2) ### Chores * **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anth…",
+      "date_published": "2026-09-30T22:58:35+00:00",
+      "tags": [
+        "deprecation",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript",
+        "sonnet"
+      ]
+    },
+    {
+      "id": "frontierfeed:b43e93e3b9b5058b",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.2",
+      "title": "vertex-sdk: v0.20.2",
+      "summary": "## 0.20.2 (2026-09-30) Full Changelog: [vertex-sdk-v0.20.1...vertex-sdk-v0.20.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.1...vertex-sdk-v0.20.2) ### Chores * **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anthropi…",
+      "content_text": "## 0.20.2 (2026-09-30) Full Changelog: [vertex-sdk-v0.20.1...vertex-sdk-v0.20.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.1...vertex-sdk-v0.20.2) ### Chores * **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anthropi…",
+      "date_published": "2026-09-30T22:58:29+00:00",
+      "tags": [
+        "deprecation",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript",
+        "sonnet"
+      ]
+    },
+    {
+      "id": "frontierfeed:d5a33d1e9600dab8",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.131.0",
+      "title": "sdk: v0.131.0",
+      "summary": "## 0.131.0 (2026-09-30) Full Changelog: [sdk-v0.130.0...sdk-v0.131.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.130.0...sdk-v0.131.0) ### Features * **api:** add list spend limits endpoint ([cfb78c8](https://github.com/anthropics/anthropic-sdk-typescri…",
+      "content_text": "## 0.131.0 (2026-09-30) Full Changelog: [sdk-v0.130.0...sdk-v0.131.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.130.0...sdk-v0.131.0) ### Features * **api:** add list spend limits endpoint ([cfb78c8](https://github.com/anthropics/anthropic-sdk-typescri…",
+      "date_published": "2026-09-30T22:58:20+00:00",
+      "tags": [
+        "deprecation",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript",
+        "sonnet"
+      ]
+    },
+    {
+      "id": "frontierfeed:cc4d4baf7005bc22",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.11.0",
+      "title": "v1.11.0",
+      "summary": "## 1.11.0 (2026-09-30) Full Changelog: [v1.10.0...v1.11.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.10.0...v1.11.0) ### Features * **api:** add list spend limits endpoint ([e8f0cac](https://github.com/anthropics/anthropic-sdk-python/commit/e8f0cac35af67a083ba…",
+      "content_text": "## 1.11.0 (2026-09-30) Full Changelog: [v1.10.0...v1.11.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.10.0...v1.11.0) ### Features * **api:** add list spend limits endpoint ([e8f0cac](https://github.com/anthropics/anthropic-sdk-python/commit/e8f0cac35af67a083ba…",
+      "date_published": "2026-09-30T22:58:09+00:00",
+      "tags": [
+        "deprecation",
+        "breaking",
+        "release",
+        "anthropic-sdk-python",
+        "sonnet"
+      ]
+    },
+    {
+      "id": "frontierfeed:99e44bd3d37075f0",
+      "url": "https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus",
+      "title": "Anthropic's IPO Prospectus Is a Fucking Doozy",
+      "summary": "46 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49914149",
+      "content_text": "46 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49914149",
+      "date_published": "2026-09-30T20:44:19+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:038cf5bcb5ab5431",
       "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
       "title": "Claude for Government is now generally available",
@@ -1292,118 +1407,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:e0f2b52f5aaebd3d",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.7.0",
-      "title": "v1.7.0",
-      "summary": "## 1.7.0 (2026-09-18) Full Changelog: [v1.6.0...v1.7.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.6.0...v1.7.0) ### Features * **api:** add group with display_name to rate limits, deprecate group_type ([28f0a83](https://github.com/anthropics/anthropic-sdk-pyth…",
-      "content_text": "## 1.7.0 (2026-09-18) Full Changelog: [v1.6.0...v1.7.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.6.0...v1.7.0) ### Features * **api:** add group with display_name to rate limits, deprecate group_type ([28f0a83](https://github.com/anthropics/anthropic-sdk-pyth…",
-      "date_published": "2026-09-18T16:12:53+00:00",
-      "tags": [
-        "deprecation",
-        "breaking",
-        "release",
-        "anthropic-sdk-python",
-        "mcp"
-      ]
-    },
-    {
-      "id": "frontierfeed:bec9fc87dbd58da8",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.229",
-      "title": "v1.0.229",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.228...v1.0.229",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.228...v1.0.229",
-      "date_published": "2026-09-18T02:14:16+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:1da3ba726f1e0728",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.276",
-      "title": "@anthropic-ai/claude-code 2.1.276 published",
-      "summary": "Version 2.1.276 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.276 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-18T01:39:31.986000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:ed3a7b9c4277b4db",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.228",
-      "title": "v1.0.228",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.227...v1.0.228",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.227...v1.0.228",
-      "date_published": "2026-09-17T22:34:26+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:81fa87b6cbb33dc9",
-      "url": "https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
-      "title": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
-      "summary": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
-      "content_text": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
-      "date_published": "2026-09-17T22:13:38.238429+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:1c04fbce036c20cf",
-      "url": "https://github.com/Tombert/office365_flake",
-      "title": "Show HN: Microsoft Office running with Wine on Linux with no virtualization",
-      "summary": "75 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=49746401",
-      "content_text": "75 points, 72 comments. Discussion: https://news.ycombinator.com/item?id=49746401",
-      "date_published": "2026-09-17T20:52:22+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:8bef08b6569f43e3",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.275",
-      "title": "@anthropic-ai/claude-code 2.1.275 published",
-      "summary": "Version 2.1.275 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.275 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-17T20:20:31.805000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:b00319912a9f06c8",
-      "url": "https://claude.com/blog/projects-redesigned",
-      "title": "Projects redesigned: from folder to conversation",
-      "summary": "Projects redesigned: from folder to conversation",
-      "content_text": "Projects redesigned: from folder to conversation",
-      "date_published": "2026-09-17T18:18:09.533761+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]

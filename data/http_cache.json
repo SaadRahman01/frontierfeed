@@ -2,67 +2,67 @@
   "http://export.arxiv.org/api/query?search_query=all%3A%22Anthropic%22+AND+cat%3Acs.CL&sortBy=submittedDate&sortOrder=descending&max_results=10": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790796366.556007
+    "seen": 1790812490.5117154
   },
   "http://export.arxiv.org/api/query?search_query=all%3A%22constitutional+AI%22&sortBy=submittedDate&sortOrder=descending&max_results=10": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790796369.949607
+    "seen": 1790812493.7539217
   },
   "https://api.github.com/repos/anthropics/anthropic-sdk-python/releases?per_page=10": {
-    "etag": "W/\"3df275396932607cb44ef9aa29f6b9a4b2a928d945b6c3040b809e0830a95358\"",
+    "etag": "W/\"34e2fe39fff68db6b7bbb256e436fb08b8be0ed10346b66fb616fc9e8d9379d1\"",
     "last_modified": null,
-    "seen": 1790796350.4743874
+    "seen": 1790812474.5928848
   },
   "https://api.github.com/repos/anthropics/anthropic-sdk-typescript/releases?per_page=10": {
-    "etag": "W/\"2dfbc7ec925175bb736460b89a6a84fb857a3edd2710b3ce3e95269742bba6aa\"",
+    "etag": "W/\"802b7718a5a9e626b675c10f43cb429329cff45268ccc1eac8dd64eb98d44d97\"",
     "last_modified": null,
-    "seen": 1790796351.7734866
+    "seen": 1790812475.9152565
   },
   "https://api.github.com/repos/anthropics/claude-code-action/releases?per_page=10": {
-    "etag": "W/\"487eb7eebab3a2e11cc8bedd3da700ee6c5b8762d1fb57d3df22c17b1593c18c\"",
+    "etag": "W/\"3f75565e089ef3c441e0f01c03c3c45b07eb4afb30f68368f835b7a696c9c77a\"",
     "last_modified": null,
-    "seen": 1790796353.1573617
+    "seen": 1790812477.2517805
   },
   "https://api.github.com/repos/modelcontextprotocol/servers/releases?per_page=10": {
-    "etag": "W/\"87280eec251a5a86a798720b4c744c7281565131d1fedb4f69a5ca233d3dccc0\"",
+    "etag": "W/\"824ccda844cdd20110f706fcc477c738b8eb7a9b119333246603cea3f94ec82d\"",
     "last_modified": null,
-    "seen": 1790796354.4734983
+    "seen": 1790812478.552189
   },
   "https://docs.claude.com/en/release-notes/claude-code.rss": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790796355.9274273
+    "seen": 1790812479.985882
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Anthropic&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790796360.6396203
+    "seen": 1790812484.637586
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Claude+Code&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790796361.912611
+    "seen": 1790812485.9068062
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Claude+Opus&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790796363.1997132
+    "seen": 1790812487.1790912
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml": {
-    "etag": "W/\"7554e1e6c2fbd9f2c675d17ac843513c9eaf53e5b1847ccefff5e31b67314fcd\"",
+    "etag": "W/\"edff68a65ad23e6c46015546140713537f6119c528df1b8f3f35fec8a38cdc9a\"",
     "last_modified": null,
-    "seen": 1790796358.1317816
+    "seen": 1790812482.1624184
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml": {
-    "etag": "W/\"8bb5249adfc44002b0f57f539701fcaaf1d20baf1365f3acaa7e5ec820ad1329\"",
+    "etag": "W/\"58ff2aa1a28551d1b11fb0288576f4239a50700d649fb4ca1585e8f90312b3a3\"",
     "last_modified": null,
-    "seen": 1790796356.9816353
+    "seen": 1790812481.0882428
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml": {
-    "etag": "W/\"568fa7f7c8187a28cabd13955c9b5b8d8a328b0cfcfe2c9ce3d1a2830f0c4467\"",
+    "etag": "W/\"919b7ee271c2085d790f58ac37d32c6126d0d7a8cdfec69db5b25cf06a82c883\"",
     "last_modified": null,
-    "seen": 1790796359.1413918
+    "seen": 1790812483.1900122
   },
   "https://registry.npmjs.org/@anthropic-ai%2Fclaude-code": {
     "etag": "W/\"9a470bb585ddda9718b6c1ed1747782c\"",
