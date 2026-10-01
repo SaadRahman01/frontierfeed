@@ -9,6 +9,48 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:48c57876df63927b",
+      "url": "https://claude.com/blog/claude-code-mods",
+      "title": "Customize Claude Code with mods",
+      "summary": "Customize Claude Code with mods",
+      "content_text": "Customize Claude Code with mods",
+      "date_published": "2026-10-01T19:35:17.736779+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:079d200f1c4dd648",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.239",
+      "title": "v1.0.239",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.238...v1.0.239",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.238...v1.0.239",
+      "date_published": "2026-10-01T18:04:49+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:47fae7e3efa1f58e",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.287",
+      "title": "@anthropic-ai/claude-code 2.1.287 published",
+      "summary": "Version 2.1.287 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.287 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-01T16:59:25.986000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:d811cc8071495c64",
       "url": "https://www.anthropic.com/news/barclays-scales-claude",
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -20,6 +62,19 @@
         "info",
         "official",
         "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:45f476bd3d2349c2",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "summary": "183 points, 124 comments. Discussion: https://news.ycombinator.com/item?id=49921050",
+      "content_text": "183 points, 124 comments. Discussion: https://news.ycombinator.com/item?id=49921050",
+      "date_published": "2026-10-01T13:00:55+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1346,62 +1401,6 @@
       "summary": "## 0.0.13 (2026-09-18) Full Changelog: [google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3…",
       "content_text": "## 0.0.13 (2026-09-18) Full Changelog: [google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3…",
       "date_published": "2026-09-18T16:25:20+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:22bdaf94cc381f52",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.3",
-      "title": "aws-sdk: v0.7.3",
-      "summary": "## 0.7.3 (2026-09-18) Full Changelog: [aws-sdk-v0.7.2...aws-sdk-v0.7.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.2...aws-sdk-v0.7.3) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://github.com/anthropics…",
-      "content_text": "## 0.7.3 (2026-09-18) Full Changelog: [aws-sdk-v0.7.2...aws-sdk-v0.7.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.2...aws-sdk-v0.7.3) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://github.com/anthropics…",
-      "date_published": "2026-09-18T16:25:14+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:1ea572f6177c780a",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.8",
-      "title": "foundry-sdk: v0.4.8",
-      "summary": "## 0.4.8 (2026-09-18) Full Changelog: [foundry-sdk-v0.4.7...foundry-sdk-v0.4.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.7...foundry-sdk-v0.4.8) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://githu…",
-      "content_text": "## 0.4.8 (2026-09-18) Full Changelog: [foundry-sdk-v0.4.7...foundry-sdk-v0.4.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.7...foundry-sdk-v0.4.8) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://githu…",
-      "date_published": "2026-09-18T16:25:08+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:9dbcbe4f93ec7527",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.7",
-      "title": "bedrock-sdk: v0.33.7",
-      "summary": "## 0.33.7 (2026-09-18) Full Changelog: [bedrock-sdk-v0.33.6...bedrock-sdk-v0.33.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.6...bedrock-sdk-v0.33.7) ### Bug Fixes * **bedrock:** raise APIError for mid-stream exception and error frames ([#62…",
-      "content_text": "## 0.33.7 (2026-09-18) Full Changelog: [bedrock-sdk-v0.33.6...bedrock-sdk-v0.33.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.6...bedrock-sdk-v0.33.7) ### Bug Fixes * **bedrock:** raise APIError for mid-stream exception and error frames ([#62…",
-      "date_published": "2026-09-18T16:25:02+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:1c6a895524e03498",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.10",
-      "title": "vertex-sdk: v0.19.10",
-      "summary": "## 0.19.10 (2026-09-18) Full Changelog: [vertex-sdk-v0.19.9...vertex-sdk-v0.19.10](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.9...vertex-sdk-v0.19.10) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://g…",
-      "content_text": "## 0.19.10 (2026-09-18) Full Changelog: [vertex-sdk-v0.19.9...vertex-sdk-v0.19.10](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.9...vertex-sdk-v0.19.10) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://g…",
-      "date_published": "2026-09-18T16:24:56+00:00",
       "tags": [
         "api",
         "fix",

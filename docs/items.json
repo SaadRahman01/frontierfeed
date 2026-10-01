@@ -1,9 +1,57 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-01T13:25:45.751235+00:00",
+  "generated": "2026-10-01T19:35:28.313590+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Customize Claude Code with mods",
+      "url": "https://claude.com/blog/claude-code-mods",
+      "source": "claude-blog",
+      "published": "2026-10-01T19:35:17.736779+00:00",
+      "body": "Customize Claude Code with mods",
+      "summary": "Customize Claude Code with mods",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "48c57876df63927b"
+    },
+    {
+      "title": "v1.0.239",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.239",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-01T18:04:49+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.238...v1.0.239",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.238...v1.0.239",
+      "version": "1.0.239",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "079d200f1c4dd648"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.287 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.287",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-01T16:59:25.986000+00:00",
+      "body": "Version 2.1.287 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.287 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.287",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "47fae7e3efa1f58e"
+    },
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
       "url": "https://www.anthropic.com/news/barclays-scales-claude",
@@ -19,6 +67,21 @@
         "news"
       ],
       "uid": "d811cc8071495c64"
+    },
+    {
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "source": "hackernews",
+      "published": "2026-10-01T13:00:55+00:00",
+      "body": "183 points, 124 comments. Discussion: https://news.ycombinator.com/item?id=49921050",
+      "summary": "183 points, 124 comments. Discussion: https://news.ycombinator.com/item?id=49921050",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "45f476bd3d2349c2"
     },
     {
       "title": "Funding better evaluations of AI\u2019s impact on wellbeing",
@@ -4700,69 +4763,6 @@
         "skills"
       ],
       "uid": "70ceb1da61ac334f"
-    },
-    {
-      "title": "v1.2.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.2.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-08-27T20:28:58+00:00",
-      "body": "## 1.2.0 (2026-08-27)\n\nFull Changelog: [v1.1.0...v1.2.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.1.0...v1.2.0)\n\n### Features\n\n* **api:** beta files/skills namespaces use GA shapes; drop dated beta header pins ([9df4565](https://github.com/anthropics/anthropic-sdk-python/commit/9df4565fdfe4eec941809a0a3d1615ee11e16b68))\n\n\n### Bug Fixes\n\n* **aws,bedrock:** sign raw request bytes so binary file uploads work ([#531](https://github.com/anthropics/anthropic-sdk-python/issues/531)) ([f50e910](https://github.com/anthropics/anthropic-sdk-python/commit/f50e9106c002d71966f5f8027758b3d703999936))\n* **ci:** resolve assignment aliases in detect-breaking-changes ([f2c4925](https://github.com/anthropics/anthropic-sdk-python/commit/f2c49254941b4d700fe97cbe6bb85205b06a6460))\n* **sessions:** make event accumulator forward-compatible with new event types ([#533](https://github.com/anthropics/anthropic-sdk-python/issues/533)) ([cbbaf6e](https://github.com/anthropics/anthropic-sdk-python/commit/cbbaf6e46358d5c844eac01ed3c50a797daf93a7))\n* **tools:** let read return a view_range of a file over the size cap ([#538](https://github.com/anthropics/anthropic-sdk-python/issues/538)) ([b68e876](https://github.com/anthropics/anthropic-sdk-python/commit/b68e876345bde1ecc099ef245e87b1319dc8d080))\n* **tools:** preserve exact file bytes in the agent toolset and memory tool (no newline translation) ([#540](https://github.com/anthropics/anthropic-sdk-python/issues/540)) ([56921a8](https://github.com/anthropics/anthropic-sdk-python/commit/56921a8c04e0ec71192fcd22dd28db2a5e1306f7))\n* **webhooks:** require headers to be passed to `unwrap()` ([0baa902](https://github.com/anthropics/anthropic-sdk-python/commit/0baa90225359f6b4bec50476c19bb52c2ad4250d))\n\n\n### Documentation\n\n* **api:** clarify pagination on the organization rate-limit list endpoints ([1832b27](https://github.com/anthropics/anthropic-sdk-python/commit/1832b27d0751943640cb898bb77c088ea3f24acb))",
-      "summary": "## 1.2.0 (2026-08-27) Full Changelog: [v1.1.0...v1.2.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.1.0...v1.2.0) ### Features * **api:** beta files/skills namespaces use GA shapes; drop dated beta header pins ([9df4565](https://github.com/anthropics/anthropic-s\u2026",
-      "version": "1.2.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-python",
-        "skills"
-      ],
-      "uid": "e9c627c0b6b07f2a"
-    },
-    {
-      "title": "Tell HN: Man, AI is killing my brain",
-      "url": "https://news.ycombinator.com/item?id=49468252",
-      "source": "hackernews",
-      "published": "2026-08-27T17:28:27+00:00",
-      "body": "43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49468252",
-      "summary": "43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=49468252",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "47c442ba657686f8"
-    },
-    {
-      "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
-      "url": "https://github.com/opslane/opslane",
-      "source": "hackernews",
-      "published": "2026-08-27T15:45:16+00:00",
-      "body": "40 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=49466704",
-      "summary": "40 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=49466704",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "a519f6359da7dd56"
-    },
-    {
-      "title": "A Survey on Rubric-Guided Reinforcement Learning for Language Models",
-      "url": "https://arxiv.org/abs/2608.27505v1",
-      "source": "arxiv",
-      "published": "2026-08-27T05:21:07+00:00",
-      "body": "Reinforcement learning from human feedback (RLHF) has become the dominant paradigm for aligning large language models (LLMs) with human preferences. However, traditional RLHF relies on scalar reward signals that lack interpretability and fail to capture the multifaceted nature of response quality. Rubric-guided reinforcement learning addresses these limitations by introducing structured, interpretable evaluation criteria, or rubrics, as the backbone of reward design, feedback generation, and policy optimization. In this survey, we introduce a Bayesian framework that defines constitutions as prior distributions $P(R)$ over evaluation criteria and rubrics as conditional instantiations $R_x \\sim P(R|x)$. Under this unified view, we present a taxonomy of rubric-guided RL along the prior-posterior axis, covering constitutional AI, instance-specific rubrics, process-level supervision, self-evolving rubrics, and their agentic and multimodal extensions. Furthermore, as rubrics are natural-language artifacts, we present a linguistic analysis of how granularity trade-offs, semantic drift, and linguistic reward hacking impact alignment reliability, identifying key open problems for future research.",
-      "summary": "Reinforcement learning from human feedback (RLHF) has become the dominant paradigm for aligning large language models (LLMs) with human preferences.",
-      "version": "",
-      "category": "research",
-      "impact": "feature",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "0a00a327ee651950"
     }
   ]
 }

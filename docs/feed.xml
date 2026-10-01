@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 13:25:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 19:35:28 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -16,12 +16,44 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
 <item>
+<title>Customize Claude Code with mods</title>
+<link>https://claude.com/blog/claude-code-mods</link>
+<guid isPermaLink="false">frontierfeed:48c57876df63927b</guid>
+<pubDate>Thu, 01 Oct 2026 19:35:17 +0000</pubDate>
+<category>claude-code</category>
+<description>Customize Claude Code with mods</description>
+</item>
+<item>
+<title>v1.0.239</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.239</link>
+<guid isPermaLink="false">frontierfeed:079d200f1c4dd648</guid>
+<pubDate>Thu, 01 Oct 2026 18:04:49 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.238...v1.0.239</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.287 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.287</link>
+<guid isPermaLink="false">frontierfeed:47fae7e3efa1f58e</guid>
+<pubDate>Thu, 01 Oct 2026 16:59:25 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.287 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
 <title>Barclays scales Claude to upgrade operations and improve client experience</title>
 <link>https://www.anthropic.com/news/barclays-scales-claude</link>
 <guid isPermaLink="false">frontierfeed:d811cc8071495c64</guid>
 <pubDate>Thu, 01 Oct 2026 13:25:32 +0000</pubDate>
 <category>note</category>
 <description>Barclays scales Claude to upgrade operations and improve client experience</description>
+</item>
+<item>
+<title>FTC is investigating OpenAI, Anthropic and other AI companies over product risks</title>
+<link>https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html</link>
+<guid isPermaLink="false">frontierfeed:45f476bd3d2349c2</guid>
+<pubDate>Thu, 01 Oct 2026 13:00:55 +0000</pubDate>
+<category>note</category>
+<description>183 points, 124 comments. Discussion: https://news.ycombinator.com/item?id=49921050</description>
 </item>
 <item>
 <title>Funding better evaluations of AI’s impact on wellbeing</title>
@@ -782,38 +814,6 @@
 <pubDate>Fri, 18 Sep 2026 16:25:20 +0000</pubDate>
 <category>api</category>
 <description>## 0.0.13 (2026-09-18) Full Changelog: [google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3…</description>
-</item>
-<item>
-<title>aws-sdk: v0.7.3</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.3</link>
-<guid isPermaLink="false">frontierfeed:22bdaf94cc381f52</guid>
-<pubDate>Fri, 18 Sep 2026 16:25:14 +0000</pubDate>
-<category>api</category>
-<description>## 0.7.3 (2026-09-18) Full Changelog: [aws-sdk-v0.7.2...aws-sdk-v0.7.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.2...aws-sdk-v0.7.3) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://github.com/anthropics…</description>
-</item>
-<item>
-<title>foundry-sdk: v0.4.8</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.8</link>
-<guid isPermaLink="false">frontierfeed:1ea572f6177c780a</guid>
-<pubDate>Fri, 18 Sep 2026 16:25:08 +0000</pubDate>
-<category>api</category>
-<description>## 0.4.8 (2026-09-18) Full Changelog: [foundry-sdk-v0.4.7...foundry-sdk-v0.4.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.7...foundry-sdk-v0.4.8) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://githu…</description>
-</item>
-<item>
-<title>bedrock-sdk: v0.33.7</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.7</link>
-<guid isPermaLink="false">frontierfeed:9dbcbe4f93ec7527</guid>
-<pubDate>Fri, 18 Sep 2026 16:25:02 +0000</pubDate>
-<category>api</category>
-<description>## 0.33.7 (2026-09-18) Full Changelog: [bedrock-sdk-v0.33.6...bedrock-sdk-v0.33.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.6...bedrock-sdk-v0.33.7) ### Bug Fixes * **bedrock:** raise APIError for mid-stream exception and error frames ([#62…</description>
-</item>
-<item>
-<title>vertex-sdk: v0.19.10</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.10</link>
-<guid isPermaLink="false">frontierfeed:1c6a895524e03498</guid>
-<pubDate>Fri, 18 Sep 2026 16:24:56 +0000</pubDate>
-<category>api</category>
-<description>## 0.19.10 (2026-09-18) Full Changelog: [vertex-sdk-v0.19.9...vertex-sdk-v0.19.10](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.9...vertex-sdk-v0.19.10) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://g…</description>
 </item>
 </channel>
 </rss>
