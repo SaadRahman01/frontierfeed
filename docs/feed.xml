@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 19:35:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 23:56:08 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -206,6 +206,14 @@
 <pubDate>Wed, 30 Sep 2026 17:14:38 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.286 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Show HN: Open-source model routing for coding agents at Astra-level performance</title>
+<link>https://news.ycombinator.com/item?id=49911500</link>
+<guid isPermaLink="false">frontierfeed:1fb4cad8d8887878</guid>
+<pubDate>Wed, 30 Sep 2026 16:58:24 +0000</pubDate>
+<category>note</category>
+<description>73 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49911500</description>
 </item>
 <item>
 <title>The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype</title>
@@ -806,14 +814,6 @@
 <pubDate>Fri, 18 Sep 2026 18:09:06 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.229...v1.0.230</description>
-</item>
-<item>
-<title>google-cloud-sdk: v0.0.13</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.13</link>
-<guid isPermaLink="false">frontierfeed:d8920fe6c7127d71</guid>
-<pubDate>Fri, 18 Sep 2026 16:25:20 +0000</pubDate>
-<category>api</category>
-<description>## 0.0.13 (2026-09-18) Full Changelog: [google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3…</description>
 </item>
 </channel>
 </rss>

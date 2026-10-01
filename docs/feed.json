@@ -353,6 +353,19 @@
       ]
     },
     {
+      "id": "frontierfeed:1fb4cad8d8887878",
+      "url": "https://news.ycombinator.com/item?id=49911500",
+      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+      "summary": "73 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49911500",
+      "content_text": "73 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49911500",
+      "date_published": "2026-09-30T16:58:24+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:a92c8245f2a4a95d",
       "url": "https://arxiv.org/abs/2609.39001v1",
       "title": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
@@ -1392,20 +1405,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:d8920fe6c7127d71",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.13",
-      "title": "google-cloud-sdk: v0.0.13",
-      "summary": "## 0.0.13 (2026-09-18) Full Changelog: [google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3…",
-      "content_text": "## 0.0.13 (2026-09-18) Full Changelog: [google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3…",
-      "date_published": "2026-09-18T16:25:20+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]

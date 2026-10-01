@@ -2,67 +2,67 @@
   "http://export.arxiv.org/api/query?search_query=all%3A%22Anthropic%22+AND+cat%3Acs.CL&sortBy=submittedDate&sortOrder=descending&max_results=10": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790883325.0711348
+    "seen": 1790898963.2926714
   },
   "http://export.arxiv.org/api/query?search_query=all%3A%22constitutional+AI%22&sortBy=submittedDate&sortOrder=descending&max_results=10": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790883328.2858953
+    "seen": 1790898968.431882
   },
   "https://api.github.com/repos/anthropics/anthropic-sdk-python/releases?per_page=10": {
-    "etag": "W/\"cc3aada0ae9f676dab372fe9c2d4050ac6ee2ad2ca7c008ce6b498aaa0fde46c\"",
+    "etag": "W/\"1f751b774fad97d4e5f0b6be55369546cc40eb0dd4d51ad8c3fc2b9c718cc196\"",
     "last_modified": null,
-    "seen": 1790883309.2604222
+    "seen": 1790898947.318588
   },
   "https://api.github.com/repos/anthropics/anthropic-sdk-typescript/releases?per_page=10": {
-    "etag": "W/\"91cf85114e570f1fc8ccfa600505cb243eb6820bc89635345c06e96c24ba4e29\"",
+    "etag": "W/\"c38e4b2239ed3b70051a9e7058f353f9ea5f465f9550056301a022edcc953524\"",
     "last_modified": null,
-    "seen": 1790883310.5724254
+    "seen": 1790898948.6324973
   },
   "https://api.github.com/repos/anthropics/claude-code-action/releases?per_page=10": {
-    "etag": "W/\"a08b151dcb4f8591f3c51b75080ec0b6e578f20061af796cdd08d7ddb33c73a0\"",
+    "etag": "W/\"982986d49d2e79465b4b2debc8e67f33ceec3b81c7fe637633f881b5c8f9af98\"",
     "last_modified": null,
-    "seen": 1790883311.8827891
+    "seen": 1790898949.981095
   },
   "https://api.github.com/repos/modelcontextprotocol/servers/releases?per_page=10": {
-    "etag": "W/\"2380a05154ecd9fd3ad5791190b4dcb254482ac7db7a41ecc5cefa63ff218a70\"",
+    "etag": "W/\"3047ff959797435eed9aece589fdea547a2992cedac0109beb48bfaa31da8e8a\"",
     "last_modified": null,
-    "seen": 1790883313.1406722
+    "seen": 1790898951.317378
   },
   "https://docs.claude.com/en/release-notes/claude-code.rss": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790883314.4249618
+    "seen": 1790898952.6708539
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Anthropic&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790883319.044725
+    "seen": 1790898957.1271546
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Claude+Code&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790883320.3024378
+    "seen": 1790898958.4807718
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Claude+Opus&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790883321.6611204
+    "seen": 1790898959.7658248
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml": {
-    "etag": "W/\"1c3839e3fd4e00c28a69bf014252e10bdd90b07d385f57213673fe9dfc84c659\"",
+    "etag": "W/\"466bab3198fda2eccc53ceaa2ccc05615c0c49be245c68640bf4702d6f932f22\"",
     "last_modified": null,
-    "seen": 1790883316.601201
+    "seen": 1790898954.7911873
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml": {
-    "etag": "W/\"aa91e56569b7f3f771bc0618a47abe800b6f77b3622d7762379e92b4af70521c\"",
+    "etag": "W/\"131be493805451c532d0262a0bc61e42ead530959cfad8a7589490a89f31b99c\"",
     "last_modified": null,
-    "seen": 1790883315.5124505
+    "seen": 1790898953.7291903
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml": {
-    "etag": "W/\"be4df07c35063c1bd8324076996ee9ab21582c95784720f9ee2f3165e6ddd485\"",
+    "etag": "W/\"15561b72a0b5ec67622e967b54882ad1f74630e1d0c812a766440de9b61cb095\"",
     "last_modified": null,
-    "seen": 1790883317.6180327
+    "seen": 1790898955.8112397
   },
   "https://registry.npmjs.org/@anthropic-ai%2Fclaude-code": {
     "etag": "W/\"539c1c7848cbfa8122ee382b23830e34\"",
