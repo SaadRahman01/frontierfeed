@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:d811cc8071495c64",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "summary": "Barclays scales Claude to upgrade operations and improve client experience",
+      "content_text": "Barclays scales Claude to upgrade operations and improve client experience",
+      "date_published": "2026-10-01T13:25:32.453675+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
       "id": "frontierfeed:1dad5134d5fbe6b5",
       "url": "https://www.anthropic.com/news/wellbeing-research-grants",
       "title": "Funding better evaluations of AI’s impact on wellbeing",
@@ -1391,20 +1405,6 @@
       "tags": [
         "api",
         "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:3e2c3f5dfef91030",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.127.0",
-      "title": "sdk: v0.127.0",
-      "summary": "## 0.127.0 (2026-09-18) Full Changelog: [sdk-v0.126.0...sdk-v0.127.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.126.0...sdk-v0.127.0) ### Features * **api:** add group with display_name to rate limits, deprecate group_type ([2575d97](https://github.com…",
-      "content_text": "## 0.127.0 (2026-09-18) Full Changelog: [sdk-v0.126.0...sdk-v0.127.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.126.0...sdk-v0.127.0) ### Features * **api:** add group with display_name to rate limits, deprecate group_type ([2575d97](https://github.com…",
-      "date_published": "2026-09-18T16:24:51+00:00",
-      "tags": [
-        "deprecation",
-        "breaking",
         "release",
         "anthropic-sdk-typescript"
       ]

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 06:03:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 13:25:45 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Barclays scales Claude to upgrade operations and improve client experience</title>
+<link>https://www.anthropic.com/news/barclays-scales-claude</link>
+<guid isPermaLink="false">frontierfeed:d811cc8071495c64</guid>
+<pubDate>Thu, 01 Oct 2026 13:25:32 +0000</pubDate>
+<category>note</category>
+<description>Barclays scales Claude to upgrade operations and improve client experience</description>
+</item>
 <item>
 <title>Funding better evaluations of AI’s impact on wellbeing</title>
 <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
@@ -806,14 +814,6 @@
 <pubDate>Fri, 18 Sep 2026 16:24:56 +0000</pubDate>
 <category>api</category>
 <description>## 0.19.10 (2026-09-18) Full Changelog: [vertex-sdk-v0.19.9...vertex-sdk-v0.19.10](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.9...vertex-sdk-v0.19.10) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://g…</description>
-</item>
-<item>
-<title>[breaking] sdk: v0.127.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.127.0</link>
-<guid isPermaLink="false">frontierfeed:3e2c3f5dfef91030</guid>
-<pubDate>Fri, 18 Sep 2026 16:24:51 +0000</pubDate>
-<category>deprecation</category>
-<description>## 0.127.0 (2026-09-18) Full Changelog: [sdk-v0.126.0...sdk-v0.127.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.126.0...sdk-v0.127.0) ### Features * **api:** add group with display_name to rate limits, deprecate group_type ([2575d97](https://github.com…</description>
 </item>
 </channel>
 </rss>
