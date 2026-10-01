@@ -314,6 +314,22 @@
       "uid": "29f792af9220856c"
     },
     {
+      "title": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
+      "url": "https://arxiv.org/abs/2609.39001v1",
+      "source": "arxiv",
+      "published": "2026-09-30T05:14:43+00:00",
+      "body": "LLM services are billed per token and context windows are measured in tokens, yet the number of tokens needed for the same content varies across languages. We measure this token premium on seven tokenizers of widely used 2026 models (OpenAI o200k, Llama 3, Qwen3, DeepSeek V3/V4, Gemma 3, Mistral Tekken, and the Claude generation-5 tokenizer via Anthropic's counting API) on NTREX-128 (124 non-English reference translations) and on the Universal Declaration of Human Rights for regional languages. French requires 31% to 58% more tokens than English, whereas Simplified Chinese ranges from 5% fewer to 40% more and is cheaper than French on six of the seven tokenizers. Regional and overseas languages of France pay roughly 1.6 to 3.3 times the English count. We discuss how history re-sending, tiered pricing and fixed context windows amplify the absolute gap in agentic use. In a controlled experiment (BPE, Europarl, 50k vocabulary), adding French to tokenizer training data quickly reduces the premium, with diminishing returns and a growing cost for English. Finally, we present Baracoda FR v1.2, a byte-level BPE prototype with Tekken's vocabulary size. On a final test of six corpora never consulted during design, with a protocol declared fixed beforehand, it uses 11.5% fewer tokens than Tekken on French and 3.7% fewer on English; results hold after removing test sentences overlapping the training data and with an equal ordinary-token budget. It is worse on other languages and, at comparable vocabulary size, does not outperform CroissantLLM. These are segmentation results only; effects on model quality and task cost remain to be shown.",
+      "summary": "LLM services are billed per token and context windows are measured in tokens, yet the number of tokens needed for the same content varies across languages.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "a92c8245f2a4a95d"
+    },
+    {
       "title": "v1.0.237",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.237",
       "source": "github:anthropics/claude-code-action",
@@ -4743,22 +4759,6 @@
         "paper"
       ],
       "uid": "e81c5710f43cde1e"
-    },
-    {
-      "title": "v1.0.207",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.207",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-27T00:10:27+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.206...v1.0.207",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.206...v1.0.207",
-      "version": "1.0.207",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "d69d348d9245a8fe"
     }
   ]
 }

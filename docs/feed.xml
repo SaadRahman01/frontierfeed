@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 23:54:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 06:03:39 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -166,6 +166,14 @@
 <pubDate>Wed, 30 Sep 2026 17:14:38 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.286 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype</title>
+<link>https://arxiv.org/abs/2609.39001v1</link>
+<guid isPermaLink="false">frontierfeed:a92c8245f2a4a95d</guid>
+<pubDate>Wed, 30 Sep 2026 05:14:43 +0000</pubDate>
+<category>research</category>
+<description>LLM services are billed per token and context windows are measured in tokens, yet the number of tokens needed for the same content varies across languages.</description>
 </item>
 <item>
 <title>v1.0.237</title>
@@ -806,14 +814,6 @@
 <pubDate>Fri, 18 Sep 2026 16:24:51 +0000</pubDate>
 <category>deprecation</category>
 <description>## 0.127.0 (2026-09-18) Full Changelog: [sdk-v0.126.0...sdk-v0.127.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.126.0...sdk-v0.127.0) ### Features * **api:** add group with display_name to rate limits, deprecate group_type ([2575d97](https://github.com…</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.277 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.277</link>
-<guid isPermaLink="false">frontierfeed:f29935ea683c959d</guid>
-<pubDate>Fri, 18 Sep 2026 16:22:26 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.277 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

@@ -284,6 +284,20 @@
       ]
     },
     {
+      "id": "frontierfeed:a92c8245f2a4a95d",
+      "url": "https://arxiv.org/abs/2609.39001v1",
+      "title": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
+      "summary": "LLM services are billed per token and context windows are measured in tokens, yet the number of tokens needed for the same content varies across languages.",
+      "content_text": "LLM services are billed per token and context windows are measured in tokens, yet the number of tokens needed for the same content varies across languages.",
+      "date_published": "2026-09-30T05:14:43+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper"
+      ]
+    },
+    {
       "id": "frontierfeed:adff89584c89655e",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.237",
       "title": "v1.0.237",
@@ -1393,20 +1407,6 @@
         "breaking",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:f29935ea683c959d",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.277",
-      "title": "@anthropic-ai/claude-code 2.1.277 published",
-      "summary": "Version 2.1.277 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.277 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-18T16:22:26.548000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
