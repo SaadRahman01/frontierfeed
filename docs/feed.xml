@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 18:28:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 23:01:51 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.240</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.240</link>
+<guid isPermaLink="false">frontierfeed:0e0d4b9fac0a82e3</guid>
+<pubDate>Fri, 02 Oct 2026 20:30:21 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.239...v1.0.240</description>
+</item>
+<item>
+<title>Show HN: Made an open-source Lego AI generator</title>
+<link>https://github.com/anteloc/ldraw-nova</link>
+<guid isPermaLink="false">frontierfeed:be98988a7c782d62</guid>
+<pubDate>Fri, 02 Oct 2026 20:00:15 +0000</pubDate>
+<category>note</category>
+<description>48 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49937916</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.288 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.288</link>
+<guid isPermaLink="false">frontierfeed:f5fbd7d4367d9958</guid>
+<pubDate>Fri, 02 Oct 2026 18:30:40 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.288 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</title>
 <link>https://www.anthropic.com/news/claude-frontier-academy</link>
@@ -46,6 +70,14 @@
 <pubDate>Thu, 01 Oct 2026 18:04:49 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.238...v1.0.239</description>
+</item>
+<item>
+<title>Show HN: Breadcrumb, record everything on your mac + context manager for AI</title>
+<link>https://innerloop.works/breadcrumb</link>
+<guid isPermaLink="false">frontierfeed:3ccdceb4da2f2c54</guid>
+<pubDate>Thu, 01 Oct 2026 17:58:37 +0000</pubDate>
+<category>note</category>
+<description>41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49924943</description>
 </item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.287 published</title>
@@ -782,38 +814,6 @@
 <pubDate>Sat, 19 Sep 2026 14:15:43 +0000</pubDate>
 <category>research</category>
 <description>LLM-based AI systems answer political questions for hundreds of millions of people. Current audits measure what they say to an average user, but their behavior is dynamic.</description>
-</item>
-<item>
-<title>v1.0.231</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.231</link>
-<guid isPermaLink="false">frontierfeed:bd69a5648d9b1acf</guid>
-<pubDate>Sat, 19 Sep 2026 03:12:04 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.230...v1.0.231</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.278 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.278</link>
-<guid isPermaLink="false">frontierfeed:fa8cbdfdf74f1bec</guid>
-<pubDate>Sat, 19 Sep 2026 01:48:59 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.278 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Partnering with Accenture on embedded evaluation</title>
-<link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
-<guid isPermaLink="false">frontierfeed:f28145f8cf320c8a</guid>
-<pubDate>Fri, 18 Sep 2026 22:37:27 +0000</pubDate>
-<category>research</category>
-<description>Partnering with Accenture on embedded evaluation</description>
-</item>
-<item>
-<title>Claude Code now reads AGENTS.md if there is no Claude.md</title>
-<link>https://code.claude.com/docs/en/changelog</link>
-<guid isPermaLink="false">frontierfeed:25e3b90ede10630f</guid>
-<pubDate>Fri, 18 Sep 2026 21:00:32 +0000</pubDate>
-<category>claude-code</category>
-<description>245 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=49760187</description>
 </item>
 </channel>
 </rss>

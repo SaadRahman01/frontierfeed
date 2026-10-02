@@ -1,9 +1,56 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-02T18:28:37.965766+00:00",
+  "generated": "2026-10-02T23:01:51.881282+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.240",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.240",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-02T20:30:21+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.239...v1.0.240",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.239...v1.0.240",
+      "version": "1.0.240",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "0e0d4b9fac0a82e3"
+    },
+    {
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "source": "hackernews",
+      "published": "2026-10-02T20:00:15+00:00",
+      "body": "48 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49937916",
+      "summary": "48 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49937916",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "be98988a7c782d62"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.288 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.288",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-02T18:30:40.093000+00:00",
+      "body": "Version 2.1.288 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.288 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.288",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "f5fbd7d4367d9958"
+    },
     {
       "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
@@ -67,6 +114,21 @@
         "claude-code-action"
       ],
       "uid": "079d200f1c4dd648"
+    },
+    {
+      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+      "url": "https://innerloop.works/breadcrumb",
+      "source": "hackernews",
+      "published": "2026-10-01T17:58:37+00:00",
+      "body": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49924943",
+      "summary": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49924943",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "3ccdceb4da2f2c54"
     },
     {
       "title": "@anthropic-ai/claude-code 2.1.287 published",
@@ -4697,70 +4759,6 @@
         "claude-code-action"
       ],
       "uid": "b30f11572b0fae84"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.250 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.250",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-27T22:27:48.314000+00:00",
-      "body": "Version 2.1.250 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.250 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.250",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "eb282856df0e5e34"
-    },
-    {
-      "title": "v1.0.208",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.208",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-27T22:13:41+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.207...v1.0.208",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.207...v1.0.208",
-      "version": "1.0.208",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "0b46d3f9dc9f4e05"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.248 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.248",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-27T20:35:36.671000+00:00",
-      "body": "Version 2.1.248 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.248 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.248",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "4952e40eabaa1166"
-    },
-    {
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "source": "anthropic-news",
-      "published": "2026-08-27T20:33:52.855852+00:00",
-      "body": "Previewing the Model Hardware Standard",
-      "summary": "Previewing the Model Hardware Standard",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "1a42e045640872a6"
     }
   ]
 }

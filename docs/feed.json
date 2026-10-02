@@ -9,6 +9,47 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:0e0d4b9fac0a82e3",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.240",
+      "title": "v1.0.240",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.239...v1.0.240",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.239...v1.0.240",
+      "date_published": "2026-10-02T20:30:21+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:be98988a7c782d62",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "summary": "48 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49937916",
+      "content_text": "48 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49937916",
+      "date_published": "2026-10-02T20:00:15+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:f5fbd7d4367d9958",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.288",
+      "title": "@anthropic-ai/claude-code 2.1.288 published",
+      "summary": "Version 2.1.288 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.288 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-02T18:30:40.093000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:4692dab6f141f9c0",
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
       "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
@@ -62,6 +103,19 @@
         "fix",
         "release",
         "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:3ccdceb4da2f2c54",
+      "url": "https://innerloop.works/breadcrumb",
+      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+      "summary": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49924943",
+      "content_text": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49924943",
+      "date_published": "2026-10-01T17:58:37+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1351,61 +1405,6 @@
         "info",
         "research",
         "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:bd69a5648d9b1acf",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.231",
-      "title": "v1.0.231",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.230...v1.0.231",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.230...v1.0.231",
-      "date_published": "2026-09-19T03:12:04+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:fa8cbdfdf74f1bec",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.278",
-      "title": "@anthropic-ai/claude-code 2.1.278 published",
-      "summary": "Version 2.1.278 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.278 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-19T01:48:59.758000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:f28145f8cf320c8a",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "title": "Partnering with Accenture on embedded evaluation",
-      "summary": "Partnering with Accenture on embedded evaluation",
-      "content_text": "Partnering with Accenture on embedded evaluation",
-      "date_published": "2026-09-18T22:37:27.099860+00:00",
-      "tags": [
-        "research",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:25e3b90ede10630f",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "summary": "245 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=49760187",
-      "content_text": "245 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=49760187",
-      "date_published": "2026-09-18T21:00:32+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
       ]
     }
   ]
