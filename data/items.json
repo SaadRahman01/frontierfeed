@@ -1,6 +1,23 @@
 {
   "items": [
     {
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "source": "anthropic-news",
+      "published": "2026-10-02T18:28:25.000438+00:00",
+      "body": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "summary": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news",
+        "enterprise"
+      ],
+      "uid": "4692dab6f141f9c0"
+    },
+    {
       "title": "Show HN: Rhun, an open-source code editor written in assembly",
       "url": "https://rhun.app/",
       "source": "hackernews",
@@ -4740,22 +4757,6 @@
         "news"
       ],
       "uid": "1a42e045640872a6"
-    },
-    {
-      "title": "aws-sdk: v0.6.6",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.6.6",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-08-27T20:33:46+00:00",
-      "body": "## 0.6.6 (2026-08-27)\n\nFull Changelog: [aws-sdk-v0.6.5...aws-sdk-v0.6.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.5...aws-sdk-v0.6.6)\n\n### Bug Fixes\n\n* **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://github.com/anthropics/anthropic-sdk-typescript/issues/436)) ([d1fd5dd](https://github.com/anthropics/anthropic-sdk-typescript/commit/d1fd5ddb7e0e33bc5dc4f87580053aea41c2ae74))\n* **aws,bedrock:** sign repeated query keys correctly with SigV4 ([#409](https://github.com/anthropics/anthropic-sdk-typescript/issues/409)) ([6a7e22a](https://github.com/anthropics/anthropic-sdk-typescript/commit/6a7e22a00f947f15eecdfe5ac99d21df2ed0ffea))",
-      "summary": "## 0.6.6 (2026-08-27) Full Changelog: [aws-sdk-v0.6.5...aws-sdk-v0.6.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.5...aws-sdk-v0.6.6) ### Bug Fixes * **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://github.com/anthropics/a\u2026",
-      "version": "aws-sdk-v0.6.6",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "640a51861748d9cd"
     }
   ]
 }

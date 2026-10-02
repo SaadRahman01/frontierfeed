@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 12:44:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 18:28:37 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</title>
+<link>https://www.anthropic.com/news/claude-frontier-academy</link>
+<guid isPermaLink="false">frontierfeed:4692dab6f141f9c0</guid>
+<pubDate>Fri, 02 Oct 2026 18:28:25 +0000</pubDate>
+<category>note</category>
+<description>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</description>
+</item>
 <item>
 <title>Show HN: Rhun, an open-source code editor written in assembly</title>
 <link>https://rhun.app/</link>
@@ -806,14 +814,6 @@
 <pubDate>Fri, 18 Sep 2026 21:00:32 +0000</pubDate>
 <category>claude-code</category>
 <description>245 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=49760187</description>
-</item>
-<item>
-<title>Anthropic finally adds AGENTS.md support to Claude Code</title>
-<link>https://twitter.com/trq212/status/2101009392611278961</link>
-<guid isPermaLink="false">frontierfeed:20b26f3da8e79424</guid>
-<pubDate>Fri, 18 Sep 2026 18:26:34 +0000</pubDate>
-<category>claude-code</category>
-<description>41 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=49758250</description>
 </item>
 </channel>
 </rss>

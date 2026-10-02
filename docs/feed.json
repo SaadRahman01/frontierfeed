@@ -9,6 +9,21 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:4692dab6f141f9c0",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "summary": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "content_text": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "date_published": "2026-10-02T18:28:25.000438+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news",
+        "enterprise"
+      ]
+    },
+    {
       "id": "frontierfeed:c6e97642255b6d96",
       "url": "https://rhun.app/",
       "title": "Show HN: Rhun, an open-source code editor written in assembly",
@@ -1387,19 +1402,6 @@
       "summary": "245 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=49760187",
       "content_text": "245 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=49760187",
       "date_published": "2026-09-18T21:00:32+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:20b26f3da8e79424",
-      "url": "https://twitter.com/trq212/status/2101009392611278961",
-      "title": "Anthropic finally adds AGENTS.md support to Claude Code",
-      "summary": "41 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=49758250",
-      "content_text": "41 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=49758250",
-      "date_published": "2026-09-18T18:26:34+00:00",
       "tags": [
         "claude-code",
         "info",
