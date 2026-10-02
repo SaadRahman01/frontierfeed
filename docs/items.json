@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-01T23:56:08.493316+00:00",
+  "generated": "2026-10-02T05:46:22.844370+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Show HN: Rhun, an open-source code editor written in assembly",
+      "url": "https://rhun.app/",
+      "source": "hackernews",
+      "published": "2026-10-01T20:32:18+00:00",
+      "body": "43 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49926726",
+      "summary": "43 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49926726",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "c6e97642255b6d96"
+    },
     {
       "title": "Customize Claude Code with mods",
       "url": "https://claude.com/blog/claude-code-mods",
@@ -4745,22 +4760,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "640a51861748d9cd"
-    },
-    {
-      "title": "bedrock-sdk: v0.33.3",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.3",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-08-27T20:33:41+00:00",
-      "body": "## 0.33.3 (2026-08-27)\n\nFull Changelog: [bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3)\n\n### Bug Fixes\n\n* **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://github.com/anthropics/anthropic-sdk-typescript/issues/436)) ([d1fd5dd](https://github.com/anthropics/anthropic-sdk-typescript/commit/d1fd5ddb7e0e33bc5dc4f87580053aea41c2ae74))\n* **aws,bedrock:** sign repeated query keys correctly with SigV4 ([#409](https://github.com/anthropics/anthropic-sdk-typescript/issues/409)) ([6a7e22a](https://github.com/anthropics/anthropic-sdk-typescript/commit/6a7e22a00f947f15eecdfe5ac99d21df2ed0ffea))",
-      "summary": "## 0.33.3 (2026-08-27) Full Changelog: [bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.2...bedrock-sdk-v0.33.3) ### Bug Fixes * **aws,bedrock:** prefer env credentials over AWS_PROFILE ([#436](https://gi\u2026",
-      "version": "bedrock-sdk-v0.33.3",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "da7ff1dabd847b80"
     }
   ]
 }

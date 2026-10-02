@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:c6e97642255b6d96",
+      "url": "https://rhun.app/",
+      "title": "Show HN: Rhun, an open-source code editor written in assembly",
+      "summary": "43 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49926726",
+      "content_text": "43 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49926726",
+      "date_published": "2026-10-01T20:32:18+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:48c57876df63927b",
       "url": "https://claude.com/blog/claude-code-mods",
       "title": "Customize Claude Code with mods",
@@ -1391,20 +1404,6 @@
         "claude-code",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:9e93d46149241592",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.230",
-      "title": "v1.0.230",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.229...v1.0.230",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.229...v1.0.230",
-      "date_published": "2026-09-18T18:09:06+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
       ]
     }
   ]

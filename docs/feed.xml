@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 23:56:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 05:46:22 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Show HN: Rhun, an open-source code editor written in assembly</title>
+<link>https://rhun.app/</link>
+<guid isPermaLink="false">frontierfeed:c6e97642255b6d96</guid>
+<pubDate>Thu, 01 Oct 2026 20:32:18 +0000</pubDate>
+<category>note</category>
+<description>43 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49926726</description>
+</item>
 <item>
 <title>Customize Claude Code with mods</title>
 <link>https://claude.com/blog/claude-code-mods</link>
@@ -806,14 +814,6 @@
 <pubDate>Fri, 18 Sep 2026 18:26:34 +0000</pubDate>
 <category>claude-code</category>
 <description>41 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=49758250</description>
-</item>
-<item>
-<title>v1.0.230</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.230</link>
-<guid isPermaLink="false">frontierfeed:9e93d46149241592</guid>
-<pubDate>Fri, 18 Sep 2026 18:09:06 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.229...v1.0.230</description>
 </item>
 </channel>
 </rss>
