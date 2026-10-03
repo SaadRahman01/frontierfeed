@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:673dd1a36e0bee05",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.289",
+      "title": "@anthropic-ai/claude-code 2.1.289 published",
+      "summary": "Version 2.1.289 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.289 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-03T20:12:02.717000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:5b0429d59be7c93c",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "summary": "55 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49946567",
+      "content_text": "55 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49946567",
+      "date_published": "2026-10-03T18:29:30+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community",
+        "opus"
+      ]
+    },
+    {
       "id": "frontierfeed:982827686795d290",
       "url": "https://offrun.dev/",
       "title": "Show HN: Offrun – manage every coding agent from one workspace",
@@ -56,6 +84,19 @@
       "summary": "48 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49937916",
       "content_text": "48 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49937916",
       "date_published": "2026-10-02T20:00:15+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:3b1b998c670345ee",
+      "url": "https://pipod.dev/",
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "summary": "48 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49937304",
+      "content_text": "48 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49937304",
+      "date_published": "2026-10-02T19:10:38+00:00",
       "tags": [
         "note",
         "info",
@@ -1362,45 +1403,6 @@
       "summary": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49789356",
       "content_text": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49789356",
       "date_published": "2026-09-21T16:22:06+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:78a2c87b80d275a1",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-      "summary": "190 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49783133",
-      "content_text": "190 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49783133",
-      "date_published": "2026-09-21T04:42:37+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:590ee92c26a8fa7a",
-      "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
-      "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-      "summary": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49769050",
-      "content_text": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49769050",
-      "date_published": "2026-09-19T18:36:44+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:8502ac223fef9ddd",
-      "url": "https://news.ycombinator.com/item?id=49768826",
-      "title": "Ask HN: How do you interview devs in a post-AI world?",
-      "summary": "41 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=49768826",
-      "content_text": "41 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=49768826",
-      "date_published": "2026-09-19T18:10:34+00:00",
       "tags": [
         "note",
         "info",

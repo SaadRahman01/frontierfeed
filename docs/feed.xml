@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 17:59:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 21:22:49 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>@anthropic-ai/claude-code 2.1.289 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.289</link>
+<guid isPermaLink="false">frontierfeed:673dd1a36e0bee05</guid>
+<pubDate>Sat, 03 Oct 2026 20:12:02 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.289 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Getting the most out of Opus 5.5 in Claude and Claude Code</title>
+<link>https://claude.dev/blog/getting-the-most-out-of-opus-5-5/</link>
+<guid isPermaLink="false">frontierfeed:5b0429d59be7c93c</guid>
+<pubDate>Sat, 03 Oct 2026 18:29:30 +0000</pubDate>
+<category>claude-code</category>
+<description>55 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49946567</description>
+</item>
 <item>
 <title>Show HN: Offrun – manage every coding agent from one workspace</title>
 <link>https://offrun.dev/</link>
@@ -46,6 +62,14 @@
 <pubDate>Fri, 02 Oct 2026 20:00:15 +0000</pubDate>
 <category>note</category>
 <description>48 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49937916</description>
+</item>
+<item>
+<title>Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server</title>
+<link>https://pipod.dev/</link>
+<guid isPermaLink="false">frontierfeed:3b1b998c670345ee</guid>
+<pubDate>Fri, 02 Oct 2026 19:10:38 +0000</pubDate>
+<category>note</category>
+<description>48 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49937304</description>
 </item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.288 published</title>
@@ -790,30 +814,6 @@
 <pubDate>Mon, 21 Sep 2026 16:22:06 +0000</pubDate>
 <category>note</category>
 <description>42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49789356</description>
-</item>
-<item>
-<title>Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM</title>
-<link>https://github.com/volotat/mini-AGI/</link>
-<guid isPermaLink="false">frontierfeed:78a2c87b80d275a1</guid>
-<pubDate>Mon, 21 Sep 2026 04:42:37 +0000</pubDate>
-<category>note</category>
-<description>190 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49783133</description>
-</item>
-<item>
-<title>Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown</title>
-<link>https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b</link>
-<guid isPermaLink="false">frontierfeed:590ee92c26a8fa7a</guid>
-<pubDate>Sat, 19 Sep 2026 18:36:44 +0000</pubDate>
-<category>note</category>
-<description>43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49769050</description>
-</item>
-<item>
-<title>Ask HN: How do you interview devs in a post-AI world?</title>
-<link>https://news.ycombinator.com/item?id=49768826</link>
-<guid isPermaLink="false">frontierfeed:8502ac223fef9ddd</guid>
-<pubDate>Sat, 19 Sep 2026 18:10:34 +0000</pubDate>
-<category>note</category>
-<description>41 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=49768826</description>
 </item>
 </channel>
 </rss>

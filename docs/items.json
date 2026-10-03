@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-03T17:59:47.512785+00:00",
+  "generated": "2026-10-03T21:22:49.652596+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "@anthropic-ai/claude-code 2.1.289 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.289",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-03T20:12:02.717000+00:00",
+      "body": "Version 2.1.289 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.289 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.289",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "673dd1a36e0bee05"
+    },
+    {
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "source": "hackernews",
+      "published": "2026-10-03T18:29:30+00:00",
+      "body": "55 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49946567",
+      "summary": "55 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49946567",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "5b0429d59be7c93c"
+    },
     {
       "title": "Show HN: Offrun \u2013 manage every coding agent from one workspace",
       "url": "https://offrun.dev/",
@@ -65,6 +97,21 @@
         "community"
       ],
       "uid": "be98988a7c782d62"
+    },
+    {
+      "title": "Show HN: Pi pod \u2013 Run your pi coding agent in sandboxes on your own server",
+      "url": "https://pipod.dev/",
+      "source": "hackernews",
+      "published": "2026-10-02T19:10:38+00:00",
+      "body": "48 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49937304",
+      "summary": "48 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49937304",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "3b1b998c670345ee"
     },
     {
       "title": "@anthropic-ai/claude-code 2.1.288 published",
@@ -4712,53 +4759,6 @@
         "claude-code-action"
       ],
       "uid": "d9e30ea20ecd5796"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.251 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.251",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-08-28T15:34:26.421000+00:00",
-      "body": "Version 2.1.251 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.251 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.251",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "c2cfd250d6910163"
-    },
-    {
-      "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-      "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
-      "source": "hackernews",
-      "published": "2026-08-28T11:25:30+00:00",
-      "body": "319 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=49477055",
-      "summary": "319 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=49477055",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "9834317f099e72da"
-    },
-    {
-      "title": "Expanding our support for scientists",
-      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "source": "anthropic-news",
-      "published": "2026-08-28T05:27:01.836818+00:00",
-      "body": "Expanding our support for scientists",
-      "summary": "Expanding our support for scientists",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "5c538f75557a17d5"
     }
   ]
 }
