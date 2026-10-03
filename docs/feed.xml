@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 23:01:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 02:02:54 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Previewing the Model Hardware Standard</title>
+<link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+<guid isPermaLink="false">frontierfeed:1a42e045640872a6</guid>
+<pubDate>Sat, 03 Oct 2026 02:02:41 +0000</pubDate>
+<category>note</category>
+<description>Previewing the Model Hardware Standard</description>
+</item>
 <item>
 <title>v1.0.240</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.240</link>
@@ -806,14 +814,6 @@
 <pubDate>Sat, 19 Sep 2026 15:52:51 +0000</pubDate>
 <category>note</category>
 <description>49 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=49767564</description>
-</item>
-<item>
-<title>Auditing Political Alignment in LLM Assistants: Engagement, Stance, and User Identity</title>
-<link>https://arxiv.org/abs/2609.23039v1</link>
-<guid isPermaLink="false">frontierfeed:eb345ea3b8f3f1e8</guid>
-<pubDate>Sat, 19 Sep 2026 14:15:43 +0000</pubDate>
-<category>research</category>
-<description>LLM-based AI systems answer political questions for hundreds of millions of people. Current audits measure what they say to an average user, but their behavior is dynamic.</description>
 </item>
 </channel>
 </rss>

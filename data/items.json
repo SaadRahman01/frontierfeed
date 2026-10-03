@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "source": "anthropic-news",
+      "published": "2026-10-03T02:02:41.264951+00:00",
+      "body": "Previewing the Model Hardware Standard",
+      "summary": "Previewing the Model Hardware Standard",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "1a42e045640872a6"
+    },
+    {
       "title": "v1.0.240",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.240",
       "source": "github:anthropics/claude-code-action",
@@ -4739,22 +4755,6 @@
         "community"
       ],
       "uid": "56f795afe36e8075"
-    },
-    {
-      "title": "v1.0.209",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.209",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-28T00:51:06+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.208...v1.0.209",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.208...v1.0.209",
-      "version": "1.0.209",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "b30f11572b0fae84"
     }
   ]
 }

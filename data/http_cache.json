@@ -2,67 +2,67 @@
   "http://export.arxiv.org/api/query?search_query=all%3A%22Anthropic%22+AND+cat%3Acs.CL&sortBy=submittedDate&sortOrder=descending&max_results=10": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790965714.593535
+    "seen": 1790992970.7798414
   },
   "http://export.arxiv.org/api/query?search_query=all%3A%22constitutional+AI%22&sortBy=submittedDate&sortOrder=descending&max_results=10": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790965717.9393146
+    "seen": 1790992974.2174687
   },
   "https://api.github.com/repos/anthropics/anthropic-sdk-python/releases?per_page=10": {
-    "etag": "W/\"6798f97807ce07ec8468c727fbe961707c13af8975d23bd13825881357be4fbc\"",
+    "etag": "W/\"6927bbaaed59b2427bb3fe7dabfd71cc9bc9d646382267cce53db8dde9a52105\"",
     "last_modified": null,
-    "seen": 1790982045.082517
+    "seen": 1790992954.8326159
   },
   "https://api.github.com/repos/anthropics/anthropic-sdk-typescript/releases?per_page=10": {
-    "etag": "W/\"f70efe754143fe75c2051898faf0087f1de4064186ad4486d9ced1f644a49e13\"",
+    "etag": "W/\"afbd36701112688630b146875766f619da172e41a5a6ce651ceb6cc7b3dea206\"",
     "last_modified": null,
-    "seen": 1790982046.295733
+    "seen": 1790992956.1314585
   },
   "https://api.github.com/repos/anthropics/claude-code-action/releases?per_page=10": {
-    "etag": "W/\"cba8505d7acc9f0d04de1ab57fcb3b056dd9f493e52bfca5f9bca4201de0e7d3\"",
+    "etag": "W/\"5faad29a43e3e8569d783daaca63287e6dc77adea4b37195517d134f4babf28e\"",
     "last_modified": null,
-    "seen": 1790982047.5538342
+    "seen": 1790992957.4698849
   },
   "https://api.github.com/repos/modelcontextprotocol/servers/releases?per_page=10": {
-    "etag": "W/\"bc3ae477b763e0bfe1c268e6bfded40b90044ce66bddce34ac3baa01a9177e65\"",
+    "etag": "W/\"765cb237d8485fbcb3ae1e8bf1246f972ad0d89e635b16346dbe7f33c540460b\"",
     "last_modified": null,
-    "seen": 1790982048.9002807
+    "seen": 1790992958.7799647
   },
   "https://docs.claude.com/en/release-notes/claude-code.rss": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790982050.18243
+    "seen": 1790992960.1391473
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Anthropic&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790982057.9827838
+    "seen": 1790992964.6901844
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Claude+Code&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790982061.500859
+    "seen": 1790992965.9537365
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Claude+Opus&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1790982065.2114437
+    "seen": 1790992967.2411318
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml": {
-    "etag": "W/\"6c7da5a42a97df415087c34d9123f9b13c75de5471a209fb8c3b6bdd500220e8\"",
+    "etag": "W/\"61de688fbd4d77294c3714248ac676c77daa5d44650f956857a997c793ba6ea8\"",
     "last_modified": null,
-    "seen": 1790982052.3179274
+    "seen": 1790992962.3470268
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml": {
-    "etag": "W/\"cfa32e0ebceb31688c13c3541859f39bae31fad574e7b00db2499566df2cdd93\"",
+    "etag": "W/\"3bf5b6da88f7794c10487da91023e10695e81826c62d5d7e80da98c4d12ad9bf\"",
     "last_modified": null,
-    "seen": 1790982051.242286
+    "seen": 1790992961.214181
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml": {
-    "etag": "W/\"2b66334b376f85cb86ec63375bf08a7060b42527a02254e94e1e998ab0c39d9d\"",
+    "etag": "W/\"b8e844ca537bd6dc7501676c278d9ea82f9550e10e89d6effc573224d5ff87b5\"",
     "last_modified": null,
-    "seen": 1790982053.3381033
+    "seen": 1790992963.366589
   },
   "https://registry.npmjs.org/@anthropic-ai%2Fclaude-code": {
     "etag": "W/\"82e0178c6059dde16b921c527c33bebb\"",

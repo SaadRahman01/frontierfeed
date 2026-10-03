@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:1a42e045640872a6",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "title": "Previewing the Model Hardware Standard",
+      "summary": "Previewing the Model Hardware Standard",
+      "content_text": "Previewing the Model Hardware Standard",
+      "date_published": "2026-10-03T02:02:41.264951+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
       "id": "frontierfeed:0e0d4b9fac0a82e3",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.240",
       "title": "v1.0.240",
@@ -1391,20 +1405,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:eb345ea3b8f3f1e8",
-      "url": "https://arxiv.org/abs/2609.23039v1",
-      "title": "Auditing Political Alignment in LLM Assistants: Engagement, Stance, and User Identity",
-      "summary": "LLM-based AI systems answer political questions for hundreds of millions of people. Current audits measure what they say to an average user, but their behavior is dynamic.",
-      "content_text": "LLM-based AI systems answer political questions for hundreds of millions of people. Current audits measure what they say to an average user, but their behavior is dynamic.",
-      "date_published": "2026-09-19T14:15:43+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper"
       ]
     }
   ]
