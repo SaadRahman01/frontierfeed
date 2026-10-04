@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:34bd529cc6f7fbd3",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "title": "Religious scholars met with Anthropic",
+      "summary": "56 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=49950052",
+      "content_text": "56 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=49950052",
+      "date_published": "2026-10-04T02:34:22+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:5c538f75557a17d5",
       "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
       "title": "Expanding our support for scientists",
@@ -1396,19 +1409,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:6cfc0ced94eb91c8",
-      "url": "https://arxiv.org/abs/2609.15369",
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "summary": "54 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49800566",
-      "content_text": "54 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49800566",
-      "date_published": "2026-09-22T13:00:49+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
