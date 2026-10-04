@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 21:22:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 00:42:14 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -16,6 +16,22 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
 <item>
+<title>Expanding our support for scientists</title>
+<link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
+<guid isPermaLink="false">frontierfeed:5c538f75557a17d5</guid>
+<pubDate>Sun, 04 Oct 2026 00:42:01 +0000</pubDate>
+<category>note</category>
+<description>Expanding our support for scientists</description>
+</item>
+<item>
+<title>v1.0.241</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.241</link>
+<guid isPermaLink="false">frontierfeed:2ab8b5b7fddd0d84</guid>
+<pubDate>Sat, 03 Oct 2026 23:16:10 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.240...v1.0.241</description>
+</item>
+<item>
 <title>@anthropic-ai/claude-code 2.1.289 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.289</link>
 <guid isPermaLink="false">frontierfeed:673dd1a36e0bee05</guid>
@@ -24,12 +40,28 @@
 <description>Version 2.1.289 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 <item>
+<title>Anthropic tried to persuade Pope that AI could be conscious being</title>
+<link>https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/</link>
+<guid isPermaLink="false">frontierfeed:a91e018c3fc40b53</guid>
+<pubDate>Sat, 03 Oct 2026 19:33:10 +0000</pubDate>
+<category>note</category>
+<description>46 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49947050</description>
+</item>
+<item>
 <title>Getting the most out of Opus 5.5 in Claude and Claude Code</title>
 <link>https://claude.dev/blog/getting-the-most-out-of-opus-5-5/</link>
 <guid isPermaLink="false">frontierfeed:5b0429d59be7c93c</guid>
 <pubDate>Sat, 03 Oct 2026 18:29:30 +0000</pubDate>
 <category>claude-code</category>
 <description>55 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49946567</description>
+</item>
+<item>
+<title>LeCun has &quot;zero concerns&quot; about AI wiping out humanity, recent &quot;rogue&quot; incidents</title>
+<link>https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/</link>
+<guid isPermaLink="false">frontierfeed:1ab447255196d4b2</guid>
+<pubDate>Sat, 03 Oct 2026 17:44:29 +0000</pubDate>
+<category>note</category>
+<description>72 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=49946228</description>
 </item>
 <item>
 <title>Show HN: Offrun – manage every coding agent from one workspace</title>
@@ -782,38 +814,6 @@
 <pubDate>Tue, 22 Sep 2026 13:00:49 +0000</pubDate>
 <category>note</category>
 <description>54 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49800566</description>
-</item>
-<item>
-<title>Tell HN: Claude Code just accepted and signed a contract for me. Without asking</title>
-<link>https://news.ycombinator.com/item?id=49798257</link>
-<guid isPermaLink="false">frontierfeed:54e1090f5525fb63</guid>
-<pubDate>Tue, 22 Sep 2026 08:49:13 +0000</pubDate>
-<category>claude-code</category>
-<description>41 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=49798257</description>
-</item>
-<item>
-<title>Claude Status – Elevated errors for multiple models</title>
-<link>https://status.claude.com/incidents/7g1qpkyz5gxh</link>
-<guid isPermaLink="false">frontierfeed:92967edb37f083d3</guid>
-<pubDate>Tue, 22 Sep 2026 01:05:19 +0000</pubDate>
-<category>note</category>
-<description>84 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49795579</description>
-</item>
-<item>
-<title>Elevated errors for multiple models – Resolved</title>
-<link>https://status.claude.com/incidents/7g1qpkyz5gxh</link>
-<guid isPermaLink="false">frontierfeed:ae27c72e0d5da549</guid>
-<pubDate>Tue, 22 Sep 2026 01:05:19 +0000</pubDate>
-<category>note</category>
-<description>138 points, 107 comments. Discussion: https://news.ycombinator.com/item?id=49795579</description>
-</item>
-<item>
-<title>Show HN: Foremerge – Catch intent conflicts between parallel coding agents</title>
-<link>https://github.com/naw103/foremerge</link>
-<guid isPermaLink="false">frontierfeed:945dd5b21dacb9d2</guid>
-<pubDate>Mon, 21 Sep 2026 16:22:06 +0000</pubDate>
-<category>note</category>
-<description>42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49789356</description>
 </item>
 </channel>
 </rss>

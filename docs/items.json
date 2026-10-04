@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-03T21:22:49.652596+00:00",
+  "generated": "2026-10-04T00:42:14.358775+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Expanding our support for scientists",
+      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "source": "anthropic-news",
+      "published": "2026-10-04T00:42:01.463904+00:00",
+      "body": "Expanding our support for scientists",
+      "summary": "Expanding our support for scientists",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "5c538f75557a17d5"
+    },
+    {
+      "title": "v1.0.241",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.241",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-03T23:16:10+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.240...v1.0.241",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.240...v1.0.241",
+      "version": "1.0.241",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "2ab8b5b7fddd0d84"
+    },
     {
       "title": "@anthropic-ai/claude-code 2.1.289 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.289",
@@ -21,6 +53,21 @@
       "uid": "673dd1a36e0bee05"
     },
     {
+      "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+      "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+      "source": "hackernews",
+      "published": "2026-10-03T19:33:10+00:00",
+      "body": "46 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49947050",
+      "summary": "46 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49947050",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "a91e018c3fc40b53"
+    },
+    {
       "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
       "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
       "source": "hackernews",
@@ -35,6 +82,21 @@
         "opus"
       ],
       "uid": "5b0429d59be7c93c"
+    },
+    {
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "source": "hackernews",
+      "published": "2026-10-03T17:44:29+00:00",
+      "body": "72 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=49946228",
+      "summary": "72 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=49946228",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "1ab447255196d4b2"
     },
     {
       "title": "Show HN: Offrun \u2013 manage every coding agent from one workspace",
@@ -4695,70 +4757,6 @@
         "paper"
       ],
       "uid": "a000684dd2faf6b0"
-    },
-    {
-      "title": "How Anthropic employees use Claude Tag",
-      "url": "https://claude.com/blog/how-anthropic-employees-use-claude-tag",
-      "source": "claude-blog",
-      "published": "2026-08-29T02:14:45.325469+00:00",
-      "body": "How Anthropic employees use Claude Tag",
-      "summary": "How Anthropic employees use Claude Tag",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "ab9756a74bdf85f1"
-    },
-    {
-      "title": "Claude for Teachers, now available for U.S. K-12 schools and districts",
-      "url": "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts",
-      "source": "claude-blog",
-      "published": "2026-08-29T02:14:45.325428+00:00",
-      "body": "Claude for Teachers, now available for U.S. K-12 schools and districts",
-      "summary": "Claude for Teachers, now available for U.S. K-12 schools and districts",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "26a889ed96a42882"
-    },
-    {
-      "title": "Claude for Teachers, now available for schools and districts",
-      "url": "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts",
-      "source": "claude-blog",
-      "published": "2026-08-28T18:46:55.033480+00:00",
-      "body": "Claude for Teachers, now available for schools and districts",
-      "summary": "Claude for Teachers, now available for schools and districts",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "d35cb32ab7bd60e9"
-    },
-    {
-      "title": "v1.0.210",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.210",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-08-28T18:21:48+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.209...v1.0.210",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.209...v1.0.210",
-      "version": "1.0.210",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "d9e30ea20ecd5796"
     }
   ]
 }

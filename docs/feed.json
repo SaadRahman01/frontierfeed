@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:5c538f75557a17d5",
+      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "title": "Expanding our support for scientists",
+      "summary": "Expanding our support for scientists",
+      "content_text": "Expanding our support for scientists",
+      "date_published": "2026-10-04T00:42:01.463904+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:2ab8b5b7fddd0d84",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.241",
+      "title": "v1.0.241",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.240...v1.0.241",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.240...v1.0.241",
+      "date_published": "2026-10-03T23:16:10+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:673dd1a36e0bee05",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.289",
       "title": "@anthropic-ai/claude-code 2.1.289 published",
@@ -23,6 +51,19 @@
       ]
     },
     {
+      "id": "frontierfeed:a91e018c3fc40b53",
+      "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+      "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+      "summary": "46 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49947050",
+      "content_text": "46 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49947050",
+      "date_published": "2026-10-03T19:33:10+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:5b0429d59be7c93c",
       "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
       "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
@@ -34,6 +75,19 @@
         "info",
         "community",
         "opus"
+      ]
+    },
+    {
+      "id": "frontierfeed:1ab447255196d4b2",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "summary": "72 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=49946228",
+      "content_text": "72 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=49946228",
+      "date_published": "2026-10-03T17:44:29+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1351,58 +1405,6 @@
       "summary": "54 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49800566",
       "content_text": "54 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49800566",
       "date_published": "2026-09-22T13:00:49+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:54e1090f5525fb63",
-      "url": "https://news.ycombinator.com/item?id=49798257",
-      "title": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
-      "summary": "41 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=49798257",
-      "content_text": "41 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=49798257",
-      "date_published": "2026-09-22T08:49:13+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:92967edb37f083d3",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "title": "Claude Status – Elevated errors for multiple models",
-      "summary": "84 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49795579",
-      "content_text": "84 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49795579",
-      "date_published": "2026-09-22T01:05:19+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:ae27c72e0d5da549",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "title": "Elevated errors for multiple models – Resolved",
-      "summary": "138 points, 107 comments. Discussion: https://news.ycombinator.com/item?id=49795579",
-      "content_text": "138 points, 107 comments. Discussion: https://news.ycombinator.com/item?id=49795579",
-      "date_published": "2026-09-22T01:05:19+00:00",
-      "tags": [
-        "note",
-        "fix",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:945dd5b21dacb9d2",
-      "url": "https://github.com/naw103/foremerge",
-      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-      "summary": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49789356",
-      "content_text": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49789356",
-      "date_published": "2026-09-21T16:22:06+00:00",
       "tags": [
         "note",
         "info",

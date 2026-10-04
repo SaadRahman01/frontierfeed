@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 21:22:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 00:42:14 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.241</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.241</link>
+<guid isPermaLink="false">frontierfeed:2ab8b5b7fddd0d84</guid>
+<pubDate>Sat, 03 Oct 2026 23:16:10 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.240...v1.0.241</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.289 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.289</link>
@@ -670,14 +678,6 @@
 <pubDate>Mon, 31 Aug 2026 07:02:05 +0000</pubDate>
 <category>claude-code</category>
 <description>50 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49506519</description>
-</item>
-<item>
-<title>v1.0.210</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.210</link>
-<guid isPermaLink="false">frontierfeed:d9e30ea20ecd5796</guid>
-<pubDate>Fri, 28 Aug 2026 18:21:48 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.209...v1.0.210</description>
 </item>
 </channel>
 </rss>
