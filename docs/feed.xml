@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 07:09:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 16:06:42 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</title>
+<link>https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</link>
+<guid isPermaLink="false">frontierfeed:b9f48ae78d48e2fc</guid>
+<pubDate>Mon, 05 Oct 2026 16:06:31 +0000</pubDate>
+<category>api</category>
+<description>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</description>
+</item>
 <item>
 <title>Anthropic reported diary entry to police, woman faces felony charge</title>
 <link>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</link>
@@ -806,14 +814,6 @@
 <pubDate>Tue, 22 Sep 2026 16:27:55 +0000</pubDate>
 <category>api</category>
 <description>## 0.128.0 (2026-09-22) Full Changelog: [sdk-v0.127.0...sdk-v0.128.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.127.0...sdk-v0.128.0) ### Features * **api:** add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ([ef…</description>
-</item>
-<item>
-<title>v1.8.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.8.0</link>
-<guid isPermaLink="false">frontierfeed:171276edd0ba1c41</guid>
-<pubDate>Tue, 22 Sep 2026 16:25:23 +0000</pubDate>
-<category>api</category>
-<description>## 1.8.0 (2026-09-22) Full Changelog: [v1.7.0...v1.8.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.7.0...v1.8.0) ### Features * **api:** add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ([b5cc700](https://github.com/anth…</description>
 </item>
 </channel>
 </rss>

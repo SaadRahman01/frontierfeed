@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-05T07:09:20.323147+00:00",
+  "generated": "2026-10-05T16:06:42.174412+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
+      "url": "https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
+      "source": "claude-blog",
+      "published": "2026-10-05T16:06:31.248275+00:00",
+      "body": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
+      "summary": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "b9f48ae78d48e2fc"
+    },
     {
       "title": "Anthropic reported diary entry to police, woman faces felony charge",
       "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
@@ -4741,22 +4757,6 @@
         "npm"
       ],
       "uid": "d11e3ebf9c838778"
-    },
-    {
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "source": "hackernews",
-      "published": "2026-08-31T07:49:18+00:00",
-      "body": "192 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49506819",
-      "summary": "192 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49506819",
-      "version": "",
-      "category": "claude-code",
-      "impact": "breaking",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "7c182a3eb48ff78e"
     }
   ]
 }
