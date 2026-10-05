@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-05T01:00:48.544302+00:00",
+  "generated": "2026-10-05T07:09:20.323147+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "source": "hackernews",
+      "published": "2026-10-05T05:37:40+00:00",
+      "body": "49 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49961057",
+      "summary": "49 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49961057",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "9c3f406153af17fd"
+    },
     {
       "title": "Religious scholars met with Anthropic",
       "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
@@ -4742,21 +4757,6 @@
         "opus"
       ],
       "uid": "7c182a3eb48ff78e"
-    },
-    {
-      "title": "Claude Code reduces it's weekly limit by 17% \u2013 compared to today",
-      "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
-      "source": "hackernews",
-      "published": "2026-08-31T07:02:05+00:00",
-      "body": "50 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49506519",
-      "summary": "50 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49506519",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "07b9169fe9223ee6"
     }
   ]
 }

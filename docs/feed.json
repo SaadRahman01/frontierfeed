@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:9c3f406153af17fd",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "summary": "49 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49961057",
+      "content_text": "49 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49961057",
+      "date_published": "2026-10-05T05:37:40+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:34bd529cc6f7fbd3",
       "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
       "title": "Religious scholars met with Anthropic",
@@ -1396,19 +1409,6 @@
         "anthropic-sdk-python",
         "opus",
         "mcp"
-      ]
-    },
-    {
-      "id": "frontierfeed:3a78366e23978c05",
-      "url": "https://ai-rete-rag.com/",
-      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-      "summary": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49803683",
-      "content_text": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49803683",
-      "date_published": "2026-09-22T16:15:06+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]

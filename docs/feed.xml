@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 01:00:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 07:09:20 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Anthropic reported diary entry to police, woman faces felony charge</title>
+<link>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</link>
+<guid isPermaLink="false">frontierfeed:9c3f406153af17fd</guid>
+<pubDate>Mon, 05 Oct 2026 05:37:40 +0000</pubDate>
+<category>note</category>
+<description>49 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49961057</description>
+</item>
 <item>
 <title>Religious scholars met with Anthropic</title>
 <link>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</link>
@@ -806,14 +814,6 @@
 <pubDate>Tue, 22 Sep 2026 16:25:23 +0000</pubDate>
 <category>api</category>
 <description>## 1.8.0 (2026-09-22) Full Changelog: [v1.7.0...v1.8.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.7.0...v1.8.0) ### Features * **api:** add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ([b5cc700](https://github.com/anth…</description>
-</item>
-<item>
-<title>Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why</title>
-<link>https://ai-rete-rag.com/</link>
-<guid isPermaLink="false">frontierfeed:3a78366e23978c05</guid>
-<pubDate>Tue, 22 Sep 2026 16:15:06 +0000</pubDate>
-<category>note</category>
-<description>41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49803683</description>
 </item>
 </channel>
 </rss>
