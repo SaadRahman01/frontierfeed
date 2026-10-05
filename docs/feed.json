@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:12e38a1ac4df1c00",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.290",
+      "title": "@anthropic-ai/claude-code 2.1.290 published",
+      "summary": "Version 2.1.290 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.290 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-05T18:12:44.907000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:b9f48ae78d48e2fc",
       "url": "https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
       "title": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
@@ -1391,22 +1405,6 @@
         "fix",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:9eebef57dcb937b6",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.128.0",
-      "title": "sdk: v0.128.0",
-      "summary": "## 0.128.0 (2026-09-22) Full Changelog: [sdk-v0.127.0...sdk-v0.128.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.127.0...sdk-v0.128.0) ### Features * **api:** add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ([ef…",
-      "content_text": "## 0.128.0 (2026-09-22) Full Changelog: [sdk-v0.127.0...sdk-v0.128.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.127.0...sdk-v0.128.0) ### Features * **api:** add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ([ef…",
-      "date_published": "2026-09-22T16:27:55+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "opus",
-        "mcp"
       ]
     }
   ]

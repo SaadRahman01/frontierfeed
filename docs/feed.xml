@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 16:06:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 22:42:30 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>@anthropic-ai/claude-code 2.1.290 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.290</link>
+<guid isPermaLink="false">frontierfeed:12e38a1ac4df1c00</guid>
+<pubDate>Mon, 05 Oct 2026 18:12:44 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.290 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</title>
 <link>https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</link>
@@ -806,14 +814,6 @@
 <pubDate>Tue, 22 Sep 2026 16:28:01 +0000</pubDate>
 <category>api</category>
 <description>## 0.19.11 (2026-09-22) Full Changelog: [vertex-sdk-v0.19.10...vertex-sdk-v0.19.11](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.10...vertex-sdk-v0.19.11)</description>
-</item>
-<item>
-<title>sdk: v0.128.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.128.0</link>
-<guid isPermaLink="false">frontierfeed:9eebef57dcb937b6</guid>
-<pubDate>Tue, 22 Sep 2026 16:27:55 +0000</pubDate>
-<category>api</category>
-<description>## 0.128.0 (2026-09-22) Full Changelog: [sdk-v0.127.0...sdk-v0.128.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.127.0...sdk-v0.128.0) ### Features * **api:** add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ([ef…</description>
 </item>
 </channel>
 </rss>
