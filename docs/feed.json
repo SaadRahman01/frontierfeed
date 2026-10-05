@@ -200,6 +200,20 @@
       ]
     },
     {
+      "id": "frontierfeed:5e84bd834b4a53f5",
+      "url": "https://arxiv.org/abs/2610.03077v1",
+      "title": "Unmasking Propaganda: A Comparative Analysis of Masked and Causal Language Models",
+      "summary": "Propaganda detection is an essential task in natural language processing (NLP), particularly in the context of manipulative political communications.",
+      "content_text": "Propaganda detection is an essential task in natural language processing (NLP), particularly in the context of manipulative political communications.",
+      "date_published": "2026-10-02T09:59:47+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper"
+      ]
+    },
+    {
       "id": "frontierfeed:c6e97642255b6d96",
       "url": "https://rhun.app/",
       "title": "Show HN: Rhun, an open-source code editor written in assembly",
@@ -1395,20 +1409,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:a30dc253f73075e7",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.280",
-      "title": "@anthropic-ai/claude-code 2.1.280 published",
-      "summary": "Version 2.1.280 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.280 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-22T15:44:39.443000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
