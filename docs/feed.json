@@ -9,6 +9,33 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:845df7588ea61854",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.292",
+      "title": "@anthropic-ai/claude-code 2.1.292 published",
+      "summary": "Version 2.1.292 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.292 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-06T17:10:31.715000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:97198b52d27a9414",
+      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+      "summary": "75 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=49975345",
+      "content_text": "75 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=49975345",
+      "date_published": "2026-10-06T07:29:50+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:deaab6fa87a6d08f",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.243",
       "title": "v1.0.243",
@@ -1376,34 +1403,6 @@
         "feature",
         "community",
         "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:a3027a3a41553286",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "title": "Claude Opus 5.5",
-      "summary": "601 points, 538 comments. Discussion: https://news.ycombinator.com/item?id=49803892",
-      "content_text": "601 points, 538 comments. Discussion: https://news.ycombinator.com/item?id=49803892",
-      "date_published": "2026-09-22T16:29:05+00:00",
-      "tags": [
-        "model-release",
-        "feature",
-        "community",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:f75a181484dffead",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.14",
-      "title": "google-cloud-sdk: v0.0.14",
-      "summary": "## 0.0.14 (2026-09-22) Full Changelog: [google-cloud-sdk-v0.0.13...google-cloud-sdk-v0.0.14](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.13...google-cloud-sdk-v0.0.14)",
-      "content_text": "## 0.0.14 (2026-09-22) Full Changelog: [google-cloud-sdk-v0.0.13...google-cloud-sdk-v0.0.14](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.13...google-cloud-sdk-v0.0.14)",
-      "date_published": "2026-09-22T16:28:25+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]

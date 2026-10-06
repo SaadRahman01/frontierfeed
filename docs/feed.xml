@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 10:26:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 17:15:10 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>@anthropic-ai/claude-code 2.1.292 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.292</link>
+<guid isPermaLink="false">frontierfeed:845df7588ea61854</guid>
+<pubDate>Tue, 06 Oct 2026 17:10:31 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.292 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Anthropic Subscriptions Offer 5x+ More Value Than OpenAI</title>
+<link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
+<guid isPermaLink="false">frontierfeed:97198b52d27a9414</guid>
+<pubDate>Tue, 06 Oct 2026 07:29:50 +0000</pubDate>
+<category>note</category>
+<description>75 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=49975345</description>
+</item>
 <item>
 <title>v1.0.243</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.243</link>
@@ -798,22 +814,6 @@
 <pubDate>Tue, 22 Sep 2026 16:51:31 +0000</pubDate>
 <category>model-release</category>
 <description>91 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49804316</description>
-</item>
-<item>
-<title>Claude Opus 5.5</title>
-<link>https://www.anthropic.com/claude-opus-5-5</link>
-<guid isPermaLink="false">frontierfeed:a3027a3a41553286</guid>
-<pubDate>Tue, 22 Sep 2026 16:29:05 +0000</pubDate>
-<category>model-release</category>
-<description>601 points, 538 comments. Discussion: https://news.ycombinator.com/item?id=49803892</description>
-</item>
-<item>
-<title>google-cloud-sdk: v0.0.14</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.14</link>
-<guid isPermaLink="false">frontierfeed:f75a181484dffead</guid>
-<pubDate>Tue, 22 Sep 2026 16:28:25 +0000</pubDate>
-<category>api</category>
-<description>## 0.0.14 (2026-09-22) Full Changelog: [google-cloud-sdk-v0.0.13...google-cloud-sdk-v0.0.14](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.13...google-cloud-sdk-v0.0.14)</description>
 </item>
 </channel>
 </rss>
