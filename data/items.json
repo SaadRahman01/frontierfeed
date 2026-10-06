@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "v1.0.243",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.243",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-06T04:03:51+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.242...v1.0.243",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.242...v1.0.243",
+      "version": "1.0.243",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "deaab6fa87a6d08f"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.291 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.291",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-06T03:32:36.856000+00:00",
+      "body": "Version 2.1.291 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.291 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.291",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "01c9ededf1fc7974"
+    },
+    {
       "title": "v1.0.242",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.242",
       "source": "github:anthropics/claude-code-action",
@@ -15,6 +47,21 @@
         "claude-code-action"
       ],
       "uid": "6f0ed8de4e7c4acc"
+    },
+    {
+      "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
+      "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
+      "source": "hackernews",
+      "published": "2026-10-05T22:01:35+00:00",
+      "body": "56 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=49971473",
+      "summary": "56 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=49971473",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d1db354f307d9d09"
     },
     {
       "title": "@anthropic-ai/claude-code 2.1.290 published",
@@ -4705,54 +4752,6 @@
         "skills"
       ],
       "uid": "665ac17f79baf9cb"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.257 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-01T17:15:33.223000+00:00",
-      "body": "Version 2.1.257 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.257 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.257",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "e032c45747e0062b"
-    },
-    {
-      "title": "Improving our alignment and security efforts",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "source": "anthropic-news",
-      "published": "2026-08-31T23:53:37.372269+00:00",
-      "body": "Improving our alignment and security efforts",
-      "summary": "Improving our alignment and security efforts",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "417fed66f67d9d66"
-    },
-    {
-      "title": "Release 2026.8.31",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/2026.8.31",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2026-08-31T20:34:32+00:00",
-      "body": "# Release : v2026.8.31\n\n## Updated packages\n- @modelcontextprotocol/server-filesystem@2026.8.31\n- @modelcontextprotocol/server-memory@2026.8.31\n- @modelcontextprotocol/server-sequential-thinking@2026.8.31\n- @modelcontextprotocol/server-everything@2026.8.31\n",
-      "summary": "# Release : v2026.8.31 ## Updated packages - @modelcontextprotocol/server-filesystem@2026.8.31 - @modelcontextprotocol/server-memory@2026.8.31 - @modelcontextprotocol/server-sequential-thinking@2026.8.31 - @modelcontextprotocol/server-everything@2026.8.31",
-      "version": "2026.8.31",
-      "category": "note",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "servers"
-      ],
-      "uid": "b19a3a69a6b30b32"
     }
   ]
 }

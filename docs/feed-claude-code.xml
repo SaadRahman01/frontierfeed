@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 03:03:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 10:26:15 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -16,12 +16,36 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
 <item>
+<title>v1.0.243</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.243</link>
+<guid isPermaLink="false">frontierfeed:deaab6fa87a6d08f</guid>
+<pubDate>Tue, 06 Oct 2026 04:03:51 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.242...v1.0.243</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.291 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.291</link>
+<guid isPermaLink="false">frontierfeed:01c9ededf1fc7974</guid>
+<pubDate>Tue, 06 Oct 2026 03:32:36 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.291 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
 <title>v1.0.242</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.242</link>
 <guid isPermaLink="false">frontierfeed:6f0ed8de4e7c4acc</guid>
 <pubDate>Mon, 05 Oct 2026 23:38:07 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.241...v1.0.242</description>
+</item>
+<item>
+<title>Engineer says Claude Code has made his job &quot;soul-sucking&quot;</title>
+<link>https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html</link>
+<guid isPermaLink="false">frontierfeed:d1db354f307d9d09</guid>
+<pubDate>Mon, 05 Oct 2026 22:01:35 +0000</pubDate>
+<category>claude-code</category>
+<description>56 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=49971473</description>
 </item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.290 published</title>
@@ -654,14 +678,6 @@
 <pubDate>Tue, 01 Sep 2026 17:55:35 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.211...v1.0.212</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.257 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.257</link>
-<guid isPermaLink="false">frontierfeed:e032c45747e0062b</guid>
-<pubDate>Tue, 01 Sep 2026 17:15:33 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.257 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>
