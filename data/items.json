@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "source": "anthropic-news",
+      "published": "2026-10-06T21:42:25.883635+00:00",
+      "body": "Improving our alignment and security efforts",
+      "summary": "Improving our alignment and security efforts",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "417fed66f67d9d66"
+    },
+    {
+      "title": "Expanding the Cyber Verification Program",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "source": "anthropic-news",
+      "published": "2026-10-06T21:42:25.883420+00:00",
+      "body": "Expanding the Cyber Verification Program",
+      "summary": "Expanding the Cyber Verification Program",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "e310eaf6de303cba"
+    },
+    {
+      "title": "v1.0.244",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.244",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-06T19:08:49+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.243...v1.0.244",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.243...v1.0.244",
+      "version": "1.0.244",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "f709d32be3f8deb0"
+    },
+    {
       "title": "@anthropic-ai/claude-code 2.1.292 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.292",
       "source": "npm:@anthropic-ai/claude-code",
@@ -4701,54 +4749,6 @@
         "npm"
       ],
       "uid": "02dd3cefcc377204"
-    },
-    {
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "source": "anthropic-news",
-      "published": "2026-09-01T21:49:54.637992+00:00",
-      "body": "Developing Enterprise Frontier Safeguards with our customers",
-      "summary": "Developing Enterprise Frontier Safeguards with our customers",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news",
-        "enterprise"
-      ],
-      "uid": "abd8d79a176a9a73"
-    },
-    {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "source": "hackernews",
-      "published": "2026-09-01T18:01:24+00:00",
-      "body": "68 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=49525496",
-      "summary": "68 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=49525496",
-      "version": "",
-      "category": "model-release",
-      "impact": "feature",
-      "tags": [
-        "community"
-      ],
-      "uid": "ae4b268f34afddba"
-    },
-    {
-      "title": "v1.0.212",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.212",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-01T17:55:35+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.211...v1.0.212",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.211...v1.0.212",
-      "version": "1.0.212",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "25ddba1ef7e6532b"
     }
   ]
 }

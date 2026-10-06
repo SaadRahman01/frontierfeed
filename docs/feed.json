@@ -9,6 +9,48 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:417fed66f67d9d66",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "title": "Improving our alignment and security efforts",
+      "summary": "Improving our alignment and security efforts",
+      "content_text": "Improving our alignment and security efforts",
+      "date_published": "2026-10-06T21:42:25.883635+00:00",
+      "tags": [
+        "research",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:e310eaf6de303cba",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "title": "Expanding the Cyber Verification Program",
+      "summary": "Expanding the Cyber Verification Program",
+      "content_text": "Expanding the Cyber Verification Program",
+      "date_published": "2026-10-06T21:42:25.883420+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:f709d32be3f8deb0",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.244",
+      "title": "v1.0.244",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.243...v1.0.244",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.243...v1.0.244",
+      "date_published": "2026-10-06T19:08:49+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:845df7588ea61854",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.292",
       "title": "@anthropic-ai/claude-code 2.1.292 published",
@@ -1360,48 +1402,6 @@
         "fix",
         "release",
         "claude-code-action",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:213a9a56ffca51b5",
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-      "summary": "360 points, 199 comments. Discussion: https://news.ycombinator.com/item?id=49814947",
-      "content_text": "360 points, 199 comments. Discussion: https://news.ycombinator.com/item?id=49814947",
-      "date_published": "2026-09-23T12:15:33+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:fb73c8c386b392cb",
-      "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
-      "title": "What a task costs on Opus 5.5",
-      "summary": "What a task costs on Opus 5.5",
-      "content_text": "What a task costs on Opus 5.5",
-      "date_published": "2026-09-22T18:57:48.045264+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:7b7987b807578d30",
-      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "summary": "91 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49804316",
-      "content_text": "91 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49804316",
-      "date_published": "2026-09-22T16:51:31+00:00",
-      "tags": [
-        "model-release",
-        "feature",
-        "community",
         "opus"
       ]
     }
