@@ -9,6 +9,294 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:be8cce5ca88bb529",
+      "url": "https://claude.com/resources/articles/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
+      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
+      "summary": "CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot expanded their Snowflake capacity using their existing Anthropic commitment.",
+      "content_text": "CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot expanded their Snowflake capacity using their existing Anthropic commitment.",
+      "date_published": "2026-10-07T08:45:53.500572+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:59936901db0de269",
+      "url": "https://claude.com/resources/articles/how-to-prepare-for-ai-driven-code-modernization-projects",
+      "title": "How to prepare for AI-driven code modernization projects",
+      "summary": "How to organize AI-driven modernization projects for critical systems and regulated enterprises.",
+      "content_text": "How to organize AI-driven modernization projects for critical systems and regulated enterprises.",
+      "date_published": "2026-10-07T08:45:53.500529+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:a1850294eff3ca64",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "summary": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.",
+      "content_text": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.",
+      "date_published": "2026-10-07T08:45:53.500507+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:49022e7b77bd6e76",
+      "url": "https://claude.com/resources/articles/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "summary": "Our latest Opus model is priced and trained to optimize costs for how developers code now.",
+      "content_text": "Our latest Opus model is priced and trained to optimize costs for how developers code now.",
+      "date_published": "2026-10-07T08:45:53.500486+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product",
+        "opus"
+      ]
+    },
+    {
+      "id": "frontierfeed:28cfc148d52e108e",
+      "url": "https://claude.com/resources/articles/claude-tag-now-supports-personal-connectors-in-channels",
+      "title": "Claude Tag now supports personal connectors in channels",
+      "summary": "Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you're in control of how to present the output.",
+      "content_text": "Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you're in control of how to present the output.",
+      "date_published": "2026-10-07T08:45:53.500464+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:ef1ba7ccd56faf00",
+      "url": "https://claude.com/resources/articles/build-plugins-for-claude",
+      "title": "Build plugins for Claude",
+      "summary": "You can now submit plugins to the Claude directory through a new developer portal, track them through review, and see usage analytics once they’re live.",
+      "content_text": "You can now submit plugins to the Claude directory through a new developer portal, track them through review, and see usage analytics once they’re live.",
+      "date_published": "2026-10-07T08:45:53.500442+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "official",
+        "product",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:15227bcdf797307a",
+      "url": "https://claude.dev/blog/spending-your-effort/",
+      "title": "Using Claude Code: Spending your effort",
+      "summary": "What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.",
+      "content_text": "What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.",
+      "date_published": "2026-10-07T08:45:53.500421+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "official",
+        "product",
+        "opus"
+      ]
+    },
+    {
+      "id": "frontierfeed:8cb462d6ed5cdbda",
+      "url": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
+      "title": "What a task costs on Opus 5.5",
+      "summary": "The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.",
+      "content_text": "The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.",
+      "date_published": "2026-10-07T08:45:53.500401+00:00",
+      "tags": [
+        "pricing",
+        "info",
+        "official",
+        "product",
+        "opus"
+      ]
+    },
+    {
+      "id": "frontierfeed:9e8bfd86645272e8",
+      "url": "https://claude.com/resources/articles/giving-companies-more-control-over-their-ai-agents-with-nvidia",
+      "title": "Giving companies more control over their AI agents, with NVIDIA",
+      "summary": "Giving companies more control over their AI agents, with NVIDIA",
+      "content_text": "Giving companies more control over their AI agents, with NVIDIA",
+      "date_published": "2026-10-07T08:45:53.500380+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:5a98b42c8b2fa1b1",
+      "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
+      "title": "Automating eval design and hillclimbing with Claude",
+      "summary": "Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work.",
+      "content_text": "Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work.",
+      "date_published": "2026-10-07T08:45:53.500359+00:00",
+      "tags": [
+        "api",
+        "info",
+        "official",
+        "product",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:5eb7b0300447cf20",
+      "url": "https://claude.dev/blog/building-with-claude-sonnet-5-5/",
+      "title": "Building with Claude Sonnet 5.5",
+      "summary": "When to choose Sonnet over Opus, what it costs, and how to tune it.",
+      "content_text": "When to choose Sonnet over Opus, what it costs, and how to tune it.",
+      "date_published": "2026-10-07T08:45:53.500338+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product",
+        "opus",
+        "sonnet"
+      ]
+    },
+    {
+      "id": "frontierfeed:0b723e7f62755dac",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "title": "Claude Sonnet 5.5",
+      "summary": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+      "content_text": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+      "date_published": "2026-10-07T08:45:53.500315+00:00",
+      "tags": [
+        "model-release",
+        "feature",
+        "official",
+        "product",
+        "sonnet"
+      ]
+    },
+    {
+      "id": "frontierfeed:1f4f35f8c5030b6d",
+      "url": "https://claude.com/resources/articles/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
+      "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
+      "summary": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see. ‍",
+      "content_text": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see. ‍",
+      "date_published": "2026-10-07T08:45:53.500289+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:995eea78ed090fd7",
+      "url": "https://claude.com/resources/articles/claude-for-government-is-now-generally-available",
+      "title": "Claude for Government is now generally available",
+      "summary": "Claude Code CLI and Claude for Microsoft 365 also now available in early access.",
+      "content_text": "Claude Code CLI and Claude for Microsoft 365 also now available in early access.",
+      "date_published": "2026-10-07T08:45:53.500266+00:00",
+      "tags": [
+        "claude-code",
+        "feature",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:cd834a7ad2a26280",
+      "url": "https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
+      "title": "How Anthropic's sales team rebuilt inbound with Claude Managed Agents",
+      "summary": "Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.",
+      "content_text": "Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.",
+      "date_published": "2026-10-07T08:45:53.500245+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:b029dbb701b0bcfa",
+      "url": "https://claude.com/resources/articles/claude-code-mods",
+      "title": "Customize Claude Code with mods",
+      "summary": "Change how Claude Code behaves and looks with a few lines of TypeScript.",
+      "content_text": "Change how Claude Code behaves and looks with a few lines of TypeScript.",
+      "date_published": "2026-10-07T08:45:53.500223+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:da92de4f33c46253",
+      "url": "https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
+      "title": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
+      "summary": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
+      "content_text": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
+      "date_published": "2026-10-07T08:45:53.500200+00:00",
+      "tags": [
+        "api",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:184de313f3686dcb",
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "title": "Claude now works with Google Docs, Sheets, and Slides",
+      "summary": "Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).",
+      "content_text": "Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).",
+      "date_published": "2026-10-07T08:45:53.500175+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:469efd50ce766d31",
+      "url": "https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases",
+      "title": "How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases",
+      "summary": "Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.",
+      "content_text": "Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.",
+      "date_published": "2026-10-07T08:45:53.500146+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:204ab973481889b6",
+      "url": "https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build",
+      "title": "We’re expanding the Claude Startups program to help founders build",
+      "summary": "We’re expanding the Claude Startups program to help founders build",
+      "content_text": "We’re expanding the Claude Startups program to help founders build",
+      "date_published": "2026-10-07T08:45:53.500091+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
       "id": "frontierfeed:417fed66f67d9d66",
       "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "title": "Improving our alignment and security efforts",
@@ -75,6 +363,19 @@
         "fix",
         "release",
         "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:d81bd350f4faf035",
+      "url": "https://github.com/longsurf-ai/openchart",
+      "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
+      "summary": "41 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49979793",
+      "content_text": "41 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49979793",
+      "date_published": "2026-10-06T15:16:45+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1110,297 +1411,6 @@
         "info",
         "community",
         "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:9525aee886e1e5b6",
-      "url": "https://arxiv.org/abs/2609.32445v1",
-      "title": "Masking Frequent Tokens Sharpens Direct Preference Optimization",
-      "summary": "Direct Preference Optimization (DPO) aligns language models by optimizing over sequence-level sums of token-wise implicit reward differences.",
-      "content_text": "Direct Preference Optimization (DPO) aligns language models by optimizing over sequence-level sums of token-wise implicit reward differences.",
-      "date_published": "2026-09-26T10:21:46+00:00",
-      "tags": [
-        "research",
-        "feature",
-        "research",
-        "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:20801ae591ecb475",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.235",
-      "title": "v1.0.235",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.234...v1.0.235",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.234...v1.0.235",
-      "date_published": "2026-09-25T21:51:57+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:c22f3b9281f98303",
-      "url": "https://www.gptbeyond.com/try?home=1",
-      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
-      "summary": "40 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49849986",
-      "content_text": "40 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49849986",
-      "date_published": "2026-09-25T21:09:28+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:47bd34feb1a1d6d5",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.283",
-      "title": "@anthropic-ai/claude-code 2.1.283 published",
-      "summary": "Version 2.1.283 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.283 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-25T18:46:11.330000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:4d76baa23a107e33",
-      "url": "https://claude.com/blog/build-plugins-for-claude",
-      "title": "Build plugins for Claude",
-      "summary": "Build plugins for Claude",
-      "content_text": "Build plugins for Claude",
-      "date_published": "2026-09-25T18:40:52.512121+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:e886ced3ad306028",
-      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "summary": "102 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49848295",
-      "content_text": "102 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49848295",
-      "date_published": "2026-09-25T18:37:05+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:4dcbec3ac2fff264",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "title": "Yes, Claude can do nine loops",
-      "summary": "101 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49848033",
-      "content_text": "101 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49848033",
-      "date_published": "2026-09-25T18:11:48+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:deb5758605368daa",
-      "url": "https://github.com/Avinash-jetwani/jevmem",
-      "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-      "summary": "52 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49846391",
-      "content_text": "52 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49846391",
-      "date_published": "2026-09-25T16:04:04+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:8814c67170e60eab",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "summary": "229 points, 323 comments. Discussion: https://news.ycombinator.com/item?id=49845977",
-      "content_text": "229 points, 323 comments. Discussion: https://news.ycombinator.com/item?id=49845977",
-      "date_published": "2026-09-25T15:29:25+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:06c781742c977685",
-      "url": "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
-      "title": "Claude Tag now supports personal connectors in channels",
-      "summary": "Claude Tag now supports personal connectors in channels",
-      "content_text": "Claude Tag now supports personal connectors in channels",
-      "date_published": "2026-09-24T22:29:58.740980+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:4d79082435796095",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "title": "Improving Fable 5's biology safeguards",
-      "summary": "Improving Fable 5's biology safeguards",
-      "content_text": "Improving Fable 5's biology safeguards",
-      "date_published": "2026-09-24T22:29:56.653989+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:b7a1e2afb6e77707",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "title": "How Claude’s text watermark works",
-      "summary": "How Claude’s text watermark works",
-      "content_text": "How Claude’s text watermark works",
-      "date_published": "2026-09-24T22:29:56.653976+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:a1015231b632efb7",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.234",
-      "title": "v1.0.234",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.233...v1.0.234",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.233...v1.0.234",
-      "date_published": "2026-09-24T20:27:59+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:c2472e4aae9f4f13",
-      "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-      "summary": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-      "content_text": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-      "date_published": "2026-09-24T19:14:18.840478+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:c86d7469f076690e",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "summary": "87 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49833867",
-      "content_text": "87 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49833867",
-      "date_published": "2026-09-24T17:21:36+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:08cafbd1f1392a0c",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.282",
-      "title": "@anthropic-ai/claude-code 2.1.282 published",
-      "summary": "Version 2.1.282 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.282 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-24T15:56:22.706000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:56185ec142d8d37f",
-      "url": "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
-      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
-      "summary": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
-      "content_text": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
-      "date_published": "2026-09-23T20:26:53.225457+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:20fb7ec00500f312",
-      "url": "https://claude.com/blog/claude-marketplace",
-      "title": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
-      "summary": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
-      "content_text": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
-      "date_published": "2026-09-23T20:26:53.225416+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:6d87425449e9b6fb",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "content_text": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "date_published": "2026-09-23T20:26:51.148248+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:0ec9ed12e2a18484",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.233",
-      "title": "v1.0.233",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.232...v1.0.233",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.232...v1.0.233",
-      "date_published": "2026-09-23T19:40:57+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:c5ae6ffe5ce86854",
-      "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
-      "title": "How to prepare for AI-driven code modernization projects",
-      "summary": "How to prepare for AI-driven code modernization projects",
-      "content_text": "How to prepare for AI-driven code modernization projects",
-      "date_published": "2026-09-23T17:08:41.209191+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 01:36:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 08:46:04 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Using Claude Code: Spending your effort</title>
+<link>https://claude.dev/blog/spending-your-effort/</link>
+<guid isPermaLink="false">frontierfeed:15227bcdf797307a</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>claude-code</category>
+<description>What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.</description>
+</item>
+<item>
+<title>Claude for Government is now generally available</title>
+<link>https://claude.com/resources/articles/claude-for-government-is-now-generally-available</link>
+<guid isPermaLink="false">frontierfeed:995eea78ed090fd7</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>claude-code</category>
+<description>Claude Code CLI and Claude for Microsoft 365 also now available in early access.</description>
+</item>
+<item>
+<title>Customize Claude Code with mods</title>
+<link>https://claude.com/resources/articles/claude-code-mods</link>
+<guid isPermaLink="false">frontierfeed:b029dbb701b0bcfa</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>claude-code</category>
+<description>Change how Claude Code behaves and looks with a few lines of TypeScript.</description>
+</item>
 <item>
 <title>v1.0.244</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.244</link>
@@ -638,46 +662,6 @@
 <pubDate>Fri, 04 Sep 2026 19:59:57 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.215...v1.0.216</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.261 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.261</link>
-<guid isPermaLink="false">frontierfeed:cd0f6cd7626e05db</guid>
-<pubDate>Fri, 04 Sep 2026 17:49:34 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.261 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.0.215</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215</link>
-<guid isPermaLink="false">frontierfeed:9e45436f87e49a71</guid>
-<pubDate>Thu, 03 Sep 2026 23:50:05 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.214...v1.0.215</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.260 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260</link>
-<guid isPermaLink="false">frontierfeed:f79d9558a7e81da9</guid>
-<pubDate>Thu, 03 Sep 2026 22:32:02 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.260 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.0.214</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214</link>
-<guid isPermaLink="false">frontierfeed:61ce6c06c6fc7489</guid>
-<pubDate>Wed, 02 Sep 2026 22:35:40 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.213...v1.0.214</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.259 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259</link>
-<guid isPermaLink="false">frontierfeed:c0efcdfa2697076b</guid>
-<pubDate>Wed, 02 Sep 2026 21:21:42 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.259 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

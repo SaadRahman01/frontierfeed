@@ -1,6 +1,334 @@
 {
   "items": [
     {
+      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
+      "url": "https://claude.com/resources/articles/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500572+00:00",
+      "body": "CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot expanded their Snowflake capacity using their existing Anthropic commitment.",
+      "summary": "CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot expanded their Snowflake capacity using their existing Anthropic commitment.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "be8cce5ca88bb529"
+    },
+    {
+      "title": "How to prepare for AI-driven code modernization projects",
+      "url": "https://claude.com/resources/articles/how-to-prepare-for-ai-driven-code-modernization-projects",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500529+00:00",
+      "body": "How to organize AI-driven modernization projects for critical systems and regulated enterprises.",
+      "summary": "How to organize AI-driven modernization projects for critical systems and regulated enterprises.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "59936901db0de269"
+    },
+    {
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500507+00:00",
+      "body": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.",
+      "summary": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "a1850294eff3ca64"
+    },
+    {
+      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "url": "https://claude.com/resources/articles/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500486+00:00",
+      "body": "Our latest Opus model is priced and trained to optimize costs for how developers code now.",
+      "summary": "Our latest Opus model is priced and trained to optimize costs for how developers code now.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "opus"
+      ],
+      "uid": "49022e7b77bd6e76"
+    },
+    {
+      "title": "Claude Tag now supports personal connectors in channels",
+      "url": "https://claude.com/resources/articles/claude-tag-now-supports-personal-connectors-in-channels",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500464+00:00",
+      "body": "Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you're in control of how to present the output.",
+      "summary": "Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you're in control of how to present the output.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "28cfc148d52e108e"
+    },
+    {
+      "title": "Build plugins for Claude",
+      "url": "https://claude.com/resources/articles/build-plugins-for-claude",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500442+00:00",
+      "body": "You can now submit plugins to the Claude directory through a new developer portal, track them through review, and see usage analytics once they\u2019re live.",
+      "summary": "You can now submit plugins to the Claude directory through a new developer portal, track them through review, and see usage analytics once they\u2019re live.",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product",
+        "skills"
+      ],
+      "uid": "ef1ba7ccd56faf00"
+    },
+    {
+      "title": "Using Claude Code: Spending your effort",
+      "url": "https://claude.dev/blog/spending-your-effort/",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500421+00:00",
+      "body": "What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.",
+      "summary": "What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "opus"
+      ],
+      "uid": "15227bcdf797307a"
+    },
+    {
+      "title": "What a task costs on Opus 5.5",
+      "url": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500401+00:00",
+      "body": "The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.",
+      "summary": "The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.",
+      "version": "",
+      "category": "pricing",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "opus"
+      ],
+      "uid": "8cb462d6ed5cdbda"
+    },
+    {
+      "title": "Giving companies more control over their AI agents, with NVIDIA",
+      "url": "https://claude.com/resources/articles/giving-companies-more-control-over-their-ai-agents-with-nvidia",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500380+00:00",
+      "body": "Giving companies more control over their AI agents, with NVIDIA",
+      "summary": "Giving companies more control over their AI agents, with NVIDIA",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "9e8bfd86645272e8"
+    },
+    {
+      "title": "Automating eval design and hillclimbing with Claude",
+      "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500359+00:00",
+      "body": "Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work.",
+      "summary": "Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work.",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "skills"
+      ],
+      "uid": "5a98b42c8b2fa1b1"
+    },
+    {
+      "title": "Building with Claude Sonnet 5.5",
+      "url": "https://claude.dev/blog/building-with-claude-sonnet-5-5/",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500338+00:00",
+      "body": "When to choose Sonnet over Opus, what it costs, and how to tune it.",
+      "summary": "When to choose Sonnet over Opus, what it costs, and how to tune it.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "opus",
+        "sonnet"
+      ],
+      "uid": "5eb7b0300447cf20"
+    },
+    {
+      "title": "Claude Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500315+00:00",
+      "body": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It\u2019s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+      "summary": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It\u2019s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+      "version": "",
+      "category": "model-release",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product",
+        "sonnet"
+      ],
+      "uid": "0b723e7f62755dac"
+    },
+    {
+      "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
+      "url": "https://claude.com/resources/articles/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500289+00:00",
+      "body": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see.\n\n\u200d",
+      "summary": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see. \u200d",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "1f4f35f8c5030b6d"
+    },
+    {
+      "title": "Claude for Government is now generally available",
+      "url": "https://claude.com/resources/articles/claude-for-government-is-now-generally-available",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500266+00:00",
+      "body": "Claude Code CLI and Claude for Microsoft 365 also now available in early access.",
+      "summary": "Claude Code CLI and Claude for Microsoft 365 also now available in early access.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "995eea78ed090fd7"
+    },
+    {
+      "title": "How Anthropic's sales team rebuilt inbound with Claude Managed Agents",
+      "url": "https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500245+00:00",
+      "body": "Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.",
+      "summary": "Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "cd834a7ad2a26280"
+    },
+    {
+      "title": "Customize Claude Code with mods",
+      "url": "https://claude.com/resources/articles/claude-code-mods",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500223+00:00",
+      "body": "Change how Claude Code behaves and looks with a few lines of TypeScript.",
+      "summary": "Change how Claude Code behaves and looks with a few lines of TypeScript.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "b029dbb701b0bcfa"
+    },
+    {
+      "title": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
+      "url": "https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500200+00:00",
+      "body": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
+      "summary": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "da92de4f33c46253"
+    },
+    {
+      "title": "Claude now works with Google Docs, Sheets, and Slides",
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500175+00:00",
+      "body": "Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).",
+      "summary": "Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "184de313f3686dcb"
+    },
+    {
+      "title": "How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases",
+      "url": "https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500146+00:00",
+      "body": "Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.",
+      "summary": "Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "469efd50ce766d31"
+    },
+    {
+      "title": "We\u2019re expanding the Claude Startups program to help founders build",
+      "url": "https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build",
+      "source": "claude-blog",
+      "published": "2026-10-07T08:45:53.500091+00:00",
+      "body": "We\u2019re expanding the Claude Startups program to help founders build",
+      "summary": "We\u2019re expanding the Claude Startups program to help founders build",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "204ab973481889b6"
+    },
+    {
       "title": "Improving our alignment and security efforts",
       "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "source": "anthropic-news",
@@ -78,6 +406,21 @@
         "npm"
       ],
       "uid": "845df7588ea61854"
+    },
+    {
+      "title": "Show HN: OpenChart \u2013 OSS TradingView alternative with your own AI agent",
+      "url": "https://github.com/longsurf-ai/openchart",
+      "source": "hackernews",
+      "published": "2026-10-06T15:16:45+00:00",
+      "body": "41 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49979793",
+      "summary": "41 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49979793",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d81bd350f4faf035"
     },
     {
       "title": "SIGMA: Self-Improving Alignment Generalization from a Model Spec",
@@ -4420,334 +4763,6 @@
         "claude-code-action"
       ],
       "uid": "e9225d6fde69c9d8"
-    },
-    {
-      "title": "Fermat's Last Theorem in Lean 4",
-      "url": "https://github.com/anthropics/fermats-last-theorem",
-      "source": "hackernews",
-      "published": "2026-09-04T18:57:32+00:00",
-      "body": "59 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49568697",
-      "summary": "59 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49568697",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "dd4d8d7bc00842fb"
-    },
-    {
-      "title": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "hackernews",
-      "published": "2026-09-04T18:42:56+00:00",
-      "body": "124 points, 58 comments. Discussion: https://news.ycombinator.com/item?id=49568506",
-      "summary": "124 points, 58 comments. Discussion: https://news.ycombinator.com/item?id=49568506",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "c15277b9db2335c2"
-    },
-    {
-      "title": "Show HN: Jigsaw Haiku",
-      "url": "https://jigsawhaiku.com/",
-      "source": "hackernews",
-      "published": "2026-09-04T18:14:44+00:00",
-      "body": "74 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49568162",
-      "summary": "74 points, 27 comments. Discussion: https://news.ycombinator.com/item?id=49568162",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community",
-        "haiku"
-      ],
-      "uid": "ede266f9b37c972e"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.261 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.261",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-04T17:49:34.927000+00:00",
-      "body": "Version 2.1.261 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.261 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.261",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "cd0f6cd7626e05db"
-    },
-    {
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "source": "hackernews",
-      "published": "2026-09-04T17:29:22+00:00",
-      "body": "140 points, 105 comments. Discussion: https://news.ycombinator.com/item?id=49567594",
-      "summary": "140 points, 105 comments. Discussion: https://news.ycombinator.com/item?id=49567594",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "2da982e720d9dac1"
-    },
-    {
-      "title": "Corporate America Is Getting Hooked on Open-Source A.I",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "source": "hackernews",
-      "published": "2026-09-04T15:33:45+00:00",
-      "body": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
-      "summary": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "631854626ae66ad3"
-    },
-    {
-      "title": "Corporate America is getting hooked on open-source AI",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "source": "hackernews",
-      "published": "2026-09-04T15:33:45+00:00",
-      "body": "194 points, 170 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
-      "summary": "194 points, 170 comments. Discussion: https://news.ycombinator.com/item?id=49566137",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "ec514f242a3743c5"
-    },
-    {
-      "title": "v1.0.215",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.215",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-03T23:50:05+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.214...v1.0.215",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.214...v1.0.215",
-      "version": "1.0.215",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "9e45436f87e49a71"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.260 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.260",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-03T22:32:02.087000+00:00",
-      "body": "Version 2.1.260 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.260 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.260",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "f79d9558a7e81da9"
-    },
-    {
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "source": "hackernews",
-      "published": "2026-09-03T21:20:34+00:00",
-      "body": "80 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49557206",
-      "summary": "80 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49557206",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "9e3c0ed520eccdd1"
-    },
-    {
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "source": "hackernews",
-      "published": "2026-09-03T14:28:18+00:00",
-      "body": "78 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=49550375",
-      "summary": "78 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=49550375",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "11dfbbd3efe1e2bd"
-    },
-    {
-      "title": "Elevated Errors for Multiple Models",
-      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-      "source": "hackernews",
-      "published": "2026-09-03T13:29:12+00:00",
-      "body": "194 points, 146 comments. Discussion: https://news.ycombinator.com/item?id=49549676",
-      "summary": "194 points, 146 comments. Discussion: https://news.ycombinator.com/item?id=49549676",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "9a38a74e387d779b"
-    },
-    {
-      "title": "Show HN: Reactor Atlas",
-      "url": "https://reactoratlas.com",
-      "source": "hackernews",
-      "published": "2026-09-03T12:33:01+00:00",
-      "body": "55 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49549148",
-      "summary": "55 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49549148",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "0ab40b8d350f7c32"
-    },
-    {
-      "title": "v1.0.214",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.214",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-02T22:35:40+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.213...v1.0.214",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.213...v1.0.214",
-      "version": "1.0.214",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "61ce6c06c6fc7489"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.259 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.259",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-02T21:21:42.115000+00:00",
-      "body": "Version 2.1.259 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.259 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.259",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "c0efcdfa2697076b"
-    },
-    {
-      "title": "A guide to the anatomy of effective commerce agents",
-      "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-      "source": "claude-blog",
-      "published": "2026-09-02T16:38:38.539192+00:00",
-      "body": "A guide to the anatomy of effective commerce agents",
-      "summary": "A guide to the anatomy of effective commerce agents",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "0844248559bee3a8"
-    },
-    {
-      "title": "Building commerce agents with Claude",
-      "url": "https://claude.com/blog/claude-for-commerce-agents",
-      "source": "claude-blog",
-      "published": "2026-09-02T16:38:38.539150+00:00",
-      "body": "Building commerce agents with Claude",
-      "summary": "Building commerce agents with Claude",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "02b70a8c89e7cd5f"
-    },
-    {
-      "title": "Door-in-the-Face Requests and Refusal Behaviour in Large Language Models",
-      "url": "https://arxiv.org/abs/2609.02707v1",
-      "source": "arxiv",
-      "published": "2026-09-02T15:08:51+00:00",
-      "body": "Does the door-in-the-face technique work on language models? In humans, a large request that is refused makes a smaller follow-up request more likely to be granted. We test this on nine production models from three providers: each model refuses a large request, then receives a smaller version of the same request, and we compare its compliance with asking directly. The answer depends on the model. On Anthropic's frontier models the technique works: Opus 5 answers the smaller request 65.8% of the time after refusing the larger one, against 29.3% when asked directly. On the frontier models of OpenAI and Google, and on Haiku 4.5, it backfires, lowering compliance by 15.5 to 23.0 points. A control locates the effect: a refused large request on an unrelated topic does less than the related one on all nine models, so the concession itself matters everywhere, while the reaction to having just refused something differs by model family. The technique does not transfer to refusals drawn from public benchmarks. What decides whether a retreat can work is what the request asks for: rewriting 265 refused requests for usable instructions into requests for explanations of the same topic removed the refusal in 263 cases. Human influence techniques port to language models one model family at a time.",
-      "summary": "Does the door-in-the-face technique work on language models? In humans, a large request that is refused makes a smaller follow-up request more likely to be granted.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper",
-        "opus",
-        "haiku"
-      ],
-      "uid": "6c18b5fd9461a006"
-    },
-    {
-      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-      "source": "hackernews",
-      "published": "2026-09-02T13:43:14+00:00",
-      "body": "103 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=49536114",
-      "summary": "103 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=49536114",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "f696fea65788ab9d"
-    },
-    {
-      "title": "Can Coding Agents Reproduce Official Statistics? Metadata, Retry Budget and the Limits of Execution Feedback in a Controlled Eurostat Benchmark",
-      "url": "https://arxiv.org/abs/2609.22222v1",
-      "source": "arxiv",
-      "published": "2026-09-02T13:21:14+00:00",
-      "body": "Large language models can generate executable data-analysis code, but successful execution is not equivalent to a valid official-statistics result. This study asks whether authoritative metadata and execution feedback improve the reproducibility of Eurostat answers produced by a coding agent, and isolates what execution feedback actually contributes. A benchmark of 30 natural-language tasks covering seven domains, seven Eurostat datasets and four difficulty tiers was run under four conditions: task only (A), task plus a frozen dataset metadata card (B), metadata plus a repair loop driven by sanitized execution feedback (C), and metadata plus the same attempt budget with no diagnostics of any kind (D). Claude Sonnet 5 generated Python through the Anthropic Messages API in three independent replicates, yielding 360 task-runs. Exact correctness required successful execution, the correct dataset, filters, output shape, values and unit. A companion experiment run under an under-specified output contract, in which the required ranking key and unit representation were never stated to the model, understated condition C by 23.4 points, showing that evaluator and contract design can dominate measured agent error. Reliable statistical coding agents need semantic validation against frozen specifications, a fully specified output contract, and a retry budget - not execution diagnostics.",
-      "summary": "Large language models can generate executable data-analysis code, but successful execution is not equivalent to a valid official-statistics result.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper",
-        "sonnet"
-      ],
-      "uid": "290af41a0c404d65"
-    },
-    {
-      "title": "Anthropic banned me for \"suspicious signals\"",
-      "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
-      "source": "hackernews",
-      "published": "2026-09-02T00:38:49+00:00",
-      "body": "40 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49530298",
-      "summary": "40 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49530298",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "4722420ddca75e3b"
     }
   ]
 }

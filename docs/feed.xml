@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 01:36:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 08:46:04 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,166 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace</title>
+<link>https://claude.com/resources/articles/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</link>
+<guid isPermaLink="false">frontierfeed:be8cce5ca88bb529</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot expanded their Snowflake capacity using their existing Anthropic commitment.</description>
+</item>
+<item>
+<title>How to prepare for AI-driven code modernization projects</title>
+<link>https://claude.com/resources/articles/how-to-prepare-for-ai-driven-code-modernization-projects</link>
+<guid isPermaLink="false">frontierfeed:59936901db0de269</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>How to organize AI-driven modernization projects for critical systems and regulated enterprises.</description>
+</item>
+<item>
+<title>How we made claude.ai 3x faster in two weeks</title>
+<link>https://claude.dev/blog/how-we-made-claude-ai-faster/</link>
+<guid isPermaLink="false">frontierfeed:a1850294eff3ca64</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.</description>
+</item>
+<item>
+<title>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
+<link>https://claude.com/resources/articles/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
+<guid isPermaLink="false">frontierfeed:49022e7b77bd6e76</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>Our latest Opus model is priced and trained to optimize costs for how developers code now.</description>
+</item>
+<item>
+<title>Claude Tag now supports personal connectors in channels</title>
+<link>https://claude.com/resources/articles/claude-tag-now-supports-personal-connectors-in-channels</link>
+<guid isPermaLink="false">frontierfeed:28cfc148d52e108e</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you&#x27;re in control of how to present the output.</description>
+</item>
+<item>
+<title>Build plugins for Claude</title>
+<link>https://claude.com/resources/articles/build-plugins-for-claude</link>
+<guid isPermaLink="false">frontierfeed:ef1ba7ccd56faf00</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>You can now submit plugins to the Claude directory through a new developer portal, track them through review, and see usage analytics once they’re live.</description>
+</item>
+<item>
+<title>Using Claude Code: Spending your effort</title>
+<link>https://claude.dev/blog/spending-your-effort/</link>
+<guid isPermaLink="false">frontierfeed:15227bcdf797307a</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>claude-code</category>
+<description>What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.</description>
+</item>
+<item>
+<title>What a task costs on Opus 5.5</title>
+<link>https://claude.dev/blog/what-a-task-costs-on-opus-5-5/</link>
+<guid isPermaLink="false">frontierfeed:8cb462d6ed5cdbda</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>pricing</category>
+<description>The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.</description>
+</item>
+<item>
+<title>Giving companies more control over their AI agents, with NVIDIA</title>
+<link>https://claude.com/resources/articles/giving-companies-more-control-over-their-ai-agents-with-nvidia</link>
+<guid isPermaLink="false">frontierfeed:9e8bfd86645272e8</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>Giving companies more control over their AI agents, with NVIDIA</description>
+</item>
+<item>
+<title>Automating eval design and hillclimbing with Claude</title>
+<link>https://claude.dev/blog/automating-eval-design-and-hillclimbing/</link>
+<guid isPermaLink="false">frontierfeed:5a98b42c8b2fa1b1</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>api</category>
+<description>Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill&#x27;s build-eval and hillclimb commands put them to work.</description>
+</item>
+<item>
+<title>Building with Claude Sonnet 5.5</title>
+<link>https://claude.dev/blog/building-with-claude-sonnet-5-5/</link>
+<guid isPermaLink="false">frontierfeed:5eb7b0300447cf20</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>When to choose Sonnet over Opus, what it costs, and how to tune it.</description>
+</item>
+<item>
+<title>Claude Sonnet 5.5</title>
+<link>https://www.anthropic.com/claude-sonnet-5-5</link>
+<guid isPermaLink="false">frontierfeed:0b723e7f62755dac</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>model-release</category>
+<description>Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.</description>
+</item>
+<item>
+<title>Agents you can coach: how Asana builds human-agent teams with Claude</title>
+<link>https://claude.com/resources/articles/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude</link>
+<guid isPermaLink="false">frontierfeed:1f4f35f8c5030b6d</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see. ‍</description>
+</item>
+<item>
+<title>Claude for Government is now generally available</title>
+<link>https://claude.com/resources/articles/claude-for-government-is-now-generally-available</link>
+<guid isPermaLink="false">frontierfeed:995eea78ed090fd7</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>claude-code</category>
+<description>Claude Code CLI and Claude for Microsoft 365 also now available in early access.</description>
+</item>
+<item>
+<title>How Anthropic&#x27;s sales team rebuilt inbound with Claude Managed Agents</title>
+<link>https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</link>
+<guid isPermaLink="false">frontierfeed:cd834a7ad2a26280</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.</description>
+</item>
+<item>
+<title>Customize Claude Code with mods</title>
+<link>https://claude.com/resources/articles/claude-code-mods</link>
+<guid isPermaLink="false">frontierfeed:b029dbb701b0bcfa</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>claude-code</category>
+<description>Change how Claude Code behaves and looks with a few lines of TypeScript.</description>
+</item>
+<item>
+<title>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</title>
+<link>https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</link>
+<guid isPermaLink="false">frontierfeed:da92de4f33c46253</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>api</category>
+<description>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</description>
+</item>
+<item>
+<title>Claude now works with Google Docs, Sheets, and Slides</title>
+<link>https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides</link>
+<guid isPermaLink="false">frontierfeed:184de313f3686dcb</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).</description>
+</item>
+<item>
+<title>How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases</title>
+<link>https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases</link>
+<guid isPermaLink="false">frontierfeed:469efd50ce766d31</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.</description>
+</item>
+<item>
+<title>We’re expanding the Claude Startups program to help founders build</title>
+<link>https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build</link>
+<guid isPermaLink="false">frontierfeed:204ab973481889b6</guid>
+<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
+<category>note</category>
+<description>We’re expanding the Claude Startups program to help founders build</description>
+</item>
 <item>
 <title>Improving our alignment and security efforts</title>
 <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
@@ -54,6 +214,14 @@
 <pubDate>Tue, 06 Oct 2026 17:10:31 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.292 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Show HN: OpenChart – OSS TradingView alternative with your own AI agent</title>
+<link>https://github.com/longsurf-ai/openchart</link>
+<guid isPermaLink="false">frontierfeed:d81bd350f4faf035</guid>
+<pubDate>Tue, 06 Oct 2026 15:16:45 +0000</pubDate>
+<category>note</category>
+<description>41 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49979793</description>
 </item>
 <item>
 <title>SIGMA: Self-Improving Alignment Generalization from a Model Spec</title>
@@ -646,174 +814,6 @@
 <pubDate>Sat, 26 Sep 2026 15:34:53 +0000</pubDate>
 <category>claude-code</category>
 <description>60 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49857528</description>
-</item>
-<item>
-<title>Masking Frequent Tokens Sharpens Direct Preference Optimization</title>
-<link>https://arxiv.org/abs/2609.32445v1</link>
-<guid isPermaLink="false">frontierfeed:9525aee886e1e5b6</guid>
-<pubDate>Sat, 26 Sep 2026 10:21:46 +0000</pubDate>
-<category>research</category>
-<description>Direct Preference Optimization (DPO) aligns language models by optimizing over sequence-level sums of token-wise implicit reward differences.</description>
-</item>
-<item>
-<title>v1.0.235</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.235</link>
-<guid isPermaLink="false">frontierfeed:20801ae591ecb475</guid>
-<pubDate>Fri, 25 Sep 2026 21:51:57 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.234...v1.0.235</description>
-</item>
-<item>
-<title>Show HN: Ekselio – Loveable for finance workflows (local first)</title>
-<link>https://www.gptbeyond.com/try?home=1</link>
-<guid isPermaLink="false">frontierfeed:c22f3b9281f98303</guid>
-<pubDate>Fri, 25 Sep 2026 21:09:28 +0000</pubDate>
-<category>note</category>
-<description>40 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49849986</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.283 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.283</link>
-<guid isPermaLink="false">frontierfeed:47bd34feb1a1d6d5</guid>
-<pubDate>Fri, 25 Sep 2026 18:46:11 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.283 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Build plugins for Claude</title>
-<link>https://claude.com/blog/build-plugins-for-claude</link>
-<guid isPermaLink="false">frontierfeed:4d76baa23a107e33</guid>
-<pubDate>Fri, 25 Sep 2026 18:40:52 +0000</pubDate>
-<category>note</category>
-<description>Build plugins for Claude</description>
-</item>
-<item>
-<title>Alan Kay: Shannon gave us a way of dealing with noisy channels [video]</title>
-<link>https://www.youtube.com/watch?v=Cjntrqhn8pk</link>
-<guid isPermaLink="false">frontierfeed:e886ced3ad306028</guid>
-<pubDate>Fri, 25 Sep 2026 18:37:05 +0000</pubDate>
-<category>note</category>
-<description>102 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49848295</description>
-</item>
-<item>
-<title>Yes, Claude can do nine loops</title>
-<link>https://www.anthropic.com/research/yes-claude-can-do-nine-loops</link>
-<guid isPermaLink="false">frontierfeed:4dcbec3ac2fff264</guid>
-<pubDate>Fri, 25 Sep 2026 18:11:48 +0000</pubDate>
-<category>note</category>
-<description>101 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49848033</description>
-</item>
-<item>
-<title>Jevmem – automatic project memory for Claude Code, built on Jev</title>
-<link>https://github.com/Avinash-jetwani/jevmem</link>
-<guid isPermaLink="false">frontierfeed:deb5758605368daa</guid>
-<pubDate>Fri, 25 Sep 2026 16:04:04 +0000</pubDate>
-<category>claude-code</category>
-<description>52 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49846391</description>
-</item>
-<item>
-<title>U.S. appeals court upholds designation of Anthropic as supply chain risk</title>
-<link>https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</link>
-<guid isPermaLink="false">frontierfeed:8814c67170e60eab</guid>
-<pubDate>Fri, 25 Sep 2026 15:29:25 +0000</pubDate>
-<category>note</category>
-<description>229 points, 323 comments. Discussion: https://news.ycombinator.com/item?id=49845977</description>
-</item>
-<item>
-<title>Claude Tag now supports personal connectors in channels</title>
-<link>https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</link>
-<guid isPermaLink="false">frontierfeed:06c781742c977685</guid>
-<pubDate>Thu, 24 Sep 2026 22:29:58 +0000</pubDate>
-<category>note</category>
-<description>Claude Tag now supports personal connectors in channels</description>
-</item>
-<item>
-<title>Improving Fable 5&#x27;s biology safeguards</title>
-<link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
-<guid isPermaLink="false">frontierfeed:4d79082435796095</guid>
-<pubDate>Thu, 24 Sep 2026 22:29:56 +0000</pubDate>
-<category>note</category>
-<description>Improving Fable 5&#x27;s biology safeguards</description>
-</item>
-<item>
-<title>How Claude’s text watermark works</title>
-<link>https://www.anthropic.com/news/claude-text-watermark</link>
-<guid isPermaLink="false">frontierfeed:b7a1e2afb6e77707</guid>
-<pubDate>Thu, 24 Sep 2026 22:29:56 +0000</pubDate>
-<category>note</category>
-<description>How Claude’s text watermark works</description>
-</item>
-<item>
-<title>v1.0.234</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.234</link>
-<guid isPermaLink="false">frontierfeed:a1015231b632efb7</guid>
-<pubDate>Thu, 24 Sep 2026 20:27:59 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.233...v1.0.234</description>
-</item>
-<item>
-<title>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
-<link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
-<guid isPermaLink="false">frontierfeed:c2472e4aae9f4f13</guid>
-<pubDate>Thu, 24 Sep 2026 19:14:18 +0000</pubDate>
-<category>note</category>
-<description>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</description>
-</item>
-<item>
-<title>Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design</title>
-<link>https://github.com/devdotfast/whiteboard</link>
-<guid isPermaLink="false">frontierfeed:c86d7469f076690e</guid>
-<pubDate>Thu, 24 Sep 2026 17:21:36 +0000</pubDate>
-<category>note</category>
-<description>87 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49833867</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.282 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.282</link>
-<guid isPermaLink="false">frontierfeed:08cafbd1f1392a0c</guid>
-<pubDate>Thu, 24 Sep 2026 15:56:22 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.282 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace</title>
-<link>https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</link>
-<guid isPermaLink="false">frontierfeed:56185ec142d8d37f</guid>
-<pubDate>Wed, 23 Sep 2026 20:26:53 +0000</pubDate>
-<category>note</category>
-<description>How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace</description>
-</item>
-<item>
-<title>Claude Marketplace: one place to discover plugins, agents, and services from our partners</title>
-<link>https://claude.com/blog/claude-marketplace</link>
-<guid isPermaLink="false">frontierfeed:20fb7ec00500f312</guid>
-<pubDate>Wed, 23 Sep 2026 20:26:53 +0000</pubDate>
-<category>note</category>
-<description>Claude Marketplace: one place to discover plugins, agents, and services from our partners</description>
-</item>
-<item>
-<title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
-<link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
-<guid isPermaLink="false">frontierfeed:6d87425449e9b6fb</guid>
-<pubDate>Wed, 23 Sep 2026 20:26:51 +0000</pubDate>
-<category>note</category>
-<description>Claude discovers a novel enzyme system with CRISPR-like repeats</description>
-</item>
-<item>
-<title>v1.0.233</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.233</link>
-<guid isPermaLink="false">frontierfeed:0ec9ed12e2a18484</guid>
-<pubDate>Wed, 23 Sep 2026 19:40:57 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.232...v1.0.233</description>
-</item>
-<item>
-<title>How to prepare for AI-driven code modernization projects</title>
-<link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
-<guid isPermaLink="false">frontierfeed:c5ae6ffe5ce86854</guid>
-<pubDate>Wed, 23 Sep 2026 17:08:41 +0000</pubDate>
-<category>note</category>
-<description>How to prepare for AI-driven code modernization projects</description>
 </item>
 </channel>
 </rss>
