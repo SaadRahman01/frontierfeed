@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-07T08:46:04.166810+00:00",
+  "generated": "2026-10-07T16:35:19.988047+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Getting started with Claude Code mods",
+      "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
+      "source": "claude-blog",
+      "published": "2026-10-07T16:35:09.305285+00:00",
+      "body": "Getting started with Claude Code mods",
+      "summary": "Getting started with Claude Code mods",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "96723404885bc4ae"
+    },
+    {
+      "title": "Claude Code in the cloud: a field guide to cloud sessions",
+      "url": "https://claude.dev/blog/claude-code-in-the-cloud/",
+      "source": "claude-blog",
+      "published": "2026-10-07T16:35:09.305225+00:00",
+      "body": "What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.",
+      "summary": "What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "c82fc600e614ec6d"
+    },
     {
       "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
       "url": "https://claude.com/resources/articles/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
@@ -4736,37 +4768,6 @@
         "anthropic-sdk-python"
       ],
       "uid": "3804d4986161254d"
-    },
-    {
-      "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
-      "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-      "source": "hackernews",
-      "published": "2026-09-04T21:00:02+00:00",
-      "body": "41 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49570133",
-      "summary": "41 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49570133",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "f3acdfdaf9c729c0"
-    },
-    {
-      "title": "v1.0.216",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.216",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-04T19:59:57+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.215...v1.0.216",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.215...v1.0.216",
-      "version": "1.0.216",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "e9225d6fde69c9d8"
     }
   ]
 }

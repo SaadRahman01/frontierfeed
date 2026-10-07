@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:96723404885bc4ae",
+      "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
+      "title": "Getting started with Claude Code mods",
+      "summary": "Getting started with Claude Code mods",
+      "content_text": "Getting started with Claude Code mods",
+      "date_published": "2026-10-07T16:35:09.305285+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:c82fc600e614ec6d",
+      "url": "https://claude.dev/blog/claude-code-in-the-cloud/",
+      "title": "Claude Code in the cloud: a field guide to cloud sessions",
+      "summary": "What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.",
+      "content_text": "What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.",
+      "date_published": "2026-10-07T16:35:09.305225+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
       "id": "frontierfeed:be8cce5ca88bb529",
       "url": "https://claude.com/resources/articles/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
       "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
@@ -1384,33 +1412,6 @@
         "paper",
         "opus",
         "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:495c64177bbc30b6",
-      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-      "summary": "76 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49868831",
-      "content_text": "76 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49868831",
-      "date_published": "2026-09-27T17:32:02+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:2764fc19aa415523",
-      "url": "https://github.com/brumar/chess-postmortem-skills",
-      "title": "Show HN: A Claude Code skill to analyze your chess games",
-      "summary": "60 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49857528",
-      "content_text": "60 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49857528",
-      "date_published": "2026-09-26T15:34:53+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community",
-        "skills"
       ]
     }
   ]
