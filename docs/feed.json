@@ -9,6 +9,150 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:6e690d1ef54743c3",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "title": "Claude Haiku 5.5",
+      "summary": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.",
+      "content_text": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.",
+      "date_published": "2026-10-07T22:02:16.126053+00:00",
+      "tags": [
+        "model-release",
+        "feature",
+        "official",
+        "product",
+        "haiku"
+      ]
+    },
+    {
+      "id": "frontierfeed:c5f5b036080e8149",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.245",
+      "title": "v1.0.245",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.244...v1.0.245",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.244...v1.0.245",
+      "date_published": "2026-10-07T18:15:47+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:e8da96721e59ecd4",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.18",
+      "title": "google-cloud-sdk: v0.0.18",
+      "summary": "## 0.0.18 (2026-10-07) Full Changelog: [google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18)",
+      "content_text": "## 0.0.18 (2026-10-07) Full Changelog: [google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18)",
+      "date_published": "2026-10-07T17:57:35+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:eb0dd321108f2d0b",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.8",
+      "title": "aws-sdk: v0.7.8",
+      "summary": "## 0.7.8 (2026-10-07) Full Changelog: [aws-sdk-v0.7.7...aws-sdk-v0.7.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.7...aws-sdk-v0.7.8)",
+      "content_text": "## 0.7.8 (2026-10-07) Full Changelog: [aws-sdk-v0.7.7...aws-sdk-v0.7.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.7...aws-sdk-v0.7.8)",
+      "date_published": "2026-10-07T17:57:25+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:82bc1ef85f2085e2",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.3",
+      "title": "foundry-sdk: v0.5.3",
+      "summary": "## 0.5.3 (2026-10-07) Full Changelog: [foundry-sdk-v0.5.2...foundry-sdk-v0.5.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.2...foundry-sdk-v0.5.3)",
+      "content_text": "## 0.5.3 (2026-10-07) Full Changelog: [foundry-sdk-v0.5.2...foundry-sdk-v0.5.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.2...foundry-sdk-v0.5.3)",
+      "date_published": "2026-10-07T17:57:19+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:5a45537518082778",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.3",
+      "title": "bedrock-sdk: v0.34.3",
+      "summary": "## 0.34.3 (2026-10-07) Full Changelog: [bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3)",
+      "content_text": "## 0.34.3 (2026-10-07) Full Changelog: [bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3)",
+      "date_published": "2026-10-07T17:57:13+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:f7ac2a75afe1abc7",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.12.0",
+      "title": "v1.12.0",
+      "summary": "## 1.12.0 (2026-10-07) Full Changelog: [v1.11.0...v1.12.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.11.0...v1.12.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([f6346e6](https://github.com/anthropics/anthrop…",
+      "content_text": "## 1.12.0 (2026-10-07) Full Changelog: [v1.11.0...v1.12.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.11.0...v1.12.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([f6346e6](https://github.com/anthropics/anthrop…",
+      "date_published": "2026-10-07T17:57:07+00:00",
+      "tags": [
+        "deprecation",
+        "breaking",
+        "release",
+        "anthropic-sdk-python",
+        "haiku"
+      ]
+    },
+    {
+      "id": "frontierfeed:18260c2bd007a4b9",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.3",
+      "title": "vertex-sdk: v0.20.3",
+      "summary": "## 0.20.3 (2026-10-07) Full Changelog: [vertex-sdk-v0.20.2...vertex-sdk-v0.20.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.2...vertex-sdk-v0.20.3)",
+      "content_text": "## 0.20.3 (2026-10-07) Full Changelog: [vertex-sdk-v0.20.2...vertex-sdk-v0.20.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.2...vertex-sdk-v0.20.3)",
+      "date_published": "2026-10-07T17:57:07+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:200da78416158d3e",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.132.0",
+      "title": "sdk: v0.132.0",
+      "summary": "## 0.132.0 (2026-10-07) Full Changelog: [sdk-v0.131.0...sdk-v0.132.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.131.0...sdk-v0.132.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([1fd8261](https://gith…",
+      "content_text": "## 0.132.0 (2026-10-07) Full Changelog: [sdk-v0.131.0...sdk-v0.132.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.131.0...sdk-v0.132.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([1fd8261](https://gith…",
+      "date_published": "2026-10-07T17:57:01+00:00",
+      "tags": [
+        "deprecation",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript",
+        "haiku",
+        "mcp"
+      ]
+    },
+    {
+      "id": "frontierfeed:018061c4320e1bb0",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.293",
+      "title": "@anthropic-ai/claude-code 2.1.293 published",
+      "summary": "Version 2.1.293 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.293 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-07T17:18:04.464000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:96723404885bc4ae",
       "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
       "title": "Getting started with Claude Code mods",
@@ -1266,152 +1410,6 @@
         "fix",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:370b3321440764ae",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.0",
-      "title": "foundry-sdk: v0.5.0",
-      "summary": "## 0.5.0 (2026-09-28) Full Changelog: [foundry-sdk-v0.4.9...foundry-sdk-v0.5.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.9...foundry-sdk-v0.5.0) ### Features * **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthropic…",
-      "content_text": "## 0.5.0 (2026-09-28) Full Changelog: [foundry-sdk-v0.4.9...foundry-sdk-v0.5.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.9...foundry-sdk-v0.5.0) ### Features * **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthropic…",
-      "date_published": "2026-09-28T18:04:12+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:ca31a974b7cd49e4",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.0",
-      "title": "bedrock-sdk: v0.34.0",
-      "summary": "## 0.34.0 (2026-09-28) Full Changelog: [bedrock-sdk-v0.33.8...bedrock-sdk-v0.34.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.8...bedrock-sdk-v0.34.0) ### Features * **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anth…",
-      "content_text": "## 0.34.0 (2026-09-28) Full Changelog: [bedrock-sdk-v0.33.8...bedrock-sdk-v0.34.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.8...bedrock-sdk-v0.34.0) ### Features * **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anth…",
-      "date_published": "2026-09-28T18:04:06+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:9642e4f9f48d29a3",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.0",
-      "title": "vertex-sdk: v0.20.0",
-      "summary": "## 0.20.0 (2026-09-28) Full Changelog: [vertex-sdk-v0.19.11...vertex-sdk-v0.20.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.11...vertex-sdk-v0.20.0) ### Features * **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthro…",
-      "content_text": "## 0.20.0 (2026-09-28) Full Changelog: [vertex-sdk-v0.19.11...vertex-sdk-v0.20.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.11...vertex-sdk-v0.20.0) ### Features * **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthro…",
-      "date_published": "2026-09-28T18:04:00+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:ffa4a85d8c4796a8",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.9.0",
-      "title": "v1.9.0",
-      "summary": "## 1.9.0 (2026-09-28) Full Changelog: [v1.8.0...v1.9.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.8.0...v1.9.0) ### Features * **api:** add between_tools thinking type ([a9a577d](https://github.com/anthropics/anthropic-sdk-python/commit/a9a577d5a98cb2e133c1f83…",
-      "content_text": "## 1.9.0 (2026-09-28) Full Changelog: [v1.8.0...v1.9.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.8.0...v1.9.0) ### Features * **api:** add between_tools thinking type ([a9a577d](https://github.com/anthropics/anthropic-sdk-python/commit/a9a577d5a98cb2e133c1f83…",
-      "date_published": "2026-09-28T18:03:49+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-python",
-        "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:88a9cc4acbaff11f",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.129.0",
-      "title": "sdk: v0.129.0",
-      "summary": "## 0.129.0 (2026-09-28) Full Changelog: [sdk-v0.128.0...sdk-v0.129.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.128.0...sdk-v0.129.0) ### Features * **api:** add between_tools thinking type ([ab51075](https://github.com/anthropics/anthropic-sdk-typescr…",
-      "content_text": "## 0.129.0 (2026-09-28) Full Changelog: [sdk-v0.128.0...sdk-v0.129.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.128.0...sdk-v0.129.0) ### Features * **api:** add between_tools thinking type ([ab51075](https://github.com/anthropics/anthropic-sdk-typescr…",
-      "date_published": "2026-09-28T18:03:48+00:00",
-      "tags": [
-        "deprecation",
-        "breaking",
-        "release",
-        "anthropic-sdk-typescript",
-        "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:3e6a6ba00af2f111",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "title": "Sonnet 5.5",
-      "summary": "465 points, 315 comments. Discussion: https://news.ycombinator.com/item?id=49881850",
-      "content_text": "465 points, 315 comments. Discussion: https://news.ycombinator.com/item?id=49881850",
-      "date_published": "2026-09-28T17:58:11+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community",
-        "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:fdaec24b0105ddbe",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.284",
-      "title": "@anthropic-ai/claude-code 2.1.284 published",
-      "summary": "Version 2.1.284 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.284 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-28T17:11:59.750000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:a776f5c70c3e93d3",
-      "url": "https://github.com/seamusc/papermono-shopping-list",
-      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
-      "summary": "47 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49875801",
-      "content_text": "47 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49875801",
-      "date_published": "2026-09-28T10:14:41+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:f7e78dac1e409772",
-      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "title": "Prompting Claude Opus 5.5",
-      "summary": "179 points, 195 comments. Discussion: https://news.ycombinator.com/item?id=49874728",
-      "content_text": "179 points, 195 comments. Discussion: https://news.ycombinator.com/item?id=49874728",
-      "date_published": "2026-09-28T07:33:29+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:3cc6aa239a4cb79a",
-      "url": "https://arxiv.org/abs/2609.34428v1",
-      "title": "AgentHop: A Diagnostic Benchmark for Agentic Multi-Hop Scientific Question Answering",
-      "summary": "Agentic tasks require a large language model to interact with the world, navigating information and gathering evidence across multiple steps with restricted resources.",
-      "content_text": "Agentic tasks require a large language model to interact with the world, navigating information and gathering evidence across multiple steps with restricted resources.",
-      "date_published": "2026-09-28T06:45:01+00:00",
-      "tags": [
-        "research",
-        "feature",
-        "research",
-        "paper",
-        "opus",
-        "sonnet"
       ]
     }
   ]

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 16:35:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 22:02:29 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.245</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.245</link>
+<guid isPermaLink="false">frontierfeed:c5f5b036080e8149</guid>
+<pubDate>Wed, 07 Oct 2026 18:15:47 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.244...v1.0.245</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.293 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.293</link>
+<guid isPermaLink="false">frontierfeed:018061c4320e1bb0</guid>
+<pubDate>Wed, 07 Oct 2026 17:18:04 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.293 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Getting started with Claude Code mods</title>
 <link>https://claude.dev/blog/getting-started-with-claude-code-mods/</link>
@@ -646,30 +662,6 @@
 <pubDate>Sun, 06 Sep 2026 02:56:44 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.216...v1.0.217</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.263 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.263</link>
-<guid isPermaLink="false">frontierfeed:c77ee5e0d3242032</guid>
-<pubDate>Sun, 06 Sep 2026 02:07:58 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.263 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Portal by Spotify cut my Claude Code token usage by 90%</title>
-<link>https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</link>
-<guid isPermaLink="false">frontierfeed:f5fc8c7dbed68175</guid>
-<pubDate>Fri, 04 Sep 2026 23:38:50 +0000</pubDate>
-<category>claude-code</category>
-<description>77 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49571465</description>
-</item>
-<item>
-<title>Claude Code skills for advanced context engineering techniques and patterns</title>
-<link>https://github.com/NeoLabHQ/context-engineering-kit</link>
-<guid isPermaLink="false">frontierfeed:dd98f07d58acd2a8</guid>
-<pubDate>Fri, 04 Sep 2026 22:52:14 +0000</pubDate>
-<category>claude-code</category>
-<description>40 points, 4 comments. Discussion: https://news.ycombinator.com/item?id=49571131</description>
 </item>
 </channel>
 </rss>

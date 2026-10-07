@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, breaking changes only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 16:35:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 22:02:29 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-breaking.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — breaking changes</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>[breaking] v1.12.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.12.0</link>
+<guid isPermaLink="false">frontierfeed:f7ac2a75afe1abc7</guid>
+<pubDate>Wed, 07 Oct 2026 17:57:07 +0000</pubDate>
+<category>deprecation</category>
+<description>## 1.12.0 (2026-10-07) Full Changelog: [v1.11.0...v1.12.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.11.0...v1.12.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([f6346e6](https://github.com/anthropics/anthrop…</description>
+</item>
+<item>
+<title>[breaking] sdk: v0.132.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.132.0</link>
+<guid isPermaLink="false">frontierfeed:200da78416158d3e</guid>
+<pubDate>Wed, 07 Oct 2026 17:57:01 +0000</pubDate>
+<category>deprecation</category>
+<description>## 0.132.0 (2026-10-07) Full Changelog: [sdk-v0.131.0...sdk-v0.132.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.131.0...sdk-v0.132.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([1fd8261](https://gith…</description>
+</item>
 <item>
 <title>[breaking] bedrock-sdk: v0.34.2</title>
 <link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.2</link>
