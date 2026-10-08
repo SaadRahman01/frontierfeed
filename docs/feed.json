@@ -9,6 +9,118 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:36a9c1e2d35bfb81",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.294",
+      "title": "@anthropic-ai/claude-code 2.1.294 published",
+      "summary": "Version 2.1.294 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.294 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-08T03:42:57.084000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:371580e1ae9df76d",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.12.1",
+      "title": "v1.12.1",
+      "summary": "### Chores * **ci:** check that pull requests update the changelog * **docs:** note that listing Claude Console spend limits is in early access * **internal:** match the package version in uv.lock",
+      "content_text": "### Chores * **ci:** check that pull requests update the changelog * **docs:** note that listing Claude Console spend limits is in early access * **internal:** match the package version in uv.lock",
+      "date_published": "2026-10-08T03:41:38+00:00",
+      "tags": [
+        "note",
+        "fix",
+        "release",
+        "anthropic-sdk-python"
+      ]
+    },
+    {
+      "id": "frontierfeed:7bc3bea660015250",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.19",
+      "title": "google-cloud-sdk-v0.0.19",
+      "summary": "### Chores * **ci:** check that pull requests update the changelog",
+      "content_text": "### Chores * **ci:** check that pull requests update the changelog",
+      "date_published": "2026-10-08T03:07:11+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:a0ac146d6c30907b",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.9",
+      "title": "aws-sdk-v0.7.9",
+      "summary": "### Chores * **ci:** check that pull requests update the changelog",
+      "content_text": "### Chores * **ci:** check that pull requests update the changelog",
+      "date_published": "2026-10-08T03:07:09+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:cc75d11fd505b6aa",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.4",
+      "title": "foundry-sdk-v0.5.4",
+      "summary": "### Chores * **ci:** check that pull requests update the changelog",
+      "content_text": "### Chores * **ci:** check that pull requests update the changelog",
+      "date_published": "2026-10-08T03:07:07+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:65c71e4869fc3467",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.4",
+      "title": "bedrock-sdk-v0.34.4",
+      "summary": "### Chores * **ci:** check that pull requests update the changelog",
+      "content_text": "### Chores * **ci:** check that pull requests update the changelog",
+      "date_published": "2026-10-08T03:07:05+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:31ba3236c94d731f",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.4",
+      "title": "vertex-sdk-v0.20.4",
+      "summary": "### Chores * **ci:** check that pull requests update the changelog",
+      "content_text": "### Chores * **ci:** check that pull requests update the changelog",
+      "date_published": "2026-10-08T03:07:03+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:f1b3a1ed2f6d4ce5",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.132.1",
+      "title": "sdk-v0.132.1",
+      "summary": "### Bug Fixes * **client:** throw before sending a request with an empty path parameter ### Chores * **ci:** check that pull requests update the changelog * **ci:** publish every package from the publish workflow * **docs:** note that listing Claude Console spend limits is in ear…",
+      "content_text": "### Bug Fixes * **client:** throw before sending a request with an empty path parameter ### Chores * **ci:** check that pull requests update the changelog * **ci:** publish every package from the publish workflow * **docs:** note that listing Claude Console spend limits is in ear…",
+      "date_published": "2026-10-08T03:07:00+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
       "id": "frontierfeed:6e690d1ef54743c3",
       "url": "https://www.anthropic.com/claude-haiku-5-5",
       "title": "Claude Haiku 5.5",
@@ -1300,115 +1412,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:d4ab4937f85c1868",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.285",
-      "title": "@anthropic-ai/claude-code 2.1.285 published",
-      "summary": "Version 2.1.285 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.285 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-29T17:32:09.173000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:b0c9118363559ddf",
-      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-      "summary": "78 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=49897075",
-      "content_text": "78 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=49897075",
-      "date_published": "2026-09-29T17:31:26+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:c3516fd826ac38d4",
-      "url": "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
-      "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
-      "summary": "Agents you can coach: how Asana builds human-agent teams with Claude",
-      "content_text": "Agents you can coach: how Asana builds human-agent teams with Claude",
-      "date_published": "2026-09-29T15:56:53.476402+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:ee0d0ffba11ae45d",
-      "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
-      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
-      "summary": "42 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49891721",
-      "content_text": "42 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49891721",
-      "date_published": "2026-09-29T12:01:07+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:f02c188dd7a3a704",
-      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "summary": "69 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49886005",
-      "content_text": "69 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49886005",
-      "date_published": "2026-09-28T23:40:59+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:d981f0eac7f664af",
-      "url": "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia",
-      "title": "Giving companies more control over their AI agents, with NVIDIA",
-      "summary": "Giving companies more control over their AI agents, with NVIDIA",
-      "content_text": "Giving companies more control over their AI agents, with NVIDIA",
-      "date_published": "2026-09-28T22:05:55.938873+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:ac39232ec1c08aee",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.236",
-      "title": "v1.0.236",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.235...v1.0.236",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.235...v1.0.236",
-      "date_published": "2026-09-28T18:05:26+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:f8724d89e35f2a9a",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.15",
-      "title": "google-cloud-sdk: v0.0.15",
-      "summary": "## 0.0.15 (2026-09-28) Full Changelog: [google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15)",
-      "content_text": "## 0.0.15 (2026-09-28) Full Changelog: [google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15)",
-      "date_published": "2026-09-28T18:04:24+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]

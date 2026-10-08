@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 02:00:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 09:04:23 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,70 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>@anthropic-ai/claude-code 2.1.294 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.294</link>
+<guid isPermaLink="false">frontierfeed:36a9c1e2d35bfb81</guid>
+<pubDate>Thu, 08 Oct 2026 03:42:57 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.294 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>v1.12.1</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.12.1</link>
+<guid isPermaLink="false">frontierfeed:371580e1ae9df76d</guid>
+<pubDate>Thu, 08 Oct 2026 03:41:38 +0000</pubDate>
+<category>note</category>
+<description>### Chores * **ci:** check that pull requests update the changelog * **docs:** note that listing Claude Console spend limits is in early access * **internal:** match the package version in uv.lock</description>
+</item>
+<item>
+<title>google-cloud-sdk-v0.0.19</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.19</link>
+<guid isPermaLink="false">frontierfeed:7bc3bea660015250</guid>
+<pubDate>Thu, 08 Oct 2026 03:07:11 +0000</pubDate>
+<category>api</category>
+<description>### Chores * **ci:** check that pull requests update the changelog</description>
+</item>
+<item>
+<title>aws-sdk-v0.7.9</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.9</link>
+<guid isPermaLink="false">frontierfeed:a0ac146d6c30907b</guid>
+<pubDate>Thu, 08 Oct 2026 03:07:09 +0000</pubDate>
+<category>api</category>
+<description>### Chores * **ci:** check that pull requests update the changelog</description>
+</item>
+<item>
+<title>foundry-sdk-v0.5.4</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.4</link>
+<guid isPermaLink="false">frontierfeed:cc75d11fd505b6aa</guid>
+<pubDate>Thu, 08 Oct 2026 03:07:07 +0000</pubDate>
+<category>api</category>
+<description>### Chores * **ci:** check that pull requests update the changelog</description>
+</item>
+<item>
+<title>bedrock-sdk-v0.34.4</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.4</link>
+<guid isPermaLink="false">frontierfeed:65c71e4869fc3467</guid>
+<pubDate>Thu, 08 Oct 2026 03:07:05 +0000</pubDate>
+<category>api</category>
+<description>### Chores * **ci:** check that pull requests update the changelog</description>
+</item>
+<item>
+<title>vertex-sdk-v0.20.4</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.4</link>
+<guid isPermaLink="false">frontierfeed:31ba3236c94d731f</guid>
+<pubDate>Thu, 08 Oct 2026 03:07:03 +0000</pubDate>
+<category>api</category>
+<description>### Chores * **ci:** check that pull requests update the changelog</description>
+</item>
+<item>
+<title>sdk-v0.132.1</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.132.1</link>
+<guid isPermaLink="false">frontierfeed:f1b3a1ed2f6d4ce5</guid>
+<pubDate>Thu, 08 Oct 2026 03:07:00 +0000</pubDate>
+<category>api</category>
+<description>### Bug Fixes * **client:** throw before sending a request with an empty path parameter ### Chores * **ci:** check that pull requests update the changelog * **ci:** publish every package from the publish workflow * **docs:** note that listing Claude Console spend limits is in ear…</description>
+</item>
 <item>
 <title>Claude Haiku 5.5</title>
 <link>https://www.anthropic.com/claude-haiku-5-5</link>
@@ -750,70 +814,6 @@
 <pubDate>Tue, 29 Sep 2026 19:30:41 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.236...v1.0.237</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.285 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.285</link>
-<guid isPermaLink="false">frontierfeed:d4ab4937f85c1868</guid>
-<pubDate>Tue, 29 Sep 2026 17:32:09 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.285 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>GLM-5.3 and the spread of advanced cyber capabilities</title>
-<link>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</link>
-<guid isPermaLink="false">frontierfeed:b0c9118363559ddf</guid>
-<pubDate>Tue, 29 Sep 2026 17:31:26 +0000</pubDate>
-<category>note</category>
-<description>78 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=49897075</description>
-</item>
-<item>
-<title>Agents you can coach: how Asana builds human-agent teams with Claude</title>
-<link>https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude</link>
-<guid isPermaLink="false">frontierfeed:c3516fd826ac38d4</guid>
-<pubDate>Tue, 29 Sep 2026 15:56:53 +0000</pubDate>
-<category>note</category>
-<description>Agents you can coach: how Asana builds human-agent teams with Claude</description>
-</item>
-<item>
-<title>Mistral CEO says U.S. AI safety debate masks competitors&#x27; &#x27;negligence&#x27;</title>
-<link>https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html</link>
-<guid isPermaLink="false">frontierfeed:ee0d0ffba11ae45d</guid>
-<pubDate>Tue, 29 Sep 2026 12:01:07 +0000</pubDate>
-<category>note</category>
-<description>42 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49891721</description>
-</item>
-<item>
-<title>Anthropic&#x27;s IPO prospectus shows AI vision, surging costs</title>
-<link>https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/</link>
-<guid isPermaLink="false">frontierfeed:f02c188dd7a3a704</guid>
-<pubDate>Mon, 28 Sep 2026 23:40:59 +0000</pubDate>
-<category>note</category>
-<description>69 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49886005</description>
-</item>
-<item>
-<title>Giving companies more control over their AI agents, with NVIDIA</title>
-<link>https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia</link>
-<guid isPermaLink="false">frontierfeed:d981f0eac7f664af</guid>
-<pubDate>Mon, 28 Sep 2026 22:05:55 +0000</pubDate>
-<category>note</category>
-<description>Giving companies more control over their AI agents, with NVIDIA</description>
-</item>
-<item>
-<title>v1.0.236</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.236</link>
-<guid isPermaLink="false">frontierfeed:ac39232ec1c08aee</guid>
-<pubDate>Mon, 28 Sep 2026 18:05:26 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.235...v1.0.236</description>
-</item>
-<item>
-<title>google-cloud-sdk: v0.0.15</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.15</link>
-<guid isPermaLink="false">frontierfeed:f8724d89e35f2a9a</guid>
-<pubDate>Mon, 28 Sep 2026 18:04:24 +0000</pubDate>
-<category>api</category>
-<description>## 0.0.15 (2026-09-28) Full Changelog: [google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15)</description>
 </item>
 </channel>
 </rss>
