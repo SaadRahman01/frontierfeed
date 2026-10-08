@@ -9,6 +9,103 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:8565151eaea642b6",
+      "url": "https://claude.com/resources/articles/dashboards-and-motion",
+      "title": "Build live dashboards and animate explainers with Claude",
+      "summary": "Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.",
+      "content_text": "Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.",
+      "date_published": "2026-10-08T22:08:19.274439+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:557766939d369f17",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "title": "2026 Usage Policy update",
+      "summary": "2026 Usage Policy update",
+      "content_text": "2026 Usage Policy update",
+      "date_published": "2026-10-08T22:08:17.173231+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:f3cce56885ad0f5c",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "summary": "Introducing the Anthropic Cyber Mission",
+      "content_text": "Introducing the Anthropic Cyber Mission",
+      "date_published": "2026-10-08T22:08:17.173204+00:00",
+      "tags": [
+        "launch",
+        "feature",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:0acc4358c0772ac6",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.247",
+      "title": "v1.0.247",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.246...v1.0.247",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.246...v1.0.247",
+      "date_published": "2026-10-08T19:54:20+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:a94769f1070fcf23",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.295",
+      "title": "@anthropic-ai/claude-code 2.1.295 published",
+      "summary": "Version 2.1.295 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.295 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-08T18:22:58.621000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:df6aebca4e7eeae7",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.246",
+      "title": "v1.0.246",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.245...v1.0.246",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.245...v1.0.246",
+      "date_published": "2026-10-08T17:29:32+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:eb5d28c18496a5c6",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+      "summary": "60 points, 126 comments. Discussion: https://news.ycombinator.com/item?id=50008565",
+      "content_text": "60 points, 126 comments. Discussion: https://news.ycombinator.com/item?id=50008565",
+      "date_published": "2026-10-08T17:08:02+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:abd8d79a176a9a73",
       "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
       "title": "Developing Enterprise Frontier Safeguards with our customers",
@@ -1309,110 +1406,6 @@
         "fix",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:4f082830bcbedf82",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.6",
-      "title": "aws-sdk: v0.7.6",
-      "summary": "## 0.7.6 (2026-09-30) Full Changelog: [aws-sdk-v0.7.5...aws-sdk-v0.7.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.5...aws-sdk-v0.7.6)",
-      "content_text": "## 0.7.6 (2026-09-30) Full Changelog: [aws-sdk-v0.7.5...aws-sdk-v0.7.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.5...aws-sdk-v0.7.6)",
-      "date_published": "2026-09-30T18:29:54+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:a25cd6e8ee545be3",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.1",
-      "title": "foundry-sdk: v0.5.1",
-      "summary": "## 0.5.1 (2026-09-30) Full Changelog: [foundry-sdk-v0.5.0...foundry-sdk-v0.5.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.0...foundry-sdk-v0.5.1)",
-      "content_text": "## 0.5.1 (2026-09-30) Full Changelog: [foundry-sdk-v0.5.0...foundry-sdk-v0.5.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.0...foundry-sdk-v0.5.1)",
-      "date_published": "2026-09-30T18:29:48+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:c9703db50b6c4313",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.1",
-      "title": "bedrock-sdk: v0.34.1",
-      "summary": "## 0.34.1 (2026-09-30) Full Changelog: [bedrock-sdk-v0.34.0...bedrock-sdk-v0.34.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.0...bedrock-sdk-v0.34.1)",
-      "content_text": "## 0.34.1 (2026-09-30) Full Changelog: [bedrock-sdk-v0.34.0...bedrock-sdk-v0.34.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.0...bedrock-sdk-v0.34.1)",
-      "date_published": "2026-09-30T18:29:41+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:15f9bbc6288c4c9b",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.1",
-      "title": "vertex-sdk: v0.20.1",
-      "summary": "## 0.20.1 (2026-09-30) Full Changelog: [vertex-sdk-v0.20.0...vertex-sdk-v0.20.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.0...vertex-sdk-v0.20.1)",
-      "content_text": "## 0.20.1 (2026-09-30) Full Changelog: [vertex-sdk-v0.20.0...vertex-sdk-v0.20.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.0...vertex-sdk-v0.20.1)",
-      "date_published": "2026-09-30T18:29:34+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:2c2bc8d0873bd879",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.130.0",
-      "title": "sdk: v0.130.0",
-      "summary": "## 0.130.0 (2026-09-30) Full Changelog: [sdk-v0.129.0...sdk-v0.130.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.129.0...sdk-v0.130.0) ### Features * **api:** add a refusal stop reason and stop_details to Managed Agents session idle events ([5cd6910](ht…",
-      "content_text": "## 0.130.0 (2026-09-30) Full Changelog: [sdk-v0.129.0...sdk-v0.130.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.129.0...sdk-v0.130.0) ### Features * **api:** add a refusal stop reason and stop_details to Managed Agents session idle events ([5cd6910](ht…",
-      "date_published": "2026-09-30T18:29:28+00:00",
-      "tags": [
-        "pricing",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "mcp",
-        "enterprise",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:995d04ed98a215fe",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.10.0",
-      "title": "v1.10.0",
-      "summary": "## 1.10.0 (2026-09-30) Full Changelog: [v1.9.0...v1.10.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.9.0...v1.10.0) ### Features * **api:** add a refusal stop reason and stop_details to Managed Agents session idle events ([cba653f](https://github.com/anthropics…",
-      "content_text": "## 1.10.0 (2026-09-30) Full Changelog: [v1.9.0...v1.10.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.9.0...v1.10.0) ### Features * **api:** add a refusal stop reason and stop_details to Managed Agents session idle events ([cba653f](https://github.com/anthropics…",
-      "date_published": "2026-09-30T18:28:45+00:00",
-      "tags": [
-        "pricing",
-        "feature",
-        "release",
-        "anthropic-sdk-python",
-        "mcp",
-        "enterprise",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:29f792af9220856c",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.286",
-      "title": "@anthropic-ai/claude-code 2.1.286 published",
-      "summary": "Version 2.1.286 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.286 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-09-30T17:14:38.859000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]

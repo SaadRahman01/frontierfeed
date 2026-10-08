@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 16:33:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 22:08:33 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.247</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.247</link>
+<guid isPermaLink="false">frontierfeed:0acc4358c0772ac6</guid>
+<pubDate>Thu, 08 Oct 2026 19:54:20 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.246...v1.0.247</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.295 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.295</link>
+<guid isPermaLink="false">frontierfeed:a94769f1070fcf23</guid>
+<pubDate>Thu, 08 Oct 2026 18:22:58 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.295 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>v1.0.246</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.246</link>
+<guid isPermaLink="false">frontierfeed:df6aebca4e7eeae7</guid>
+<pubDate>Thu, 08 Oct 2026 17:29:32 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.245...v1.0.246</description>
+</item>
 <item>
 <title>I think I found a planet nobody knew existed. I used Claude Code to find it</title>
 <link>https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9</link>

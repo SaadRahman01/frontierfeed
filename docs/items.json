@@ -1,9 +1,120 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-08T16:33:44.380953+00:00",
+  "generated": "2026-10-08T22:08:33.240658+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Build live dashboards and animate explainers with Claude",
+      "url": "https://claude.com/resources/articles/dashboards-and-motion",
+      "source": "claude-blog",
+      "published": "2026-10-08T22:08:19.274439+00:00",
+      "body": "Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.",
+      "summary": "Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "8565151eaea642b6"
+    },
+    {
+      "title": "2026 Usage Policy update",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "source": "anthropic-news",
+      "published": "2026-10-08T22:08:17.173231+00:00",
+      "body": "2026 Usage Policy update",
+      "summary": "2026 Usage Policy update",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "557766939d369f17"
+    },
+    {
+      "title": "Introducing the Anthropic Cyber Mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "source": "anthropic-news",
+      "published": "2026-10-08T22:08:17.173204+00:00",
+      "body": "Introducing the Anthropic Cyber Mission",
+      "summary": "Introducing the Anthropic Cyber Mission",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "f3cce56885ad0f5c"
+    },
+    {
+      "title": "v1.0.247",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.247",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-08T19:54:20+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.246...v1.0.247",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.246...v1.0.247",
+      "version": "1.0.247",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "0acc4358c0772ac6"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.295 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.295",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-08T18:22:58.621000+00:00",
+      "body": "Version 2.1.295 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.295 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.295",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "a94769f1070fcf23"
+    },
+    {
+      "title": "v1.0.246",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.246",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-08T17:29:32+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.245...v1.0.246",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.245...v1.0.246",
+      "version": "1.0.246",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "df6aebca4e7eeae7"
+    },
+    {
+      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "source": "hackernews",
+      "published": "2026-10-08T17:08:02+00:00",
+      "body": "60 points, 126 comments. Discussion: https://news.ycombinator.com/item?id=50008565",
+      "summary": "60 points, 126 comments. Discussion: https://news.ycombinator.com/item?id=50008565",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "eb5d28c18496a5c6"
+    },
     {
       "title": "Developing Enterprise Frontier Safeguards with our customers",
       "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
@@ -4672,111 +4783,6 @@
         "community"
       ],
       "uid": "f773bde146081ff9"
-    },
-    {
-      "title": "What will our economic future look like?",
-      "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "source": "hackernews",
-      "published": "2026-09-09T13:38:23+00:00",
-      "body": "101 points, 158 comments. Discussion: https://news.ycombinator.com/item?id=49626373",
-      "summary": "101 points, 158 comments. Discussion: https://news.ycombinator.com/item?id=49626373",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "d5835276af5126fd"
-    },
-    {
-      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
-      "source": "hackernews",
-      "published": "2026-09-09T10:37:16+00:00",
-      "body": "40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255",
-      "summary": "40 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=49624255",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "1fad8d5343f674ca"
-    },
-    {
-      "title": "I resigned from Anthropic today (Jacob Coxon)",
-      "url": "https://xcancel.com/hilbertspaess/status/2097476196791709843?s=20",
-      "source": "hackernews",
-      "published": "2026-09-09T10:25:03+00:00",
-      "body": "45 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49624157",
-      "summary": "45 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49624157",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "272baf504b1b5103"
-    },
-    {
-      "title": "Claude, change the \"Add to Cart\" button to blue",
-      "url": "https://opusfived.dev/",
-      "source": "hackernews",
-      "published": "2026-09-09T09:39:46+00:00",
-      "body": "620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
-      "summary": "620 points, 237 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "4fce00394eab12d8"
-    },
-    {
-      "title": "Claude, change the \u201cAdd to Cart\u201d button to blue",
-      "url": "https://opusfived.dev/",
-      "source": "hackernews",
-      "published": "2026-09-09T09:39:46+00:00",
-      "body": "818 points, 337 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
-      "summary": "818 points, 337 comments. Discussion: https://news.ycombinator.com/item?id=49623754",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "39b82b95e0ac7fd9"
-    },
-    {
-      "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
-      "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
-      "source": "hackernews",
-      "published": "2026-09-09T08:43:27+00:00",
-      "body": "63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306",
-      "summary": "63 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=49623306",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "5fc6eba2270fcd0c"
-    },
-    {
-      "title": "I'm going back to coding by hand",
-      "url": "https://news.ycombinator.com/item?id=49622554",
-      "source": "hackernews",
-      "published": "2026-09-09T07:22:28+00:00",
-      "body": "52 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49622554",
-      "summary": "52 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49622554",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "e33b88afb69d2e99"
     }
   ]
 }

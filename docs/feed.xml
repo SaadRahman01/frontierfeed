@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 16:33:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 22:08:33 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,62 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Build live dashboards and animate explainers with Claude</title>
+<link>https://claude.com/resources/articles/dashboards-and-motion</link>
+<guid isPermaLink="false">frontierfeed:8565151eaea642b6</guid>
+<pubDate>Thu, 08 Oct 2026 22:08:19 +0000</pubDate>
+<category>note</category>
+<description>Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.</description>
+</item>
+<item>
+<title>2026 Usage Policy update</title>
+<link>https://www.anthropic.com/news/2026-usage-policy-update</link>
+<guid isPermaLink="false">frontierfeed:557766939d369f17</guid>
+<pubDate>Thu, 08 Oct 2026 22:08:17 +0000</pubDate>
+<category>note</category>
+<description>2026 Usage Policy update</description>
+</item>
+<item>
+<title>Introducing the Anthropic Cyber Mission</title>
+<link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
+<guid isPermaLink="false">frontierfeed:f3cce56885ad0f5c</guid>
+<pubDate>Thu, 08 Oct 2026 22:08:17 +0000</pubDate>
+<category>launch</category>
+<description>Introducing the Anthropic Cyber Mission</description>
+</item>
+<item>
+<title>v1.0.247</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.247</link>
+<guid isPermaLink="false">frontierfeed:0acc4358c0772ac6</guid>
+<pubDate>Thu, 08 Oct 2026 19:54:20 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.246...v1.0.247</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.295 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.295</link>
+<guid isPermaLink="false">frontierfeed:a94769f1070fcf23</guid>
+<pubDate>Thu, 08 Oct 2026 18:22:58 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.295 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>v1.0.246</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.246</link>
+<guid isPermaLink="false">frontierfeed:df6aebca4e7eeae7</guid>
+<pubDate>Thu, 08 Oct 2026 17:29:32 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.245...v1.0.246</description>
+</item>
+<item>
+<title>Anthropic bans &#x27;abusive or cruel behavior&#x27; towards Claude</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</link>
+<guid isPermaLink="false">frontierfeed:eb5d28c18496a5c6</guid>
+<pubDate>Thu, 08 Oct 2026 17:08:02 +0000</pubDate>
+<category>note</category>
+<description>60 points, 126 comments. Discussion: https://news.ycombinator.com/item?id=50008565</description>
+</item>
 <item>
 <title>Developing Enterprise Frontier Safeguards with our customers</title>
 <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
@@ -758,62 +814,6 @@
 <pubDate>Wed, 30 Sep 2026 18:30:00 +0000</pubDate>
 <category>api</category>
 <description>## 0.0.16 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16)</description>
-</item>
-<item>
-<title>aws-sdk: v0.7.6</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.6</link>
-<guid isPermaLink="false">frontierfeed:4f082830bcbedf82</guid>
-<pubDate>Wed, 30 Sep 2026 18:29:54 +0000</pubDate>
-<category>api</category>
-<description>## 0.7.6 (2026-09-30) Full Changelog: [aws-sdk-v0.7.5...aws-sdk-v0.7.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.5...aws-sdk-v0.7.6)</description>
-</item>
-<item>
-<title>foundry-sdk: v0.5.1</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.1</link>
-<guid isPermaLink="false">frontierfeed:a25cd6e8ee545be3</guid>
-<pubDate>Wed, 30 Sep 2026 18:29:48 +0000</pubDate>
-<category>api</category>
-<description>## 0.5.1 (2026-09-30) Full Changelog: [foundry-sdk-v0.5.0...foundry-sdk-v0.5.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.0...foundry-sdk-v0.5.1)</description>
-</item>
-<item>
-<title>bedrock-sdk: v0.34.1</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.1</link>
-<guid isPermaLink="false">frontierfeed:c9703db50b6c4313</guid>
-<pubDate>Wed, 30 Sep 2026 18:29:41 +0000</pubDate>
-<category>api</category>
-<description>## 0.34.1 (2026-09-30) Full Changelog: [bedrock-sdk-v0.34.0...bedrock-sdk-v0.34.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.0...bedrock-sdk-v0.34.1)</description>
-</item>
-<item>
-<title>vertex-sdk: v0.20.1</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.1</link>
-<guid isPermaLink="false">frontierfeed:15f9bbc6288c4c9b</guid>
-<pubDate>Wed, 30 Sep 2026 18:29:34 +0000</pubDate>
-<category>api</category>
-<description>## 0.20.1 (2026-09-30) Full Changelog: [vertex-sdk-v0.20.0...vertex-sdk-v0.20.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.0...vertex-sdk-v0.20.1)</description>
-</item>
-<item>
-<title>sdk: v0.130.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.130.0</link>
-<guid isPermaLink="false">frontierfeed:2c2bc8d0873bd879</guid>
-<pubDate>Wed, 30 Sep 2026 18:29:28 +0000</pubDate>
-<category>pricing</category>
-<description>## 0.130.0 (2026-09-30) Full Changelog: [sdk-v0.129.0...sdk-v0.130.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.129.0...sdk-v0.130.0) ### Features * **api:** add a refusal stop reason and stop_details to Managed Agents session idle events ([5cd6910](ht…</description>
-</item>
-<item>
-<title>v1.10.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.10.0</link>
-<guid isPermaLink="false">frontierfeed:995d04ed98a215fe</guid>
-<pubDate>Wed, 30 Sep 2026 18:28:45 +0000</pubDate>
-<category>pricing</category>
-<description>## 1.10.0 (2026-09-30) Full Changelog: [v1.9.0...v1.10.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.9.0...v1.10.0) ### Features * **api:** add a refusal stop reason and stop_details to Managed Agents session idle events ([cba653f](https://github.com/anthropics…</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.286 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.286</link>
-<guid isPermaLink="false">frontierfeed:29f792af9220856c</guid>
-<pubDate>Wed, 30 Sep 2026 17:14:38 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.286 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>
