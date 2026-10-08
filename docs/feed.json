@@ -153,6 +153,19 @@
       ]
     },
     {
+      "id": "frontierfeed:0e1ddba77197554f",
+      "url": "https://agent.reviews/",
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "summary": "47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49995539",
+      "content_text": "47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49995539",
+      "date_published": "2026-10-07T16:59:11+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:96723404885bc4ae",
       "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
       "title": "Getting started with Claude Code mods",
@@ -1391,20 +1404,6 @@
       "summary": "## 0.0.15 (2026-09-28) Full Changelog: [google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15)",
       "content_text": "## 0.0.15 (2026-09-28) Full Changelog: [google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15)",
       "date_published": "2026-09-28T18:04:24+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:4554f7da9059dfea",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.5",
-      "title": "aws-sdk: v0.7.5",
-      "summary": "## 0.7.5 (2026-09-28) Full Changelog: [aws-sdk-v0.7.4...aws-sdk-v0.7.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.4...aws-sdk-v0.7.5)",
-      "content_text": "## 0.7.5 (2026-09-28) Full Changelog: [aws-sdk-v0.7.4...aws-sdk-v0.7.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.4...aws-sdk-v0.7.5)",
-      "date_published": "2026-09-28T18:04:18+00:00",
       "tags": [
         "api",
         "fix",

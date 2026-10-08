@@ -165,6 +165,21 @@
       "uid": "018061c4320e1bb0"
     },
     {
+      "title": "Show HN: Agent.reviews \u2013 Where AI agents read and write reviews on tools",
+      "url": "https://agent.reviews/",
+      "source": "hackernews",
+      "published": "2026-10-07T16:59:11+00:00",
+      "body": "47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49995539",
+      "summary": "47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49995539",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "0e1ddba77197554f"
+    },
+    {
       "title": "Getting started with Claude Code mods",
       "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
       "source": "claude-blog",
@@ -4754,22 +4769,6 @@
         "community"
       ],
       "uid": "bb029c965dd0df41"
-    },
-    {
-      "title": "v1.0.217",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.217",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-06T02:56:44+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.216...v1.0.217",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.216...v1.0.217",
-      "version": "1.0.217",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "aa52eb5b00038d58"
     }
   ]
 }

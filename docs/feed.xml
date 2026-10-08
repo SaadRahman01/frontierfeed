@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 22:02:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 02:00:42 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -94,6 +94,14 @@
 <pubDate>Wed, 07 Oct 2026 17:18:04 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.293 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Show HN: Agent.reviews – Where AI agents read and write reviews on tools</title>
+<link>https://agent.reviews/</link>
+<guid isPermaLink="false">frontierfeed:0e1ddba77197554f</guid>
+<pubDate>Wed, 07 Oct 2026 16:59:11 +0000</pubDate>
+<category>note</category>
+<description>47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49995539</description>
 </item>
 <item>
 <title>Getting started with Claude Code mods</title>
@@ -806,14 +814,6 @@
 <pubDate>Mon, 28 Sep 2026 18:04:24 +0000</pubDate>
 <category>api</category>
 <description>## 0.0.15 (2026-09-28) Full Changelog: [google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15)</description>
-</item>
-<item>
-<title>aws-sdk: v0.7.5</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.5</link>
-<guid isPermaLink="false">frontierfeed:4554f7da9059dfea</guid>
-<pubDate>Mon, 28 Sep 2026 18:04:18 +0000</pubDate>
-<category>api</category>
-<description>## 0.7.5 (2026-09-28) Full Changelog: [aws-sdk-v0.7.4...aws-sdk-v0.7.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.4...aws-sdk-v0.7.5)</description>
 </item>
 </channel>
 </rss>
