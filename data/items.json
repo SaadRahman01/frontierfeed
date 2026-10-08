@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "source": "anthropic-news",
+      "published": "2026-10-08T16:33:31.251025+00:00",
+      "body": "Developing Enterprise Frontier Safeguards with our customers",
+      "summary": "Developing Enterprise Frontier Safeguards with our customers",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news",
+        "enterprise"
+      ],
+      "uid": "abd8d79a176a9a73"
+    },
+    {
+      "title": "Building on our commitment to American scientific discovery",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "source": "anthropic-news",
+      "published": "2026-10-08T16:33:31.250865+00:00",
+      "body": "Building on our commitment to American scientific discovery",
+      "summary": "Building on our commitment to American scientific discovery",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "e45ff35d76d66b2e"
+    },
+    {
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "source": "hackernews",
+      "published": "2026-10-08T07:07:34+00:00",
+      "body": "66 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50002665",
+      "summary": "66 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50002665",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "3863e9bba948b217"
+    },
+    {
       "title": "@anthropic-ai/claude-code 2.1.294 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.294",
       "source": "npm:@anthropic-ai/claude-code",
@@ -4725,52 +4773,6 @@
         "community"
       ],
       "uid": "e33b88afb69d2e99"
-    },
-    {
-      "title": "AI Responsibility \u2013 OpenAI and Anthropic",
-      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
-      "source": "hackernews",
-      "published": "2026-09-09T01:32:49+00:00",
-      "body": "73 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49619639",
-      "summary": "73 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49619639",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "ef8f740b2a35b52d"
-    },
-    {
-      "title": "I resigned from Anthropic today",
-      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-      "source": "hackernews",
-      "published": "2026-09-09T00:40:40+00:00",
-      "body": "329 points, 402 comments. Discussion: https://news.ycombinator.com/item?id=49619227",
-      "summary": "329 points, 402 comments. Discussion: https://news.ycombinator.com/item?id=49619227",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "aa377c4a423bff33"
-    },
-    {
-      "title": "v1.0.219",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.219",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-08T23:57:14+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.218...v1.0.219",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.218...v1.0.219",
-      "version": "1.0.219",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "c3ef81693e4e3273"
     }
   ]
 }

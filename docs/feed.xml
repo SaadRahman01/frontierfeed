@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 09:04:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 16:33:44 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Developing Enterprise Frontier Safeguards with our customers</title>
+<link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
+<guid isPermaLink="false">frontierfeed:abd8d79a176a9a73</guid>
+<pubDate>Thu, 08 Oct 2026 16:33:31 +0000</pubDate>
+<category>note</category>
+<description>Developing Enterprise Frontier Safeguards with our customers</description>
+</item>
+<item>
+<title>Building on our commitment to American scientific discovery</title>
+<link>https://www.anthropic.com/news/genesis-mission-commitment</link>
+<guid isPermaLink="false">frontierfeed:e45ff35d76d66b2e</guid>
+<pubDate>Thu, 08 Oct 2026 16:33:31 +0000</pubDate>
+<category>note</category>
+<description>Building on our commitment to American scientific discovery</description>
+</item>
+<item>
+<title>I think I found a planet nobody knew existed. I used Claude Code to find it</title>
+<link>https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9</link>
+<guid isPermaLink="false">frontierfeed:3863e9bba948b217</guid>
+<pubDate>Thu, 08 Oct 2026 07:07:34 +0000</pubDate>
+<category>claude-code</category>
+<description>66 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50002665</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.294 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.294</link>
@@ -790,30 +814,6 @@
 <pubDate>Wed, 30 Sep 2026 17:14:38 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.286 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Show HN: Open-source model routing for coding agents at Astra-level performance</title>
-<link>https://news.ycombinator.com/item?id=49911500</link>
-<guid isPermaLink="false">frontierfeed:1fb4cad8d8887878</guid>
-<pubDate>Wed, 30 Sep 2026 16:58:24 +0000</pubDate>
-<category>note</category>
-<description>73 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49911500</description>
-</item>
-<item>
-<title>The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype</title>
-<link>https://arxiv.org/abs/2609.39001v1</link>
-<guid isPermaLink="false">frontierfeed:a92c8245f2a4a95d</guid>
-<pubDate>Wed, 30 Sep 2026 05:14:43 +0000</pubDate>
-<category>research</category>
-<description>LLM services are billed per token and context windows are measured in tokens, yet the number of tokens needed for the same content varies across languages.</description>
-</item>
-<item>
-<title>v1.0.237</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.237</link>
-<guid isPermaLink="false">frontierfeed:adff89584c89655e</guid>
-<pubDate>Tue, 29 Sep 2026 19:30:41 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.236...v1.0.237</description>
 </item>
 </channel>
 </rss>

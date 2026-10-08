@@ -9,6 +9,48 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:abd8d79a176a9a73",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "summary": "Developing Enterprise Frontier Safeguards with our customers",
+      "content_text": "Developing Enterprise Frontier Safeguards with our customers",
+      "date_published": "2026-10-08T16:33:31.251025+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "frontierfeed:e45ff35d76d66b2e",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "title": "Building on our commitment to American scientific discovery",
+      "summary": "Building on our commitment to American scientific discovery",
+      "content_text": "Building on our commitment to American scientific discovery",
+      "date_published": "2026-10-08T16:33:31.250865+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:3863e9bba948b217",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "summary": "66 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50002665",
+      "content_text": "66 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50002665",
+      "date_published": "2026-10-08T07:07:34+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:36a9c1e2d35bfb81",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.294",
       "title": "@anthropic-ai/claude-code 2.1.294 published",
@@ -1371,47 +1413,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:1fb4cad8d8887878",
-      "url": "https://news.ycombinator.com/item?id=49911500",
-      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
-      "summary": "73 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49911500",
-      "content_text": "73 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49911500",
-      "date_published": "2026-09-30T16:58:24+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:a92c8245f2a4a95d",
-      "url": "https://arxiv.org/abs/2609.39001v1",
-      "title": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
-      "summary": "LLM services are billed per token and context windows are measured in tokens, yet the number of tokens needed for the same content varies across languages.",
-      "content_text": "LLM services are billed per token and context windows are measured in tokens, yet the number of tokens needed for the same content varies across languages.",
-      "date_published": "2026-09-30T05:14:43+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:adff89584c89655e",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.237",
-      "title": "v1.0.237",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.236...v1.0.237",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.236...v1.0.237",
-      "date_published": "2026-09-29T19:30:41+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
       ]
     }
   ]
