@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:0dd67f89d503a4e4",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.248",
+      "title": "v1.0.248",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.247...v1.0.248",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.247...v1.0.248",
+      "date_published": "2026-10-09T19:37:39+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:65b5380897cd782e",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.296",
+      "title": "@anthropic-ai/claude-code 2.1.296 published",
+      "summary": "Version 2.1.296 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.296 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-09T16:58:10.924000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:2fa8b1c174341251",
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "title": "Building effective agent automations",
@@ -1376,36 +1404,6 @@
         "breaking",
         "release",
         "anthropic-sdk-typescript",
-        "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:d5a33d1e9600dab8",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.131.0",
-      "title": "sdk: v0.131.0",
-      "summary": "## 0.131.0 (2026-09-30) Full Changelog: [sdk-v0.130.0...sdk-v0.131.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.130.0...sdk-v0.131.0) ### Features * **api:** add list spend limits endpoint ([cfb78c8](https://github.com/anthropics/anthropic-sdk-typescri…",
-      "content_text": "## 0.131.0 (2026-09-30) Full Changelog: [sdk-v0.130.0...sdk-v0.131.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.130.0...sdk-v0.131.0) ### Features * **api:** add list spend limits endpoint ([cfb78c8](https://github.com/anthropics/anthropic-sdk-typescri…",
-      "date_published": "2026-09-30T22:58:20+00:00",
-      "tags": [
-        "deprecation",
-        "breaking",
-        "release",
-        "anthropic-sdk-typescript",
-        "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:cc4d4baf7005bc22",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.11.0",
-      "title": "v1.11.0",
-      "summary": "## 1.11.0 (2026-09-30) Full Changelog: [v1.10.0...v1.11.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.10.0...v1.11.0) ### Features * **api:** add list spend limits endpoint ([e8f0cac](https://github.com/anthropics/anthropic-sdk-python/commit/e8f0cac35af67a083ba…",
-      "content_text": "## 1.11.0 (2026-09-30) Full Changelog: [v1.10.0...v1.11.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.10.0...v1.11.0) ### Features * **api:** add list spend limits endpoint ([e8f0cac](https://github.com/anthropics/anthropic-sdk-python/commit/e8f0cac35af67a083ba…",
-      "date_published": "2026-09-30T22:58:09+00:00",
-      "tags": [
-        "deprecation",
-        "breaking",
-        "release",
-        "anthropic-sdk-python",
         "sonnet"
       ]
     }

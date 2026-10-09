@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "v1.0.248",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.248",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-09T19:37:39+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.247...v1.0.248",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.247...v1.0.248",
+      "version": "1.0.248",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "0dd67f89d503a4e4"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.296 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.296",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-09T16:58:10.924000+00:00",
+      "body": "Version 2.1.296 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.296 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.296",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "65b5380897cd782e"
+    },
+    {
       "title": "Building effective agent automations",
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "claude-blog",
@@ -4751,38 +4783,6 @@
         "community"
       ],
       "uid": "3ffd9a31ee06f961"
-    },
-    {
-      "title": "LOCUS: Task-Aware Low-Rank Post-Training for Token-Efficient Language Generation",
-      "url": "https://arxiv.org/abs/2609.11739v1",
-      "source": "arxiv",
-      "published": "2026-09-10T15:53:25+00:00",
-      "body": "Large language model serving costs scale directly with output sequence length, yet standard preference alignment often inflates response verbosity without improving utility. We study whether the parameterization of post-training updates affects generation length: low-rank subspaces alter sequence length without modifying the alignment loss. We present LOCUS, a method that selects a task-aware low-rank adaptation subspace to minimize output-token cost subject to a utility constraint. Within this subspace, post-training retains the native preference objective with a frozen backbone. Across Anthropic HH-RLHF dialogue preferences, we evaluate two $\\sim$3B decoder backbones, Pythia-2.8B and Qwen2.5-3B, against protocol-matched full-parameter DPO and DrDPO branches and the released SamPO checkpoint. LOCUS reduces continuation length by up to 39.84\\% on Pythia-2.8B and by 14.87--17.58\\% on Qwen2.5-3B while updating only 0.24--0.28\\% of model parameters, with no material change in the internal preference diagnostic.",
-      "summary": "Large language model serving costs scale directly with output sequence length, yet standard preference alignment often inflates response verbosity without improving utility.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "9b5f75870c54d35c"
-    },
-    {
-      "title": "v1.0.220",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.220",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-09T20:12:09+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.219...v1.0.220",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.219...v1.0.220",
-      "version": "1.0.220",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "023a3932b504c170"
     }
   ]
 }
