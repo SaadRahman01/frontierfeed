@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:b25ea30d5d386a41",
+      "url": "https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests",
+      "title": "How Block orchestrates Claude Fable across thousands of pull requests",
+      "summary": "Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale.",
+      "content_text": "Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale.",
+      "date_published": "2026-10-09T02:14:18.153475+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
       "id": "frontierfeed:8565151eaea642b6",
       "url": "https://claude.com/resources/articles/dashboards-and-motion",
       "title": "Build live dashboards and animate explainers with Claude",
@@ -62,6 +76,20 @@
         "fix",
         "release",
         "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:8716d340624e1604",
+      "url": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+      "title": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
+      "summary": "42 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50010330",
+      "content_text": "42 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50010330",
+      "date_published": "2026-10-08T18:55:18+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community",
+        "opus"
       ]
     },
     {
@@ -1378,34 +1406,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:2ef56e08af23bee0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.238",
-      "title": "v1.0.238",
-      "summary": "## What's Changed * ci: security hardening for GitHub Actions workflows that call Claude by @qing-ant in https://github.com/anthropics/claude-code-action/pull/1867 ## New Contributors * @qing-ant made their first contribution in https://github.com/anthropics/claude-code-action/pu…",
-      "content_text": "## What's Changed * ci: security hardening for GitHub Actions workflows that call Claude by @qing-ant in https://github.com/anthropics/claude-code-action/pull/1867 ## New Contributors * @qing-ant made their first contribution in https://github.com/anthropics/claude-code-action/pu…",
-      "date_published": "2026-09-30T19:17:33+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:d7fee75dfe10b7cc",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.16",
-      "title": "google-cloud-sdk: v0.0.16",
-      "summary": "## 0.0.16 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16)",
-      "content_text": "## 0.0.16 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16)",
-      "date_published": "2026-09-30T18:30:00+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]

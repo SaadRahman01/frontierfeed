@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 22:08:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 02:14:58 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>How Block orchestrates Claude Fable across thousands of pull requests</title>
+<link>https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests</link>
+<guid isPermaLink="false">frontierfeed:b25ea30d5d386a41</guid>
+<pubDate>Fri, 09 Oct 2026 02:14:18 +0000</pubDate>
+<category>note</category>
+<description>Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale.</description>
+</item>
 <item>
 <title>Build live dashboards and animate explainers with Claude</title>
 <link>https://claude.com/resources/articles/dashboards-and-motion</link>
@@ -46,6 +54,14 @@
 <pubDate>Thu, 08 Oct 2026 19:54:20 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.246...v1.0.247</description>
+</item>
+<item>
+<title>LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video</title>
+<link>https://www.youtube.com/watch?v=3TNpOD6bov8</link>
+<guid isPermaLink="false">frontierfeed:8716d340624e1604</guid>
+<pubDate>Thu, 08 Oct 2026 18:55:18 +0000</pubDate>
+<category>note</category>
+<description>42 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50010330</description>
 </item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.295 published</title>
@@ -798,22 +814,6 @@
 <pubDate>Wed, 30 Sep 2026 19:25:59 +0000</pubDate>
 <category>note</category>
 <description>How Anthropic&#x27;s sales team rebuilt inbound with Claude Managed Agents</description>
-</item>
-<item>
-<title>v1.0.238</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.238</link>
-<guid isPermaLink="false">frontierfeed:2ef56e08af23bee0</guid>
-<pubDate>Wed, 30 Sep 2026 19:17:33 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed * ci: security hardening for GitHub Actions workflows that call Claude by @qing-ant in https://github.com/anthropics/claude-code-action/pull/1867 ## New Contributors * @qing-ant made their first contribution in https://github.com/anthropics/claude-code-action/pu…</description>
-</item>
-<item>
-<title>google-cloud-sdk: v0.0.16</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.16</link>
-<guid isPermaLink="false">frontierfeed:d7fee75dfe10b7cc</guid>
-<pubDate>Wed, 30 Sep 2026 18:30:00 +0000</pubDate>
-<category>api</category>
-<description>## 0.0.16 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16)</description>
 </item>
 </channel>
 </rss>

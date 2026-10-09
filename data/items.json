@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "How Block orchestrates Claude Fable across thousands of pull requests",
+      "url": "https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests",
+      "source": "claude-blog",
+      "published": "2026-10-09T02:14:18.153475+00:00",
+      "body": "Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale.",
+      "summary": "Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "b25ea30d5d386a41"
+    },
+    {
       "title": "Build live dashboards and animate explainers with Claude",
       "url": "https://claude.com/resources/articles/dashboards-and-motion",
       "source": "claude-blog",
@@ -63,6 +79,22 @@
         "claude-code-action"
       ],
       "uid": "0acc4358c0772ac6"
+    },
+    {
+      "title": "LGTM (Looks Good to Me) \u2013 Claude Opus 5.5 Music Video",
+      "url": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+      "source": "hackernews",
+      "published": "2026-10-08T18:55:18+00:00",
+      "body": "42 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50010330",
+      "summary": "42 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50010330",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "8716d340624e1604"
     },
     {
       "title": "@anthropic-ai/claude-code 2.1.295 published",
@@ -4749,36 +4781,6 @@
         "community"
       ],
       "uid": "dd478225b9929acb"
-    },
-    {
-      "title": "Better AI code comment detector",
-      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
-      "source": "hackernews",
-      "published": "2026-09-09T15:45:43+00:00",
-      "body": "40 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49628454",
-      "summary": "40 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49628454",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "9d08d70f81d7774f"
-    },
-    {
-      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
-      "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
-      "source": "hackernews",
-      "published": "2026-09-09T15:10:39+00:00",
-      "body": "42 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=49627887",
-      "summary": "42 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=49627887",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "f773bde146081ff9"
     }
   ]
 }
