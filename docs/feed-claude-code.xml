@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 09:14:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 16:19:38 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>sdk-v0.133.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.133.0</link>
+<guid isPermaLink="false">frontierfeed:e4ddfb2f4784fc38</guid>
+<pubDate>Fri, 09 Oct 2026 15:35:41 +0000</pubDate>
+<category>claude-code</category>
+<description>### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** remove the next branch rule from CLAUDE.md</description>
+</item>
+<item>
+<title>v1.13.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.13.0</link>
+<guid isPermaLink="false">frontierfeed:3873d7acfa8f6973</guid>
+<pubDate>Fri, 09 Oct 2026 15:28:52 +0000</pubDate>
+<category>claude-code</category>
+<description>### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** name the default API version header value</description>
+</item>
 <item>
 <title>v1.0.247</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.247</link>
@@ -630,22 +646,6 @@
 <pubDate>Wed, 09 Sep 2026 20:12:09 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.219...v1.0.220</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.267 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.267</link>
-<guid isPermaLink="false">frontierfeed:f85f9b45d2cc2c8c</guid>
-<pubDate>Wed, 09 Sep 2026 18:25:42 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.267 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Show HN: Self-hosted company OS, Claude Code and Codex agents in departments</title>
-<link>https://github.com/OtoDock/oto-dock</link>
-<guid isPermaLink="false">frontierfeed:ddba24638dcf81fd</guid>
-<pubDate>Wed, 09 Sep 2026 17:57:55 +0000</pubDate>
-<category>claude-code</category>
-<description>43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49630606</description>
 </item>
 </channel>
 </rss>

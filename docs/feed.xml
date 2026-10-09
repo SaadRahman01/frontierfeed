@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 09:14:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 16:19:38 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Building effective agent automations</title>
+<link>https://claude.dev/blog/building-effective-agent-automations/</link>
+<guid isPermaLink="false">frontierfeed:2fa8b1c174341251</guid>
+<pubDate>Fri, 09 Oct 2026 16:19:27 +0000</pubDate>
+<category>note</category>
+<description>A reference implementation walkthrough for a scheduled Claude Managed Agents automation, with the config files and six rules for avoiding common failure modes.</description>
+</item>
+<item>
+<title>sdk-v0.133.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.133.0</link>
+<guid isPermaLink="false">frontierfeed:e4ddfb2f4784fc38</guid>
+<pubDate>Fri, 09 Oct 2026 15:35:41 +0000</pubDate>
+<category>claude-code</category>
+<description>### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** remove the next branch rule from CLAUDE.md</description>
+</item>
+<item>
+<title>v1.13.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.13.0</link>
+<guid isPermaLink="false">frontierfeed:3873d7acfa8f6973</guid>
+<pubDate>Fri, 09 Oct 2026 15:28:52 +0000</pubDate>
+<category>claude-code</category>
+<description>### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** name the default API version header value</description>
+</item>
 <item>
 <title>How Block orchestrates Claude Fable across thousands of pull requests</title>
 <link>https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests</link>
@@ -790,30 +814,6 @@
 <pubDate>Wed, 30 Sep 2026 22:58:09 +0000</pubDate>
 <category>deprecation</category>
 <description>## 1.11.0 (2026-09-30) Full Changelog: [v1.10.0...v1.11.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.10.0...v1.11.0) ### Features * **api:** add list spend limits endpoint ([e8f0cac](https://github.com/anthropics/anthropic-sdk-python/commit/e8f0cac35af67a083ba…</description>
-</item>
-<item>
-<title>Anthropic&#x27;s IPO Prospectus Is a Fucking Doozy</title>
-<link>https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus</link>
-<guid isPermaLink="false">frontierfeed:99e44bd3d37075f0</guid>
-<pubDate>Wed, 30 Sep 2026 20:44:19 +0000</pubDate>
-<category>note</category>
-<description>46 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49914149</description>
-</item>
-<item>
-<title>Claude for Government is now generally available</title>
-<link>https://claude.com/blog/claude-for-government-is-now-generally-available</link>
-<guid isPermaLink="false">frontierfeed:038cf5bcb5ab5431</guid>
-<pubDate>Wed, 30 Sep 2026 19:25:59 +0000</pubDate>
-<category>note</category>
-<description>Claude for Government is now generally available</description>
-</item>
-<item>
-<title>How Anthropic&#x27;s sales team rebuilt inbound with Claude Managed Agents</title>
-<link>https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</link>
-<guid isPermaLink="false">frontierfeed:b6b1285f4817e54e</guid>
-<pubDate>Wed, 30 Sep 2026 19:25:59 +0000</pubDate>
-<category>note</category>
-<description>How Anthropic&#x27;s sales team rebuilt inbound with Claude Managed Agents</description>
 </item>
 </channel>
 </rss>

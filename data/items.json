@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Building effective agent automations",
+      "url": "https://claude.dev/blog/building-effective-agent-automations/",
+      "source": "claude-blog",
+      "published": "2026-10-09T16:19:27.278297+00:00",
+      "body": "A reference implementation walkthrough for a scheduled Claude Managed Agents automation, with the config files and six rules for avoiding common failure modes.",
+      "summary": "A reference implementation walkthrough for a scheduled Claude Managed Agents automation, with the config files and six rules for avoiding common failure modes.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "2fa8b1c174341251"
+    },
+    {
+      "title": "sdk-v0.133.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.133.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-09T15:35:41+00:00",
+      "body": "### Features\n\n* **api:** add types for the Chat and Cowork unified analytics metrics\n* **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents\n\n\n### Chores\n\n* **internal:** remove the next branch rule from CLAUDE.md",
+      "summary": "### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** remove the next branch rule from CLAUDE.md",
+      "version": "sdk-v0.133.0",
+      "category": "claude-code",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "e4ddfb2f4784fc38"
+    },
+    {
+      "title": "v1.13.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.13.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-10-09T15:28:52+00:00",
+      "body": "### Features\n\n* **api:** add types for the Chat and Cowork unified analytics metrics\n* **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents\n\n\n### Chores\n\n* **internal:** name the default API version header value",
+      "summary": "### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** name the default API version header value",
+      "version": "1.13.0",
+      "category": "claude-code",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "3873d7acfa8f6973"
+    },
+    {
       "title": "How Block orchestrates Claude Fable across thousands of pull requests",
       "url": "https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests",
       "source": "claude-blog",
@@ -4735,52 +4783,6 @@
         "claude-code-action"
       ],
       "uid": "023a3932b504c170"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.267 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.267",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-09T18:25:42.820000+00:00",
-      "body": "Version 2.1.267 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.267 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.267",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "f85f9b45d2cc2c8c"
-    },
-    {
-      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "url": "https://github.com/OtoDock/oto-dock",
-      "source": "hackernews",
-      "published": "2026-09-09T17:57:55+00:00",
-      "body": "43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49630606",
-      "summary": "43 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49630606",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "ddba24638dcf81fd"
-    },
-    {
-      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-      "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
-      "source": "hackernews",
-      "published": "2026-09-09T16:01:41+00:00",
-      "body": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
-      "summary": "123 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49628704",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "dd478225b9929acb"
     }
   ]
 }
