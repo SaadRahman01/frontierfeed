@@ -22,6 +22,19 @@
       ]
     },
     {
+      "id": "frontierfeed:e91bc0f610a9e5c0",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "summary": "155 points, 120 comments. Discussion: https://news.ycombinator.com/item?id=50027118",
+      "content_text": "155 points, 120 comments. Discussion: https://news.ycombinator.com/item?id=50027118",
+      "date_published": "2026-10-09T22:00:35+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:0dd67f89d503a4e4",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.248",
       "title": "v1.0.248",
@@ -1388,21 +1401,6 @@
         "fix",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:b377653792f914ed",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.2",
-      "title": "bedrock-sdk: v0.34.2",
-      "summary": "## 0.34.2 (2026-09-30) Full Changelog: [bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2) ### Chores * **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anth…",
-      "content_text": "## 0.34.2 (2026-09-30) Full Changelog: [bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2) ### Chores * **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anth…",
-      "date_published": "2026-09-30T22:58:35+00:00",
-      "tags": [
-        "deprecation",
-        "breaking",
-        "release",
-        "anthropic-sdk-typescript",
-        "sonnet"
       ]
     }
   ]

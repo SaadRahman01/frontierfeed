@@ -16,6 +16,21 @@
       "uid": "9dac9b5032c50508"
     },
     {
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "source": "hackernews",
+      "published": "2026-10-09T22:00:35+00:00",
+      "body": "155 points, 120 comments. Discussion: https://news.ycombinator.com/item?id=50027118",
+      "summary": "155 points, 120 comments. Discussion: https://news.ycombinator.com/item?id=50027118",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "e91bc0f610a9e5c0"
+    },
+    {
       "title": "v1.0.248",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.248",
       "source": "github:anthropics/claude-code-action",
@@ -4768,21 +4783,6 @@
         "anthropic-sdk-python"
       ],
       "uid": "27d52632edfcf676"
-    },
-    {
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "source": "hackernews",
-      "published": "2026-09-10T17:23:42+00:00",
-      "body": "49 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49647300",
-      "summary": "49 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49647300",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "240738ed6b4fb001"
     }
   ]
 }
