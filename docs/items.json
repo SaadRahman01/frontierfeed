@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-10T20:07:08.454047+00:00",
+  "generated": "2026-10-10T23:36:56.115603+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+      "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+      "source": "hackernews",
+      "published": "2026-10-10T18:10:54+00:00",
+      "body": "40 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50035550",
+      "summary": "40 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50035550",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "2787d2f321fbf028"
+    },
     {
       "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
       "url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
@@ -4770,22 +4785,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "fc52480d8e706ed9"
-    },
-    {
-      "title": "sdk: v0.125.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.125.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-10T17:47:59+00:00",
-      "body": "## 0.125.0 (2026-09-10)\n\nFull Changelog: [sdk-v0.124.0...sdk-v0.125.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.124.0...sdk-v0.125.0)\n\n### Features\n\n* **api:** add auto mode tool permissions for Managed Agents ([7f5e2c6](https://github.com/anthropics/anthropic-sdk-typescript/commit/7f5e2c6d01eb3498b86ddbf5eaf1327c266f2ded))\n* **api:** add content_too_large web_fetch tool error code ([f06416e](https://github.com/anthropics/anthropic-sdk-typescript/commit/f06416ebff8d2857d8ca9d06123ef6a9cedf2c94))\n* **api:** add the user-profiles-2026-09-04 beta value and external_user_details to user profiles ([318d42d](https://github.com/anthropics/anthropic-sdk-typescript/commit/318d42daeb7bbba4eefce7590c3db0bb1dd81b5d))\n* **api:** support mounting public GitHub repositories without an authorization_token in Managed Agents sessions ([9e2d945](https://github.com/anthropics/anthropic-sdk-typescript/commit/9e2d945226435360915908c529ba7c6969f64458))\n\n\n### Chores\n\n* **client:** clean up the unused idempotency request option ([4ce2772](https://github.com/anthropics/anthropic-sdk-typescript/commit/4ce2772a5020e252725f21400d211b762eb76cdc))\n* **docs:** correct the environment scope field description ([835c677](https://github.com/anthropics/anthropic-sdk-typescript/commit/835c67764a183cd7d2862b0689a5cce1f4416879))\n* **internal:** restore package version ([b43a7f6](https://github.com/anthropics/anthropic-sdk-typescript/commit/b43a7f68a067206757391d83a4f7e87e742ef9a1))\n* **internal:** stop stamping the package version into generated files ([80ace5e](https://github.com/anthropics/anthropic-sdk-typescript/commit/80ace5ec7737ed08acfccfa7becaa62c0043b90a))\n* **tests:** restore empty test package marker files ([4f27519](https://github.com/anthropics/anthropic-sdk-typescript/commit/4f2751917c04ce1fcd229244f5949acfad804ccd))",
-      "summary": "## 0.125.0 (2026-09-10) Full Changelog: [sdk-v0.124.0...sdk-v0.125.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.124.0...sdk-v0.125.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([7f5e2c6](https://github.com/anthropics/ant\u2026",
-      "version": "sdk-v0.125.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "0f1bfd95b0cdf018"
     }
   ]
 }

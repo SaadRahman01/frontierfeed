@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 20:07:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 23:36:56 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Anthropic discloses 2 months old fake tip to police among new rogue AI incidents</title>
+<link>https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/</link>
+<guid isPermaLink="false">frontierfeed:2787d2f321fbf028</guid>
+<pubDate>Sat, 10 Oct 2026 18:10:54 +0000</pubDate>
+<category>note</category>
+<description>40 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50035550</description>
+</item>
 <item>
 <title>Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal</title>
 <link>https://wsj.com/tech/ai/tom-brown-athropic-669005ad</link>
@@ -806,14 +814,6 @@
 <pubDate>Wed, 30 Sep 2026 23:54:41 +0000</pubDate>
 <category>note</category>
 <description>Funding better evaluations of AI’s impact on wellbeing</description>
-</item>
-<item>
-<title>google-cloud-sdk: v0.0.17</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.17</link>
-<guid isPermaLink="false">frontierfeed:c119c4ffa0b04a24</guid>
-<pubDate>Wed, 30 Sep 2026 22:58:53 +0000</pubDate>
-<category>api</category>
-<description>## 0.0.17 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17)</description>
 </item>
 </channel>
 </rss>

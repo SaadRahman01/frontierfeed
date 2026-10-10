@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:2787d2f321fbf028",
+      "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+      "summary": "40 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50035550",
+      "content_text": "40 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50035550",
+      "date_published": "2026-10-10T18:10:54+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:f232227e4790b9bb",
       "url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
       "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
@@ -1386,20 +1399,6 @@
         "info",
         "official",
         "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:c119c4ffa0b04a24",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.17",
-      "title": "google-cloud-sdk: v0.0.17",
-      "summary": "## 0.0.17 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17)",
-      "content_text": "## 0.0.17 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17)",
-      "date_published": "2026-09-30T22:58:53+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]
