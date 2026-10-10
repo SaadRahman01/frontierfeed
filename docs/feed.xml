@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 21:43:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 01:47:03 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Anthropic AI model submits false tip on unsolved Philly murder</title>
+<link>https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</link>
+<guid isPermaLink="false">frontierfeed:9dac9b5032c50508</guid>
+<pubDate>Fri, 09 Oct 2026 22:00:35 +0000</pubDate>
+<category>note</category>
+<description>41 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50027118</description>
+</item>
 <item>
 <title>v1.0.248</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.248</link>
@@ -806,14 +814,6 @@
 <pubDate>Wed, 30 Sep 2026 22:58:35 +0000</pubDate>
 <category>deprecation</category>
 <description>## 0.34.2 (2026-09-30) Full Changelog: [bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2) ### Chores * **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anth…</description>
-</item>
-<item>
-<title>[breaking] vertex-sdk: v0.20.2</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.2</link>
-<guid isPermaLink="false">frontierfeed:b43e93e3b9b5058b</guid>
-<pubDate>Wed, 30 Sep 2026 22:58:29 +0000</pubDate>
-<category>deprecation</category>
-<description>## 0.20.2 (2026-09-30) Full Changelog: [vertex-sdk-v0.20.1...vertex-sdk-v0.20.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.1...vertex-sdk-v0.20.2) ### Chores * **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anthropi…</description>
 </item>
 </channel>
 </rss>

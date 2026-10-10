@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-09T21:43:50.033755+00:00",
+  "generated": "2026-10-10T01:47:04.003022+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "source": "hackernews",
+      "published": "2026-10-09T22:00:35+00:00",
+      "body": "41 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50027118",
+      "summary": "41 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50027118",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "9dac9b5032c50508"
+    },
     {
       "title": "v1.0.248",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.248",
@@ -4772,21 +4787,6 @@
         "community"
       ],
       "uid": "240738ed6b4fb001"
-    },
-    {
-      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-      "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-      "source": "hackernews",
-      "published": "2026-09-10T17:04:34+00:00",
-      "body": "47 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=49646988",
-      "summary": "47 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=49646988",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "3ffd9a31ee06f961"
     }
   ]
 }
