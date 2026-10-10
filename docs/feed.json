@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:f232227e4790b9bb",
+      "url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
+      "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
+      "summary": "104 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50033678",
+      "content_text": "104 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50033678",
+      "date_published": "2026-10-10T15:04:38+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:9dac9b5032c50508",
       "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
       "title": "Anthropic AI model submits false tip on unsolved Philly murder",
@@ -1382,20 +1395,6 @@
       "summary": "## 0.0.17 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17)",
       "content_text": "## 0.0.17 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17)",
       "date_published": "2026-09-30T22:58:53+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:3001b8c34a2faa4e",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.2",
-      "title": "foundry-sdk: v0.5.2",
-      "summary": "## 0.5.2 (2026-09-30) Full Changelog: [foundry-sdk-v0.5.1...foundry-sdk-v0.5.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.1...foundry-sdk-v0.5.2)",
-      "content_text": "## 0.5.2 (2026-09-30) Full Changelog: [foundry-sdk-v0.5.1...foundry-sdk-v0.5.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.1...foundry-sdk-v0.5.2)",
-      "date_published": "2026-09-30T22:58:41+00:00",
       "tags": [
         "api",
         "fix",
