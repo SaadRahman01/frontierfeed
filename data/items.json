@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "title": "v1.0.0",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v1.0.0",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2026-10-11T02:40:29+00:00",
+      "body": "## Packages\r\n\r\n| Package | Version | Registry | In this release |\r\n| --- | --- | --- | --- |\r\n| `@modelcontextprotocol/server-everything` | `1.0.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-filesystem` | `1.0.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-memory` | `1.0.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-sequential-thinking` | `1.0.0` | npm | **published** |\r\n| `mcp-server-fetch` | `2026.10.10` | PyPI | **published** |\r\n| `mcp-server-git` | `2026.10.10` | PyPI | **published** |\r\n| `mcp-server-time` | `2026.10.10` | PyPI | **published** |\r\n\r\nRelease ledger: [v2/chore/5080-release-v1.0.0-sdk1](https://claude.ai/artifact/GP9jycCFtcYBaikubx3xwc)\r\n\r\n## @modelcontextprotocol/server-everything 1.0.0\r\n\r\n### What's Changed\r\n\r\n* fix(everything): clean up subscriptions on session disconnect by @arimu1 in https://github.com/modelcontextprotocol/servers/pull/4712\r\n* Agentic software factory Part 2: AGENTS.md, the absolute rules; delete CLAUDE.md by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4894\r\n* Agentic software factory Part 4: TypeScript workspace gate (Prettier, ESLint, root validate, CI) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4896\r\n* feat: changesets for the TypeScript servers, GitHub-Release-triggered publishing by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4927\r\n* fix(everything): SSE reports a port already in use instead of \"Server is running\" by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4936\r\n* test(everything): protocol-level characterization suite and per-file 90% coverage gate by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4978\r\n* fix(everything): label dynamic blob resources application/octet-stream by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5005\r\n* fix(everything): answer unknown and duplicate HTTP+SSE sessions (#4981) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5020\r\n* fix(everything): scope session resources to their server (#4808) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5032\r\n* fix(everything): instructions qualify capability-gated tools; gate trigger-elicitation-request on form mode by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5034\r\n* fix(everything): keep async task tools within their client task (#4986, #4987) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5014\r\n* fix(everything): Streamable HTTP 404 for unknown sessions, per-stream replay, shutdown closes sessions by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5006\r\n* chore(everything): keep compiled tests and vitest config out of the published package by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5053\r\n* v1.0.0: release audit for the SDK 1.x release branch by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5087\r\n* v1.0.0: fold pending changesets into a 1.0.0 CHANGELOG (release branch) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5088\r\n* Release v1.0.0: merge v2/release/1.0.0 into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5090\r\n\r\n## @modelcontextprotocol/server-filesystem 1.0.0\r\n\r\n### What's Changed\r\n\r\n* fix: declare zod runtime dependencies by @he-yufeng in https://github.com/modelcontextprotocol/servers/pull/4289\r\n* Agentic software factory Part 4: TypeScript workspace gate (Prettier, ESLint, root validate, CI) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4896\r\n* filesystem: fix unicode-paths tests on macOS by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4901\r\n* feat: changesets for the TypeScript servers, GitHub-Release-triggered publishing by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4927\r\n* test(filesystem): in-process characterization suite and per-file 90% coverage gate by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4977\r\n* fix(filesystem): resolve paths that differ from disk only in Unicode form (#1970) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5009\r\n* fix(filesystem): admit paths under a UNC share root allowed directory by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5010\r\n* fix(filesystem): wait for initial roots before tool calls; fail visibly with no directories by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5025\r\n* fix(filesystem): declare JSON Schema 2020-12 on every tool schema by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5030\r\n* fix(filesystem): overwrite existing files in place (#4512, #3199) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5022\r\n* fix(filesystem): keep line endings and indentation in edit_file by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5011\r\n* chore(ci): run the test suites on Windows runners by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5047\r\n* v1.0.0: release audit for the SDK 1.x release branch by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5087\r\n* v1.0.0: fold pending changesets into a 1.0.0 CHANGELOG (release branch) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5088\r\n* v1.0.0: cherry-pick the #5094 roots revocation fix onto the release branch by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5096\r\n* v1.0.0: cherry-pick the #5097 roots refresh ordering fix onto the release branch by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5099\r\n* v1.0.0: cherry-pick the #5101 roots refresh barrier onto the release branch by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5103\r\n* Release v1.0.0: merge v2/release/1.0.0 into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5090\r\n\r\n## @modelcontextprotocol/server-memory 1.0.0\r\n\r\n### What's Changed\r\n\r\n* fix(memory): resolve Vitest false positive for expected rejection by @JosephDoUrden in https://github.com/modelcontextprotocol/servers/pull/3893\r\n* fix(memory): read serverInfo.version from package.json by @syf2211 in https://github.com/modelcontextprotocol/servers/pull/4407\r\n* fix(memory): reject dangling relations by @jstar0 in https://github.com/modelcontextprotocol/servers/pull/4477\r\n* fix: declare zod runtime dependencies by @he-yufeng in https://github.com/modelcontextprotocol/servers/pull/4289\r\n* fix(memory): add trailing newline to JSONL output by @nickveenhof in https://github.com/modelcontextprotocol/servers/pull/3653\r\n* fix(memory): expand leading ~ in MEMORY_FILE_PATH to the home directory by @ameyypawar in https://github.com/modelcontextprotocol/servers/pull/4447\r\n* fix(memory): stop reporting deletions that did not happen by @ConnorMoss02 in https://github.com/modelcontextprotocol/servers/pull/4738\r\n* fix(memory): validate knowledge graph entries when loading from disk by @Ethanz11-creat in https://github.com/modelcontextprotocol/servers/pull/4717\r\n* fix(memory): constrain search_nodes query length by @feiiiiii5 in https://github.com/modelcontextprotocol/servers/pull/4662\r\n* fix(memory): skip duplicate entities and relations within a single batch by @JSap0914 in https://github.com/modelcontextprotocol/servers/pull/4383\r\n* fix(memory): serialize graph mutations to prevent concurrent write race by @Nandini-Inuguru in https://github.com/modelcontextprotocol/servers/pull/4555\r\n* Agentic software factory Part 4: TypeScript workspace gate (Prettier, ESLint, root validate, CI) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4896\r\n* feat: changesets for the TypeScript servers, GitHub-Release-triggered publishing by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4927\r\n* fix(memory): run the file-path tests in a temporary directory by @cliffhall in https:",
+      "summary": "## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-mem\u2026",
+      "version": "1.0.0",
+      "category": "api",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "78946aaf73f6d3c3"
+    },
+    {
+      "title": "Anthropic asks users to stop being mean to Claude",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
+      "source": "hackernews",
+      "published": "2026-10-11T01:17:22+00:00",
+      "body": "46 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50038865",
+      "summary": "46 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50038865",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "bb494fe4f96af8d6"
+    },
+    {
+      "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
+      "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+      "source": "hackernews",
+      "published": "2026-10-11T00:08:31+00:00",
+      "body": "54 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=50038383",
+      "summary": "54 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=50038383",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b7baa36ebf66e09a"
+    },
+    {
       "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
       "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
       "source": "hackernews",
@@ -4733,54 +4780,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "8ebffac84daa2bd7"
-    },
-    {
-      "title": "foundry-sdk: v0.4.6",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.6",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-10T17:48:17+00:00",
-      "body": "## 0.4.6 (2026-09-10)\n\nFull Changelog: [foundry-sdk-v0.4.5...foundry-sdk-v0.4.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.5...foundry-sdk-v0.4.6)",
-      "summary": "## 0.4.6 (2026-09-10) Full Changelog: [foundry-sdk-v0.4.5...foundry-sdk-v0.4.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.5...foundry-sdk-v0.4.6)",
-      "version": "foundry-sdk-v0.4.6",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "ba4c90bba62490ce"
-    },
-    {
-      "title": "bedrock-sdk: v0.33.5",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.5",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-10T17:48:11+00:00",
-      "body": "## 0.33.5 (2026-09-10)\n\nFull Changelog: [bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5)",
-      "summary": "## 0.33.5 (2026-09-10) Full Changelog: [bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.4...bedrock-sdk-v0.33.5)",
-      "version": "bedrock-sdk-v0.33.5",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "033d6cea3a8fa160"
-    },
-    {
-      "title": "vertex-sdk: v0.19.8",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.8",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-10T17:48:05+00:00",
-      "body": "## 0.19.8 (2026-09-10)\n\nFull Changelog: [vertex-sdk-v0.19.7...vertex-sdk-v0.19.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.7...vertex-sdk-v0.19.8)",
-      "summary": "## 0.19.8 (2026-09-10) Full Changelog: [vertex-sdk-v0.19.7...vertex-sdk-v0.19.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.7...vertex-sdk-v0.19.8)",
-      "version": "ertex-sdk-v0.19.8",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "fc52480d8e706ed9"
     }
   ]
 }

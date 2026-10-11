@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 23:36:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 05:54:38 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>[breaking] v1.0.0</title>
+<link>https://github.com/modelcontextprotocol/servers/releases/tag/v1.0.0</link>
+<guid isPermaLink="false">frontierfeed:78946aaf73f6d3c3</guid>
+<pubDate>Sun, 11 Oct 2026 02:40:29 +0000</pubDate>
+<category>api</category>
+<description>## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-mem…</description>
+</item>
+<item>
+<title>Anthropic asks users to stop being mean to Claude</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218</link>
+<guid isPermaLink="false">frontierfeed:bb494fe4f96af8d6</guid>
+<pubDate>Sun, 11 Oct 2026 01:17:22 +0000</pubDate>
+<category>note</category>
+<description>46 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50038865</description>
+</item>
+<item>
+<title>Anthropic Bans Cruelty to Claude, Still Won&#x27;t Say What It Protects</title>
+<link>https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6</link>
+<guid isPermaLink="false">frontierfeed:b7baa36ebf66e09a</guid>
+<pubDate>Sun, 11 Oct 2026 00:08:31 +0000</pubDate>
+<category>note</category>
+<description>54 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=50038383</description>
+</item>
 <item>
 <title>Anthropic discloses 2 months old fake tip to police among new rogue AI incidents</title>
 <link>https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/</link>
@@ -790,30 +814,6 @@
 <pubDate>Thu, 01 Oct 2026 16:59:25 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.287 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Barclays scales Claude to upgrade operations and improve client experience</title>
-<link>https://www.anthropic.com/news/barclays-scales-claude</link>
-<guid isPermaLink="false">frontierfeed:d811cc8071495c64</guid>
-<pubDate>Thu, 01 Oct 2026 13:25:32 +0000</pubDate>
-<category>note</category>
-<description>Barclays scales Claude to upgrade operations and improve client experience</description>
-</item>
-<item>
-<title>FTC is investigating OpenAI, Anthropic and other AI companies over product risks</title>
-<link>https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html</link>
-<guid isPermaLink="false">frontierfeed:45f476bd3d2349c2</guid>
-<pubDate>Thu, 01 Oct 2026 13:00:55 +0000</pubDate>
-<category>note</category>
-<description>183 points, 124 comments. Discussion: https://news.ycombinator.com/item?id=49921050</description>
-</item>
-<item>
-<title>Funding better evaluations of AI’s impact on wellbeing</title>
-<link>https://www.anthropic.com/news/wellbeing-research-grants</link>
-<guid isPermaLink="false">frontierfeed:1dad5134d5fbe6b5</guid>
-<pubDate>Wed, 30 Sep 2026 23:54:41 +0000</pubDate>
-<category>note</category>
-<description>Funding better evaluations of AI’s impact on wellbeing</description>
 </item>
 </channel>
 </rss>

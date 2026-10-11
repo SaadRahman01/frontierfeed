@@ -9,6 +9,47 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:78946aaf73f6d3c3",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v1.0.0",
+      "title": "v1.0.0",
+      "summary": "## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-mem…",
+      "content_text": "## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-mem…",
+      "date_published": "2026-10-11T02:40:29+00:00",
+      "tags": [
+        "api",
+        "breaking",
+        "release",
+        "servers",
+        "mcp"
+      ]
+    },
+    {
+      "id": "frontierfeed:bb494fe4f96af8d6",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
+      "title": "Anthropic asks users to stop being mean to Claude",
+      "summary": "46 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50038865",
+      "content_text": "46 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50038865",
+      "date_published": "2026-10-11T01:17:22+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:b7baa36ebf66e09a",
+      "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+      "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
+      "summary": "54 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=50038383",
+      "content_text": "54 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=50038383",
+      "date_published": "2026-10-11T00:08:31+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:2787d2f321fbf028",
       "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
       "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
@@ -1358,47 +1399,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:d811cc8071495c64",
-      "url": "https://www.anthropic.com/news/barclays-scales-claude",
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "summary": "Barclays scales Claude to upgrade operations and improve client experience",
-      "content_text": "Barclays scales Claude to upgrade operations and improve client experience",
-      "date_published": "2026-10-01T13:25:32.453675+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:45f476bd3d2349c2",
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "summary": "183 points, 124 comments. Discussion: https://news.ycombinator.com/item?id=49921050",
-      "content_text": "183 points, 124 comments. Discussion: https://news.ycombinator.com/item?id=49921050",
-      "date_published": "2026-10-01T13:00:55+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:1dad5134d5fbe6b5",
-      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "summary": "Funding better evaluations of AI’s impact on wellbeing",
-      "content_text": "Funding better evaluations of AI’s impact on wellbeing",
-      "date_published": "2026-09-30T23:54:41.145695+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
       ]
     }
   ]
