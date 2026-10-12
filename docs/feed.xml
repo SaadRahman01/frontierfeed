@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 01:22:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 09:19:28 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Research Firm Calls Anthropic&#x27;s IPO &#x27;Unprecedented Test of Investor Gullibity&#x27;</title>
+<link>https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</link>
+<guid isPermaLink="false">frontierfeed:7899e8cbe697d552</guid>
+<pubDate>Mon, 12 Oct 2026 05:03:47 +0000</pubDate>
+<category>note</category>
+<description>53 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50051583</description>
+</item>
 <item>
 <title>[breaking] v1.0.0</title>
 <link>https://github.com/modelcontextprotocol/servers/releases/tag/v1.0.0</link>
@@ -806,14 +814,6 @@
 <pubDate>Thu, 01 Oct 2026 17:58:37 +0000</pubDate>
 <category>note</category>
 <description>41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49924943</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.287 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.287</link>
-<guid isPermaLink="false">frontierfeed:47fae7e3efa1f58e</guid>
-<pubDate>Thu, 01 Oct 2026 16:59:25 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.287 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

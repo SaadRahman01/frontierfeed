@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:7899e8cbe697d552",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "summary": "53 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50051583",
+      "content_text": "53 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50051583",
+      "date_published": "2026-10-12T05:03:47+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:78946aaf73f6d3c3",
       "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v1.0.0",
       "title": "v1.0.0",
@@ -1385,20 +1398,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:47fae7e3efa1f58e",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.287",
-      "title": "@anthropic-ai/claude-code 2.1.287 published",
-      "summary": "Version 2.1.287 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.287 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-01T16:59:25.986000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
