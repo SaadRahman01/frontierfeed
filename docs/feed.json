@@ -9,6 +9,32 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:3ed6587042d5e918",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+      "title": "Just say no to OpenAI and Anthropic",
+      "summary": "140 points, 117 comments. Discussion: https://news.ycombinator.com/item?id=50060500",
+      "content_text": "140 points, 117 comments. Discussion: https://news.ycombinator.com/item?id=50060500",
+      "date_published": "2026-10-12T18:17:29+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:31bc502f444fe1ab",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "summary": "55 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50059096",
+      "content_text": "55 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50059096",
+      "date_published": "2026-10-12T16:46:34+00:00",
+      "tags": [
+        "pricing",
+        "feature",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:7899e8cbe697d552",
       "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
       "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
@@ -1371,33 +1397,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:079d200f1c4dd648",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.239",
-      "title": "v1.0.239",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.238...v1.0.239",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.238...v1.0.239",
-      "date_published": "2026-10-01T18:04:49+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:3ccdceb4da2f2c54",
-      "url": "https://innerloop.works/breadcrumb",
-      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
-      "summary": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49924943",
-      "content_text": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49924943",
-      "date_published": "2026-10-01T17:58:37+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]

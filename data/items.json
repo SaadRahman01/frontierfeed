@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Just say no to OpenAI and Anthropic",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+      "source": "hackernews",
+      "published": "2026-10-12T18:17:29+00:00",
+      "body": "140 points, 117 comments. Discussion: https://news.ycombinator.com/item?id=50060500",
+      "summary": "140 points, 117 comments. Discussion: https://news.ycombinator.com/item?id=50060500",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "3ed6587042d5e918"
+    },
+    {
+      "title": "Launch HN: Agent37 (YC F26) \u2013 Low-cost agent sandboxes for running agents",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "source": "hackernews",
+      "published": "2026-10-12T16:46:34+00:00",
+      "body": "55 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50059096",
+      "summary": "55 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50059096",
+      "version": "",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "31bc502f444fe1ab"
+    },
+    {
       "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
       "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
       "source": "hackernews",
@@ -4747,38 +4777,6 @@
         "claude-code-action"
       ],
       "uid": "476e1c439640e2c0"
-    },
-    {
-      "title": "T. Rowe Price brings more of Claude to its investment process",
-      "url": "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process",
-      "source": "claude-blog",
-      "published": "2026-09-10T19:45:42.623998+00:00",
-      "body": "T. Rowe Price brings more of Claude to its investment process",
-      "summary": "T. Rowe Price brings more of Claude to its investment process",
-      "version": "",
-      "category": "pricing",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "f62205f155d17361"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.268 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.268",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-10T18:41:11.770000+00:00",
-      "body": "Version 2.1.268 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.268 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.268",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "8d2d85acc7d5dfbf"
     }
   ]
 }

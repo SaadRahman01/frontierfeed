@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 09:19:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 19:50:35 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Just say no to OpenAI and Anthropic</title>
+<link>https://micahflee.com/just-say-no-to-openai-and-anthropic/</link>
+<guid isPermaLink="false">frontierfeed:3ed6587042d5e918</guid>
+<pubDate>Mon, 12 Oct 2026 18:17:29 +0000</pubDate>
+<category>note</category>
+<description>140 points, 117 comments. Discussion: https://news.ycombinator.com/item?id=50060500</description>
+</item>
+<item>
+<title>Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents</title>
+<link>https://news.ycombinator.com/item?id=50059096</link>
+<guid isPermaLink="false">frontierfeed:31bc502f444fe1ab</guid>
+<pubDate>Mon, 12 Oct 2026 16:46:34 +0000</pubDate>
+<category>pricing</category>
+<description>55 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50059096</description>
+</item>
 <item>
 <title>Research Firm Calls Anthropic&#x27;s IPO &#x27;Unprecedented Test of Investor Gullibity&#x27;</title>
 <link>https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</link>
@@ -798,22 +814,6 @@
 <pubDate>Thu, 01 Oct 2026 19:35:17 +0000</pubDate>
 <category>claude-code</category>
 <description>Customize Claude Code with mods</description>
-</item>
-<item>
-<title>v1.0.239</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.239</link>
-<guid isPermaLink="false">frontierfeed:079d200f1c4dd648</guid>
-<pubDate>Thu, 01 Oct 2026 18:04:49 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.238...v1.0.239</description>
-</item>
-<item>
-<title>Show HN: Breadcrumb, record everything on your mac + context manager for AI</title>
-<link>https://innerloop.works/breadcrumb</link>
-<guid isPermaLink="false">frontierfeed:3ccdceb4da2f2c54</guid>
-<pubDate>Thu, 01 Oct 2026 17:58:37 +0000</pubDate>
-<category>note</category>
-<description>41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49924943</description>
 </item>
 </channel>
 </rss>
