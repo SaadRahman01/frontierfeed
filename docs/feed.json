@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:0cece0787f003053",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "title": "Redesigning source control at Anthropic",
+      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "content_text": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "date_published": "2026-10-13T17:37:37.705063+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "engineering"
+      ]
+    },
+    {
       "id": "frontierfeed:60af9b60cb8c7ac3",
       "url": "https://www.anthropic.com/research/self-replicating-ai",
       "title": "AI models may be capable of self-replicating without access to a datacenter",
@@ -1382,20 +1396,6 @@
         "official",
         "news",
         "enterprise"
-      ]
-    },
-    {
-      "id": "frontierfeed:5e84bd834b4a53f5",
-      "url": "https://arxiv.org/abs/2610.03077v1",
-      "title": "Unmasking Propaganda: A Comparative Analysis of Masked and Causal Language Models",
-      "summary": "Propaganda detection is an essential task in natural language processing (NLP), particularly in the context of manipulative political communications.",
-      "content_text": "Propaganda detection is an essential task in natural language processing (NLP), particularly in the context of manipulative political communications.",
-      "date_published": "2026-10-02T09:59:47+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper"
       ]
     }
   ]

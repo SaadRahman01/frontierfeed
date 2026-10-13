@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "source": "anthropic-engineering",
+      "published": "2026-10-13T17:37:37.705063+00:00",
+      "body": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "0cece0787f003053"
+    },
+    {
       "title": "AI models may be capable of self-replicating without access to a datacenter",
       "url": "https://www.anthropic.com/research/self-replicating-ai",
       "source": "hackernews",
@@ -4760,22 +4776,6 @@
         "news"
       ],
       "uid": "778a0265f5854c98"
-    },
-    {
-      "title": "What 1,000 small business owners taught us about AI",
-      "url": "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
-      "source": "claude-blog",
-      "published": "2026-09-10T22:38:26.631471+00:00",
-      "body": "What 1,000 small business owners taught us about AI",
-      "summary": "What 1,000 small business owners taught us about AI",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "d8bfd3712f9cc467"
     }
   ]
 }
