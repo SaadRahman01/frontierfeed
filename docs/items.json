@@ -1,9 +1,26 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-13T17:37:50.263912+00:00",
+  "generated": "2026-10-13T22:50:19.143887+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Uber's CISO on building an insider threat program for AI",
+      "url": "https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai",
+      "source": "claude-blog",
+      "published": "2026-10-13T22:50:08.475619+00:00",
+      "body": "Uber's CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber's open-source tooling works alongside Enterprise Frontier Safeguards.",
+      "summary": "Uber's CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber's open-source tooling works alongside Enterprise Frontier Safeguards.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "enterprise"
+      ],
+      "uid": "6342af68165503b4"
+    },
     {
       "title": "Redesigning source control at Anthropic",
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
@@ -19,6 +36,21 @@
         "engineering"
       ],
       "uid": "0cece0787f003053"
+    },
+    {
+      "title": "How to engineer an AI harness for game development",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "source": "hackernews",
+      "published": "2026-10-13T14:14:23+00:00",
+      "body": "109 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50072120",
+      "summary": "109 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50072120",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "0b964f1b3ecd4d8e"
     },
     {
       "title": "AI models may be capable of self-replicating without access to a datacenter",
@@ -4749,37 +4781,6 @@
         "news"
       ],
       "uid": "37147b115f3e1032"
-    },
-    {
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-      "source": "hackernews",
-      "published": "2026-09-11T03:45:42+00:00",
-      "body": "54 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49653311",
-      "summary": "54 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49653311",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "dd0d766f247e2492"
-    },
-    {
-      "title": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
-      "url": "https://www.anthropic.com/news/tino-cuellar",
-      "source": "anthropic-news",
-      "published": "2026-09-11T01:09:25.939770+00:00",
-      "body": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
-      "summary": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "778a0265f5854c98"
     }
   ]
 }

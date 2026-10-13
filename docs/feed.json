@@ -9,6 +9,21 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:6342af68165503b4",
+      "url": "https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai",
+      "title": "Uber's CISO on building an insider threat program for AI",
+      "summary": "Uber's CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber's open-source tooling works alongside Enterprise Frontier Safeguards.",
+      "content_text": "Uber's CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber's open-source tooling works alongside Enterprise Frontier Safeguards.",
+      "date_published": "2026-10-13T22:50:08.475619+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
       "id": "frontierfeed:0cece0787f003053",
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "title": "Redesigning source control at Anthropic",
@@ -20,6 +35,19 @@
         "info",
         "official",
         "engineering"
+      ]
+    },
+    {
+      "id": "frontierfeed:0b964f1b3ecd4d8e",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "title": "How to engineer an AI harness for game development",
+      "summary": "109 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50072120",
+      "content_text": "109 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50072120",
+      "date_published": "2026-10-13T14:14:23+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1367,35 +1395,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:f5fbd7d4367d9958",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.288",
-      "title": "@anthropic-ai/claude-code 2.1.288 published",
-      "summary": "Version 2.1.288 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.288 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-02T18:30:40.093000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:4692dab6f141f9c0",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "summary": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "content_text": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "date_published": "2026-10-02T18:28:25.000438+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news",
-        "enterprise"
       ]
     }
   ]

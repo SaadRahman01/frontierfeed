@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 17:37:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 22:50:19 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -16,12 +16,28 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
 <item>
+<title>Uber&#x27;s CISO on building an insider threat program for AI</title>
+<link>https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai</link>
+<guid isPermaLink="false">frontierfeed:6342af68165503b4</guid>
+<pubDate>Tue, 13 Oct 2026 22:50:08 +0000</pubDate>
+<category>note</category>
+<description>Uber&#x27;s CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber&#x27;s open-source tooling works alongside Enterprise Frontier Safeguards.</description>
+</item>
+<item>
 <title>Redesigning source control at Anthropic</title>
 <link>https://www.anthropic.com/engineering/redesigning-source-control</link>
 <guid isPermaLink="false">frontierfeed:0cece0787f003053</guid>
 <pubDate>Tue, 13 Oct 2026 17:37:37 +0000</pubDate>
 <category>note</category>
 <description>As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.</description>
+</item>
+<item>
+<title>How to engineer an AI harness for game development</title>
+<link>https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code</link>
+<guid isPermaLink="false">frontierfeed:0b964f1b3ecd4d8e</guid>
+<pubDate>Tue, 13 Oct 2026 14:14:23 +0000</pubDate>
+<category>note</category>
+<description>109 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50072120</description>
 </item>
 <item>
 <title>AI models may be capable of self-replicating without access to a datacenter</title>
@@ -798,22 +814,6 @@
 <pubDate>Fri, 02 Oct 2026 19:10:38 +0000</pubDate>
 <category>note</category>
 <description>48 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49937304</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.288 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.288</link>
-<guid isPermaLink="false">frontierfeed:f5fbd7d4367d9958</guid>
-<pubDate>Fri, 02 Oct 2026 18:30:40 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.288 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</title>
-<link>https://www.anthropic.com/news/claude-frontier-academy</link>
-<guid isPermaLink="false">frontierfeed:4692dab6f141f9c0</guid>
-<pubDate>Fri, 02 Oct 2026 18:28:25 +0000</pubDate>
-<category>note</category>
-<description>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</description>
 </item>
 </channel>
 </rss>
