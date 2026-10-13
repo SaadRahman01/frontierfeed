@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-12T19:50:35.499336+00:00",
+  "generated": "2026-10-13T02:04:20.358703+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "source": "hackernews",
+      "published": "2026-10-12T19:25:29+00:00",
+      "body": "77 points, 95 comments. Discussion: https://news.ycombinator.com/item?id=50061603",
+      "summary": "77 points, 95 comments. Discussion: https://news.ycombinator.com/item?id=50061603",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "60af9b60cb8c7ac3"
+    },
     {
       "title": "Just say no to OpenAI and Anthropic",
       "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
@@ -48,6 +63,21 @@
         "community"
       ],
       "uid": "7899e8cbe697d552"
+    },
+    {
+      "title": "Show HN: Atticus \u2013 Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "source": "hackernews",
+      "published": "2026-10-12T00:15:12+00:00",
+      "body": "68 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50049588",
+      "summary": "68 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50049588",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "a0e45fbc757e52b7"
     },
     {
       "title": "v1.0.0",
@@ -4750,37 +4780,6 @@
         "product"
       ],
       "uid": "d8bfd3712f9cc467"
-    },
-    {
-      "title": "Anthropic CEOs wife once asked Epstein to fund porn venture \u2013 now steers Claude",
-      "url": "https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire/",
-      "source": "hackernews",
-      "published": "2026-09-10T22:38:00+00:00",
-      "body": "40 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49651084",
-      "summary": "40 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49651084",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "8219d985bfdd8238"
-    },
-    {
-      "title": "v1.0.221",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.221",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-10T20:40:23+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.220...v1.0.221",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.220...v1.0.221",
-      "version": "1.0.221",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "476e1c439640e2c0"
     }
   ]
 }

@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:60af9b60cb8c7ac3",
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "summary": "77 points, 95 comments. Discussion: https://news.ycombinator.com/item?id=50061603",
+      "content_text": "77 points, 95 comments. Discussion: https://news.ycombinator.com/item?id=50061603",
+      "date_published": "2026-10-12T19:25:29+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:3ed6587042d5e918",
       "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
       "title": "Just say no to OpenAI and Anthropic",
@@ -41,6 +54,19 @@
       "summary": "53 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50051583",
       "content_text": "53 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50051583",
       "date_published": "2026-10-12T05:03:47+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:a0e45fbc757e52b7",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "summary": "68 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50049588",
+      "content_text": "68 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50049588",
+      "date_published": "2026-10-12T00:15:12+00:00",
       "tags": [
         "note",
         "info",
@@ -1370,33 +1396,6 @@
         "info",
         "research",
         "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:c6e97642255b6d96",
-      "url": "https://rhun.app/",
-      "title": "Show HN: Rhun, an open-source code editor written in assembly",
-      "summary": "43 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49926726",
-      "content_text": "43 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49926726",
-      "date_published": "2026-10-01T20:32:18+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:48c57876df63927b",
-      "url": "https://claude.com/blog/claude-code-mods",
-      "title": "Customize Claude Code with mods",
-      "summary": "Customize Claude Code with mods",
-      "content_text": "Customize Claude Code with mods",
-      "date_published": "2026-10-01T19:35:17.736779+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]

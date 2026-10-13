@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 19:50:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 02:04:20 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>AI models may be capable of self-replicating without access to a datacenter</title>
+<link>https://www.anthropic.com/research/self-replicating-ai</link>
+<guid isPermaLink="false">frontierfeed:60af9b60cb8c7ac3</guid>
+<pubDate>Mon, 12 Oct 2026 19:25:29 +0000</pubDate>
+<category>note</category>
+<description>77 points, 95 comments. Discussion: https://news.ycombinator.com/item?id=50061603</description>
+</item>
 <item>
 <title>Just say no to OpenAI and Anthropic</title>
 <link>https://micahflee.com/just-say-no-to-openai-and-anthropic/</link>
@@ -38,6 +46,14 @@
 <pubDate>Mon, 12 Oct 2026 05:03:47 +0000</pubDate>
 <category>note</category>
 <description>53 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50051583</description>
+</item>
+<item>
+<title>Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p</title>
+<link>https://github.com/SaarthurR/atticus-mac</link>
+<guid isPermaLink="false">frontierfeed:a0e45fbc757e52b7</guid>
+<pubDate>Mon, 12 Oct 2026 00:15:12 +0000</pubDate>
+<category>note</category>
+<description>68 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50049588</description>
 </item>
 <item>
 <title>[breaking] v1.0.0</title>
@@ -798,22 +814,6 @@
 <pubDate>Fri, 02 Oct 2026 09:59:47 +0000</pubDate>
 <category>research</category>
 <description>Propaganda detection is an essential task in natural language processing (NLP), particularly in the context of manipulative political communications.</description>
-</item>
-<item>
-<title>Show HN: Rhun, an open-source code editor written in assembly</title>
-<link>https://rhun.app/</link>
-<guid isPermaLink="false">frontierfeed:c6e97642255b6d96</guid>
-<pubDate>Thu, 01 Oct 2026 20:32:18 +0000</pubDate>
-<category>note</category>
-<description>43 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49926726</description>
-</item>
-<item>
-<title>Customize Claude Code with mods</title>
-<link>https://claude.com/blog/claude-code-mods</link>
-<guid isPermaLink="false">frontierfeed:48c57876df63927b</guid>
-<pubDate>Thu, 01 Oct 2026 19:35:17 +0000</pubDate>
-<category>claude-code</category>
-<description>Customize Claude Code with mods</description>
 </item>
 </channel>
 </rss>
