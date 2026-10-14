@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, model releases only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 07:42:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 13:47:16 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-releases.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — model releases</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing Claude Opus 5</title>
+<link>https://www.anthropic.com/news/claude-opus-5</link>
+<guid isPermaLink="false">frontierfeed:cb3d7ccb220b7d1b</guid>
+<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
+<category>model-release</category>
+<description>Introducing Claude Opus 5</description>
+</item>
 <item>
 <title>Introducing the Anthropic Cyber Mission</title>
 <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
@@ -70,22 +78,6 @@
 <pubDate>Sun, 13 Sep 2026 06:15:18 +0000</pubDate>
 <category>launch</category>
 <description>We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.</description>
-</item>
-<item>
-<title>Introducing a way to reflect on how you use Claude</title>
-<link>https://www.anthropic.com/news/reflect-with-claude</link>
-<guid isPermaLink="false">frontierfeed:809fa8fc0fec0bfb</guid>
-<pubDate>Fri, 11 Sep 2026 22:38:15 +0000</pubDate>
-<category>launch</category>
-<description>Introducing a way to reflect on how you use Claude</description>
-</item>
-<item>
-<title>Introducing Claude for Teachers</title>
-<link>https://www.anthropic.com/news/claude-for-teachers</link>
-<guid isPermaLink="false">frontierfeed:d2853d72add8b969</guid>
-<pubDate>Fri, 11 Sep 2026 19:46:37 +0000</pubDate>
-<category>launch</category>
-<description>Introducing Claude for Teachers</description>
 </item>
 </channel>
 </rss>

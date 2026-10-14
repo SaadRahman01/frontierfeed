@@ -9,6 +9,106 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:823e8100cfe93440",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "summary": "Ask Claude about the Anthropic Economic Index",
+      "content_text": "Ask Claude about the Anthropic Economic Index",
+      "date_published": "2026-10-14T13:47:04.197572+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:cb3d7ccb220b7d1b",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "title": "Introducing Claude Opus 5",
+      "summary": "Introducing Claude Opus 5",
+      "content_text": "Introducing Claude Opus 5",
+      "date_published": "2026-10-14T13:47:04.197541+00:00",
+      "tags": [
+        "model-release",
+        "feature",
+        "official",
+        "news",
+        "opus"
+      ]
+    },
+    {
+      "id": "frontierfeed:f4b18b12b32ef53c",
+      "url": "https://www.anthropic.com/news/cognizant-anthropic",
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "content_text": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "date_published": "2026-10-14T13:47:04.197526+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "frontierfeed:9a13f34e2ecc4eb4",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "title": "Our position on open-weights models",
+      "summary": "Our position on open-weights models",
+      "content_text": "Our position on open-weights models",
+      "date_published": "2026-10-14T13:47:04.197510+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:37147b115f3e1032",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "content_text": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "date_published": "2026-10-14T13:47:04.197495+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:778a0265f5854c98",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "content_text": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "date_published": "2026-10-14T13:47:04.197479+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:67a4d3c1b57d9cd3",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "summary": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "content_text": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "date_published": "2026-10-14T13:47:04.197162+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
       "id": "frontierfeed:2a2fbdbbff7d8e3f",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
       "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
@@ -113,6 +213,19 @@
       "date_published": "2026-10-13T11:32:00+00:00",
       "tags": [
         "api",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:026195d6cb35827a",
+      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+      "title": "AI models may soon self-replicate without access to data centers",
+      "summary": "40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333",
+      "content_text": "40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333",
+      "date_published": "2026-10-13T10:08:18+00:00",
+      "tags": [
+        "note",
         "info",
         "community"
       ]
@@ -1286,115 +1399,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:b9f48ae78d48e2fc",
-      "url": "https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
-      "title": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
-      "summary": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
-      "content_text": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
-      "date_published": "2026-10-05T16:06:31.248275+00:00",
-      "tags": [
-        "api",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:9c3f406153af17fd",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "summary": "49 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49961057",
-      "content_text": "49 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49961057",
-      "date_published": "2026-10-05T05:37:40+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:34bd529cc6f7fbd3",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "title": "Religious scholars met with Anthropic",
-      "summary": "56 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=49950052",
-      "content_text": "56 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=49950052",
-      "date_published": "2026-10-04T02:34:22+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:5c538f75557a17d5",
-      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "title": "Expanding our support for scientists",
-      "summary": "Expanding our support for scientists",
-      "content_text": "Expanding our support for scientists",
-      "date_published": "2026-10-04T00:42:01.463904+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:2ab8b5b7fddd0d84",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.241",
-      "title": "v1.0.241",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.240...v1.0.241",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.240...v1.0.241",
-      "date_published": "2026-10-03T23:16:10+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:673dd1a36e0bee05",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.289",
-      "title": "@anthropic-ai/claude-code 2.1.289 published",
-      "summary": "Version 2.1.289 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.289 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-03T20:12:02.717000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:a91e018c3fc40b53",
-      "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
-      "title": "Anthropic tried to persuade Pope that AI could be conscious being",
-      "summary": "46 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49947050",
-      "content_text": "46 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49947050",
-      "date_published": "2026-10-03T19:33:10+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:5b0429d59be7c93c",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "summary": "55 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49946567",
-      "content_text": "55 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49946567",
-      "date_published": "2026-10-03T18:29:30+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community",
-        "opus"
       ]
     }
   ]

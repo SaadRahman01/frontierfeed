@@ -1,6 +1,120 @@
 {
   "items": [
     {
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "source": "anthropic-news",
+      "published": "2026-10-14T13:47:04.197572+00:00",
+      "body": "Ask Claude about the Anthropic Economic Index",
+      "summary": "Ask Claude about the Anthropic Economic Index",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "823e8100cfe93440"
+    },
+    {
+      "title": "Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "anthropic-news",
+      "published": "2026-10-14T13:47:04.197541+00:00",
+      "body": "Introducing Claude Opus 5",
+      "summary": "Introducing Claude Opus 5",
+      "version": "",
+      "category": "model-release",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "news",
+        "opus"
+      ],
+      "uid": "cb3d7ccb220b7d1b"
+    },
+    {
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "url": "https://www.anthropic.com/news/cognizant-anthropic",
+      "source": "anthropic-news",
+      "published": "2026-10-14T13:47:04.197526+00:00",
+      "body": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news",
+        "enterprise"
+      ],
+      "uid": "f4b18b12b32ef53c"
+    },
+    {
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "anthropic-news",
+      "published": "2026-10-14T13:47:04.197510+00:00",
+      "body": "Our position on open-weights models",
+      "summary": "Our position on open-weights models",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "9a13f34e2ecc4eb4"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "source": "anthropic-news",
+      "published": "2026-10-14T13:47:04.197495+00:00",
+      "body": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "37147b115f3e1032"
+    },
+    {
+      "title": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "source": "anthropic-news",
+      "published": "2026-10-14T13:47:04.197479+00:00",
+      "body": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
+      "summary": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "778a0265f5854c98"
+    },
+    {
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "source": "anthropic-news",
+      "published": "2026-10-14T13:47:04.197162+00:00",
+      "body": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "summary": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "67a4d3c1b57d9cd3"
+    },
+    {
       "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
       "source": "hackernews",
@@ -124,6 +238,21 @@
         "community"
       ],
       "uid": "e720c265a2c1a2a3"
+    },
+    {
+      "title": "AI models may soon self-replicate without access to data centers",
+      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+      "source": "hackernews",
+      "published": "2026-10-13T10:08:18+00:00",
+      "body": "40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333",
+      "summary": "40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "026195d6cb35827a"
     },
     {
       "title": "Strengthening our defenses against distillation attacks",
@@ -4644,134 +4773,6 @@
         "news"
       ],
       "uid": "4d2c2b1a01b6d2bc"
-    },
-    {
-      "title": "Introducing a way to reflect on how you use Claude",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "source": "anthropic-news",
-      "published": "2026-09-11T22:38:15.544190+00:00",
-      "body": "Introducing a way to reflect on how you use Claude",
-      "summary": "Introducing a way to reflect on how you use Claude",
-      "version": "",
-      "category": "launch",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "809fa8fc0fec0bfb"
-    },
-    {
-      "title": "Introducing Claude for Teachers",
-      "url": "https://www.anthropic.com/news/claude-for-teachers",
-      "source": "anthropic-news",
-      "published": "2026-09-11T19:46:37.925096+00:00",
-      "body": "Introducing Claude for Teachers",
-      "summary": "Introducing Claude for Teachers",
-      "version": "",
-      "category": "launch",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "d2853d72add8b969"
-    },
-    {
-      "title": "Anthropic commits $10 million to Canadian AI research",
-      "url": "https://www.anthropic.com/news/canadian-ai-research",
-      "source": "anthropic-news",
-      "published": "2026-09-11T19:46:37.925084+00:00",
-      "body": "Anthropic commits $10 million to Canadian AI research",
-      "summary": "Anthropic commits $10 million to Canadian AI research",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "9cc3635eef1ed303"
-    },
-    {
-      "title": "Apply for Anthropic\u2019s AI for Science rare disease research grants",
-      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
-      "source": "anthropic-news",
-      "published": "2026-09-11T19:46:37.925073+00:00",
-      "body": "Apply for Anthropic\u2019s AI for Science rare disease research grants",
-      "summary": "Apply for Anthropic\u2019s AI for Science rare disease research grants",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "814defbc4d993719"
-    },
-    {
-      "title": "Anthropic is donating another $20 million to Public First Action",
-      "url": "https://www.anthropic.com/news/donation-public-first-action",
-      "source": "anthropic-news",
-      "published": "2026-09-11T19:46:37.925062+00:00",
-      "body": "Anthropic is donating another $20 million to Public First Action",
-      "summary": "Anthropic is donating another $20 million to Public First Action",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "e4ad39e0daa84e86"
-    },
-    {
-      "title": "v1.0.222",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.222",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-11T19:20:03+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.221...v1.0.222",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.221...v1.0.222",
-      "version": "1.0.222",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "02613596359af508"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.269 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.269",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-11T18:12:49.253000+00:00",
-      "body": "Version 2.1.269 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.269 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.269",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "05c3182a9b9e8d83"
-    },
-    {
-      "title": "A research agenda for the Economic Futures Research Fund",
-      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "source": "anthropic-news",
-      "published": "2026-09-11T16:33:06.232382+00:00",
-      "body": "A research agenda for the Economic Futures Research Fund",
-      "summary": "A research agenda for the Economic Futures Research Fund",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "0ea1743424c3f00b"
     }
   ]
 }

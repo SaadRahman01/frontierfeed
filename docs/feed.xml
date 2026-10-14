@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 07:42:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 13:47:16 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,62 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Ask Claude about the Anthropic Economic Index</title>
+<link>https://www.anthropic.com/news/anthropic-economic-index-connector</link>
+<guid isPermaLink="false">frontierfeed:823e8100cfe93440</guid>
+<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
+<category>note</category>
+<description>Ask Claude about the Anthropic Economic Index</description>
+</item>
+<item>
+<title>Introducing Claude Opus 5</title>
+<link>https://www.anthropic.com/news/claude-opus-5</link>
+<guid isPermaLink="false">frontierfeed:cb3d7ccb220b7d1b</guid>
+<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
+<category>model-release</category>
+<description>Introducing Claude Opus 5</description>
+</item>
+<item>
+<title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
+<link>https://www.anthropic.com/news/cognizant-anthropic</link>
+<guid isPermaLink="false">frontierfeed:f4b18b12b32ef53c</guid>
+<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
+<category>note</category>
+<description>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</description>
+</item>
+<item>
+<title>Our position on open-weights models</title>
+<link>https://www.anthropic.com/news/position-open-weights-models</link>
+<guid isPermaLink="false">frontierfeed:9a13f34e2ecc4eb4</guid>
+<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
+<category>note</category>
+<description>Our position on open-weights models</description>
+</item>
+<item>
+<title>Investigating three real-world incidents in our cybersecurity evaluations</title>
+<link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
+<guid isPermaLink="false">frontierfeed:37147b115f3e1032</guid>
+<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
+<category>note</category>
+<description>Investigating three real-world incidents in our cybersecurity evaluations</description>
+</item>
+<item>
+<title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
+<link>https://www.anthropic.com/news/tino-cuellar</link>
+<guid isPermaLink="false">frontierfeed:778a0265f5854c98</guid>
+<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
+<category>note</category>
+<description>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</description>
+</item>
+<item>
+<title>Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
+<link>https://www.anthropic.com/news/singapore-office-opening</link>
+<guid isPermaLink="false">frontierfeed:67a4d3c1b57d9cd3</guid>
+<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
+<category>note</category>
+<description>Anthropic opens Singapore office and signs MOU with the Government of Singapore</description>
+</item>
 <item>
 <title>Anthropic conjures threat that doesn&#x27;t exist yet to stoke fears of AI apocalypse</title>
 <link>https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866</link>
@@ -78,6 +134,14 @@
 <pubDate>Tue, 13 Oct 2026 11:32:00 +0000</pubDate>
 <category>api</category>
 <description>50 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50070010</description>
+</item>
+<item>
+<title>AI models may soon self-replicate without access to data centers</title>
+<link>https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/</link>
+<guid isPermaLink="false">frontierfeed:026195d6cb35827a</guid>
+<pubDate>Tue, 13 Oct 2026 10:08:18 +0000</pubDate>
+<category>note</category>
+<description>40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333</description>
 </item>
 <item>
 <title>Strengthening our defenses against distillation attacks</title>
@@ -750,70 +814,6 @@
 <pubDate>Mon, 05 Oct 2026 18:12:44 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.290 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</title>
-<link>https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</link>
-<guid isPermaLink="false">frontierfeed:b9f48ae78d48e2fc</guid>
-<pubDate>Mon, 05 Oct 2026 16:06:31 +0000</pubDate>
-<category>api</category>
-<description>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</description>
-</item>
-<item>
-<title>Anthropic reported diary entry to police, woman faces felony charge</title>
-<link>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</link>
-<guid isPermaLink="false">frontierfeed:9c3f406153af17fd</guid>
-<pubDate>Mon, 05 Oct 2026 05:37:40 +0000</pubDate>
-<category>note</category>
-<description>49 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49961057</description>
-</item>
-<item>
-<title>Religious scholars met with Anthropic</title>
-<link>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</link>
-<guid isPermaLink="false">frontierfeed:34bd529cc6f7fbd3</guid>
-<pubDate>Sun, 04 Oct 2026 02:34:22 +0000</pubDate>
-<category>note</category>
-<description>56 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=49950052</description>
-</item>
-<item>
-<title>Expanding our support for scientists</title>
-<link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
-<guid isPermaLink="false">frontierfeed:5c538f75557a17d5</guid>
-<pubDate>Sun, 04 Oct 2026 00:42:01 +0000</pubDate>
-<category>note</category>
-<description>Expanding our support for scientists</description>
-</item>
-<item>
-<title>v1.0.241</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.241</link>
-<guid isPermaLink="false">frontierfeed:2ab8b5b7fddd0d84</guid>
-<pubDate>Sat, 03 Oct 2026 23:16:10 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.240...v1.0.241</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.289 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.289</link>
-<guid isPermaLink="false">frontierfeed:673dd1a36e0bee05</guid>
-<pubDate>Sat, 03 Oct 2026 20:12:02 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.289 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Anthropic tried to persuade Pope that AI could be conscious being</title>
-<link>https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/</link>
-<guid isPermaLink="false">frontierfeed:a91e018c3fc40b53</guid>
-<pubDate>Sat, 03 Oct 2026 19:33:10 +0000</pubDate>
-<category>note</category>
-<description>46 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49947050</description>
-</item>
-<item>
-<title>Getting the most out of Opus 5.5 in Claude and Claude Code</title>
-<link>https://claude.dev/blog/getting-the-most-out-of-opus-5-5/</link>
-<guid isPermaLink="false">frontierfeed:5b0429d59be7c93c</guid>
-<pubDate>Sat, 03 Oct 2026 18:29:30 +0000</pubDate>
-<category>claude-code</category>
-<description>55 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49946567</description>
 </item>
 </channel>
 </rss>
