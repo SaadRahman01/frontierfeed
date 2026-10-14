@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "@anthropic-ai/claude-code 2.1.299 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.299",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-14T00:23:19.588000+00:00",
+      "body": "Version 2.1.299 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.299 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.299",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "5fd29179c195bfa2"
+    },
+    {
       "title": "Uber's CISO on building an insider threat program for AI",
       "url": "https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai",
       "source": "claude-blog",
@@ -16,6 +32,21 @@
         "enterprise"
       ],
       "uid": "6342af68165503b4"
+    },
+    {
+      "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "source": "hackernews",
+      "published": "2026-10-13T19:50:31+00:00",
+      "body": "50 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50077619",
+      "summary": "50 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50077619",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "2840611b3635b38c"
     },
     {
       "title": "Redesigning source control at Anthropic",
@@ -47,6 +78,36 @@
         "community"
       ],
       "uid": "0b964f1b3ecd4d8e"
+    },
+    {
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "url": "https://github.com/LargeModGames/spotatui",
+      "source": "hackernews",
+      "published": "2026-10-13T11:32:00+00:00",
+      "body": "50 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50070010",
+      "summary": "50 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50070010",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "e720c265a2c1a2a3"
+    },
+    {
+      "title": "Strengthening our defenses against distillation attacks",
+      "url": "https://www.anthropic.com/research/distillation-defenses",
+      "source": "hackernews",
+      "published": "2026-10-13T01:46:47+00:00",
+      "body": "42 points, 92 comments. Discussion: https://news.ycombinator.com/item?id=50065553",
+      "summary": "42 points, 92 comments. Discussion: https://news.ycombinator.com/item?id=50065553",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "188593f761fca1db"
     },
     {
       "title": "AI models may be capable of self-replicating without access to a datacenter",
@@ -4713,70 +4774,6 @@
         "opus"
       ],
       "uid": "cb3d7ccb220b7d1b"
-    },
-    {
-      "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
-      "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
-      "source": "hackernews",
-      "published": "2026-09-11T11:36:24+00:00",
-      "body": "47 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49656698",
-      "summary": "47 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49656698",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "938450d2513fc1d5"
-    },
-    {
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "source": "anthropic-news",
-      "published": "2026-09-11T11:28:20.349762+00:00",
-      "body": "Our position on open-weights models",
-      "summary": "Our position on open-weights models",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "9a13f34e2ecc4eb4"
-    },
-    {
-      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "url": "https://www.anthropic.com/news/cognizant-anthropic",
-      "source": "anthropic-news",
-      "published": "2026-09-11T11:28:20.349740+00:00",
-      "body": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news",
-        "enterprise"
-      ],
-      "uid": "f4b18b12b32ef53c"
-    },
-    {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "source": "anthropic-news",
-      "published": "2026-09-11T06:04:01.074294+00:00",
-      "body": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "37147b115f3e1032"
     }
   ]
 }

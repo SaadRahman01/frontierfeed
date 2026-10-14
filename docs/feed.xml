@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 22:50:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:57:09 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -16,12 +16,28 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
 <item>
+<title>@anthropic-ai/claude-code 2.1.299 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.299</link>
+<guid isPermaLink="false">frontierfeed:5fd29179c195bfa2</guid>
+<pubDate>Wed, 14 Oct 2026 00:23:19 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.299 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
 <title>Uber&#x27;s CISO on building an insider threat program for AI</title>
 <link>https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai</link>
 <guid isPermaLink="false">frontierfeed:6342af68165503b4</guid>
 <pubDate>Tue, 13 Oct 2026 22:50:08 +0000</pubDate>
 <category>note</category>
 <description>Uber&#x27;s CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber&#x27;s open-source tooling works alongside Enterprise Frontier Safeguards.</description>
+</item>
+<item>
+<title>Show HN: Parsimony – an open-source benchmark for how much code AI models add</title>
+<link>https://parsimony.lasu.dev/</link>
+<guid isPermaLink="false">frontierfeed:2840611b3635b38c</guid>
+<pubDate>Tue, 13 Oct 2026 19:50:31 +0000</pubDate>
+<category>note</category>
+<description>50 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50077619</description>
 </item>
 <item>
 <title>Redesigning source control at Anthropic</title>
@@ -38,6 +54,22 @@
 <pubDate>Tue, 13 Oct 2026 14:14:23 +0000</pubDate>
 <category>note</category>
 <description>109 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50072120</description>
+</item>
+<item>
+<title>Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits</title>
+<link>https://github.com/LargeModGames/spotatui</link>
+<guid isPermaLink="false">frontierfeed:e720c265a2c1a2a3</guid>
+<pubDate>Tue, 13 Oct 2026 11:32:00 +0000</pubDate>
+<category>api</category>
+<description>50 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50070010</description>
+</item>
+<item>
+<title>Strengthening our defenses against distillation attacks</title>
+<link>https://www.anthropic.com/research/distillation-defenses</link>
+<guid isPermaLink="false">frontierfeed:188593f761fca1db</guid>
+<pubDate>Tue, 13 Oct 2026 01:46:47 +0000</pubDate>
+<category>note</category>
+<description>42 points, 92 comments. Discussion: https://news.ycombinator.com/item?id=50065553</description>
 </item>
 <item>
 <title>AI models may be capable of self-replicating without access to a datacenter</title>
@@ -782,38 +814,6 @@
 <pubDate>Sat, 03 Oct 2026 08:40:17 +0000</pubDate>
 <category>note</category>
 <description>62 points, 32 comments. Discussion: https://news.ycombinator.com/item?id=49942434</description>
-</item>
-<item>
-<title>Previewing the Model Hardware Standard</title>
-<link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
-<guid isPermaLink="false">frontierfeed:1a42e045640872a6</guid>
-<pubDate>Sat, 03 Oct 2026 02:02:41 +0000</pubDate>
-<category>note</category>
-<description>Previewing the Model Hardware Standard</description>
-</item>
-<item>
-<title>v1.0.240</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.240</link>
-<guid isPermaLink="false">frontierfeed:0e0d4b9fac0a82e3</guid>
-<pubDate>Fri, 02 Oct 2026 20:30:21 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.239...v1.0.240</description>
-</item>
-<item>
-<title>Show HN: Made an open-source Lego AI generator</title>
-<link>https://github.com/anteloc/ldraw-nova</link>
-<guid isPermaLink="false">frontierfeed:be98988a7c782d62</guid>
-<pubDate>Fri, 02 Oct 2026 20:00:15 +0000</pubDate>
-<category>note</category>
-<description>48 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49937916</description>
-</item>
-<item>
-<title>Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server</title>
-<link>https://pipod.dev/</link>
-<guid isPermaLink="false">frontierfeed:3b1b998c670345ee</guid>
-<pubDate>Fri, 02 Oct 2026 19:10:38 +0000</pubDate>
-<category>note</category>
-<description>48 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49937304</description>
 </item>
 </channel>
 </rss>
