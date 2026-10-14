@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 01:57:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 07:42:49 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Anthropic conjures threat that doesn&#x27;t exist yet to stoke fears of AI apocalypse</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866</link>
+<guid isPermaLink="false">frontierfeed:2a2fbdbbff7d8e3f</guid>
+<pubDate>Wed, 14 Oct 2026 05:53:36 +0000</pubDate>
+<category>note</category>
+<description>62 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50082962</description>
+</item>
+<item>
+<title>v1.0.249</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.249</link>
+<guid isPermaLink="false">frontierfeed:4b50c9fb51e66f88</guid>
+<pubDate>Wed, 14 Oct 2026 02:57:56 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.248...v1.0.249</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.299 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.299</link>
@@ -798,22 +814,6 @@
 <pubDate>Sat, 03 Oct 2026 18:29:30 +0000</pubDate>
 <category>claude-code</category>
 <description>55 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49946567</description>
-</item>
-<item>
-<title>LeCun has &quot;zero concerns&quot; about AI wiping out humanity, recent &quot;rogue&quot; incidents</title>
-<link>https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/</link>
-<guid isPermaLink="false">frontierfeed:1ab447255196d4b2</guid>
-<pubDate>Sat, 03 Oct 2026 17:44:29 +0000</pubDate>
-<category>note</category>
-<description>72 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=49946228</description>
-</item>
-<item>
-<title>Show HN: Offrun – manage every coding agent from one workspace</title>
-<link>https://offrun.dev/</link>
-<guid isPermaLink="false">frontierfeed:982827686795d290</guid>
-<pubDate>Sat, 03 Oct 2026 08:40:17 +0000</pubDate>
-<category>note</category>
-<description>62 points, 32 comments. Discussion: https://news.ycombinator.com/item?id=49942434</description>
 </item>
 </channel>
 </rss>

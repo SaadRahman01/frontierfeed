@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+      "source": "hackernews",
+      "published": "2026-10-14T05:53:36+00:00",
+      "body": "62 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50082962",
+      "summary": "62 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50082962",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "2a2fbdbbff7d8e3f"
+    },
+    {
+      "title": "v1.0.249",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.249",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-14T02:57:56+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.248...v1.0.249",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.248...v1.0.249",
+      "version": "1.0.249",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "4b50c9fb51e66f88"
+    },
+    {
       "title": "@anthropic-ai/claude-code 2.1.299 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.299",
       "source": "npm:@anthropic-ai/claude-code",
@@ -4741,39 +4772,6 @@
         "news"
       ],
       "uid": "0ea1743424c3f00b"
-    },
-    {
-      "title": "Ask Claude about the Anthropic Economic Index",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "source": "anthropic-news",
-      "published": "2026-09-11T16:33:06.232361+00:00",
-      "body": "Ask Claude about the Anthropic Economic Index",
-      "summary": "Ask Claude about the Anthropic Economic Index",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "823e8100cfe93440"
-    },
-    {
-      "title": "Introducing Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "source": "anthropic-news",
-      "published": "2026-09-11T16:33:06.232338+00:00",
-      "body": "Introducing Claude Opus 5",
-      "summary": "Introducing Claude Opus 5",
-      "version": "",
-      "category": "model-release",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "news",
-        "opus"
-      ],
-      "uid": "cb3d7ccb220b7d1b"
     }
   ]
 }

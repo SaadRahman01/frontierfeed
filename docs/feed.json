@@ -9,6 +9,33 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:2a2fbdbbff7d8e3f",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+      "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+      "summary": "62 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50082962",
+      "content_text": "62 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50082962",
+      "date_published": "2026-10-14T05:53:36+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:4b50c9fb51e66f88",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.249",
+      "title": "v1.0.249",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.248...v1.0.249",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.248...v1.0.249",
+      "date_published": "2026-10-14T02:57:56+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:5fd29179c195bfa2",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.299",
       "title": "@anthropic-ai/claude-code 2.1.299 published",
@@ -1368,32 +1395,6 @@
         "info",
         "community",
         "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:1ab447255196d4b2",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "summary": "72 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=49946228",
-      "content_text": "72 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=49946228",
-      "date_published": "2026-10-03T17:44:29+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:982827686795d290",
-      "url": "https://offrun.dev/",
-      "title": "Show HN: Offrun – manage every coding agent from one workspace",
-      "summary": "62 points, 32 comments. Discussion: https://news.ycombinator.com/item?id=49942434",
-      "content_text": "62 points, 32 comments. Discussion: https://news.ycombinator.com/item?id=49942434",
-      "date_published": "2026-10-03T08:40:17+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
