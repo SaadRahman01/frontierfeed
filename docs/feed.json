@@ -9,6 +9,148 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:8431345bd0690d0b",
+      "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
+      "title": "Agent observability on the Claude Platform",
+      "summary": "Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.",
+      "content_text": "Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.",
+      "date_published": "2026-10-14T18:40:31.867842+00:00",
+      "tags": [
+        "api",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:0c9413fdbd1e4ca2",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.250",
+      "title": "v1.0.250",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.249...v1.0.250",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.249...v1.0.250",
+      "date_published": "2026-10-14T18:38:52+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:21dc55d5b68fdf0e",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.1.0",
+      "title": "google-cloud-sdk-v0.1.0",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "date_published": "2026-10-14T17:13:24+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:1c6f5924c02e8bc4",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.8.0",
+      "title": "aws-sdk-v0.8.0",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "date_published": "2026-10-14T17:13:22+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:b77486b4b8f09da8",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.6.0",
+      "title": "foundry-sdk-v0.6.0",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "date_published": "2026-10-14T17:13:19+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:2c305a60738040c3",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.35.0",
+      "title": "bedrock-sdk-v0.35.0",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "date_published": "2026-10-14T17:13:16+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:8040790851a5ec96",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.21.0",
+      "title": "vertex-sdk-v0.21.0",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "date_published": "2026-10-14T17:13:14+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:63502ed7f155d606",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.134.0",
+      "title": "sdk-v0.134.0",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** emit OpenTelem…",
+      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** emit OpenTelem…",
+      "date_published": "2026-10-14T17:13:11+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "frontierfeed:2a657ad9ca7d5ad2",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.14.0",
+      "title": "v1.14.0",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** add OpenTeleme…",
+      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** add OpenTeleme…",
+      "date_published": "2026-10-14T17:13:08+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-python",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "frontierfeed:ecc84831383f7e91",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.300",
+      "title": "@anthropic-ai/claude-code 2.1.300 published",
+      "summary": "Version 2.1.300 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.300 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-14T14:27:26.554000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:823e8100cfe93440",
       "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
       "title": "Ask Claude about the Anthropic Economic Index",
@@ -1263,142 +1405,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:55df0f703e7af21a",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "summary": "90 points, 48 comments. Discussion: https://news.ycombinator.com/item?id=49981905",
-      "content_text": "90 points, 48 comments. Discussion: https://news.ycombinator.com/item?id=49981905",
-      "date_published": "2026-10-06T18:00:34+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:845df7588ea61854",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.292",
-      "title": "@anthropic-ai/claude-code 2.1.292 published",
-      "summary": "Version 2.1.292 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.292 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-06T17:10:31.715000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:d81bd350f4faf035",
-      "url": "https://github.com/longsurf-ai/openchart",
-      "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
-      "summary": "41 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49979793",
-      "content_text": "41 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49979793",
-      "date_published": "2026-10-06T15:16:45+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:1cec5e35a3635c0f",
-      "url": "https://arxiv.org/abs/2610.07935v1",
-      "title": "SIGMA: Self-Improving Alignment Generalization from a Model Spec",
-      "summary": "LLM agents are increasingly capable of executing complex tasks and of recursively improving themselves on easy-to-verify objectives such as software engineering and mathematics.",
-      "content_text": "LLM agents are increasingly capable of executing complex tasks and of recursively improving themselves on easy-to-verify objectives such as software engineering and mathematics.",
-      "date_published": "2026-10-06T08:09:56+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:97198b52d27a9414",
-      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-      "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-      "summary": "75 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=49975345",
-      "content_text": "75 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=49975345",
-      "date_published": "2026-10-06T07:29:50+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:deaab6fa87a6d08f",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.243",
-      "title": "v1.0.243",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.242...v1.0.243",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.242...v1.0.243",
-      "date_published": "2026-10-06T04:03:51+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:01c9ededf1fc7974",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.291",
-      "title": "@anthropic-ai/claude-code 2.1.291 published",
-      "summary": "Version 2.1.291 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.291 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-06T03:32:36.856000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:6f0ed8de4e7c4acc",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.242",
-      "title": "v1.0.242",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.241...v1.0.242",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.241...v1.0.242",
-      "date_published": "2026-10-05T23:38:07+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:d1db354f307d9d09",
-      "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
-      "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
-      "summary": "56 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=49971473",
-      "content_text": "56 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=49971473",
-      "date_published": "2026-10-05T22:01:35+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:12e38a1ac4df1c00",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.290",
-      "title": "@anthropic-ai/claude-code 2.1.290 published",
-      "summary": "Version 2.1.290 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.290 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-05T18:12:44.907000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]

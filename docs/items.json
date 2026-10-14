@@ -1,9 +1,171 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-14T13:47:16.926433+00:00",
+  "generated": "2026-10-14T18:40:42.488517+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Agent observability on the Claude Platform",
+      "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
+      "source": "claude-blog",
+      "published": "2026-10-14T18:40:31.867842+00:00",
+      "body": "Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.",
+      "summary": "Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "8431345bd0690d0b"
+    },
+    {
+      "title": "v1.0.250",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.250",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-14T18:38:52+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.249...v1.0.250",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.249...v1.0.250",
+      "version": "1.0.250",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "0c9413fdbd1e4ca2"
+    },
+    {
+      "title": "google-cloud-sdk-v0.1.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.1.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-14T17:13:24+00:00",
+      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **client:** add OpenTelemetry spans for API calls\n\n\n### Chores\n\n* include the license files in the published packages\n* **internal:** strip `@internal` declarations from published types",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "version": "google-cloud-sdk-v0.1.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "21dc55d5b68fdf0e"
+    },
+    {
+      "title": "aws-sdk-v0.8.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.8.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-14T17:13:22+00:00",
+      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **client:** add OpenTelemetry spans for API calls\n\n\n### Chores\n\n* include the license files in the published packages\n* **internal:** strip `@internal` declarations from published types",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "version": "aws-sdk-v0.8.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "1c6f5924c02e8bc4"
+    },
+    {
+      "title": "foundry-sdk-v0.6.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.6.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-14T17:13:19+00:00",
+      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **client:** add OpenTelemetry spans for API calls\n\n\n### Chores\n\n* include the license files in the published packages\n* **internal:** strip `@internal` declarations from published types",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "version": "foundry-sdk-v0.6.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "b77486b4b8f09da8"
+    },
+    {
+      "title": "bedrock-sdk-v0.35.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.35.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-14T17:13:16+00:00",
+      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **client:** add OpenTelemetry spans for API calls\n\n\n### Chores\n\n* include the license files in the published packages\n* **internal:** strip `@internal` declarations from published types",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "version": "bedrock-sdk-v0.35.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "2c305a60738040c3"
+    },
+    {
+      "title": "vertex-sdk-v0.21.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.21.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-14T17:13:14+00:00",
+      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **client:** add OpenTelemetry spans for API calls\n\n\n### Chores\n\n* include the license files in the published packages\n* **internal:** strip `@internal` declarations from published types",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
+      "version": "ertex-sdk-v0.21.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "8040790851a5ec96"
+    },
+    {
+      "title": "sdk-v0.134.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.134.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-14T17:13:11+00:00",
+      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **api:** add organization_type_not_supported error to spend limit lists\n* **api:** add telemetry destination test endpoint\n* **api:** add telemetry destinations to the Admin API\n* **client:** emit OpenTelemetry spans for API calls, streams and tool runs. They are on by default and need no setup in the SDK: the spans appear once the application has registered a tracer provider with the OpenTelemetry API, and there are none without one. Requests carry the trace context in `traceparent`, and in the other headers that the registered propagator writes. This adds a dependency on `@opentelemetry/api` (`^1.4.1`). `openTelemetry: false` or `ANTHROPIC_OPEN_TELEMETRY=false` turns all of it off; `openTelemetry: { propagation: false }` or `ANTHROPIC_OPEN_TELEMETRY_PROPAGATION=false` keeps the spans and sends no trace headers; the variables apply only to a client that is given no `openTelemetry` option\n\n\n### Bug Fixes\n\n* **api:** rename telemetry destination test response model\n* **client:** close an unread stream that was dropped while tracing is on\n* **client:** don't follow redirects on token requests\n* **client:** treat proxy-authorization as a sensitive header\n\n\n### Bug Fixes\n\n* **streaming:** tolerate unknown event types in MessageStream and BetaMessageStream\n* **streaming:** stop throwing \"Unexpected event order\" for an event before message_start\n* **streaming:** yield events that arrive before message_start when iterating MessageStream and BetaMessageStream\n\n\n### Chores\n\n* **docs:** correct prefill, thinking, fallback and model descriptions\n* **docs:** document the scope required to assign the managed role\n* **docs:** update model examples\n* include the license files in the published packages\n* **internal:** narrow the tripwire test rule in the contributor guides\n* **internal:** remove `@internal` tag from a type that public types reference\n* **internal:** remove file-level `@internal` tags from toolset modules\n* **internal:** strip `@internal` declarations from published types\n* **internal:** type-check the built declarations in lint\n\n\n### Documentation\n\n* **api:** clarify when custom tool results can be sent\n* **api:** say is_enabled is always true for user spend limits\n* move more shared rules into the shared part of CLAUDE.md\n* show examples of streaming-only methods iterating the stream",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** emit OpenTelem\u2026",
+      "version": "sdk-v0.134.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "enterprise"
+      ],
+      "uid": "63502ed7f155d606"
+    },
+    {
+      "title": "v1.14.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.14.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-10-14T17:13:08+00:00",
+      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **api:** add organization_type_not_supported error to spend limit lists\n* **api:** add telemetry destination test endpoint\n* **api:** add telemetry destinations to the Admin API\n* **client:** add OpenTelemetry tracing for API calls, streaming and tool runs\n\n\n### Bug Fixes\n\n* **api:** rename telemetry destination test response model\n* **client:** close dropped streams without waiting for the collector\n* **streaming:** pass unknown event types through the message stream helpers\n* **streaming:** stop raising \"Unexpected event order\" for an event before message_start\n\n\n### Chores\n\n* **docs:** correct prefill, thinking, fallback and model descriptions\n* **docs:** document the scope required to assign the managed role\n* **docs:** update model examples\n* **internal:** narrow the tripwire test rule in the contributor guides\n\n\n### Documentation\n\n* **api:** clarify when custom tool results can be sent\n* **api:** say is_enabled is always true for user spend limits",
+      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** add OpenTeleme\u2026",
+      "version": "1.14.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "enterprise"
+      ],
+      "uid": "2a657ad9ca7d5ad2"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.300 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.300",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-14T14:27:26.554000+00:00",
+      "body": "Version 2.1.300 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.300 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.300",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "ecc84831383f7e91"
+    },
     {
       "title": "Ask Claude about the Anthropic Economic Index",
       "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
@@ -4621,162 +4783,6 @@
         "npm"
       ],
       "uid": "38040b6db6ccbfa3"
-    },
-    {
-      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-      "source": "hackernews",
-      "published": "2026-09-12T18:07:07+00:00",
-      "body": "44 points, 64 comments. Discussion: https://news.ycombinator.com/item?id=49675247",
-      "summary": "44 points, 64 comments. Discussion: https://news.ycombinator.com/item?id=49675247",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "ce21ba8d88ec51b8"
-    },
-    {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-      "source": "hackernews",
-      "published": "2026-09-12T16:56:52+00:00",
-      "body": "45 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=49674395",
-      "summary": "45 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=49674395",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "b0c4a22f738fedc4"
-    },
-    {
-      "title": "Ask HN: What default model do you use and why?",
-      "url": "https://news.ycombinator.com/item?id=49672966",
-      "source": "hackernews",
-      "published": "2026-09-12T14:58:44+00:00",
-      "body": "43 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=49672966",
-      "summary": "43 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=49672966",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "ae244c42d0e02698"
-    },
-    {
-      "title": "Claude Science, an AI workbench for scientists, is now available",
-      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "source": "anthropic-news",
-      "published": "2026-09-12T01:11:05.866239+00:00",
-      "body": "Claude Science, an AI workbench for scientists, is now available",
-      "summary": "Claude Science, an AI workbench for scientists, is now available",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "aa18a534f37db212"
-    },
-    {
-      "title": "Houthis used Anthropic to develop guided weapons",
-      "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
-      "source": "hackernews",
-      "published": "2026-09-11T22:44:03+00:00",
-      "body": "51 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49666425",
-      "summary": "51 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49666425",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "3a25f1d7e2f50c68"
-    },
-    {
-      "title": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
-      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-      "source": "anthropic-news",
-      "published": "2026-09-11T22:38:15.544287+00:00",
-      "body": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
-      "summary": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "8701478040a3ec25"
-    },
-    {
-      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-      "source": "anthropic-news",
-      "published": "2026-09-11T22:38:15.544268+00:00",
-      "body": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-      "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "b2528e7b03bcd03e"
-    },
-    {
-      "title": "UST is bringing Claude to physical AI",
-      "url": "https://www.anthropic.com/news/ust-claude",
-      "source": "anthropic-news",
-      "published": "2026-09-11T22:38:15.544248+00:00",
-      "body": "UST is bringing Claude to physical AI",
-      "summary": "UST is bringing Claude to physical AI",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "98c411147f36a0c1"
-    },
-    {
-      "title": "Inviting hard questions",
-      "url": "https://www.anthropic.com/news/hard-questions",
-      "source": "anthropic-news",
-      "published": "2026-09-11T22:38:15.544229+00:00",
-      "body": "Inviting hard questions",
-      "summary": "Inviting hard questions",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "1b338e30b6b31fa4"
-    },
-    {
-      "title": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
-      "url": "https://www.anthropic.com/news/ben-bernanke",
-      "source": "anthropic-news",
-      "published": "2026-09-11T22:38:15.544210+00:00",
-      "body": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
-      "summary": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "4d2c2b1a01b6d2bc"
     }
   ]
 }

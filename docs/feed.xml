@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 13:47:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 18:40:42 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,86 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Agent observability on the Claude Platform</title>
+<link>https://claude.com/resources/articles/agent-observability-on-the-claude-platform</link>
+<guid isPermaLink="false">frontierfeed:8431345bd0690d0b</guid>
+<pubDate>Wed, 14 Oct 2026 18:40:31 +0000</pubDate>
+<category>api</category>
+<description>Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.</description>
+</item>
+<item>
+<title>v1.0.250</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.250</link>
+<guid isPermaLink="false">frontierfeed:0c9413fdbd1e4ca2</guid>
+<pubDate>Wed, 14 Oct 2026 18:38:52 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.249...v1.0.250</description>
+</item>
+<item>
+<title>google-cloud-sdk-v0.1.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.1.0</link>
+<guid isPermaLink="false">frontierfeed:21dc55d5b68fdf0e</guid>
+<pubDate>Wed, 14 Oct 2026 17:13:24 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types</description>
+</item>
+<item>
+<title>aws-sdk-v0.8.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.8.0</link>
+<guid isPermaLink="false">frontierfeed:1c6f5924c02e8bc4</guid>
+<pubDate>Wed, 14 Oct 2026 17:13:22 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types</description>
+</item>
+<item>
+<title>foundry-sdk-v0.6.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.6.0</link>
+<guid isPermaLink="false">frontierfeed:b77486b4b8f09da8</guid>
+<pubDate>Wed, 14 Oct 2026 17:13:19 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types</description>
+</item>
+<item>
+<title>bedrock-sdk-v0.35.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.35.0</link>
+<guid isPermaLink="false">frontierfeed:2c305a60738040c3</guid>
+<pubDate>Wed, 14 Oct 2026 17:13:16 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types</description>
+</item>
+<item>
+<title>vertex-sdk-v0.21.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.21.0</link>
+<guid isPermaLink="false">frontierfeed:8040790851a5ec96</guid>
+<pubDate>Wed, 14 Oct 2026 17:13:14 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types</description>
+</item>
+<item>
+<title>sdk-v0.134.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.134.0</link>
+<guid isPermaLink="false">frontierfeed:63502ed7f155d606</guid>
+<pubDate>Wed, 14 Oct 2026 17:13:11 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** emit OpenTelem…</description>
+</item>
+<item>
+<title>v1.14.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.14.0</link>
+<guid isPermaLink="false">frontierfeed:2a657ad9ca7d5ad2</guid>
+<pubDate>Wed, 14 Oct 2026 17:13:08 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** add OpenTeleme…</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.300 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.300</link>
+<guid isPermaLink="false">frontierfeed:ecc84831383f7e91</guid>
+<pubDate>Wed, 14 Oct 2026 14:27:26 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.300 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Ask Claude about the Anthropic Economic Index</title>
 <link>https://www.anthropic.com/news/anthropic-economic-index-connector</link>
@@ -734,86 +814,6 @@
 <pubDate>Tue, 06 Oct 2026 19:08:49 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.243...v1.0.244</description>
-</item>
-<item>
-<title>Claude Code’s suggested message feature: I think the real customer is the model</title>
-<link>https://www.zohaib.cc/blog/smartest-claude-code-feature</link>
-<guid isPermaLink="false">frontierfeed:55df0f703e7af21a</guid>
-<pubDate>Tue, 06 Oct 2026 18:00:34 +0000</pubDate>
-<category>claude-code</category>
-<description>90 points, 48 comments. Discussion: https://news.ycombinator.com/item?id=49981905</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.292 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.292</link>
-<guid isPermaLink="false">frontierfeed:845df7588ea61854</guid>
-<pubDate>Tue, 06 Oct 2026 17:10:31 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.292 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Show HN: OpenChart – OSS TradingView alternative with your own AI agent</title>
-<link>https://github.com/longsurf-ai/openchart</link>
-<guid isPermaLink="false">frontierfeed:d81bd350f4faf035</guid>
-<pubDate>Tue, 06 Oct 2026 15:16:45 +0000</pubDate>
-<category>note</category>
-<description>41 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49979793</description>
-</item>
-<item>
-<title>SIGMA: Self-Improving Alignment Generalization from a Model Spec</title>
-<link>https://arxiv.org/abs/2610.07935v1</link>
-<guid isPermaLink="false">frontierfeed:1cec5e35a3635c0f</guid>
-<pubDate>Tue, 06 Oct 2026 08:09:56 +0000</pubDate>
-<category>research</category>
-<description>LLM agents are increasingly capable of executing complex tasks and of recursively improving themselves on easy-to-verify objectives such as software engineering and mathematics.</description>
-</item>
-<item>
-<title>Anthropic Subscriptions Offer 5x+ More Value Than OpenAI</title>
-<link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
-<guid isPermaLink="false">frontierfeed:97198b52d27a9414</guid>
-<pubDate>Tue, 06 Oct 2026 07:29:50 +0000</pubDate>
-<category>note</category>
-<description>75 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=49975345</description>
-</item>
-<item>
-<title>v1.0.243</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.243</link>
-<guid isPermaLink="false">frontierfeed:deaab6fa87a6d08f</guid>
-<pubDate>Tue, 06 Oct 2026 04:03:51 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.242...v1.0.243</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.291 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.291</link>
-<guid isPermaLink="false">frontierfeed:01c9ededf1fc7974</guid>
-<pubDate>Tue, 06 Oct 2026 03:32:36 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.291 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.0.242</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.242</link>
-<guid isPermaLink="false">frontierfeed:6f0ed8de4e7c4acc</guid>
-<pubDate>Mon, 05 Oct 2026 23:38:07 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.241...v1.0.242</description>
-</item>
-<item>
-<title>Engineer says Claude Code has made his job &quot;soul-sucking&quot;</title>
-<link>https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html</link>
-<guid isPermaLink="false">frontierfeed:d1db354f307d9d09</guid>
-<pubDate>Mon, 05 Oct 2026 22:01:35 +0000</pubDate>
-<category>claude-code</category>
-<description>56 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=49971473</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.290 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.290</link>
-<guid isPermaLink="false">frontierfeed:12e38a1ac4df1c00</guid>
-<pubDate>Mon, 05 Oct 2026 18:12:44 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.290 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>
