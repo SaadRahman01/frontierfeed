@@ -9,6 +9,47 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:0ea1743424c3f00b",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "summary": "A research agenda for the Economic Futures Research Fund",
+      "content_text": "A research agenda for the Economic Futures Research Fund",
+      "date_published": "2026-10-14T22:19:51.239146+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:804e2c5ac69d9884",
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "title": "Preparing for the 2026 US midterms",
+      "summary": "Preparing for the 2026 US midterms",
+      "content_text": "Preparing for the 2026 US midterms",
+      "date_published": "2026-10-14T22:19:51.238785+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:af7ec3dee446ed0e",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "summary": "164 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50094694",
+      "content_text": "164 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50094694",
+      "date_published": "2026-10-14T20:30:54+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:8431345bd0690d0b",
       "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
       "title": "Agent observability on the Claude Platform",
@@ -248,6 +289,19 @@
         "info",
         "official",
         "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:b5a42bb81c36cab8",
+      "url": "https://news.ycombinator.com/item?id=50084969",
+      "title": "Ask HN: What is the current trajectory of a senior engineer?",
+      "summary": "40 points, 78 comments. Discussion: https://news.ycombinator.com/item?id=50084969",
+      "content_text": "40 points, 78 comments. Discussion: https://news.ycombinator.com/item?id=50084969",
+      "date_published": "2026-10-14T09:54:23+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1349,62 +1403,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:204ab973481889b6",
-      "url": "https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build",
-      "title": "We’re expanding the Claude Startups program to help founders build",
-      "summary": "We’re expanding the Claude Startups program to help founders build",
-      "content_text": "We’re expanding the Claude Startups program to help founders build",
-      "date_published": "2026-10-07T08:45:53.500091+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:417fed66f67d9d66",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "title": "Improving our alignment and security efforts",
-      "summary": "Improving our alignment and security efforts",
-      "content_text": "Improving our alignment and security efforts",
-      "date_published": "2026-10-06T21:42:25.883635+00:00",
-      "tags": [
-        "research",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:e310eaf6de303cba",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "title": "Expanding the Cyber Verification Program",
-      "summary": "Expanding the Cyber Verification Program",
-      "content_text": "Expanding the Cyber Verification Program",
-      "date_published": "2026-10-06T21:42:25.883420+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:f709d32be3f8deb0",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.244",
-      "title": "v1.0.244",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.243...v1.0.244",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.243...v1.0.244",
-      "date_published": "2026-10-06T19:08:49+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
       ]
     }
   ]
