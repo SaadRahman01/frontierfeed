@@ -1,9 +1,56 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-15T13:29:39.372354+00:00",
+  "generated": "2026-10-15T18:20:54.315343+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "An update on independent evaluators",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "source": "anthropic-news",
+      "published": "2026-10-15T18:20:39.557345+00:00",
+      "body": "An update on independent evaluators",
+      "summary": "An update on independent evaluators",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "86090baa782068b5"
+    },
+    {
+      "title": "More on Anthropic's Scion ripping off Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+      "source": "hackernews",
+      "published": "2026-10-15T17:05:19+00:00",
+      "body": "107 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=50106738",
+      "summary": "107 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=50106738",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ee4428f7cc2c4781"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.301 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.301",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-15T14:34:23.330000+00:00",
+      "body": "Version 2.1.301 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.301 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.301",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "bae8b3882c1b05d8"
+    },
     {
       "title": "A research agenda for the Economic Futures Research Fund",
       "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
@@ -4731,55 +4778,6 @@
         "opus"
       ],
       "uid": "aa45b159f4c36bd6"
-    },
-    {
-      "title": "Eval awareness in Claude Opus 4.6\u2019s BrowseComp performance",
-      "url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
-      "source": "anthropic-engineering",
-      "published": "2026-09-13T01:04:25.132285+00:00",
-      "body": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it\u2014raising questions about eval integrity in web-enabled environments.",
-      "summary": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it\u2014raising questions about eval integrity in web-enabled environments.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering",
-        "opus"
-      ],
-      "uid": "f0814aaface4c956"
-    },
-    {
-      "title": "Harness design for long-running application development",
-      "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
-      "source": "anthropic-engineering",
-      "published": "2026-09-13T01:04:25.132271+00:00",
-      "body": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
-      "summary": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "cbc62fbd516489f9"
-    },
-    {
-      "title": "How we built Claude Code auto mode: a safer way to skip permissions",
-      "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
-      "source": "anthropic-engineering",
-      "published": "2026-09-13T01:04:25.132257+00:00",
-      "body": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.\\n",
-      "summary": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.\\n",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "03a152ee697246cd"
     }
   ]
 }

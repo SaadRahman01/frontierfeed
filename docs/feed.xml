@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 13:29:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 18:20:54 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>An update on independent evaluators</title>
+<link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+<guid isPermaLink="false">frontierfeed:86090baa782068b5</guid>
+<pubDate>Thu, 15 Oct 2026 18:20:39 +0000</pubDate>
+<category>note</category>
+<description>An update on independent evaluators</description>
+</item>
+<item>
+<title>More on Anthropic&#x27;s Scion ripping off Mononoke</title>
+<link>https://sunshowers.io/posts/anthropic-mononoke-2/</link>
+<guid isPermaLink="false">frontierfeed:ee4428f7cc2c4781</guid>
+<pubDate>Thu, 15 Oct 2026 17:05:19 +0000</pubDate>
+<category>note</category>
+<description>107 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=50106738</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.301 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.301</link>
+<guid isPermaLink="false">frontierfeed:bae8b3882c1b05d8</guid>
+<pubDate>Thu, 15 Oct 2026 14:34:23 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.301 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>A research agenda for the Economic Futures Research Fund</title>
 <link>https://www.anthropic.com/news/economic-futures-research-fund-agenda</link>
@@ -790,30 +814,6 @@
 <pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
 <category>note</category>
 <description>Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.</description>
-</item>
-<item>
-<title>Customize Claude Code with mods</title>
-<link>https://claude.com/resources/articles/claude-code-mods</link>
-<guid isPermaLink="false">frontierfeed:b029dbb701b0bcfa</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>claude-code</category>
-<description>Change how Claude Code behaves and looks with a few lines of TypeScript.</description>
-</item>
-<item>
-<title>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</title>
-<link>https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</link>
-<guid isPermaLink="false">frontierfeed:da92de4f33c46253</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>api</category>
-<description>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</description>
-</item>
-<item>
-<title>Claude now works with Google Docs, Sheets, and Slides</title>
-<link>https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides</link>
-<guid isPermaLink="false">frontierfeed:184de313f3686dcb</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>note</category>
-<description>Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).</description>
 </item>
 </channel>
 </rss>
