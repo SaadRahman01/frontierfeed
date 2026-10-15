@@ -440,6 +440,19 @@
       ]
     },
     {
+      "id": "frontierfeed:6bb8ba286ef288b2",
+      "url": "https://indigene.app/",
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "summary": "62 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50064470",
+      "content_text": "62 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50064470",
+      "date_published": "2026-10-12T23:25:20+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:60af9b60cb8c7ac3",
       "url": "https://www.anthropic.com/research/self-replicating-ai",
       "title": "AI models may be capable of self-replicating without access to a datacenter",
@@ -1387,20 +1400,6 @@
       "tags": [
         "note",
         "feature",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:469efd50ce766d31",
-      "url": "https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases",
-      "title": "How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases",
-      "summary": "Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.",
-      "content_text": "Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.",
-      "date_published": "2026-10-07T08:45:53.500146+00:00",
-      "tags": [
-        "note",
-        "info",
         "official",
         "product"
       ]

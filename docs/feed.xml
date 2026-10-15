@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 07:31:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 13:29:39 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -262,6 +262,14 @@
 <pubDate>Tue, 13 Oct 2026 01:46:47 +0000</pubDate>
 <category>note</category>
 <description>42 points, 92 comments. Discussion: https://news.ycombinator.com/item?id=50065553</description>
+</item>
+<item>
+<title>Show HN: Indigene – Native plants for where you stand</title>
+<link>https://indigene.app/</link>
+<guid isPermaLink="false">frontierfeed:6bb8ba286ef288b2</guid>
+<pubDate>Mon, 12 Oct 2026 23:25:20 +0000</pubDate>
+<category>note</category>
+<description>62 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50064470</description>
 </item>
 <item>
 <title>AI models may be capable of self-replicating without access to a datacenter</title>
@@ -806,14 +814,6 @@
 <pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
 <category>note</category>
 <description>Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).</description>
-</item>
-<item>
-<title>How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases</title>
-<link>https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases</link>
-<guid isPermaLink="false">frontierfeed:469efd50ce766d31</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>note</category>
-<description>Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.</description>
 </item>
 </channel>
 </rss>
