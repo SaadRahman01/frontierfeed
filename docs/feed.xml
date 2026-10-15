@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 18:20:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 22:24:22 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Code Review is now generally available</title>
+<link>https://claude.com/resources/articles/code-review-is-now-generally-available</link>
+<guid isPermaLink="false">frontierfeed:9272483df81fefb4</guid>
+<pubDate>Thu, 15 Oct 2026 22:24:12 +0000</pubDate>
+<category>note</category>
+<description>Catch more bugs before they reach production.</description>
+</item>
+<item>
+<title>[breaking] v1.15.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.15.0</link>
+<guid isPermaLink="false">frontierfeed:4ca5aceb512b2829</guid>
+<pubDate>Thu, 15 Oct 2026 19:45:15 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization&#x27;s usage-tier spend cap as a read-only spend limit ### Chores * **ci:** speed up breaking chang…</description>
+</item>
+<item>
+<title>[breaking] sdk-v0.135.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.135.0</link>
+<guid isPermaLink="false">frontierfeed:f96454ed60123945</guid>
+<pubDate>Thu, 15 Oct 2026 19:42:46 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization&#x27;s usage-tier spend cap as a read-only spend limit ### Bug Fixes * **client:** close streams dr…</description>
+</item>
+<item>
+<title>v1.0.251</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.251</link>
+<guid isPermaLink="false">frontierfeed:10fe280b29425d96</guid>
+<pubDate>Thu, 15 Oct 2026 19:32:16 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.250...v1.0.251</description>
+</item>
 <item>
 <title>An update on independent evaluators</title>
 <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
@@ -782,38 +814,6 @@
 <pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
 <category>note</category>
 <description>When to choose Sonnet over Opus, what it costs, and how to tune it.</description>
-</item>
-<item>
-<title>Claude Sonnet 5.5</title>
-<link>https://www.anthropic.com/claude-sonnet-5-5</link>
-<guid isPermaLink="false">frontierfeed:0b723e7f62755dac</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>model-release</category>
-<description>Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.</description>
-</item>
-<item>
-<title>Agents you can coach: how Asana builds human-agent teams with Claude</title>
-<link>https://claude.com/resources/articles/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude</link>
-<guid isPermaLink="false">frontierfeed:1f4f35f8c5030b6d</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>note</category>
-<description>Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see. ‍</description>
-</item>
-<item>
-<title>Claude for Government is now generally available</title>
-<link>https://claude.com/resources/articles/claude-for-government-is-now-generally-available</link>
-<guid isPermaLink="false">frontierfeed:995eea78ed090fd7</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>claude-code</category>
-<description>Claude Code CLI and Claude for Microsoft 365 also now available in early access.</description>
-</item>
-<item>
-<title>How Anthropic&#x27;s sales team rebuilt inbound with Claude Managed Agents</title>
-<link>https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</link>
-<guid isPermaLink="false">frontierfeed:cd834a7ad2a26280</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>note</category>
-<description>Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.</description>
 </item>
 </channel>
 </rss>

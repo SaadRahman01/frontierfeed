@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, breaking changes only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 18:20:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 22:24:22 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-breaking.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — breaking changes</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>[breaking] v1.15.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.15.0</link>
+<guid isPermaLink="false">frontierfeed:4ca5aceb512b2829</guid>
+<pubDate>Thu, 15 Oct 2026 19:45:15 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization&#x27;s usage-tier spend cap as a read-only spend limit ### Chores * **ci:** speed up breaking chang…</description>
+</item>
+<item>
+<title>[breaking] sdk-v0.135.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.135.0</link>
+<guid isPermaLink="false">frontierfeed:f96454ed60123945</guid>
+<pubDate>Thu, 15 Oct 2026 19:42:46 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization&#x27;s usage-tier spend cap as a read-only spend limit ### Bug Fixes * **client:** close streams dr…</description>
+</item>
 <item>
 <title>[breaking] v1.0.0</title>
 <link>https://github.com/modelcontextprotocol/servers/releases/tag/v1.0.0</link>

@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "title": "Code Review is now generally available",
+      "url": "https://claude.com/resources/articles/code-review-is-now-generally-available",
+      "source": "claude-blog",
+      "published": "2026-10-15T22:24:12.040126+00:00",
+      "body": "Catch more bugs before they reach production.",
+      "summary": "Catch more bugs before they reach production.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "9272483df81fefb4"
+    },
+    {
+      "title": "v1.15.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.15.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-10-15T19:45:15+00:00",
+      "body": "### Features\n\n* **api:** add between_tools to thinking types in model capabilities\n* **api:** add the speed parameter and usage.speed to Messages\n* **api:** return a Console organization's usage-tier spend cap as a read-only spend limit\n\n\n### Chores\n\n* **ci:** speed up breaking change detection\n* **docs:** describe headers on Managed Agents and telemetry endpoints\n* **internal:** simplify the script that formats code blocks in docs\n* **tests:** cover OpenTelemetry options and method default timeouts\n\n\n### Documentation\n\n* **api:** note that some models need a beta header to use speed",
+      "summary": "### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization's usage-tier spend cap as a read-only spend limit ### Chores * **ci:** speed up breaking chang\u2026",
+      "version": "1.15.0",
+      "category": "api",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "4ca5aceb512b2829"
+    },
+    {
+      "title": "sdk-v0.135.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.135.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-15T19:42:46+00:00",
+      "body": "### Features\n\n* **api:** add between_tools to thinking types in model capabilities\n* **api:** add the speed parameter and usage.speed to Messages\n* **api:** return a Console organization's usage-tier spend cap as a read-only spend limit\n\n\n### Bug Fixes\n\n* **client:** close streams dropped without being read to the end\n* **client:** keep an unread JSONL response open while it is held\n\n\n### Chores\n\n* **ci:** speed up breaking change detection\n* **docs:** describe headers on Managed Agents and telemetry endpoints\n\n\n### Documentation\n\n* **api:** note that some models need a beta header to use speed",
+      "summary": "### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization's usage-tier spend cap as a read-only spend limit ### Bug Fixes * **client:** close streams dr\u2026",
+      "version": "sdk-v0.135.0",
+      "category": "api",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "f96454ed60123945"
+    },
+    {
+      "title": "v1.0.251",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.251",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-15T19:32:16+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.250...v1.0.251",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.250...v1.0.251",
+      "version": "1.0.251",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "10fe280b29425d96"
+    },
+    {
       "title": "An update on independent evaluators",
       "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
       "source": "anthropic-news",
@@ -4708,72 +4772,6 @@
         "engineering"
       ],
       "uid": "47646435ea1166b3"
-    },
-    {
-      "title": "Editorial routing shapes how computational results are qualified in AI-assisted scientific writing",
-      "url": "https://arxiv.org/abs/2609.14288v1",
-      "source": "arxiv",
-      "published": "2026-09-13T05:15:56+00:00",
-      "body": "Large language models increasingly analyze computational results and draft manuscripts, making reliable communication as important as correct analysis. Using fixed computational evidence, we tested whether assigning comparisons across modeling choices elsewhere in a research workflow changes manuscript reporting. In constrained sentence-writing tasks, Anthropic's Claude Sonnet 5 often omitted numerical qualifications when detailed comparisons were assigned to a group repository, but retained them more often when the same comparison was assigned to Supporting Information or its own working notes; Claude Opus 5 was less sensitive. These effects did not follow a simple accessibility ordering. A targeted placement rule largely restored sentence-level qualification, whereas a generic accuracy reminder did not. Longer contributions retained numerical qualifications, although some summaries across computational settings were still redirected to the repository. Thus, documenting context within an AI workflow does not ensure its communication where readers encounter the result.",
-      "summary": "Large language models increasingly analyze computational results and draft manuscripts, making reliable communication as important as correct analysis.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper",
-        "opus",
-        "sonnet"
-      ],
-      "uid": "862e80935f399e76"
-    },
-    {
-      "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
-      "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
-      "source": "hackernews",
-      "published": "2026-09-13T03:25:32+00:00",
-      "body": "42 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49679685",
-      "summary": "42 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49679685",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "deae260c8d670fcf"
-    },
-    {
-      "title": "Corpus Characterization and Inverse Constitutional Fine-Tuning for Style-Aware Radiology Reports",
-      "url": "https://arxiv.org/abs/2609.14226v1",
-      "source": "arxiv",
-      "published": "2026-09-13T01:40:23+00:00",
-      "body": "Automated radiology report generation has advanced rapidly in diagnostic accuracy, yet generated reports frequently diverge from the stylistic conventions of authentic radiologist writing in structure, diction, and uncertainty language, a gap which has direct implications for clinician trust and user experience. To address this, we characterize stylistic variation across 2,000 reports from the CheXpert Plus dataset using Bio-ClinicalBERT embeddings, UMAP dimensionality reduction, and HDBSCAN clustering, identifying five distinct reporting patterns differing in pathology focus, narrative structure, and lexical preference. Drawing on these findings, we adapt the inverse constitutional AI framework to derive a style-focused constitution from radiologist-written report pairs without requiring a formal preference dataset. This constitution, encoding conventions of tone, diction, uncertainty calibration, and report structure, is incorporated into the supervised fine-tuning of a MedGemma-4B base model on 25,245 CheXpert Plus training pairs. Constitutional fine-tuning produces a substantial increases in text alignment (BLEU-4: 0.006 to 0.308; ROUGE-L: 0.171 to 0.484) relative to the untuned baseline. These gains show a qualitative shift in structural and lexical alignment rather than marginal improvement, as the baseline model produces near-zero scores due to format mismatch. Overall, we establish corpus-level style characterization and constitutional modeling as an effective and data-efficient strategy for producing radiology reports that conform to authentic radiologist writing conventions.",
-      "summary": "Automated radiology report generation has advanced rapidly in diagnostic accuracy, yet generated reports frequently diverge from the stylistic conventions of authentic radiologist writing in structure, diction, and uncertainty language, a gap which has direct implications for cli\u2026",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "0dc8b3108531f1a9"
-    },
-    {
-      "title": "Building a C compiler with a team of parallel Claudes",
-      "url": "https://www.anthropic.com/engineering/building-c-compiler",
-      "source": "anthropic-engineering",
-      "published": "2026-09-13T01:04:25.132298+00:00",
-      "body": "We tasked Opus 4.6 using agent teams to build a C Compiler, and then (mostly) walked away. Here's what it taught us about the future of autonomous software development.",
-      "summary": "We tasked Opus 4.6 using agent teams to build a C Compiler, and then (mostly) walked away. Here's what it taught us about the future of autonomous software development.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering",
-        "opus"
-      ],
-      "uid": "aa45b159f4c36bd6"
     }
   ]
 }

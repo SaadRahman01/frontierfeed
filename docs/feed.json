@@ -9,6 +9,62 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:9272483df81fefb4",
+      "url": "https://claude.com/resources/articles/code-review-is-now-generally-available",
+      "title": "Code Review is now generally available",
+      "summary": "Catch more bugs before they reach production.",
+      "content_text": "Catch more bugs before they reach production.",
+      "date_published": "2026-10-15T22:24:12.040126+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:4ca5aceb512b2829",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.15.0",
+      "title": "v1.15.0",
+      "summary": "### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization's usage-tier spend cap as a read-only spend limit ### Chores * **ci:** speed up breaking chang…",
+      "content_text": "### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization's usage-tier spend cap as a read-only spend limit ### Chores * **ci:** speed up breaking chang…",
+      "date_published": "2026-10-15T19:45:15+00:00",
+      "tags": [
+        "api",
+        "breaking",
+        "release",
+        "anthropic-sdk-python"
+      ]
+    },
+    {
+      "id": "frontierfeed:f96454ed60123945",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.135.0",
+      "title": "sdk-v0.135.0",
+      "summary": "### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization's usage-tier spend cap as a read-only spend limit ### Bug Fixes * **client:** close streams dr…",
+      "content_text": "### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization's usage-tier spend cap as a read-only spend limit ### Bug Fixes * **client:** close streams dr…",
+      "date_published": "2026-10-15T19:42:46+00:00",
+      "tags": [
+        "api",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:10fe280b29425d96",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.251",
+      "title": "v1.0.251",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.250...v1.0.251",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.250...v1.0.251",
+      "date_published": "2026-10-15T19:32:16+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:86090baa782068b5",
       "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
       "title": "An update on independent evaluators",
@@ -1344,63 +1400,6 @@
         "product",
         "opus",
         "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:0b723e7f62755dac",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "title": "Claude Sonnet 5.5",
-      "summary": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
-      "content_text": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
-      "date_published": "2026-10-07T08:45:53.500315+00:00",
-      "tags": [
-        "model-release",
-        "feature",
-        "official",
-        "product",
-        "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:1f4f35f8c5030b6d",
-      "url": "https://claude.com/resources/articles/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
-      "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
-      "summary": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see. ‍",
-      "content_text": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see. ‍",
-      "date_published": "2026-10-07T08:45:53.500289+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:995eea78ed090fd7",
-      "url": "https://claude.com/resources/articles/claude-for-government-is-now-generally-available",
-      "title": "Claude for Government is now generally available",
-      "summary": "Claude Code CLI and Claude for Microsoft 365 also now available in early access.",
-      "content_text": "Claude Code CLI and Claude for Microsoft 365 also now available in early access.",
-      "date_published": "2026-10-07T08:45:53.500266+00:00",
-      "tags": [
-        "claude-code",
-        "feature",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:cd834a7ad2a26280",
-      "url": "https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
-      "title": "How Anthropic's sales team rebuilt inbound with Claude Managed Agents",
-      "summary": "Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.",
-      "content_text": "Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.",
-      "date_published": "2026-10-07T08:45:53.500245+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]
