@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 17:29:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 21:16:48 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,46 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.252</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.252</link>
+<guid isPermaLink="false">frontierfeed:fbf0a1a58bf4b204</guid>
+<pubDate>Fri, 16 Oct 2026 21:01:08 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.251...v1.0.252</description>
+</item>
+<item>
+<title>Claude reveals ECDSA curve origins</title>
+<link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
+<guid isPermaLink="false">frontierfeed:d82cbddfbf35a897</guid>
+<pubDate>Fri, 16 Oct 2026 18:55:59 +0000</pubDate>
+<category>note</category>
+<description>392 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50122800</description>
+</item>
+<item>
+<title>Anthropic assigned highest junk credit rating in June</title>
+<link>https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d</link>
+<guid isPermaLink="false">frontierfeed:1a336200e8fd910c</guid>
+<pubDate>Fri, 16 Oct 2026 18:11:42 +0000</pubDate>
+<category>pricing</category>
+<description>136 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50122112</description>
+</item>
+<item>
+<title>Designing more efficient quantum circuits with Claude</title>
+<link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
+<guid isPermaLink="false">frontierfeed:bae0c8571549ec69</guid>
+<pubDate>Fri, 16 Oct 2026 18:00:18 +0000</pubDate>
+<category>note</category>
+<description>60 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=50121939</description>
+</item>
+<item>
+<title>Anthropic Console overcharged my card 100x due to internationalization input bug</title>
+<link>https://news.ycombinator.com/item?id=50121562</link>
+<guid isPermaLink="false">frontierfeed:e596d6a26b34264b</guid>
+<pubDate>Fri, 16 Oct 2026 17:31:42 +0000</pubDate>
+<category>note</category>
+<description>73 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50121562</description>
+</item>
 <item>
 <title>How an Anthropic Japan BDR runs his day with a fleet of Claude agents</title>
 <link>https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day</link>
@@ -774,46 +814,6 @@
 <pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
 <category>note</category>
 <description>How to organize AI-driven modernization projects for critical systems and regulated enterprises.</description>
-</item>
-<item>
-<title>How we made claude.ai 3x faster in two weeks</title>
-<link>https://claude.dev/blog/how-we-made-claude-ai-faster/</link>
-<guid isPermaLink="false">frontierfeed:a1850294eff3ca64</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>note</category>
-<description>Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.</description>
-</item>
-<item>
-<title>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
-<link>https://claude.com/resources/articles/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
-<guid isPermaLink="false">frontierfeed:49022e7b77bd6e76</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>note</category>
-<description>Our latest Opus model is priced and trained to optimize costs for how developers code now.</description>
-</item>
-<item>
-<title>Claude Tag now supports personal connectors in channels</title>
-<link>https://claude.com/resources/articles/claude-tag-now-supports-personal-connectors-in-channels</link>
-<guid isPermaLink="false">frontierfeed:28cfc148d52e108e</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>note</category>
-<description>Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you&#x27;re in control of how to present the output.</description>
-</item>
-<item>
-<title>Build plugins for Claude</title>
-<link>https://claude.com/resources/articles/build-plugins-for-claude</link>
-<guid isPermaLink="false">frontierfeed:ef1ba7ccd56faf00</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>note</category>
-<description>You can now submit plugins to the Claude directory through a new developer portal, track them through review, and see usage analytics once they’re live.</description>
-</item>
-<item>
-<title>Using Claude Code: Spending your effort</title>
-<link>https://claude.dev/blog/spending-your-effort/</link>
-<guid isPermaLink="false">frontierfeed:15227bcdf797307a</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>claude-code</category>
-<description>What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.</description>
 </item>
 </channel>
 </rss>

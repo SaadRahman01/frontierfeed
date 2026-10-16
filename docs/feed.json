@@ -9,6 +9,72 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:fbf0a1a58bf4b204",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.252",
+      "title": "v1.0.252",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.251...v1.0.252",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.251...v1.0.252",
+      "date_published": "2026-10-16T21:01:08+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:d82cbddfbf35a897",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "title": "Claude reveals ECDSA curve origins",
+      "summary": "392 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50122800",
+      "content_text": "392 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50122800",
+      "date_published": "2026-10-16T18:55:59+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:1a336200e8fd910c",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "summary": "136 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50122112",
+      "content_text": "136 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50122112",
+      "date_published": "2026-10-16T18:11:42+00:00",
+      "tags": [
+        "pricing",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:bae0c8571549ec69",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "summary": "60 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=50121939",
+      "content_text": "60 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=50121939",
+      "date_published": "2026-10-16T18:00:18+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:e596d6a26b34264b",
+      "url": "https://news.ycombinator.com/item?id=50121562",
+      "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
+      "summary": "73 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50121562",
+      "content_text": "73 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50121562",
+      "date_published": "2026-10-16T17:31:42+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:8af0989f92522a60",
       "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
       "title": "How an Anthropic Japan BDR runs his day with a fleet of Claude agents",
@@ -1322,79 +1388,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:a1850294eff3ca64",
-      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-      "title": "How we made claude.ai 3x faster in two weeks",
-      "summary": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.",
-      "content_text": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.",
-      "date_published": "2026-10-07T08:45:53.500507+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:49022e7b77bd6e76",
-      "url": "https://claude.com/resources/articles/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-      "summary": "Our latest Opus model is priced and trained to optimize costs for how developers code now.",
-      "content_text": "Our latest Opus model is priced and trained to optimize costs for how developers code now.",
-      "date_published": "2026-10-07T08:45:53.500486+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:28cfc148d52e108e",
-      "url": "https://claude.com/resources/articles/claude-tag-now-supports-personal-connectors-in-channels",
-      "title": "Claude Tag now supports personal connectors in channels",
-      "summary": "Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you're in control of how to present the output.",
-      "content_text": "Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you're in control of how to present the output.",
-      "date_published": "2026-10-07T08:45:53.500464+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:ef1ba7ccd56faf00",
-      "url": "https://claude.com/resources/articles/build-plugins-for-claude",
-      "title": "Build plugins for Claude",
-      "summary": "You can now submit plugins to the Claude directory through a new developer portal, track them through review, and see usage analytics once they’re live.",
-      "content_text": "You can now submit plugins to the Claude directory through a new developer portal, track them through review, and see usage analytics once they’re live.",
-      "date_published": "2026-10-07T08:45:53.500442+00:00",
-      "tags": [
-        "note",
-        "feature",
-        "official",
-        "product",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:15227bcdf797307a",
-      "url": "https://claude.dev/blog/spending-your-effort/",
-      "title": "Using Claude Code: Spending your effort",
-      "summary": "What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.",
-      "content_text": "What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.",
-      "date_published": "2026-10-07T08:45:53.500421+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product",
-        "opus"
       ]
     }
   ]

@@ -1,6 +1,82 @@
 {
   "items": [
     {
+      "title": "v1.0.252",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.252",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-16T21:01:08+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.251...v1.0.252",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.251...v1.0.252",
+      "version": "1.0.252",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "fbf0a1a58bf4b204"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "hackernews",
+      "published": "2026-10-16T18:55:59+00:00",
+      "body": "392 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50122800",
+      "summary": "392 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50122800",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d82cbddfbf35a897"
+    },
+    {
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "source": "hackernews",
+      "published": "2026-10-16T18:11:42+00:00",
+      "body": "136 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50122112",
+      "summary": "136 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50122112",
+      "version": "",
+      "category": "pricing",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "1a336200e8fd910c"
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source": "hackernews",
+      "published": "2026-10-16T18:00:18+00:00",
+      "body": "60 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=50121939",
+      "summary": "60 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=50121939",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "bae0c8571549ec69"
+    },
+    {
+      "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
+      "url": "https://news.ycombinator.com/item?id=50121562",
+      "source": "hackernews",
+      "published": "2026-10-16T17:31:42+00:00",
+      "body": "73 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50121562",
+      "summary": "73 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50121562",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "e596d6a26b34264b"
+    },
+    {
       "title": "How an Anthropic Japan BDR runs his day with a fleet of Claude agents",
       "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
       "source": "claude-blog",
@@ -4690,87 +4766,6 @@
         "community"
       ],
       "uid": "05d738e1b88034dc"
-    },
-    {
-      "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
-      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-      "source": "hackernews",
-      "published": "2026-09-13T14:15:40+00:00",
-      "body": "57 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49684266",
-      "summary": "57 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49684266",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "631d7913c94e27ca"
-    },
-    {
-      "title": "Equipping agents for the real world with Agent Skills",
-      "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
-      "source": "anthropic-engineering",
-      "published": "2026-09-13T12:02:47.170691+00:00",
-      "body": "Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.",
-      "summary": "Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "engineering",
-        "skills"
-      ],
-      "uid": "7134ab1e57c51a9f"
-    },
-    {
-      "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
-      "url": "https://www.anthropic.com/engineering/claude-code-sandboxing",
-      "source": "anthropic-engineering",
-      "published": "2026-09-13T12:02:47.170677+00:00",
-      "body": "Claude Code's new sandboxing features, a bash tool and Claude Code on the web,  reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.",
-      "summary": "Claude Code's new sandboxing features, a bash tool and Claude Code on the web, reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "ea6b38174b7d3154"
-    },
-    {
-      "title": "Code execution with MCP: Building more efficient agents",
-      "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
-      "source": "anthropic-engineering",
-      "published": "2026-09-13T12:02:47.170663+00:00",
-      "body": "Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.",
-      "summary": "Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering",
-        "mcp"
-      ],
-      "uid": "dd9b37132b0ca3bc"
-    },
-    {
-      "title": "Introducing advanced tool use on the Claude Developer Platform",
-      "url": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "source": "anthropic-engineering",
-      "published": "2026-09-13T06:15:18.079482+00:00",
-      "body": "We\u2019ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here\u2019s how they work.",
-      "summary": "We\u2019ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here\u2019s how they work.",
-      "version": "",
-      "category": "launch",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "c343e840b5a491e6"
     }
   ]
 }
