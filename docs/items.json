@@ -1,9 +1,72 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-16T12:32:05.689020+00:00",
+  "generated": "2026-10-16T17:29:25.215141+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "How an Anthropic Japan BDR runs his day with a fleet of Claude agents",
+      "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
+      "source": "claude-blog",
+      "published": "2026-10-16T17:28:59.554088+00:00",
+      "body": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
+      "summary": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "8af0989f92522a60"
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "source": "claude-blog",
+      "published": "2026-10-16T17:28:59.554038+00:00",
+      "body": "How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.",
+      "summary": "How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "0beedb40f75c6d40"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.302 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.302",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-16T16:48:28.057000+00:00",
+      "body": "Version 2.1.302 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.302 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.302",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "9eb61591a411174a"
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "source": "hackernews",
+      "published": "2026-10-16T14:18:44+00:00",
+      "body": "85 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50118688",
+      "summary": "85 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50118688",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "65ed39adb6008041"
+    },
     {
       "title": "Code Review is now generally available",
       "url": "https://claude.com/resources/articles/code-review-is-now-generally-available",
@@ -4712,70 +4775,6 @@
         "engineering"
       ],
       "uid": "c343e840b5a491e6"
-    },
-    {
-      "title": "Effective harnesses for long-running agents",
-      "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
-      "source": "anthropic-engineering",
-      "published": "2026-09-13T06:15:18.079457+00:00",
-      "body": "Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.",
-      "summary": "Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "e6b63261de37bce8"
-    },
-    {
-      "title": "Demystifying evals for AI agents",
-      "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
-      "source": "anthropic-engineering",
-      "published": "2026-09-13T06:15:18.079434+00:00",
-      "body": "The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \\n",
-      "summary": "The capabilities that make agents useful also make them difficult to evaluate. The strategies that work across deployments combine techniques to match the complexity of the systems they measure. \\n",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "0c6dc2bdd58b522a"
-    },
-    {
-      "title": "Designing AI-resistant technical evaluations",
-      "url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
-      "source": "anthropic-engineering",
-      "published": "2026-09-13T06:15:18.079385+00:00",
-      "body": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
-      "summary": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "bf23981790fd7bc8"
-    },
-    {
-      "title": "Quantifying infrastructure noise in agentic coding evals",
-      "url": "https://www.anthropic.com/engineering/infrastructure-noise",
-      "source": "anthropic-engineering",
-      "published": "2026-09-13T06:15:18.079364+00:00",
-      "body": "Infrastructure configuration can swing agentic coding benchmarks by several percentage points\u2014sometimes more than the leaderboard gap between top models.\\n\\n",
-      "summary": "Infrastructure configuration can swing agentic coding benchmarks by several percentage points\u2014sometimes more than the leaderboard gap between top models.\\n\\n",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "47646435ea1166b3"
     }
   ]
 }

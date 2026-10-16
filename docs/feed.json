@@ -9,6 +9,61 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:8af0989f92522a60",
+      "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
+      "title": "How an Anthropic Japan BDR runs his day with a fleet of Claude agents",
+      "summary": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
+      "content_text": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
+      "date_published": "2026-10-16T17:28:59.554088+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:0beedb40f75c6d40",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "title": "How the Claude Code team does code review",
+      "summary": "How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.",
+      "content_text": "How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.",
+      "date_published": "2026-10-16T17:28:59.554038+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:9eb61591a411174a",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.302",
+      "title": "@anthropic-ai/claude-code 2.1.302 published",
+      "summary": "Version 2.1.302 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.302 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-16T16:48:28.057000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:65ed39adb6008041",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "summary": "85 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50118688",
+      "content_text": "85 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50118688",
+      "date_published": "2026-10-16T14:18:44+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:9272483df81fefb4",
       "url": "https://claude.com/resources/articles/code-review-is-now-generally-available",
       "title": "Code Review is now generally available",
@@ -1340,66 +1395,6 @@
         "official",
         "product",
         "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:8cb462d6ed5cdbda",
-      "url": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
-      "title": "What a task costs on Opus 5.5",
-      "summary": "The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.",
-      "content_text": "The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.",
-      "date_published": "2026-10-07T08:45:53.500401+00:00",
-      "tags": [
-        "pricing",
-        "info",
-        "official",
-        "product",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:9e8bfd86645272e8",
-      "url": "https://claude.com/resources/articles/giving-companies-more-control-over-their-ai-agents-with-nvidia",
-      "title": "Giving companies more control over their AI agents, with NVIDIA",
-      "summary": "Giving companies more control over their AI agents, with NVIDIA",
-      "content_text": "Giving companies more control over their AI agents, with NVIDIA",
-      "date_published": "2026-10-07T08:45:53.500380+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:5a98b42c8b2fa1b1",
-      "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
-      "title": "Automating eval design and hillclimbing with Claude",
-      "summary": "Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work.",
-      "content_text": "Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work.",
-      "date_published": "2026-10-07T08:45:53.500359+00:00",
-      "tags": [
-        "api",
-        "info",
-        "official",
-        "product",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:5eb7b0300447cf20",
-      "url": "https://claude.dev/blog/building-with-claude-sonnet-5-5/",
-      "title": "Building with Claude Sonnet 5.5",
-      "summary": "When to choose Sonnet over Opus, what it costs, and how to tune it.",
-      "content_text": "When to choose Sonnet over Opus, what it costs, and how to tune it.",
-      "date_published": "2026-10-07T08:45:53.500338+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product",
-        "opus",
-        "sonnet"
       ]
     }
   ]
