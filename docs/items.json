@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-18T18:10:08.163023+00:00",
+  "generated": "2026-10-18T20:50:04.489489+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "source": "anthropic-news",
+      "published": "2026-10-18T20:49:51.471064+00:00",
+      "body": "Investing in the public benefit",
+      "summary": "Investing in the public benefit",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "2ebf6910c50c0e44"
+    },
     {
       "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
@@ -4753,22 +4769,6 @@
         "npm"
       ],
       "uid": "09aaae37555e7509"
-    },
-    {
-      "title": "Agentic coding is straining CI. Here\u2019s how we scaled test impact analysis at Anthropic",
-      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-      "source": "claude-blog",
-      "published": "2026-09-14T19:25:48.328466+00:00",
-      "body": "Agentic coding is straining CI. Here\u2019s how we scaled test impact analysis at Anthropic",
-      "summary": "Agentic coding is straining CI. Here\u2019s how we scaled test impact analysis at Anthropic",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "eb27b9b4719dec2b"
     }
   ]
 }

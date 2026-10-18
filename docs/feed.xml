@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 18:10:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 20:50:04 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Investing in the public benefit</title>
+<link>https://www.anthropic.com/news/public-benefit-fund</link>
+<guid isPermaLink="false">frontierfeed:2ebf6910c50c0e44</guid>
+<pubDate>Sun, 18 Oct 2026 20:49:51 +0000</pubDate>
+<category>note</category>
+<description>Investing in the public benefit</description>
+</item>
 <item>
 <title>Anthropic&#x27;s proposed AI safety bill only kicks in if 50 deaths or $1B in damages</title>
 <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</link>
@@ -806,14 +814,6 @@
 <pubDate>Wed, 07 Oct 2026 17:57:07 +0000</pubDate>
 <category>api</category>
 <description>## 0.20.3 (2026-10-07) Full Changelog: [vertex-sdk-v0.20.2...vertex-sdk-v0.20.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.2...vertex-sdk-v0.20.3)</description>
-</item>
-<item>
-<title>[breaking] sdk: v0.132.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.132.0</link>
-<guid isPermaLink="false">frontierfeed:200da78416158d3e</guid>
-<pubDate>Wed, 07 Oct 2026 17:57:01 +0000</pubDate>
-<category>deprecation</category>
-<description>## 0.132.0 (2026-10-07) Full Changelog: [sdk-v0.131.0...sdk-v0.132.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.131.0...sdk-v0.132.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([1fd8261](https://gith…</description>
 </item>
 </channel>
 </rss>

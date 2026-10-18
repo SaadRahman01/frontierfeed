@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:2ebf6910c50c0e44",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "title": "Investing in the public benefit",
+      "summary": "Investing in the public benefit",
+      "content_text": "Investing in the public benefit",
+      "date_published": "2026-10-18T20:49:51.471064+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
       "id": "frontierfeed:4b16c22ec9ea1317",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
       "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
@@ -1369,22 +1383,6 @@
         "fix",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:200da78416158d3e",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.132.0",
-      "title": "sdk: v0.132.0",
-      "summary": "## 0.132.0 (2026-10-07) Full Changelog: [sdk-v0.131.0...sdk-v0.132.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.131.0...sdk-v0.132.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([1fd8261](https://gith…",
-      "content_text": "## 0.132.0 (2026-10-07) Full Changelog: [sdk-v0.131.0...sdk-v0.132.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.131.0...sdk-v0.132.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([1fd8261](https://gith…",
-      "date_published": "2026-10-07T17:57:01+00:00",
-      "tags": [
-        "deprecation",
-        "breaking",
-        "release",
-        "anthropic-sdk-typescript",
-        "haiku",
-        "mcp"
       ]
     }
   ]
