@@ -23,6 +23,20 @@
       ]
     },
     {
+      "id": "frontierfeed:5c98c7266e2917cb",
+      "url": "https://tkgally.github.io/500-clocks/",
+      "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+      "summary": "53 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50137820",
+      "content_text": "53 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50137820",
+      "date_published": "2026-10-18T04:04:58+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community",
+        "opus"
+      ]
+    },
+    {
       "id": "frontierfeed:fa9058c3a4a6585d",
       "url": "https://thingstodoapi.com/",
       "title": "Show HN: Things to Do API",
@@ -1368,20 +1382,6 @@
       "summary": "Getting started with Claude Code mods",
       "content_text": "Getting started with Claude Code mods",
       "date_published": "2026-10-07T16:35:09.305285+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:c82fc600e614ec6d",
-      "url": "https://claude.dev/blog/claude-code-in-the-cloud/",
-      "title": "Claude Code in the cloud: a field guide to cloud sessions",
-      "summary": "What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.",
-      "content_text": "What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.",
-      "date_published": "2026-10-07T16:35:09.305225+00:00",
       "tags": [
         "claude-code",
         "info",

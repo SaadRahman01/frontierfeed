@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-18T05:59:18.163159+00:00",
+  "generated": "2026-10-18T11:15:35.818763+00:00",
   "count": 300,
   "items": [
     {
@@ -19,6 +19,22 @@
         "product"
       ],
       "uid": "68bce686739bff91"
+    },
+    {
+      "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+      "url": "https://tkgally.github.io/500-clocks/",
+      "source": "hackernews",
+      "published": "2026-10-18T04:04:58+00:00",
+      "body": "53 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50137820",
+      "summary": "53 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50137820",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "5c98c7266e2917cb"
     },
     {
       "title": "Show HN: Things to Do API",
@@ -4755,22 +4771,6 @@
         "community"
       ],
       "uid": "a057ec6883ac185f"
-    },
-    {
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "source": "hackernews",
-      "published": "2026-09-14T13:59:09+00:00",
-      "body": "89 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49697014",
-      "summary": "89 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=49697014",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "7abc7cafe46cb9b8"
     }
   ]
 }
