@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:3ec7e24ac0a40783",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.253",
+      "title": "v1.0.253",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.252...v1.0.253",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.252...v1.0.253",
+      "date_published": "2026-10-18T22:35:48+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:ae0828e31a4f3488",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.303",
+      "title": "@anthropic-ai/claude-code 2.1.303 published",
+      "summary": "Version 2.1.303 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.303 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-18T21:15:23.178000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:2ebf6910c50c0e44",
       "url": "https://www.anthropic.com/news/public-benefit-fund",
       "title": "Investing in the public benefit",
@@ -1349,35 +1377,6 @@
       "summary": "## 0.34.3 (2026-10-07) Full Changelog: [bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3)",
       "content_text": "## 0.34.3 (2026-10-07) Full Changelog: [bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3)",
       "date_published": "2026-10-07T17:57:13+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:f7ac2a75afe1abc7",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.12.0",
-      "title": "v1.12.0",
-      "summary": "## 1.12.0 (2026-10-07) Full Changelog: [v1.11.0...v1.12.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.11.0...v1.12.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([f6346e6](https://github.com/anthropics/anthrop…",
-      "content_text": "## 1.12.0 (2026-10-07) Full Changelog: [v1.11.0...v1.12.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.11.0...v1.12.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([f6346e6](https://github.com/anthropics/anthrop…",
-      "date_published": "2026-10-07T17:57:07+00:00",
-      "tags": [
-        "deprecation",
-        "breaking",
-        "release",
-        "anthropic-sdk-python",
-        "haiku"
-      ]
-    },
-    {
-      "id": "frontierfeed:18260c2bd007a4b9",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.3",
-      "title": "vertex-sdk: v0.20.3",
-      "summary": "## 0.20.3 (2026-10-07) Full Changelog: [vertex-sdk-v0.20.2...vertex-sdk-v0.20.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.2...vertex-sdk-v0.20.3)",
-      "content_text": "## 0.20.3 (2026-10-07) Full Changelog: [vertex-sdk-v0.20.2...vertex-sdk-v0.20.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.2...vertex-sdk-v0.20.3)",
-      "date_published": "2026-10-07T17:57:07+00:00",
       "tags": [
         "api",
         "fix",

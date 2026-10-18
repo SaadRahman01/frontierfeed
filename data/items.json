@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "v1.0.253",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.253",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-18T22:35:48+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.252...v1.0.253",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.252...v1.0.253",
+      "version": "1.0.253",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "3ec7e24ac0a40783"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.303 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.303",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-18T21:15:23.178000+00:00",
+      "body": "Version 2.1.303 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.303 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.303",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "ae0828e31a4f3488"
+    },
+    {
       "title": "Investing in the public benefit",
       "url": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "anthropic-news",
@@ -4734,37 +4766,6 @@
         "claude-code-action"
       ],
       "uid": "e2dbb50bea54bfc7"
-    },
-    {
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "url": "https://www.effort.news/irregular",
-      "source": "hackernews",
-      "published": "2026-09-14T21:15:01+00:00",
-      "body": "88 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49704132",
-      "summary": "88 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=49704132",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "1f969257dd62e1c3"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.271 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.271",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-14T19:45:19.456000+00:00",
-      "body": "Version 2.1.271 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.271 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.271",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "09aaae37555e7509"
     }
   ]
 }

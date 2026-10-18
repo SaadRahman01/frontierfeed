@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 20:50:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 23:18:25 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.253</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.253</link>
+<guid isPermaLink="false">frontierfeed:3ec7e24ac0a40783</guid>
+<pubDate>Sun, 18 Oct 2026 22:35:48 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.252...v1.0.253</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.303 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.303</link>
+<guid isPermaLink="false">frontierfeed:ae0828e31a4f3488</guid>
+<pubDate>Sun, 18 Oct 2026 21:15:23 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.303 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Investing in the public benefit</title>
 <link>https://www.anthropic.com/news/public-benefit-fund</link>
@@ -798,22 +814,6 @@
 <pubDate>Wed, 07 Oct 2026 17:57:13 +0000</pubDate>
 <category>api</category>
 <description>## 0.34.3 (2026-10-07) Full Changelog: [bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3)</description>
-</item>
-<item>
-<title>[breaking] v1.12.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.12.0</link>
-<guid isPermaLink="false">frontierfeed:f7ac2a75afe1abc7</guid>
-<pubDate>Wed, 07 Oct 2026 17:57:07 +0000</pubDate>
-<category>deprecation</category>
-<description>## 1.12.0 (2026-10-07) Full Changelog: [v1.11.0...v1.12.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.11.0...v1.12.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([f6346e6](https://github.com/anthropics/anthrop…</description>
-</item>
-<item>
-<title>vertex-sdk: v0.20.3</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.3</link>
-<guid isPermaLink="false">frontierfeed:18260c2bd007a4b9</guid>
-<pubDate>Wed, 07 Oct 2026 17:57:07 +0000</pubDate>
-<category>api</category>
-<description>## 0.20.3 (2026-10-07) Full Changelog: [vertex-sdk-v0.20.2...vertex-sdk-v0.20.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.2...vertex-sdk-v0.20.3)</description>
 </item>
 </channel>
 </rss>
