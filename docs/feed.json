@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:7c9f07db18fda6d9",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "title": "How employment is changing at Anthropic",
+      "summary": "82 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50139873",
+      "content_text": "82 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50139873",
+      "date_published": "2026-10-18T10:49:26+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:68bce686739bff91",
       "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
       "title": "How an Anthropic BDR in Japan runs his day with Claude Managed Agents",
@@ -1373,20 +1386,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:96723404885bc4ae",
-      "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
-      "title": "Getting started with Claude Code mods",
-      "summary": "Getting started with Claude Code mods",
-      "content_text": "Getting started with Claude Code mods",
-      "date_published": "2026-10-07T16:35:09.305285+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]
