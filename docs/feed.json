@@ -9,6 +9,33 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:68bce686739bff91",
+      "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
+      "title": "How an Anthropic BDR in Japan runs his day with Claude Managed Agents",
+      "summary": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
+      "content_text": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
+      "date_published": "2026-10-18T05:59:07.523352+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:fa9058c3a4a6585d",
+      "url": "https://thingstodoapi.com/",
+      "title": "Show HN: Things to Do API",
+      "summary": "41 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50126384",
+      "content_text": "41 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50126384",
+      "date_published": "2026-10-16T23:58:34+00:00",
+      "tags": [
+        "api",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:fbf0a1a58bf4b204",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.252",
       "title": "v1.0.252",
@@ -1357,34 +1384,6 @@
       "date_published": "2026-10-07T16:35:09.305225+00:00",
       "tags": [
         "claude-code",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:be8cce5ca88bb529",
-      "url": "https://claude.com/resources/articles/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
-      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
-      "summary": "CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot expanded their Snowflake capacity using their existing Anthropic commitment.",
-      "content_text": "CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot expanded their Snowflake capacity using their existing Anthropic commitment.",
-      "date_published": "2026-10-07T08:45:53.500572+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:59936901db0de269",
-      "url": "https://claude.com/resources/articles/how-to-prepare-for-ai-driven-code-modernization-projects",
-      "title": "How to prepare for AI-driven code modernization projects",
-      "summary": "How to organize AI-driven modernization projects for critical systems and regulated enterprises.",
-      "content_text": "How to organize AI-driven modernization projects for critical systems and regulated enterprises.",
-      "date_published": "2026-10-07T08:45:53.500529+00:00",
-      "tags": [
-        "note",
         "info",
         "official",
         "product"

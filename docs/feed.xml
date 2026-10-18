@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 01:07:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 05:59:18 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>How an Anthropic BDR in Japan runs his day with Claude Managed Agents</title>
+<link>https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day</link>
+<guid isPermaLink="false">frontierfeed:68bce686739bff91</guid>
+<pubDate>Sun, 18 Oct 2026 05:59:07 +0000</pubDate>
+<category>note</category>
+<description>How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.</description>
+</item>
+<item>
+<title>Show HN: Things to Do API</title>
+<link>https://thingstodoapi.com/</link>
+<guid isPermaLink="false">frontierfeed:fa9058c3a4a6585d</guid>
+<pubDate>Fri, 16 Oct 2026 23:58:34 +0000</pubDate>
+<category>api</category>
+<description>41 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50126384</description>
+</item>
 <item>
 <title>v1.0.252</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.252</link>
@@ -798,22 +814,6 @@
 <pubDate>Wed, 07 Oct 2026 16:35:09 +0000</pubDate>
 <category>claude-code</category>
 <description>What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.</description>
-</item>
-<item>
-<title>How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace</title>
-<link>https://claude.com/resources/articles/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</link>
-<guid isPermaLink="false">frontierfeed:be8cce5ca88bb529</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>note</category>
-<description>CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot expanded their Snowflake capacity using their existing Anthropic commitment.</description>
-</item>
-<item>
-<title>How to prepare for AI-driven code modernization projects</title>
-<link>https://claude.com/resources/articles/how-to-prepare-for-ai-driven-code-modernization-projects</link>
-<guid isPermaLink="false">frontierfeed:59936901db0de269</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>note</category>
-<description>How to organize AI-driven modernization projects for critical systems and regulated enterprises.</description>
 </item>
 </channel>
 </rss>
