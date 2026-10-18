@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "source": "hackernews",
+      "published": "2026-10-18T14:30:27+00:00",
+      "body": "127 points, 144 comments. Discussion: https://news.ycombinator.com/item?id=50141429",
+      "summary": "127 points, 144 comments. Discussion: https://news.ycombinator.com/item?id=50141429",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "4b16c22ec9ea1317"
+    },
+    {
+      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "url": "https://legendofhyrule.com/",
+      "source": "hackernews",
+      "published": "2026-10-18T13:06:54+00:00",
+      "body": "92 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50140769",
+      "summary": "92 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50140769",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "3470ae1466a8c367"
+    },
+    {
       "title": "How employment is changing at Anthropic",
       "url": "https://www.anthropic.com/research/employment-at-anthropic",
       "source": "hackernews",
@@ -4735,38 +4765,6 @@
         "product"
       ],
       "uid": "eb27b9b4719dec2b"
-    },
-    {
-      "title": "Claude for Financial Advisors",
-      "url": "https://claude.com/blog/claude-for-financial-advisors",
-      "source": "claude-blog",
-      "published": "2026-09-14T19:25:48.328441+00:00",
-      "body": "Claude for Financial Advisors",
-      "summary": "Claude for Financial Advisors",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "9333eb3740a949b9"
-    },
-    {
-      "title": "How healthcare organizations use Claude Tag",
-      "url": "https://claude.com/blog/how-healthcare-organizations-use-claude-tag",
-      "source": "claude-blog",
-      "published": "2026-09-14T19:25:48.328398+00:00",
-      "body": "How healthcare organizations use Claude Tag",
-      "summary": "How healthcare organizations use Claude Tag",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "1bf334d1ccc26892"
     }
   ]
 }
