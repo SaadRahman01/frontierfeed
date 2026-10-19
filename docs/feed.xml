@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 17:31:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 22:25:09 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -16,12 +16,44 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
 <item>
+<title>v1.0.254</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.254</link>
+<guid isPermaLink="false">frontierfeed:e881737413bcf389</guid>
+<pubDate>Mon, 19 Oct 2026 21:43:04 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.253...v1.0.254</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.304 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.304</link>
+<guid isPermaLink="false">frontierfeed:0e08daf9e2324963</guid>
+<pubDate>Mon, 19 Oct 2026 19:47:15 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.304 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
 <title>Show HN: KiviDB, a faster Redis-compatible memory database and vector cache</title>
 <link>https://github.com/kividbio/kividb</link>
 <guid isPermaLink="false">frontierfeed:213eb54163025543</guid>
 <pubDate>Mon, 19 Oct 2026 13:53:52 +0000</pubDate>
 <category>note</category>
 <description>47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541</description>
+</item>
+<item>
+<title>Show HN: I built a task system to handle the drudgery so I could focus on tasks</title>
+<link>https://3anddoneapp.com/try</link>
+<guid isPermaLink="false">frontierfeed:ba96fe69d41527f4</guid>
+<pubDate>Mon, 19 Oct 2026 13:07:07 +0000</pubDate>
+<category>note</category>
+<description>43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980</description>
+</item>
+<item>
+<title>The obscure trust looming over Anthropic&#x27;s IPO</title>
+<link>https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">frontierfeed:4e2b02e152135efc</guid>
+<pubDate>Mon, 19 Oct 2026 12:06:03 +0000</pubDate>
+<category>note</category>
+<description>122 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=50151376</description>
 </item>
 <item>
 <title>[breaking] v2.0.0</title>
@@ -782,38 +814,6 @@
 <pubDate>Thu, 08 Oct 2026 03:07:03 +0000</pubDate>
 <category>api</category>
 <description>### Chores * **ci:** check that pull requests update the changelog</description>
-</item>
-<item>
-<title>sdk-v0.132.1</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.132.1</link>
-<guid isPermaLink="false">frontierfeed:f1b3a1ed2f6d4ce5</guid>
-<pubDate>Thu, 08 Oct 2026 03:07:00 +0000</pubDate>
-<category>api</category>
-<description>### Bug Fixes * **client:** throw before sending a request with an empty path parameter ### Chores * **ci:** check that pull requests update the changelog * **ci:** publish every package from the publish workflow * **docs:** note that listing Claude Console spend limits is in ear…</description>
-</item>
-<item>
-<title>Claude Haiku 5.5</title>
-<link>https://www.anthropic.com/claude-haiku-5-5</link>
-<guid isPermaLink="false">frontierfeed:6e690d1ef54743c3</guid>
-<pubDate>Wed, 07 Oct 2026 22:02:16 +0000</pubDate>
-<category>model-release</category>
-<description>Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.</description>
-</item>
-<item>
-<title>v1.0.245</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.245</link>
-<guid isPermaLink="false">frontierfeed:c5f5b036080e8149</guid>
-<pubDate>Wed, 07 Oct 2026 18:15:47 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.244...v1.0.245</description>
-</item>
-<item>
-<title>google-cloud-sdk: v0.0.18</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.18</link>
-<guid isPermaLink="false">frontierfeed:e8da96721e59ecd4</guid>
-<pubDate>Wed, 07 Oct 2026 17:57:35 +0000</pubDate>
-<category>api</category>
-<description>## 0.0.18 (2026-10-07) Full Changelog: [google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18)</description>
 </item>
 </channel>
 </rss>

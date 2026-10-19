@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "v1.0.254",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.254",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-19T21:43:04+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.253...v1.0.254",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.253...v1.0.254",
+      "version": "1.0.254",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "e881737413bcf389"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.304 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.304",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-19T19:47:15.337000+00:00",
+      "body": "Version 2.1.304 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.304 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.304",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "0e08daf9e2324963"
+    },
+    {
       "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
       "url": "https://github.com/kividbio/kividb",
       "source": "hackernews",
@@ -14,6 +46,36 @@
         "community"
       ],
       "uid": "213eb54163025543"
+    },
+    {
+      "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+      "url": "https://3anddoneapp.com/try",
+      "source": "hackernews",
+      "published": "2026-10-19T13:07:07+00:00",
+      "body": "43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980",
+      "summary": "43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ba96fe69d41527f4"
+    },
+    {
+      "title": "The obscure trust looming over Anthropic's IPO",
+      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+      "source": "hackernews",
+      "published": "2026-10-19T12:06:03+00:00",
+      "body": "122 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=50151376",
+      "summary": "122 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=50151376",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "4e2b02e152135efc"
     },
     {
       "title": "v2.0.0",
@@ -4704,68 +4766,6 @@
         "anthropic-sdk-python"
       ],
       "uid": "27c22754ab98cee0"
-    },
-    {
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
-      "source": "hackernews",
-      "published": "2026-09-15T13:41:28+00:00",
-      "body": "41 points, 100 comments. Discussion: https://news.ycombinator.com/item?id=49712409",
-      "summary": "41 points, 100 comments. Discussion: https://news.ycombinator.com/item?id=49712409",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "460c387beacfe5b2"
-    },
-    {
-      "title": "Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks",
-      "url": "https://twitter.com/brianchau57/status/2099580981271318606",
-      "source": "hackernews",
-      "published": "2026-09-15T02:05:35+00:00",
-      "body": "41 points, 7 comments. Discussion: https://news.ycombinator.com/item?id=49706829",
-      "summary": "41 points, 7 comments. Discussion: https://news.ycombinator.com/item?id=49706829",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "8b88cc623240f385"
-    },
-    {
-      "title": "v1.0.225",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.225",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-15T00:44:47+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.224...v1.0.225",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.224...v1.0.225",
-      "version": "1.0.225",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "fc9721416bd2aca1"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.272 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.272",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-14T23:34:13.565000+00:00",
-      "body": "Version 2.1.272 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.272 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.272",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "931f201367ea22d2"
     }
   ]
 }

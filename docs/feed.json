@@ -9,12 +9,66 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:e881737413bcf389",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.254",
+      "title": "v1.0.254",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.253...v1.0.254",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.253...v1.0.254",
+      "date_published": "2026-10-19T21:43:04+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:0e08daf9e2324963",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.304",
+      "title": "@anthropic-ai/claude-code 2.1.304 published",
+      "summary": "Version 2.1.304 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.304 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-19T19:47:15.337000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:213eb54163025543",
       "url": "https://github.com/kividbio/kividb",
       "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
       "summary": "47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541",
       "content_text": "47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541",
       "date_published": "2026-10-19T13:53:52+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:ba96fe69d41527f4",
+      "url": "https://3anddoneapp.com/try",
+      "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+      "summary": "43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980",
+      "content_text": "43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980",
+      "date_published": "2026-10-19T13:07:07+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:4e2b02e152135efc",
+      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+      "title": "The obscure trust looming over Anthropic's IPO",
+      "summary": "122 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=50151376",
+      "content_text": "122 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=50151376",
+      "date_published": "2026-10-19T12:06:03+00:00",
       "tags": [
         "note",
         "info",
@@ -1319,63 +1373,6 @@
       "summary": "### Chores * **ci:** check that pull requests update the changelog",
       "content_text": "### Chores * **ci:** check that pull requests update the changelog",
       "date_published": "2026-10-08T03:07:03+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:f1b3a1ed2f6d4ce5",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.132.1",
-      "title": "sdk-v0.132.1",
-      "summary": "### Bug Fixes * **client:** throw before sending a request with an empty path parameter ### Chores * **ci:** check that pull requests update the changelog * **ci:** publish every package from the publish workflow * **docs:** note that listing Claude Console spend limits is in ear…",
-      "content_text": "### Bug Fixes * **client:** throw before sending a request with an empty path parameter ### Chores * **ci:** check that pull requests update the changelog * **ci:** publish every package from the publish workflow * **docs:** note that listing Claude Console spend limits is in ear…",
-      "date_published": "2026-10-08T03:07:00+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:6e690d1ef54743c3",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "title": "Claude Haiku 5.5",
-      "summary": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.",
-      "content_text": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.",
-      "date_published": "2026-10-07T22:02:16.126053+00:00",
-      "tags": [
-        "model-release",
-        "feature",
-        "official",
-        "product",
-        "haiku"
-      ]
-    },
-    {
-      "id": "frontierfeed:c5f5b036080e8149",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.245",
-      "title": "v1.0.245",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.244...v1.0.245",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.244...v1.0.245",
-      "date_published": "2026-10-07T18:15:47+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:e8da96721e59ecd4",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.18",
-      "title": "google-cloud-sdk: v0.0.18",
-      "summary": "## 0.0.18 (2026-10-07) Full Changelog: [google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18)",
-      "content_text": "## 0.0.18 (2026-10-07) Full Changelog: [google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18)",
-      "date_published": "2026-10-07T17:57:35+00:00",
       "tags": [
         "api",
         "fix",
