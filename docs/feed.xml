@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 10:50:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 17:31:44 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -16,12 +16,28 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
 <item>
+<title>Show HN: KiviDB, a faster Redis-compatible memory database and vector cache</title>
+<link>https://github.com/kividbio/kividb</link>
+<guid isPermaLink="false">frontierfeed:213eb54163025543</guid>
+<pubDate>Mon, 19 Oct 2026 13:53:52 +0000</pubDate>
+<category>note</category>
+<description>47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541</description>
+</item>
+<item>
 <title>[breaking] v2.0.0</title>
 <link>https://github.com/modelcontextprotocol/servers/releases/tag/v2.0.0</link>
 <guid isPermaLink="false">frontierfeed:2d9198ed2c99acc6</guid>
 <pubDate>Mon, 19 Oct 2026 06:46:48 +0000</pubDate>
 <category>api</category>
 <description>## Servers refactored to modern era This release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected.</description>
+</item>
+<item>
+<title>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
+<link>https://crystl.dev/guides/tmux-for-ai-agents/</link>
+<guid isPermaLink="false">frontierfeed:3d0ba3951fa1455c</guid>
+<pubDate>Mon, 19 Oct 2026 05:55:31 +0000</pubDate>
+<category>claude-code</category>
+<description>130 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=50148855</description>
 </item>
 <item>
 <title>v1.0.253</title>
@@ -798,22 +814,6 @@
 <pubDate>Wed, 07 Oct 2026 17:57:35 +0000</pubDate>
 <category>api</category>
 <description>## 0.0.18 (2026-10-07) Full Changelog: [google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18)</description>
-</item>
-<item>
-<title>aws-sdk: v0.7.8</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.8</link>
-<guid isPermaLink="false">frontierfeed:eb0dd321108f2d0b</guid>
-<pubDate>Wed, 07 Oct 2026 17:57:25 +0000</pubDate>
-<category>api</category>
-<description>## 0.7.8 (2026-10-07) Full Changelog: [aws-sdk-v0.7.7...aws-sdk-v0.7.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.7...aws-sdk-v0.7.8)</description>
-</item>
-<item>
-<title>foundry-sdk: v0.5.3</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.3</link>
-<guid isPermaLink="false">frontierfeed:82bc1ef85f2085e2</guid>
-<pubDate>Wed, 07 Oct 2026 17:57:19 +0000</pubDate>
-<category>api</category>
-<description>## 0.5.3 (2026-10-07) Full Changelog: [foundry-sdk-v0.5.2...foundry-sdk-v0.5.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.2...foundry-sdk-v0.5.3)</description>
 </item>
 </channel>
 </rss>

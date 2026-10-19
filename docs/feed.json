@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:213eb54163025543",
+      "url": "https://github.com/kividbio/kividb",
+      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+      "summary": "47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541",
+      "content_text": "47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541",
+      "date_published": "2026-10-19T13:53:52+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:2d9198ed2c99acc6",
       "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.0.0",
       "title": "v2.0.0",
@@ -21,6 +34,19 @@
         "release",
         "servers",
         "mcp"
+      ]
+    },
+    {
+      "id": "frontierfeed:3d0ba3951fa1455c",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "summary": "130 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=50148855",
+      "content_text": "130 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=50148855",
+      "date_published": "2026-10-19T05:55:31+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
       ]
     },
     {
@@ -1350,34 +1376,6 @@
       "summary": "## 0.0.18 (2026-10-07) Full Changelog: [google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18)",
       "content_text": "## 0.0.18 (2026-10-07) Full Changelog: [google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18)",
       "date_published": "2026-10-07T17:57:35+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:eb0dd321108f2d0b",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.8",
-      "title": "aws-sdk: v0.7.8",
-      "summary": "## 0.7.8 (2026-10-07) Full Changelog: [aws-sdk-v0.7.7...aws-sdk-v0.7.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.7...aws-sdk-v0.7.8)",
-      "content_text": "## 0.7.8 (2026-10-07) Full Changelog: [aws-sdk-v0.7.7...aws-sdk-v0.7.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.7...aws-sdk-v0.7.8)",
-      "date_published": "2026-10-07T17:57:25+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:82bc1ef85f2085e2",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.3",
-      "title": "foundry-sdk: v0.5.3",
-      "summary": "## 0.5.3 (2026-10-07) Full Changelog: [foundry-sdk-v0.5.2...foundry-sdk-v0.5.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.2...foundry-sdk-v0.5.3)",
-      "content_text": "## 0.5.3 (2026-10-07) Full Changelog: [foundry-sdk-v0.5.2...foundry-sdk-v0.5.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.2...foundry-sdk-v0.5.3)",
-      "date_published": "2026-10-07T17:57:19+00:00",
       "tags": [
         "api",
         "fix",

@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+      "url": "https://github.com/kividbio/kividb",
+      "source": "hackernews",
+      "published": "2026-10-19T13:53:52+00:00",
+      "body": "47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541",
+      "summary": "47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "213eb54163025543"
+    },
+    {
       "title": "v2.0.0",
       "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.0.0",
       "source": "github:modelcontextprotocol/servers",
@@ -16,6 +31,21 @@
         "mcp"
       ],
       "uid": "2d9198ed2c99acc6"
+    },
+    {
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "source": "hackernews",
+      "published": "2026-10-19T05:55:31+00:00",
+      "body": "130 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=50148855",
+      "summary": "130 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=50148855",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "3d0ba3951fa1455c"
     },
     {
       "title": "v1.0.253",
@@ -4736,37 +4766,6 @@
         "npm"
       ],
       "uid": "931f201367ea22d2"
-    },
-    {
-      "title": "Anthropic is in regulatory-capture financial loop",
-      "url": "https://twitter.com/kevinnbass/status/2099626156660043891",
-      "source": "hackernews",
-      "published": "2026-09-14T23:23:46+00:00",
-      "body": "59 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49705630",
-      "summary": "59 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=49705630",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "786078f443719db2"
-    },
-    {
-      "title": "Deploying AI from pilot to production",
-      "url": "https://claude.com/blog/deploying-ai-from-pilot-to-production",
-      "source": "claude-blog",
-      "published": "2026-09-14T23:10:38.703413+00:00",
-      "body": "Deploying AI from pilot to production",
-      "summary": "Deploying AI from pilot to production",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "e6300bd96c6f5992"
     }
   ]
 }
