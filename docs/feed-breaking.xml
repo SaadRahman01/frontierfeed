@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, breaking changes only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 04:48:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 10:50:46 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-breaking.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — breaking changes</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>[breaking] v2.0.0</title>
+<link>https://github.com/modelcontextprotocol/servers/releases/tag/v2.0.0</link>
+<guid isPermaLink="false">frontierfeed:2d9198ed2c99acc6</guid>
+<pubDate>Mon, 19 Oct 2026 06:46:48 +0000</pubDate>
+<category>api</category>
+<description>## Servers refactored to modern era This release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected.</description>
+</item>
 <item>
 <title>[breaking] v1.15.0</title>
 <link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.15.0</link>

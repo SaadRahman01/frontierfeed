@@ -1,9 +1,26 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-19T04:48:54.670013+00:00",
+  "generated": "2026-10-19T10:50:46.524597+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v2.0.0",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.0.0",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2026-10-19T06:46:48+00:00",
+      "body": "## Servers refactored to modern era\r\nThis release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected.\r\n\r\n## Packages\r\n\r\n| Package | Version | Registry | In this release |\r\n| --- | --- | --- | --- |\r\n| `@modelcontextprotocol/server-everything` | `2.0.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-filesystem` | `2.0.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-memory` | `2.0.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-sequential-thinking` | `2.0.0` | npm | **published** |\r\n| `mcp-server-fetch` | `2026.10.19` | PyPI | **published** |\r\n| `mcp-server-git` | `2026.10.19` | PyPI | **published** |\r\n| `mcp-server-time` | `2026.10.19` | PyPI | **published** |\r\n\r\nRelease ledger: [v2/chore/5159-release-v2.0.0](https://claude.ai/artifact/G5uY8rqMeKgbr5xmpzSCfi)\r\n\r\n## @modelcontextprotocol/server-everything 2.0.0\r\n\r\n### What's Changed\r\n\r\n* chore: migrate the TypeScript servers to TS SDK v2 (codemod) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5063\r\n* chore: v1.0.0 release audit, dependency fixes by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5082\r\n* chore: fold pending changesets into a 1.0.0 CHANGELOG for each TypeScript server by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5083\r\n* Reconcile v2/main with the v1.0.0 release branch: changesets, changelogs, merge of v2/release/1.0.0 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5118\r\n* feat: modern-era TypeScript servers (2026-07-28 + 2025) and the new features in everything by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5131\r\n* ci: validate the TypeScript servers on Node 22, 24 and 26 in parallel by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5147\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5100\r\n* fix: raise the TypeScript servers' Node floor to 24 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5169\r\n* Release v2.0.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5166\r\n\r\n## @modelcontextprotocol/server-filesystem 2.0.0\r\n\r\n### What's Changed\r\n\r\n* chore: migrate the TypeScript servers to TS SDK v2 (codemod) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5063\r\n* chore: v1.0.0 release audit, dependency fixes by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5082\r\n* chore: fold pending changesets into a 1.0.0 CHANGELOG for each TypeScript server by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5083\r\n* fix(filesystem): revoke access when a roots update leaves no valid root by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5095\r\n* fix(filesystem): apply only the newest roots refresh's answer by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5098\r\n* fix(filesystem): hold tool calls while any roots refresh is pending by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5102\r\n* Reconcile v2/main with the v1.0.0 release branch: changesets, changelogs, merge of v2/release/1.0.0 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5118\r\n* feat: modern-era TypeScript servers (2026-07-28 + 2025) and the new features in everything by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5131\r\n* ci: validate the TypeScript servers on Node 22, 24 and 26 in parallel by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5147\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5100\r\n* fix: raise the TypeScript servers' Node floor to 24 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5169\r\n* Release v2.0.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5166\r\n\r\n## @modelcontextprotocol/server-memory 2.0.0\r\n\r\n### What's Changed\r\n\r\n* chore: migrate the TypeScript servers to TS SDK v2 (codemod) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5063\r\n* memory: expect Node 26's path-suffixed EISDIR message in persistence test by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5078\r\n* chore: v1.0.0 release audit, dependency fixes by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5082\r\n* chore: fold pending changesets into a 1.0.0 CHANGELOG for each TypeScript server by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5083\r\n* Reconcile v2/main with the v1.0.0 release branch: changesets, changelogs, merge of v2/release/1.0.0 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5118\r\n* feat: modern-era TypeScript servers (2026-07-28 + 2025) and the new features in everything by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5131\r\n* ci: validate the TypeScript servers on Node 22, 24 and 26 in parallel by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5147\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5100\r\n* fix: raise the TypeScript servers' Node floor to 24 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5169\r\n* Release v2.0.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5166\r\n\r\n## @modelcontextprotocol/server-sequential-thinking 2.0.0\r\n\r\n### What's Changed\r\n\r\n* chore: migrate the TypeScript servers to TS SDK v2 (codemod) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5063\r\n* chore: v1.0.0 release audit, dependency fixes by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5082\r\n* chore: fold pending changesets into a 1.0.0 CHANGELOG for each TypeScript server by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5083\r\n* Reconcile v2/main with the v1.0.0 release branch: changesets, changelogs, merge of v2/release/1.0.0 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5118\r\n* feat: modern-era TypeScript servers (2026-07-28 + 2025) and the new features in everything by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5131\r\n* fix(sequentialthinking): pad the thought box's header row to the border by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5144\r\n* ci: validate the TypeScript servers on Node 22, 24 and 26 in parallel by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5147\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5100\r\n* fix: raise the TypeScript servers' Node floor to 24 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5169\r\n* Release v2.0.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5166\r\n\r\n## Python servers: changes for clients\r\n\r\n`mcp-server-fetch`, `mcp-server-git` and `mcp-server-time` have no CHANGELOG, so here is what changes for a client in `2026.10.19`. They are now built on the MCP Python SDK's high-level `MCPServer` ([#5175](https://github.com/modelcontextprotocol/servers/pull/5175)).\r\n\r\n- **Unknown tool:** a JSON-RPC `-32602` error (`Unknown tool: <name>`) in both protocol eras, as the spec requires. It used to be an `isError` result.\r\n- **Tool errors** read `Error executing tool <name>: <message>`. Argument-validation errors now use pydantic's wording. Both are still `isError` results.\r\n- **Capabilities:** each server now advertises `prompts` and `resources` capabilities (with `listChanged: false`). fetch's `fetch` prompt is the only entry in those lists.\r\n- **time:** `get_current_time` and `convert_time` declare an `outputSchema` and return `structuredContent`. The text content is unchanged.\r\n- **fetch:** a `prompts/get` result's `descrip",
+      "summary": "## Servers refactored to modern era This release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected.",
+      "version": "2.0.0",
+      "category": "api",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "2d9198ed2c99acc6"
+    },
     {
       "title": "v1.0.253",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.253",
@@ -4754,22 +4771,6 @@
         "product"
       ],
       "uid": "e6300bd96c6f5992"
-    },
-    {
-      "title": "v1.0.224",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.224",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-14T22:14:28+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.223...v1.0.224",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.223...v1.0.224",
-      "version": "1.0.224",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "e2dbb50bea54bfc7"
     }
   ]
 }

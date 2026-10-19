@@ -9,6 +9,21 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:2d9198ed2c99acc6",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.0.0",
+      "title": "v2.0.0",
+      "summary": "## Servers refactored to modern era This release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected.",
+      "content_text": "## Servers refactored to modern era This release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected.",
+      "date_published": "2026-10-19T06:46:48+00:00",
+      "tags": [
+        "api",
+        "breaking",
+        "release",
+        "servers",
+        "mcp"
+      ]
+    },
+    {
       "id": "frontierfeed:3ec7e24ac0a40783",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.253",
       "title": "v1.0.253",
@@ -1363,20 +1378,6 @@
       "summary": "## 0.5.3 (2026-10-07) Full Changelog: [foundry-sdk-v0.5.2...foundry-sdk-v0.5.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.2...foundry-sdk-v0.5.3)",
       "content_text": "## 0.5.3 (2026-10-07) Full Changelog: [foundry-sdk-v0.5.2...foundry-sdk-v0.5.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.2...foundry-sdk-v0.5.3)",
       "date_published": "2026-10-07T17:57:19+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:5a45537518082778",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.3",
-      "title": "bedrock-sdk: v0.34.3",
-      "summary": "## 0.34.3 (2026-10-07) Full Changelog: [bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3)",
-      "content_text": "## 0.34.3 (2026-10-07) Full Changelog: [bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3)",
-      "date_published": "2026-10-07T17:57:13+00:00",
       "tags": [
         "api",
         "fix",
