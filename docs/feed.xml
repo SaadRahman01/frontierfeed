@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 18:29:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 22:21:09 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,70 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>sdk-v0.137.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.137.0</link>
+<guid isPermaLink="false">frontierfeed:23f8935054bd2bf0</guid>
+<pubDate>Tue, 20 Oct 2026 22:16:13 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add org webhook endpoints and user profile enforcement events ### Chores * **ci:** run the changelog check on a standard runner * **tests:** make credential tests independent of the caller&#x27;s environment</description>
+</item>
+<item>
+<title>v1.17.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.17.0</link>
+<guid isPermaLink="false">frontierfeed:69044a8bb9574f07</guid>
+<pubDate>Tue, 20 Oct 2026 22:13:01 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add org webhook endpoints and user profile enforcement events * **api:** add RBAC Group owner-access error codes to the Admin API * **api:** document the unsupported_charset error code for plugin uploads ### Bug Fixes * **bedrock:** keep a workspace ID set…</description>
+</item>
+<item>
+<title>v1.0.255</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.255</link>
+<guid isPermaLink="false">frontierfeed:fc79e0575336db2e</guid>
+<pubDate>Tue, 20 Oct 2026 20:52:57 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.254...v1.0.255</description>
+</item>
+<item>
+<title>Anthropic logged net loss of over $80B in first half of 2026</title>
+<link>https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/</link>
+<guid isPermaLink="false">frontierfeed:64867896242b55cf</guid>
+<pubDate>Tue, 20 Oct 2026 20:09:46 +0000</pubDate>
+<category>note</category>
+<description>64 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50171966</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.305 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.305</link>
+<guid isPermaLink="false">frontierfeed:fdf28474db720877</guid>
+<pubDate>Tue, 20 Oct 2026 19:29:36 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.305 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>aws-sdk-v0.9.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.9.0</link>
+<guid isPermaLink="false">frontierfeed:10e468d984507cd9</guid>
+<pubDate>Tue, 20 Oct 2026 18:46:04 +0000</pubDate>
+<category>api</category>
+<description>### Features * **aws:** require `@anthropic-ai/sdk` 0.136.0 or later * **aws:** throw an `AnthropicError` when `actionURLs` is read on `userProfiles` or `beta.userProfiles`, which the AWS gateway doesn&#x27;t serve</description>
+</item>
+<item>
+<title>bedrock-sdk-v0.36.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.36.0</link>
+<guid isPermaLink="false">frontierfeed:0787787ca555e0f4</guid>
+<pubDate>Tue, 20 Oct 2026 18:46:02 +0000</pubDate>
+<category>api</category>
+<description>### Features * **bedrock:** send `user_profile_id` in the request body on `AnthropicBedrockMantle` Messages and token counting requests * **bedrock:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicBedrock`, which doesn&#x27;t serve user prof…</description>
+</item>
+<item>
+<title>vertex-sdk-v0.22.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.22.0</link>
+<guid isPermaLink="false">frontierfeed:140b0a7d1d9abd63</guid>
+<pubDate>Tue, 20 Oct 2026 18:45:59 +0000</pubDate>
+<category>api</category>
+<description>### Features * **vertex:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicVertex`, which doesn&#x27;t serve the user profile endpoints</description>
+</item>
 <item>
 <title>Beyond permission prompts: making Claude Code more secure and autonomous</title>
 <link>https://www.anthropic.com/research/claude-code-sandboxing</link>
@@ -206,6 +270,14 @@
 <pubDate>Tue, 20 Oct 2026 17:49:46 +0000</pubDate>
 <category>api</category>
 <description>### Features * **api:** add data_refreshed_at and has_more to analytics report pages * **api:** add workspace rate-limit updates to the Admin API * **api:** make User Profiles generally available * **client:** yield server-sent events with unrecognized event names * **google-clou…</description>
+</item>
+<item>
+<title>Claude designed protein binders against scorpion neurotoxins</title>
+<link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
+<guid isPermaLink="false">frontierfeed:a4e478ace43b746c</guid>
+<pubDate>Tue, 20 Oct 2026 17:48:29 +0000</pubDate>
+<category>note</category>
+<description>67 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=50170021</description>
 </item>
 <item>
 <title>Show HN: Jev Cards, Can you beat a vision model at a picture quiz?</title>
@@ -742,78 +814,6 @@
 <pubDate>Tue, 13 Oct 2026 10:08:18 +0000</pubDate>
 <category>note</category>
 <description>40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333</description>
-</item>
-<item>
-<title>Strengthening our defenses against distillation attacks</title>
-<link>https://www.anthropic.com/research/distillation-defenses</link>
-<guid isPermaLink="false">frontierfeed:188593f761fca1db</guid>
-<pubDate>Tue, 13 Oct 2026 01:46:47 +0000</pubDate>
-<category>note</category>
-<description>42 points, 92 comments. Discussion: https://news.ycombinator.com/item?id=50065553</description>
-</item>
-<item>
-<title>Show HN: Indigene – Native plants for where you stand</title>
-<link>https://indigene.app/</link>
-<guid isPermaLink="false">frontierfeed:6bb8ba286ef288b2</guid>
-<pubDate>Mon, 12 Oct 2026 23:25:20 +0000</pubDate>
-<category>note</category>
-<description>62 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50064470</description>
-</item>
-<item>
-<title>AI models may be capable of self-replicating without access to a datacenter</title>
-<link>https://www.anthropic.com/research/self-replicating-ai</link>
-<guid isPermaLink="false">frontierfeed:60af9b60cb8c7ac3</guid>
-<pubDate>Mon, 12 Oct 2026 19:25:29 +0000</pubDate>
-<category>note</category>
-<description>77 points, 95 comments. Discussion: https://news.ycombinator.com/item?id=50061603</description>
-</item>
-<item>
-<title>Just say no to OpenAI and Anthropic</title>
-<link>https://micahflee.com/just-say-no-to-openai-and-anthropic/</link>
-<guid isPermaLink="false">frontierfeed:3ed6587042d5e918</guid>
-<pubDate>Mon, 12 Oct 2026 18:17:29 +0000</pubDate>
-<category>note</category>
-<description>140 points, 117 comments. Discussion: https://news.ycombinator.com/item?id=50060500</description>
-</item>
-<item>
-<title>Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents</title>
-<link>https://news.ycombinator.com/item?id=50059096</link>
-<guid isPermaLink="false">frontierfeed:31bc502f444fe1ab</guid>
-<pubDate>Mon, 12 Oct 2026 16:46:34 +0000</pubDate>
-<category>pricing</category>
-<description>55 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50059096</description>
-</item>
-<item>
-<title>Research Firm Calls Anthropic&#x27;s IPO &#x27;Unprecedented Test of Investor Gullibity&#x27;</title>
-<link>https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</link>
-<guid isPermaLink="false">frontierfeed:7899e8cbe697d552</guid>
-<pubDate>Mon, 12 Oct 2026 05:03:47 +0000</pubDate>
-<category>note</category>
-<description>53 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50051583</description>
-</item>
-<item>
-<title>Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p</title>
-<link>https://github.com/SaarthurR/atticus-mac</link>
-<guid isPermaLink="false">frontierfeed:a0e45fbc757e52b7</guid>
-<pubDate>Mon, 12 Oct 2026 00:15:12 +0000</pubDate>
-<category>note</category>
-<description>68 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50049588</description>
-</item>
-<item>
-<title>[breaking] v1.0.0</title>
-<link>https://github.com/modelcontextprotocol/servers/releases/tag/v1.0.0</link>
-<guid isPermaLink="false">frontierfeed:78946aaf73f6d3c3</guid>
-<pubDate>Sun, 11 Oct 2026 02:40:29 +0000</pubDate>
-<category>api</category>
-<description>## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-mem…</description>
-</item>
-<item>
-<title>Anthropic asks users to stop being mean to Claude</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218</link>
-<guid isPermaLink="false">frontierfeed:bb494fe4f96af8d6</guid>
-<pubDate>Sun, 11 Oct 2026 01:17:22 +0000</pubDate>
-<category>note</category>
-<description>46 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50038865</description>
 </item>
 </channel>
 </rss>

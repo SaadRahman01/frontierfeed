@@ -9,6 +9,119 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:23f8935054bd2bf0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.137.0",
+      "title": "sdk-v0.137.0",
+      "summary": "### Features * **api:** add org webhook endpoints and user profile enforcement events ### Chores * **ci:** run the changelog check on a standard runner * **tests:** make credential tests independent of the caller's environment",
+      "content_text": "### Features * **api:** add org webhook endpoints and user profile enforcement events ### Chores * **ci:** run the changelog check on a standard runner * **tests:** make credential tests independent of the caller's environment",
+      "date_published": "2026-10-20T22:16:13+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:69044a8bb9574f07",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.17.0",
+      "title": "v1.17.0",
+      "summary": "### Features * **api:** add org webhook endpoints and user profile enforcement events * **api:** add RBAC Group owner-access error codes to the Admin API * **api:** document the unsupported_charset error code for plugin uploads ### Bug Fixes * **bedrock:** keep a workspace ID set…",
+      "content_text": "### Features * **api:** add org webhook endpoints and user profile enforcement events * **api:** add RBAC Group owner-access error codes to the Admin API * **api:** document the unsupported_charset error code for plugin uploads ### Bug Fixes * **bedrock:** keep a workspace ID set…",
+      "date_published": "2026-10-20T22:13:01+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-python",
+        "enterprise",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:fc79e0575336db2e",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.255",
+      "title": "v1.0.255",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.254...v1.0.255",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.254...v1.0.255",
+      "date_published": "2026-10-20T20:52:57+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:64867896242b55cf",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "title": "Anthropic logged net loss of over $80B in first half of 2026",
+      "summary": "64 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50171966",
+      "content_text": "64 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50171966",
+      "date_published": "2026-10-20T20:09:46+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:fdf28474db720877",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.305",
+      "title": "@anthropic-ai/claude-code 2.1.305 published",
+      "summary": "Version 2.1.305 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.305 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-20T19:29:36.816000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:10e468d984507cd9",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.9.0",
+      "title": "aws-sdk-v0.9.0",
+      "summary": "### Features * **aws:** require `@anthropic-ai/sdk` 0.136.0 or later * **aws:** throw an `AnthropicError` when `actionURLs` is read on `userProfiles` or `beta.userProfiles`, which the AWS gateway doesn't serve",
+      "content_text": "### Features * **aws:** require `@anthropic-ai/sdk` 0.136.0 or later * **aws:** throw an `AnthropicError` when `actionURLs` is read on `userProfiles` or `beta.userProfiles`, which the AWS gateway doesn't serve",
+      "date_published": "2026-10-20T18:46:04+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:0787787ca555e0f4",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.36.0",
+      "title": "bedrock-sdk-v0.36.0",
+      "summary": "### Features * **bedrock:** send `user_profile_id` in the request body on `AnthropicBedrockMantle` Messages and token counting requests * **bedrock:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicBedrock`, which doesn't serve user prof…",
+      "content_text": "### Features * **bedrock:** send `user_profile_id` in the request body on `AnthropicBedrockMantle` Messages and token counting requests * **bedrock:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicBedrock`, which doesn't serve user prof…",
+      "date_published": "2026-10-20T18:46:02+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:140b0a7d1d9abd63",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.22.0",
+      "title": "vertex-sdk-v0.22.0",
+      "summary": "### Features * **vertex:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicVertex`, which doesn't serve the user profile endpoints",
+      "content_text": "### Features * **vertex:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicVertex`, which doesn't serve the user profile endpoints",
+      "date_published": "2026-10-20T18:45:59+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
       "id": "frontierfeed:6cebd0312f47400e",
       "url": "https://www.anthropic.com/research/claude-code-sandboxing",
       "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
@@ -351,6 +464,19 @@
         "anthropic-sdk-python",
         "enterprise",
         "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:a4e478ace43b746c",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "summary": "67 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=50170021",
+      "content_text": "67 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=50170021",
+      "date_published": "2026-10-20T17:48:29+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1266,125 +1392,6 @@
       "summary": "40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333",
       "content_text": "40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333",
       "date_published": "2026-10-13T10:08:18+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:188593f761fca1db",
-      "url": "https://www.anthropic.com/research/distillation-defenses",
-      "title": "Strengthening our defenses against distillation attacks",
-      "summary": "42 points, 92 comments. Discussion: https://news.ycombinator.com/item?id=50065553",
-      "content_text": "42 points, 92 comments. Discussion: https://news.ycombinator.com/item?id=50065553",
-      "date_published": "2026-10-13T01:46:47+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:6bb8ba286ef288b2",
-      "url": "https://indigene.app/",
-      "title": "Show HN: Indigene – Native plants for where you stand",
-      "summary": "62 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50064470",
-      "content_text": "62 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50064470",
-      "date_published": "2026-10-12T23:25:20+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:60af9b60cb8c7ac3",
-      "url": "https://www.anthropic.com/research/self-replicating-ai",
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "summary": "77 points, 95 comments. Discussion: https://news.ycombinator.com/item?id=50061603",
-      "content_text": "77 points, 95 comments. Discussion: https://news.ycombinator.com/item?id=50061603",
-      "date_published": "2026-10-12T19:25:29+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:3ed6587042d5e918",
-      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
-      "title": "Just say no to OpenAI and Anthropic",
-      "summary": "140 points, 117 comments. Discussion: https://news.ycombinator.com/item?id=50060500",
-      "content_text": "140 points, 117 comments. Discussion: https://news.ycombinator.com/item?id=50060500",
-      "date_published": "2026-10-12T18:17:29+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:31bc502f444fe1ab",
-      "url": "https://news.ycombinator.com/item?id=50059096",
-      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "summary": "55 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50059096",
-      "content_text": "55 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50059096",
-      "date_published": "2026-10-12T16:46:34+00:00",
-      "tags": [
-        "pricing",
-        "feature",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:7899e8cbe697d552",
-      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-      "summary": "53 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50051583",
-      "content_text": "53 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50051583",
-      "date_published": "2026-10-12T05:03:47+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:a0e45fbc757e52b7",
-      "url": "https://github.com/SaarthurR/atticus-mac",
-      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-      "summary": "68 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50049588",
-      "content_text": "68 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50049588",
-      "date_published": "2026-10-12T00:15:12+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:78946aaf73f6d3c3",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v1.0.0",
-      "title": "v1.0.0",
-      "summary": "## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-mem…",
-      "content_text": "## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-mem…",
-      "date_published": "2026-10-11T02:40:29+00:00",
-      "tags": [
-        "api",
-        "breaking",
-        "release",
-        "servers",
-        "mcp"
-      ]
-    },
-    {
-      "id": "frontierfeed:bb494fe4f96af8d6",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
-      "title": "Anthropic asks users to stop being mean to Claude",
-      "summary": "46 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50038865",
-      "content_text": "46 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50038865",
-      "date_published": "2026-10-11T01:17:22+00:00",
       "tags": [
         "note",
         "info",

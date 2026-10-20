@@ -1,6 +1,135 @@
 {
   "items": [
     {
+      "title": "sdk-v0.137.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.137.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-20T22:16:13+00:00",
+      "body": "### Features\n\n* **api:** add org webhook endpoints and user profile enforcement events\n\n\n### Chores\n\n* **ci:** run the changelog check on a standard runner\n* **tests:** make credential tests independent of the caller's environment",
+      "summary": "### Features * **api:** add org webhook endpoints and user profile enforcement events ### Chores * **ci:** run the changelog check on a standard runner * **tests:** make credential tests independent of the caller's environment",
+      "version": "sdk-v0.137.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "23f8935054bd2bf0"
+    },
+    {
+      "title": "v1.17.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.17.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-10-20T22:13:01+00:00",
+      "body": "### Features\n\n* **api:** add org webhook endpoints and user profile enforcement events\n* **api:** add RBAC Group owner-access error codes to the Admin API\n* **api:** document the unsupported_charset error code for plugin uploads\n\n\n### Bug Fixes\n\n* **bedrock:** keep a workspace ID set in default_headers on the Bedrock and Mantle clients\n* **google-cloud:** keep workspace and user profile IDs set in default_headers\n\n\n### Chores\n\n* **ci:** run the changelog check on a standard runner",
+      "summary": "### Features * **api:** add org webhook endpoints and user profile enforcement events * **api:** add RBAC Group owner-access error codes to the Admin API * **api:** document the unsupported_charset error code for plugin uploads ### Bug Fixes * **bedrock:** keep a workspace ID set\u2026",
+      "version": "1.17.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "enterprise",
+        "skills"
+      ],
+      "uid": "69044a8bb9574f07"
+    },
+    {
+      "title": "v1.0.255",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.255",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-20T20:52:57+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.254...v1.0.255",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.254...v1.0.255",
+      "version": "1.0.255",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "fc79e0575336db2e"
+    },
+    {
+      "title": "Anthropic logged net loss of over $80B in first half of 2026",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "source": "hackernews",
+      "published": "2026-10-20T20:09:46+00:00",
+      "body": "64 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50171966",
+      "summary": "64 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50171966",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "64867896242b55cf"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.305 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.305",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-20T19:29:36.816000+00:00",
+      "body": "Version 2.1.305 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.305 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.305",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "fdf28474db720877"
+    },
+    {
+      "title": "aws-sdk-v0.9.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.9.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-20T18:46:04+00:00",
+      "body": "### Features\n\n* **aws:** require `@anthropic-ai/sdk` 0.136.0 or later\n* **aws:** throw an `AnthropicError` when `actionURLs` is read on `userProfiles` or `beta.userProfiles`, which the AWS gateway doesn't serve",
+      "summary": "### Features * **aws:** require `@anthropic-ai/sdk` 0.136.0 or later * **aws:** throw an `AnthropicError` when `actionURLs` is read on `userProfiles` or `beta.userProfiles`, which the AWS gateway doesn't serve",
+      "version": "aws-sdk-v0.9.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "10e468d984507cd9"
+    },
+    {
+      "title": "bedrock-sdk-v0.36.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.36.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-20T18:46:02+00:00",
+      "body": "### Features\n\n* **bedrock:** send `user_profile_id` in the request body on `AnthropicBedrockMantle` Messages and token counting requests\n* **bedrock:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicBedrock`, which doesn't serve user profiles",
+      "summary": "### Features * **bedrock:** send `user_profile_id` in the request body on `AnthropicBedrockMantle` Messages and token counting requests * **bedrock:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicBedrock`, which doesn't serve user prof\u2026",
+      "version": "bedrock-sdk-v0.36.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "0787787ca555e0f4"
+    },
+    {
+      "title": "vertex-sdk-v0.22.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.22.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-20T18:45:59+00:00",
+      "body": "### Features\n\n* **vertex:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicVertex`, which doesn't serve the user profile endpoints",
+      "summary": "### Features * **vertex:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicVertex`, which doesn't serve the user profile endpoints",
+      "version": "ertex-sdk-v0.22.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "140b0a7d1d9abd63"
+    },
+    {
       "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
       "url": "https://www.anthropic.com/research/claude-code-sandboxing",
       "source": "anthropic-engineering",
@@ -392,6 +521,21 @@
         "skills"
       ],
       "uid": "2257fb40f336b7dc"
+    },
+    {
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "source": "hackernews",
+      "published": "2026-10-20T17:48:29+00:00",
+      "body": "67 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=50170021",
+      "summary": "67 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=50170021",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "a4e478ace43b746c"
     },
     {
       "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
@@ -4632,148 +4776,6 @@
         "npm"
       ],
       "uid": "fa8cbdfdf74f1bec"
-    },
-    {
-      "title": "Partnering with Accenture on embedded evaluation",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "source": "anthropic-news",
-      "published": "2026-09-18T22:37:27.099860+00:00",
-      "body": "Partnering with Accenture on embedded evaluation",
-      "summary": "Partnering with Accenture on embedded evaluation",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "f28145f8cf320c8a"
-    },
-    {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "source": "hackernews",
-      "published": "2026-09-18T21:00:32+00:00",
-      "body": "245 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=49760187",
-      "summary": "245 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=49760187",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "25e3b90ede10630f"
-    },
-    {
-      "title": "Anthropic finally adds AGENTS.md support to Claude Code",
-      "url": "https://twitter.com/trq212/status/2101009392611278961",
-      "source": "hackernews",
-      "published": "2026-09-18T18:26:34+00:00",
-      "body": "41 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=49758250",
-      "summary": "41 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=49758250",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "20b26f3da8e79424"
-    },
-    {
-      "title": "v1.0.230",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.230",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-18T18:09:06+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.229...v1.0.230",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.229...v1.0.230",
-      "version": "1.0.230",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "9e93d46149241592"
-    },
-    {
-      "title": "google-cloud-sdk: v0.0.13",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.13",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-18T16:25:20+00:00",
-      "body": "## 0.0.13 (2026-09-18)\n\nFull Changelog: [google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13)\n\n### Chores\n\n* **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://github.com/anthropics/anthropic-sdk-typescript/commit/8a69ff594ffeec3f6bd964030086b01ae5354aaf))\n* **internal:** switch unit tests from jest to vitest ([788c9c6](https://github.com/anthropics/anthropic-sdk-typescript/commit/788c9c62ba2bd8180ffc7dcebd1cee14cd692d03))",
-      "summary": "## 0.0.13 (2026-09-18) Full Changelog: [google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.12...google-cloud-sdk-v0.0.13) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3\u2026",
-      "version": "google-cloud-sdk-v0.0.13",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "d8920fe6c7127d71"
-    },
-    {
-      "title": "aws-sdk: v0.7.3",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.3",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-18T16:25:14+00:00",
-      "body": "## 0.7.3 (2026-09-18)\n\nFull Changelog: [aws-sdk-v0.7.2...aws-sdk-v0.7.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.2...aws-sdk-v0.7.3)\n\n### Chores\n\n* **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://github.com/anthropics/anthropic-sdk-typescript/commit/8a69ff594ffeec3f6bd964030086b01ae5354aaf))\n* **internal:** switch unit tests from jest to vitest ([788c9c6](https://github.com/anthropics/anthropic-sdk-typescript/commit/788c9c62ba2bd8180ffc7dcebd1cee14cd692d03))",
-      "summary": "## 0.7.3 (2026-09-18) Full Changelog: [aws-sdk-v0.7.2...aws-sdk-v0.7.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.2...aws-sdk-v0.7.3) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://github.com/anthropics\u2026",
-      "version": "aws-sdk-v0.7.3",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "22bdaf94cc381f52"
-    },
-    {
-      "title": "foundry-sdk: v0.4.8",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.4.8",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-18T16:25:08+00:00",
-      "body": "## 0.4.8 (2026-09-18)\n\nFull Changelog: [foundry-sdk-v0.4.7...foundry-sdk-v0.4.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.7...foundry-sdk-v0.4.8)\n\n### Chores\n\n* **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://github.com/anthropics/anthropic-sdk-typescript/commit/8a69ff594ffeec3f6bd964030086b01ae5354aaf))\n* **internal:** switch unit tests from jest to vitest ([788c9c6](https://github.com/anthropics/anthropic-sdk-typescript/commit/788c9c62ba2bd8180ffc7dcebd1cee14cd692d03))",
-      "summary": "## 0.4.8 (2026-09-18) Full Changelog: [foundry-sdk-v0.4.7...foundry-sdk-v0.4.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.7...foundry-sdk-v0.4.8) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://githu\u2026",
-      "version": "foundry-sdk-v0.4.8",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "1ea572f6177c780a"
-    },
-    {
-      "title": "bedrock-sdk: v0.33.7",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.33.7",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-18T16:25:02+00:00",
-      "body": "## 0.33.7 (2026-09-18)\n\nFull Changelog: [bedrock-sdk-v0.33.6...bedrock-sdk-v0.33.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.6...bedrock-sdk-v0.33.7)\n\n### Bug Fixes\n\n* **bedrock:** raise APIError for mid-stream exception and error frames ([#622](https://github.com/anthropics/anthropic-sdk-typescript/issues/622)) ([8a14b15](https://github.com/anthropics/anthropic-sdk-typescript/commit/8a14b15cc33c64aeb8a77fefd2594c620c7ecc23))\n\n\n### Chores\n\n* **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://github.com/anthropics/anthropic-sdk-typescript/commit/8a69ff594ffeec3f6bd964030086b01ae5354aaf))\n* **internal:** switch unit tests from jest to vitest ([788c9c6](https://github.com/anthropics/anthropic-sdk-typescript/commit/788c9c62ba2bd8180ffc7dcebd1cee14cd692d03))",
-      "summary": "## 0.33.7 (2026-09-18) Full Changelog: [bedrock-sdk-v0.33.6...bedrock-sdk-v0.33.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.33.6...bedrock-sdk-v0.33.7) ### Bug Fixes * **bedrock:** raise APIError for mid-stream exception and error frames ([#62\u2026",
-      "version": "bedrock-sdk-v0.33.7",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "9dbcbe4f93ec7527"
-    },
-    {
-      "title": "vertex-sdk: v0.19.10",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.19.10",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-18T16:24:56+00:00",
-      "body": "## 0.19.10 (2026-09-18)\n\nFull Changelog: [vertex-sdk-v0.19.9...vertex-sdk-v0.19.10](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.9...vertex-sdk-v0.19.10)\n\n### Chores\n\n* **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://github.com/anthropics/anthropic-sdk-typescript/commit/8a69ff594ffeec3f6bd964030086b01ae5354aaf))\n* **internal:** switch unit tests from jest to vitest ([788c9c6](https://github.com/anthropics/anthropic-sdk-typescript/commit/788c9c62ba2bd8180ffc7dcebd1cee14cd692d03))",
-      "summary": "## 0.19.10 (2026-09-18) Full Changelog: [vertex-sdk-v0.19.9...vertex-sdk-v0.19.10](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.9...vertex-sdk-v0.19.10) ### Chores * **internal:** build the sub-packages with TypeScript 6.0.3 ([8a69ff5](https://g\u2026",
-      "version": "ertex-sdk-v0.19.10",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "1c6a895524e03498"
     }
   ]
 }
