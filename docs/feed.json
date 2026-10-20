@@ -50,6 +50,19 @@
       ]
     },
     {
+      "id": "frontierfeed:bac9729631cd0699",
+      "url": "https://heymaxwell.ai/",
+      "title": "Maxwell: A new kind of model that sits between code and hardware",
+      "summary": "43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50152466",
+      "content_text": "43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50152466",
+      "date_published": "2026-10-19T13:47:56+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:ba96fe69d41527f4",
       "url": "https://3anddoneapp.com/try",
       "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
@@ -1359,20 +1372,6 @@
       "summary": "### Chores * **ci:** check that pull requests update the changelog",
       "content_text": "### Chores * **ci:** check that pull requests update the changelog",
       "date_published": "2026-10-08T03:07:05+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:31ba3236c94d731f",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.4",
-      "title": "vertex-sdk-v0.20.4",
-      "summary": "### Chores * **ci:** check that pull requests update the changelog",
-      "content_text": "### Chores * **ci:** check that pull requests update the changelog",
-      "date_published": "2026-10-08T03:07:03+00:00",
       "tags": [
         "api",
         "fix",
