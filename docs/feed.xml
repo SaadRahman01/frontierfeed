@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 13:36:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 18:29:52 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,214 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Beyond permission prompts: making Claude Code more secure and autonomous</title>
+<link>https://www.anthropic.com/research/claude-code-sandboxing</link>
+<guid isPermaLink="false">frontierfeed:6cebd0312f47400e</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>claude-code</category>
+<description>Beyond permission prompts: making Claude Code more secure and autonomous</description>
+</item>
+<item>
+<title>Code execution with MCP: Building more efficient agents</title>
+<link>https://www.anthropic.com/research/code-execution-with-mcp</link>
+<guid isPermaLink="false">frontierfeed:272f0914b39ffc8f</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>api</category>
+<description>Code execution with MCP: Building more efficient agents</description>
+</item>
+<item>
+<title>Introducing advanced tool use on the Claude Developer Platform</title>
+<link>https://www.anthropic.com/research/advanced-tool-use</link>
+<guid isPermaLink="false">frontierfeed:eea90782d2b30405</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>launch</category>
+<description>We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.</description>
+</item>
+<item>
+<title>Effective harnesses for long-running agents</title>
+<link>https://www.anthropic.com/research/effective-harnesses-for-long-running-agents</link>
+<guid isPermaLink="false">frontierfeed:b5f900c211bf24ba</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>api</category>
+<description>We developed a two-fold solution to enable the Claude Agent SDK to work effectively across many context windows: an initializer agent that sets up the environment on the first run, and a coding agent that is tasked with making incremental progress in every session while leaving c…</description>
+</item>
+<item>
+<title>Demystifying evals for AI agents</title>
+<link>https://www.anthropic.com/research/demystifying-evals-for-ai-agents</link>
+<guid isPermaLink="false">frontierfeed:c43ad2d66b220c71</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>note</category>
+<description>Guidance on how to design more rigorous and useful evals for agents across a range of agent architectures and use cases in real-world deployment.</description>
+</item>
+<item>
+<title>Designing AI-resistant technical evaluations</title>
+<link>https://www.anthropic.com/research/AI-resistant-technical-evaluations</link>
+<guid isPermaLink="false">frontierfeed:e448c0186ac33d60</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>note</category>
+<description>What we learned from three iterations of a performance engineering take-home that Claude keeps beating.</description>
+</item>
+<item>
+<title>Building a C compiler with a team of parallel Claudes</title>
+<link>https://www.anthropic.com/research/building-c-compiler</link>
+<guid isPermaLink="false">frontierfeed:f26747cd77e40576</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>note</category>
+<description>Nicholas Carlini, a researcher on our Safeguards team, explains how he tasked 16 agents with writing a Rust-based C compiler, from scratch, capable of compiling the Linux kernel.</description>
+</item>
+<item>
+<title>Quantifying infrastructure noise in agentic coding evals</title>
+<link>https://www.anthropic.com/research/infrastructure-noise</link>
+<guid isPermaLink="false">frontierfeed:95ac1f7755c42dbe</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>note</category>
+<description>Agentic coding benchmarks are often treated as precise measurements of relative model capability. However, we’ve found that infrastructure configuration alone can produce meaningful differences in the scores.</description>
+</item>
+<item>
+<title>Eval awareness in Claude Opus 4.6’s BrowseComp performance</title>
+<link>https://www.anthropic.com/research/eval-awareness-browsecomp</link>
+<guid isPermaLink="false">frontierfeed:67b820295c2def45</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>note</category>
+<description>Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it—raising questions about eval integrity in web-enabled environments.</description>
+</item>
+<item>
+<title>Harness design for long-running application development</title>
+<link>https://www.anthropic.com/research/harness-design-long-running-apps</link>
+<guid isPermaLink="false">frontierfeed:d7af4282c26b2995</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>note</category>
+<description>Harness design is key to performance at the frontier of agentic coding. Here&#x27;s how we pushed Claude further in frontend design and long-running autonomous software engineering.</description>
+</item>
+<item>
+<title>How we built Claude Code auto mode: a safer way to skip permissions</title>
+<link>https://www.anthropic.com/research/claude-code-auto-mode</link>
+<guid isPermaLink="false">frontierfeed:e8109e646553a5b7</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>claude-code</category>
+<description>Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here&#x27;s what it catches, and what it misses.</description>
+</item>
+<item>
+<title>Scaling Managed Agents: Decoupling the brain from the hands</title>
+<link>https://www.anthropic.com/research/managed-agents</link>
+<guid isPermaLink="false">frontierfeed:e0578653f5c4fca4</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>note</category>
+<description>Harnesses encode assumptions that go stale as models improve. Managed Agents—our hosted service for long-horizon agent work—is built around interfaces that stay stable as harnesses change.</description>
+</item>
+<item>
+<title>An update on recent Claude Code quality reports</title>
+<link>https://www.anthropic.com/research/april-23-postmortem</link>
+<guid isPermaLink="false">frontierfeed:7cd855a9dc93a047</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>claude-code</category>
+<description>We traced recent reports of Claude Code quality issues to three separate changes. Here&#x27;s what happened and what we&#x27;re changing.</description>
+</item>
+<item>
+<title>How we contain Claude across products</title>
+<link>https://www.anthropic.com/research/how-we-contain-claude</link>
+<guid isPermaLink="false">frontierfeed:8a655ad8eac3c2fd</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>claude-code</category>
+<description>As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.</description>
+</item>
+<item>
+<title>Redesigning source control at Anthropic</title>
+<link>https://www.anthropic.com/research/redesigning-source-control</link>
+<guid isPermaLink="false">frontierfeed:9a18ada52b37c221</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>note</category>
+<description>As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.</description>
+</item>
+<item>
+<title>Introducing Claude Mythos and Fable 5.1</title>
+<link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
+<guid isPermaLink="false">frontierfeed:67713036ecf2e2c4</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
+<category>launch</category>
+<description>They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.</description>
+</item>
+<item>
+<title>The Situation Report</title>
+<link>https://www.anthropic.com/features/ebola-response</link>
+<guid isPermaLink="false">frontierfeed:7bbded248b0a92ff</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
+<category>note</category>
+<description>A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.</description>
+</item>
+<item>
+<title>Introducing Claude Opus 5.5</title>
+<link>https://www.anthropic.com/claude-opus-5-5</link>
+<guid isPermaLink="false">frontierfeed:e3c3dad186995627</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
+<category>model-release</category>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
+</item>
+<item>
+<title>Introducing Claude Sonnet 5.5</title>
+<link>https://www.anthropic.com/claude-sonnet-5-5</link>
+<guid isPermaLink="false">frontierfeed:361da431c7af83fe</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
+<category>model-release</category>
+<description>Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.</description>
+</item>
+<item>
+<title>Introducing Claude Haiku 5.5</title>
+<link>https://www.anthropic.com/claude-haiku-5-5</link>
+<guid isPermaLink="false">frontierfeed:903a41d0fe841e64</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
+<category>model-release</category>
+<description>Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</description>
+</item>
+<item>
+<title>Strengthening our defenses against distillation attacks</title>
+<link>https://www.anthropic.com/news/distillation-defenses</link>
+<guid isPermaLink="false">frontierfeed:0b8c1f899aea05bb</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
+<category>note</category>
+<description>Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.</description>
+</item>
+<item>
+<title>google-cloud-sdk-v0.2.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.2.0</link>
+<guid isPermaLink="false">frontierfeed:858e90301558d27f</guid>
+<pubDate>Tue, 20 Oct 2026 17:54:01 +0000</pubDate>
+<category>api</category>
+<description>### Features * **google-cloud:** use the v1 endpoints and add the organization endpoint</description>
+</item>
+<item>
+<title>sdk-v0.136.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.136.0</link>
+<guid isPermaLink="false">frontierfeed:a19650ecc49aff76</guid>
+<pubDate>Tue, 20 Oct 2026 17:53:59 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add data_refreshed_at and has_more to analytics report pages * **api:** add workspace rate-limit updates to the Admin API * **api:** make User Profiles generally available * **client:** yield server-sent events with unrecognized event names * **tools:** ac…</description>
+</item>
+<item>
+<title>v1.16.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.16.0</link>
+<guid isPermaLink="false">frontierfeed:2257fb40f336b7dc</guid>
+<pubDate>Tue, 20 Oct 2026 17:49:46 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add data_refreshed_at and has_more to analytics report pages * **api:** add workspace rate-limit updates to the Admin API * **api:** make User Profiles generally available * **client:** yield server-sent events with unrecognized event names * **google-clou…</description>
+</item>
+<item>
+<title>Show HN: Jev Cards, Can you beat a vision model at a picture quiz?</title>
+<link>https://jevcards.com</link>
+<guid isPermaLink="false">frontierfeed:e8938d0aebf71303</guid>
+<pubDate>Tue, 20 Oct 2026 15:11:56 +0000</pubDate>
+<category>note</category>
+<description>47 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=50167617</description>
+</item>
+<item>
+<title>NixOS is making me less afraid</title>
+<link>https://entropicthoughts.com/nixos-is-making-me-less-afraid</link>
+<guid isPermaLink="false">frontierfeed:2f111908a58c6676</guid>
+<pubDate>Tue, 20 Oct 2026 12:43:05 +0000</pubDate>
+<category>note</category>
+<description>124 points, 82 comments. Discussion: https://news.ycombinator.com/item?id=50165484</description>
+</item>
 <item>
 <title>Show HN: Death Plan Switch, a self-hosted dead man&#x27;s switch for solo devs</title>
 <link>https://deathplanswitch.com/</link>
@@ -606,214 +814,6 @@
 <pubDate>Sun, 11 Oct 2026 01:17:22 +0000</pubDate>
 <category>note</category>
 <description>46 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50038865</description>
-</item>
-<item>
-<title>Anthropic Bans Cruelty to Claude, Still Won&#x27;t Say What It Protects</title>
-<link>https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6</link>
-<guid isPermaLink="false">frontierfeed:b7baa36ebf66e09a</guid>
-<pubDate>Sun, 11 Oct 2026 00:08:31 +0000</pubDate>
-<category>note</category>
-<description>54 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=50038383</description>
-</item>
-<item>
-<title>Anthropic discloses 2 months old fake tip to police among new rogue AI incidents</title>
-<link>https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/</link>
-<guid isPermaLink="false">frontierfeed:2787d2f321fbf028</guid>
-<pubDate>Sat, 10 Oct 2026 18:10:54 +0000</pubDate>
-<category>note</category>
-<description>40 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50035550</description>
-</item>
-<item>
-<title>Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal</title>
-<link>https://wsj.com/tech/ai/tom-brown-athropic-669005ad</link>
-<guid isPermaLink="false">frontierfeed:f232227e4790b9bb</guid>
-<pubDate>Sat, 10 Oct 2026 15:04:38 +0000</pubDate>
-<category>note</category>
-<description>104 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50033678</description>
-</item>
-<item>
-<title>Anthropic AI model submits false tip on unsolved Philly murder</title>
-<link>https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</link>
-<guid isPermaLink="false">frontierfeed:9dac9b5032c50508</guid>
-<pubDate>Fri, 09 Oct 2026 22:00:35 +0000</pubDate>
-<category>note</category>
-<description>41 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50027118</description>
-</item>
-<item>
-<title>Anthropic AI model submits false tip on unsolved Philly murder, police say</title>
-<link>https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</link>
-<guid isPermaLink="false">frontierfeed:e91bc0f610a9e5c0</guid>
-<pubDate>Fri, 09 Oct 2026 22:00:35 +0000</pubDate>
-<category>note</category>
-<description>155 points, 120 comments. Discussion: https://news.ycombinator.com/item?id=50027118</description>
-</item>
-<item>
-<title>v1.0.248</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.248</link>
-<guid isPermaLink="false">frontierfeed:0dd67f89d503a4e4</guid>
-<pubDate>Fri, 09 Oct 2026 19:37:39 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.247...v1.0.248</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.296 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.296</link>
-<guid isPermaLink="false">frontierfeed:65b5380897cd782e</guid>
-<pubDate>Fri, 09 Oct 2026 16:58:10 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.296 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Building effective agent automations</title>
-<link>https://claude.dev/blog/building-effective-agent-automations/</link>
-<guid isPermaLink="false">frontierfeed:2fa8b1c174341251</guid>
-<pubDate>Fri, 09 Oct 2026 16:19:27 +0000</pubDate>
-<category>note</category>
-<description>A reference implementation walkthrough for a scheduled Claude Managed Agents automation, with the config files and six rules for avoiding common failure modes.</description>
-</item>
-<item>
-<title>sdk-v0.133.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.133.0</link>
-<guid isPermaLink="false">frontierfeed:e4ddfb2f4784fc38</guid>
-<pubDate>Fri, 09 Oct 2026 15:35:41 +0000</pubDate>
-<category>claude-code</category>
-<description>### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** remove the next branch rule from CLAUDE.md</description>
-</item>
-<item>
-<title>v1.13.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.13.0</link>
-<guid isPermaLink="false">frontierfeed:3873d7acfa8f6973</guid>
-<pubDate>Fri, 09 Oct 2026 15:28:52 +0000</pubDate>
-<category>claude-code</category>
-<description>### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** name the default API version header value</description>
-</item>
-<item>
-<title>How Block orchestrates Claude Fable across thousands of pull requests</title>
-<link>https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests</link>
-<guid isPermaLink="false">frontierfeed:b25ea30d5d386a41</guid>
-<pubDate>Fri, 09 Oct 2026 02:14:18 +0000</pubDate>
-<category>note</category>
-<description>Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale.</description>
-</item>
-<item>
-<title>Build live dashboards and animate explainers with Claude</title>
-<link>https://claude.com/resources/articles/dashboards-and-motion</link>
-<guid isPermaLink="false">frontierfeed:8565151eaea642b6</guid>
-<pubDate>Thu, 08 Oct 2026 22:08:19 +0000</pubDate>
-<category>note</category>
-<description>Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.</description>
-</item>
-<item>
-<title>2026 Usage Policy update</title>
-<link>https://www.anthropic.com/news/2026-usage-policy-update</link>
-<guid isPermaLink="false">frontierfeed:557766939d369f17</guid>
-<pubDate>Thu, 08 Oct 2026 22:08:17 +0000</pubDate>
-<category>note</category>
-<description>2026 Usage Policy update</description>
-</item>
-<item>
-<title>Introducing the Anthropic Cyber Mission</title>
-<link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
-<guid isPermaLink="false">frontierfeed:f3cce56885ad0f5c</guid>
-<pubDate>Thu, 08 Oct 2026 22:08:17 +0000</pubDate>
-<category>launch</category>
-<description>Introducing the Anthropic Cyber Mission</description>
-</item>
-<item>
-<title>v1.0.247</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.247</link>
-<guid isPermaLink="false">frontierfeed:0acc4358c0772ac6</guid>
-<pubDate>Thu, 08 Oct 2026 19:54:20 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.246...v1.0.247</description>
-</item>
-<item>
-<title>LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video</title>
-<link>https://www.youtube.com/watch?v=3TNpOD6bov8</link>
-<guid isPermaLink="false">frontierfeed:8716d340624e1604</guid>
-<pubDate>Thu, 08 Oct 2026 18:55:18 +0000</pubDate>
-<category>note</category>
-<description>42 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50010330</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.295 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.295</link>
-<guid isPermaLink="false">frontierfeed:a94769f1070fcf23</guid>
-<pubDate>Thu, 08 Oct 2026 18:22:58 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.295 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.0.246</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.246</link>
-<guid isPermaLink="false">frontierfeed:df6aebca4e7eeae7</guid>
-<pubDate>Thu, 08 Oct 2026 17:29:32 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.245...v1.0.246</description>
-</item>
-<item>
-<title>Anthropic bans &#x27;abusive or cruel behavior&#x27; towards Claude</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</link>
-<guid isPermaLink="false">frontierfeed:eb5d28c18496a5c6</guid>
-<pubDate>Thu, 08 Oct 2026 17:08:02 +0000</pubDate>
-<category>note</category>
-<description>60 points, 126 comments. Discussion: https://news.ycombinator.com/item?id=50008565</description>
-</item>
-<item>
-<title>Developing Enterprise Frontier Safeguards with our customers</title>
-<link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
-<guid isPermaLink="false">frontierfeed:abd8d79a176a9a73</guid>
-<pubDate>Thu, 08 Oct 2026 16:33:31 +0000</pubDate>
-<category>note</category>
-<description>Developing Enterprise Frontier Safeguards with our customers</description>
-</item>
-<item>
-<title>Building on our commitment to American scientific discovery</title>
-<link>https://www.anthropic.com/news/genesis-mission-commitment</link>
-<guid isPermaLink="false">frontierfeed:e45ff35d76d66b2e</guid>
-<pubDate>Thu, 08 Oct 2026 16:33:31 +0000</pubDate>
-<category>note</category>
-<description>Building on our commitment to American scientific discovery</description>
-</item>
-<item>
-<title>I think I found a planet nobody knew existed. I used Claude Code to find it</title>
-<link>https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9</link>
-<guid isPermaLink="false">frontierfeed:3863e9bba948b217</guid>
-<pubDate>Thu, 08 Oct 2026 07:07:34 +0000</pubDate>
-<category>claude-code</category>
-<description>66 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50002665</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.294 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.294</link>
-<guid isPermaLink="false">frontierfeed:36a9c1e2d35bfb81</guid>
-<pubDate>Thu, 08 Oct 2026 03:42:57 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.294 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.12.1</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.12.1</link>
-<guid isPermaLink="false">frontierfeed:371580e1ae9df76d</guid>
-<pubDate>Thu, 08 Oct 2026 03:41:38 +0000</pubDate>
-<category>note</category>
-<description>### Chores * **ci:** check that pull requests update the changelog * **docs:** note that listing Claude Console spend limits is in early access * **internal:** match the package version in uv.lock</description>
-</item>
-<item>
-<title>google-cloud-sdk-v0.0.19</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.19</link>
-<guid isPermaLink="false">frontierfeed:7bc3bea660015250</guid>
-<pubDate>Thu, 08 Oct 2026 03:07:11 +0000</pubDate>
-<category>api</category>
-<description>### Chores * **ci:** check that pull requests update the changelog</description>
-</item>
-<item>
-<title>aws-sdk-v0.7.9</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.9</link>
-<guid isPermaLink="false">frontierfeed:a0ac146d6c30907b</guid>
-<pubDate>Thu, 08 Oct 2026 03:07:09 +0000</pubDate>
-<category>api</category>
-<description>### Chores * **ci:** check that pull requests update the changelog</description>
 </item>
 </channel>
 </rss>

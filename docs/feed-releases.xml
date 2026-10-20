@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, model releases only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 13:36:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 18:29:52 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-releases.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,46 @@
 <title>frontierfeed — model releases</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing advanced tool use on the Claude Developer Platform</title>
+<link>https://www.anthropic.com/research/advanced-tool-use</link>
+<guid isPermaLink="false">frontierfeed:eea90782d2b30405</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
+<category>launch</category>
+<description>We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.</description>
+</item>
+<item>
+<title>Introducing Claude Mythos and Fable 5.1</title>
+<link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
+<guid isPermaLink="false">frontierfeed:67713036ecf2e2c4</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
+<category>launch</category>
+<description>They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.</description>
+</item>
+<item>
+<title>Introducing Claude Opus 5.5</title>
+<link>https://www.anthropic.com/claude-opus-5-5</link>
+<guid isPermaLink="false">frontierfeed:e3c3dad186995627</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
+<category>model-release</category>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
+</item>
+<item>
+<title>Introducing Claude Sonnet 5.5</title>
+<link>https://www.anthropic.com/claude-sonnet-5-5</link>
+<guid isPermaLink="false">frontierfeed:361da431c7af83fe</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
+<category>model-release</category>
+<description>Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.</description>
+</item>
+<item>
+<title>Introducing Claude Haiku 5.5</title>
+<link>https://www.anthropic.com/claude-haiku-5-5</link>
+<guid isPermaLink="false">frontierfeed:903a41d0fe841e64</guid>
+<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
+<category>model-release</category>
+<description>Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</description>
+</item>
 <item>
 <title>Introducing Claude Opus 5</title>
 <link>https://www.anthropic.com/news/claude-opus-5</link>
@@ -62,14 +102,6 @@
 <pubDate>Tue, 22 Sep 2026 16:29:05 +0000</pubDate>
 <category>model-release</category>
 <description>601 points, 538 comments. Discussion: https://news.ycombinator.com/item?id=49803892</description>
-</item>
-<item>
-<title>Introducing the Life Sciences Verification Program</title>
-<link>https://www.anthropic.com/news/life-sciences-verification-program</link>
-<guid isPermaLink="false">frontierfeed:773e2f6fa0b8f009</guid>
-<pubDate>Thu, 17 Sep 2026 18:18:07 +0000</pubDate>
-<category>launch</category>
-<description>Introducing the Life Sciences Verification Program</description>
 </item>
 </channel>
 </rss>
