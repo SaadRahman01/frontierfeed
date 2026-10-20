@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:82850e338d233fb4",
+      "url": "https://deathplanswitch.com/",
+      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+      "summary": "49 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50161408",
+      "content_text": "49 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50161408",
+      "date_published": "2026-10-20T04:37:43+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:e881737413bcf389",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.254",
       "title": "v1.0.254",
@@ -156,6 +169,20 @@
         "info",
         "official",
         "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:ce98b02caf1de0ef",
+      "url": "https://arxiv.org/abs/2610.25298v1",
+      "title": "Aligning Language Models with Indigenous Community Cosmovision through Constitutional AI",
+      "summary": "Large language models (LLMs) are predominantly trained on corpora that reflect Western, anglophone worldviews.",
+      "content_text": "Large language models (LLMs) are predominantly trained on corpora that reflect Western, anglophone worldviews.",
+      "date_published": "2026-10-18T14:31:59+00:00",
+      "tags": [
+        "research",
+        "fix",
+        "research",
+        "paper"
       ]
     },
     {
@@ -1344,34 +1371,6 @@
       "summary": "### Chores * **ci:** check that pull requests update the changelog",
       "content_text": "### Chores * **ci:** check that pull requests update the changelog",
       "date_published": "2026-10-08T03:07:09+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:cc75d11fd505b6aa",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.4",
-      "title": "foundry-sdk-v0.5.4",
-      "summary": "### Chores * **ci:** check that pull requests update the changelog",
-      "content_text": "### Chores * **ci:** check that pull requests update the changelog",
-      "date_published": "2026-10-08T03:07:07+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:65c71e4869fc3467",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.4",
-      "title": "bedrock-sdk-v0.34.4",
-      "summary": "### Chores * **ci:** check that pull requests update the changelog",
-      "content_text": "### Chores * **ci:** check that pull requests update the changelog",
-      "date_published": "2026-10-08T03:07:05+00:00",
       "tags": [
         "api",
         "fix",

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 01:52:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 07:40:03 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Show HN: Death Plan Switch, a self-hosted dead man&#x27;s switch for solo devs</title>
+<link>https://deathplanswitch.com/</link>
+<guid isPermaLink="false">frontierfeed:82850e338d233fb4</guid>
+<pubDate>Tue, 20 Oct 2026 04:37:43 +0000</pubDate>
+<category>note</category>
+<description>49 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50161408</description>
+</item>
 <item>
 <title>v1.0.254</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.254</link>
@@ -102,6 +110,14 @@
 <pubDate>Sun, 18 Oct 2026 20:49:51 +0000</pubDate>
 <category>note</category>
 <description>Investing in the public benefit</description>
+</item>
+<item>
+<title>Aligning Language Models with Indigenous Community Cosmovision through Constitutional AI</title>
+<link>https://arxiv.org/abs/2610.25298v1</link>
+<guid isPermaLink="false">frontierfeed:ce98b02caf1de0ef</guid>
+<pubDate>Sun, 18 Oct 2026 14:31:59 +0000</pubDate>
+<category>research</category>
+<description>Large language models (LLMs) are predominantly trained on corpora that reflect Western, anglophone worldviews.</description>
 </item>
 <item>
 <title>Anthropic&#x27;s proposed AI safety bill only kicks in if 50 deaths or $1B in damages</title>
@@ -796,22 +812,6 @@
 <link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.9</link>
 <guid isPermaLink="false">frontierfeed:a0ac146d6c30907b</guid>
 <pubDate>Thu, 08 Oct 2026 03:07:09 +0000</pubDate>
-<category>api</category>
-<description>### Chores * **ci:** check that pull requests update the changelog</description>
-</item>
-<item>
-<title>foundry-sdk-v0.5.4</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.4</link>
-<guid isPermaLink="false">frontierfeed:cc75d11fd505b6aa</guid>
-<pubDate>Thu, 08 Oct 2026 03:07:07 +0000</pubDate>
-<category>api</category>
-<description>### Chores * **ci:** check that pull requests update the changelog</description>
-</item>
-<item>
-<title>bedrock-sdk-v0.34.4</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.4</link>
-<guid isPermaLink="false">frontierfeed:65c71e4869fc3467</guid>
-<pubDate>Thu, 08 Oct 2026 03:07:05 +0000</pubDate>
 <category>api</category>
 <description>### Chores * **ci:** check that pull requests update the changelog</description>
 </item>
