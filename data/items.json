@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "title": "Claude Security now scans continuously and tracks fixes",
+      "url": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes",
+      "source": "claude-blog",
+      "published": "2026-10-21T18:41:57.397566+00:00",
+      "body": "Claude Security now keeps up with your repositories as code changes, tracks findings until they\u2019re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.",
+      "summary": "Claude Security now keeps up with your repositories as code changes, tracks findings until they\u2019re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "mcp",
+        "enterprise"
+      ],
+      "uid": "f98a755d299d399a"
+    },
+    {
+      "title": "Introducing the Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "source": "anthropic-news",
+      "published": "2026-10-21T18:41:55.303111+00:00",
+      "body": "The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.",
+      "summary": "The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "news",
+        "opus",
+        "sonnet"
+      ],
+      "uid": "773e2f6fa0b8f009"
+    },
+    {
+      "title": "Partnering with Accenture on embedded evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "source": "anthropic-news",
+      "published": "2026-10-21T18:41:55.303086+00:00",
+      "body": "Partnering with Accenture on embedded evaluation",
+      "summary": "Partnering with Accenture on embedded evaluation",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "f28145f8cf320c8a"
+    },
+    {
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "source": "anthropic-news",
+      "published": "2026-10-21T18:41:55.302681+00:00",
+      "body": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic\u2019s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.",
+      "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic\u2019s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "aa9fefa2be90e4ed"
+    },
+    {
+      "title": "google-cloud-sdk-v1.0.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.0.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-21T15:52:51+00:00",
+      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add support for new API version 2026-10-21",
+      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "version": "google-cloud-sdk-v1.0.0",
+      "category": "api",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "377d27758a4c7ad5"
+    },
+    {
+      "title": "aws-sdk-v1.0.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.0.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-21T15:52:49+00:00",
+      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add support for new API version 2026-10-21",
+      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "version": "aws-sdk-v1.0.0",
+      "category": "api",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "3a3fbbd4774eb20b"
+    },
+    {
+      "title": "foundry-sdk-v1.0.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.0.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-21T15:52:46+00:00",
+      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add support for new API version 2026-10-21",
+      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "version": "foundry-sdk-v1.0.0",
+      "category": "api",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "78e6490fa7c6a32a"
+    },
+    {
+      "title": "bedrock-sdk-v1.0.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.0.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-21T15:52:43+00:00",
+      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add support for new API version 2026-10-21",
+      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "version": "bedrock-sdk-v1.0.0",
+      "category": "api",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "878b56071e2f54d5"
+    },
+    {
+      "title": "vertex-sdk-v1.0.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.0.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-21T15:52:40+00:00",
+      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add support for new API version 2026-10-21",
+      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "version": "ertex-sdk-v1.0.0",
+      "category": "api",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "910bd7e3d823ea57"
+    },
+    {
+      "title": "sdk-v1.0.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.0.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-21T15:52:38+00:00",
+      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add a workspace_id filter and the usage_tier scope type to list spend limits\n* **api:** add support for new API version 2026-10-21\n\n\n### Chores\n\n* **ci:** check the changelog of each package a pull request changes\n* **internal:** specify which changelog a pull request updates\n\n\n### Documentation\n\n* **api:** remove outdated system role note from messages description",
+      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Chores * **ci:** check the changelog of each\u2026",
+      "version": "sdk-v1.0.0",
+      "category": "api",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "6245e7091c0f60ad"
+    },
+    {
+      "title": "v2.0.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.0.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-10-21T15:51:32+00:00",
+      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add a workspace_id filter and the usage_tier scope type to list spend limits\n* **api:** add support for new API version 2026-10-21\n\n\n### Documentation\n\n* **api:** remove outdated system role note from messages description",
+      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Documentation * **api:** remove outdated sys\u2026",
+      "version": "2.0.0",
+      "category": "api",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "1c62619906394987"
+    },
+    {
       "title": "Using Claude to reduce the attack surface of code",
       "url": "https://www.anthropic.com/research/attack-surface-reduction",
       "source": "hackernews",
@@ -46,6 +226,21 @@
         "npm"
       ],
       "uid": "57367f0244211caf"
+    },
+    {
+      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
+      "source": "hackernews",
+      "published": "2026-10-20T22:27:07+00:00",
+      "body": "40 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50173557",
+      "summary": "40 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50173557",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "7f41b3a492202082"
     },
     {
       "title": "sdk-v0.137.0",
@@ -4589,193 +4784,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "fcf9741b12ad2140"
-    },
-    {
-      "title": "sdk: v0.128.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.128.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-22T16:27:55+00:00",
-      "body": "## 0.128.0 (2026-09-22)\n\nFull Changelog: [sdk-v0.127.0...sdk-v0.128.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.127.0...sdk-v0.128.0)\n\n### Features\n\n* **api:** add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ([eff2748](https://github.com/anthropics/anthropic-sdk-typescript/commit/eff27483d20beffef332312ef764a92c80ec5681))\n\n\n### Bug Fixes\n\n* **api:** share one evaluated_permission enum across Managed Agents events ([0c1cc0f](https://github.com/anthropics/anthropic-sdk-typescript/commit/0c1cc0fdf89efed709728e7f4fc8ac9ce3149cdb))\n* **tools:** addTools() takes effect straight away ([#773](https://github.com/anthropics/anthropic-sdk-typescript/issues/773)) ([1ccdad0](https://github.com/anthropics/anthropic-sdk-typescript/commit/1ccdad0d1b6ad76eefd22085e4653e865e453af3))\n* **tools:** leave reply-only params off the tool runner's compaction request ([#769](https://github.com/anthropics/anthropic-sdk-typescript/issues/769)) ([8afc336](https://github.com/anthropics/anthropic-sdk-typescript/commit/8afc3364dc739fb32c9ff4dd2802941c518e4147))\n\n\n### Chores\n\n* **docs:** add descriptions to the Dreams API reference ([ea4ddd1](https://github.com/anthropics/anthropic-sdk-typescript/commit/ea4ddd1ee391f06fc054e67516cb1a631d3b83ec))\n* **docs:** add descriptions to the User Profiles API reference ([ea4ddd1](https://github.com/anthropics/anthropic-sdk-typescript/commit/ea4ddd1ee391f06fc054e67516cb1a631d3b83ec))\n* **docs:** add memory store descriptions to the Managed Agents API reference ([ea4ddd1](https://github.com/anthropics/anthropic-sdk-typescript/commit/ea4ddd1ee391f06fc054e67516cb1a631d3b83ec))\n* **docs:** improve descriptions in the Dreams API reference ([971c54a](https://github.com/anthropics/anthropic-sdk-typescript/commit/971c54a5dd562aa077ffcbe03883d13523c8d0ed))\n* **docs:** simplify the session thread agent type description ([ccf71a2](https://github.com/anthropics/anthropic-sdk-typescript/commit/ccf71a27bd5b66dcd6c663afb2193a33e2041108))\n* **docs:** update diagnostics field descriptions on beta messages ([c0b8746](https://github.com/anthropics/anthropic-sdk-typescript/commit/c0b87466791e409df068d7c3b7b8aad43997818f))\n* **internal:** add property-based tests for partial JSON parsing ([#776](https://github.com/anthropics/anthropic-sdk-typescript/issues/776)) ([3ffac09](https://github.com/anthropics/anthropic-sdk-typescript/commit/3ffac0927f708de329763083b54266947851d4b4))",
-      "summary": "## 0.128.0 (2026-09-22) Full Changelog: [sdk-v0.127.0...sdk-v0.128.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.127.0...sdk-v0.128.0) ### Features * **api:** add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ([ef\u2026",
-      "version": "sdk-v0.128.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript",
-        "opus",
-        "mcp"
-      ],
-      "uid": "9eebef57dcb937b6"
-    },
-    {
-      "title": "v1.8.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.8.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-09-22T16:25:23+00:00",
-      "body": "## 1.8.0 (2026-09-22)\n\nFull Changelog: [v1.7.0...v1.8.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.7.0...v1.8.0)\n\n### Features\n\n* **api:** add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ([b5cc700](https://github.com/anthropics/anthropic-sdk-python/commit/b5cc70071a60def1d2e93f3634d1a595919007c8))\n\n\n### Bug Fixes\n\n* **api:** share one evaluated_permission enum across Managed Agents events ([f4f51c8](https://github.com/anthropics/anthropic-sdk-python/commit/f4f51c8d4c8d6d8ec8ed21775034ca3b3736d733))\n* **streaming:** avoid a Python 3.13 crash at exit when a stream is left open ([af029bd](https://github.com/anthropics/anthropic-sdk-python/commit/af029bdfe4433ce209092b017834ff0eb4f44e79))\n* **tools:** add_tools() takes effect straight away ([#874](https://github.com/anthropics/anthropic-sdk-python/issues/874)) ([06d0a6b](https://github.com/anthropics/anthropic-sdk-python/commit/06d0a6b7edf440b8561e6ee60b84aecde27391e0))\n* **tools:** leave reply-only params off the tool runner's compaction request ([#871](https://github.com/anthropics/anthropic-sdk-python/issues/871)) ([4687310](https://github.com/anthropics/anthropic-sdk-python/commit/4687310822f40691a30afcfdf20956747fb38f5e))\n\n\n### Chores\n\n* **docs:** add descriptions to the Dreams API reference ([5574c63](https://github.com/anthropics/anthropic-sdk-python/commit/5574c63875d9940d62af912b6495f15256535673))\n* **docs:** add descriptions to the User Profiles API reference ([5574c63](https://github.com/anthropics/anthropic-sdk-python/commit/5574c63875d9940d62af912b6495f15256535673))\n* **docs:** add memory store descriptions to the Managed Agents API reference ([5574c63](https://github.com/anthropics/anthropic-sdk-python/commit/5574c63875d9940d62af912b6495f15256535673))\n* **docs:** improve descriptions in the Dreams API reference ([1f5e477](https://github.com/anthropics/anthropic-sdk-python/commit/1f5e477a25f5a873480486a939d7e39529c55130))\n* **docs:** simplify the session thread agent type description ([a45b7ec](https://github.com/anthropics/anthropic-sdk-python/commit/a45b7ec22441032c19be720f273af6313dd73f1e))\n* **docs:** update diagnostics field descriptions on beta messages ([367750c](https://github.com/anthropics/anthropic-sdk-python/commit/367750c99c5daae6e28ed10b71db0410ced7c0f9))\n* **internal:** fix tests ([70c8cbd](https://github.com/anthropics/anthropic-sdk-python/commit/70c8cbd86c4095379bc6bca925126a151396efd2))\n* **internal:** remove mypy ([be01ed6](https://github.com/anthropics/anthropic-sdk-python/commit/be01ed6d7cd6798fbf442286ddc4cccc64a7a3ac))\n* **tests:** update fixtures ([77f6df8](https://github.com/anthropics/anthropic-sdk-python/commit/77f6df825350e37018e2439c1178179e98e0bf96))\n\n\n### Documentation\n\n* add path and header parameter descriptions ([f429a30](https://github.com/anthropics/anthropic-sdk-python/commit/f429a301cb750f51002d2d18fb125aa43b7251c3))\n\n\n### Refactors\n\n* **client:** remove the request param transform in favour of the JSON encoder ([539422c](https://github.com/anthropics/anthropic-sdk-python/commit/539422cde127564a60d9bf1e700445f39e0cff33))",
-      "summary": "## 1.8.0 (2026-09-22) Full Changelog: [v1.7.0...v1.8.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.7.0...v1.8.0) ### Features * **api:** add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ([b5cc700](https://github.com/anth\u2026",
-      "version": "1.8.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-python",
-        "opus",
-        "mcp"
-      ],
-      "uid": "171276edd0ba1c41"
-    },
-    {
-      "title": "Show HN: AI\u00b7rete\u00b7RAG \u2013 a Rete rule engine decides, RAG explains why",
-      "url": "https://ai-rete-rag.com/",
-      "source": "hackernews",
-      "published": "2026-09-22T16:15:06+00:00",
-      "body": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49803683",
-      "summary": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49803683",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "3a78366e23978c05"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.280 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.280",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-22T15:44:39.443000+00:00",
-      "body": "Version 2.1.280 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.280 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.280",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "a30dc253f73075e7"
-    },
-    {
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "url": "https://arxiv.org/abs/2609.15369",
-      "source": "hackernews",
-      "published": "2026-09-22T13:00:49+00:00",
-      "body": "54 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49800566",
-      "summary": "54 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49800566",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "6cfc0ced94eb91c8"
-    },
-    {
-      "title": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
-      "url": "https://news.ycombinator.com/item?id=49798257",
-      "source": "hackernews",
-      "published": "2026-09-22T08:49:13+00:00",
-      "body": "41 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=49798257",
-      "summary": "41 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=49798257",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "54e1090f5525fb63"
-    },
-    {
-      "title": "Claude Status \u2013 Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "source": "hackernews",
-      "published": "2026-09-22T01:05:19+00:00",
-      "body": "84 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49795579",
-      "summary": "84 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=49795579",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "92967edb37f083d3"
-    },
-    {
-      "title": "Elevated errors for multiple models \u2013 Resolved",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "source": "hackernews",
-      "published": "2026-09-22T01:05:19+00:00",
-      "body": "138 points, 107 comments. Discussion: https://news.ycombinator.com/item?id=49795579",
-      "summary": "138 points, 107 comments. Discussion: https://news.ycombinator.com/item?id=49795579",
-      "version": "",
-      "category": "note",
-      "impact": "fix",
-      "tags": [
-        "community"
-      ],
-      "uid": "ae27c72e0d5da549"
-    },
-    {
-      "title": "Show HN: Foremerge \u2013 Catch intent conflicts between parallel coding agents",
-      "url": "https://github.com/naw103/foremerge",
-      "source": "hackernews",
-      "published": "2026-09-21T16:22:06+00:00",
-      "body": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49789356",
-      "summary": "42 points, 13 comments. Discussion: https://news.ycombinator.com/item?id=49789356",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "945dd5b21dacb9d2"
-    },
-    {
-      "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "source": "hackernews",
-      "published": "2026-09-21T04:42:37+00:00",
-      "body": "190 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49783133",
-      "summary": "190 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=49783133",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "78a2c87b80d275a1"
-    },
-    {
-      "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-      "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
-      "source": "hackernews",
-      "published": "2026-09-19T18:36:44+00:00",
-      "body": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49769050",
-      "summary": "43 points, 14 comments. Discussion: https://news.ycombinator.com/item?id=49769050",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "590ee92c26a8fa7a"
-    },
-    {
-      "title": "Ask HN: How do you interview devs in a post-AI world?",
-      "url": "https://news.ycombinator.com/item?id=49768826",
-      "source": "hackernews",
-      "published": "2026-09-19T18:10:34+00:00",
-      "body": "41 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=49768826",
-      "summary": "41 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=49768826",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "8502ac223fef9ddd"
     }
   ]
 }

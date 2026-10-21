@@ -9,6 +9,164 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:f98a755d299d399a",
+      "url": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes",
+      "title": "Claude Security now scans continuously and tracks fixes",
+      "summary": "Claude Security now keeps up with your repositories as code changes, tracks findings until they’re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.",
+      "content_text": "Claude Security now keeps up with your repositories as code changes, tracks findings until they’re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.",
+      "date_published": "2026-10-21T18:41:57.397566+00:00",
+      "tags": [
+        "api",
+        "info",
+        "official",
+        "product",
+        "mcp",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "frontierfeed:773e2f6fa0b8f009",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "title": "Introducing the Life Sciences Verification Program",
+      "summary": "The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.",
+      "content_text": "The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.",
+      "date_published": "2026-10-21T18:41:55.303111+00:00",
+      "tags": [
+        "launch",
+        "feature",
+        "official",
+        "news",
+        "opus",
+        "sonnet"
+      ]
+    },
+    {
+      "id": "frontierfeed:f28145f8cf320c8a",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "summary": "Partnering with Accenture on embedded evaluation",
+      "content_text": "Partnering with Accenture on embedded evaluation",
+      "date_published": "2026-10-21T18:41:55.303086+00:00",
+      "tags": [
+        "research",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:aa9fefa2be90e4ed",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.",
+      "content_text": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.",
+      "date_published": "2026-10-21T18:41:55.302681+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:377d27758a4c7ad5",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.0.0",
+      "title": "google-cloud-sdk-v1.0.0",
+      "summary": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "content_text": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "date_published": "2026-10-21T15:52:51+00:00",
+      "tags": [
+        "api",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:3a3fbbd4774eb20b",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.0.0",
+      "title": "aws-sdk-v1.0.0",
+      "summary": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "content_text": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "date_published": "2026-10-21T15:52:49+00:00",
+      "tags": [
+        "api",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:78e6490fa7c6a32a",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.0.0",
+      "title": "foundry-sdk-v1.0.0",
+      "summary": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "content_text": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "date_published": "2026-10-21T15:52:46+00:00",
+      "tags": [
+        "api",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:878b56071e2f54d5",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.0.0",
+      "title": "bedrock-sdk-v1.0.0",
+      "summary": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "content_text": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "date_published": "2026-10-21T15:52:43+00:00",
+      "tags": [
+        "api",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:910bd7e3d823ea57",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.0.0",
+      "title": "vertex-sdk-v1.0.0",
+      "summary": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "content_text": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
+      "date_published": "2026-10-21T15:52:40+00:00",
+      "tags": [
+        "api",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:6245e7091c0f60ad",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.0.0",
+      "title": "sdk-v1.0.0",
+      "summary": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Chores * **ci:** check the changelog of each…",
+      "content_text": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Chores * **ci:** check the changelog of each…",
+      "date_published": "2026-10-21T15:52:38+00:00",
+      "tags": [
+        "api",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:1c62619906394987",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.0.0",
+      "title": "v2.0.0",
+      "summary": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Documentation * **api:** remove outdated sys…",
+      "content_text": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Documentation * **api:** remove outdated sys…",
+      "date_published": "2026-10-21T15:51:32+00:00",
+      "tags": [
+        "api",
+        "breaking",
+        "release",
+        "anthropic-sdk-python"
+      ]
+    },
+    {
       "id": "frontierfeed:b2bdcbdc1b05fce1",
       "url": "https://www.anthropic.com/research/attack-surface-reduction",
       "title": "Using Claude to reduce the attack surface of code",
@@ -47,6 +205,19 @@
         "fix",
         "release",
         "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:7f41b3a492202082",
+      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
+      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+      "summary": "40 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50173557",
+      "content_text": "40 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50173557",
+      "date_published": "2026-10-20T22:27:07+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1230,174 +1401,6 @@
         "info",
         "official",
         "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:cb3d7ccb220b7d1b",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "title": "Introducing Claude Opus 5",
-      "summary": "Introducing Claude Opus 5",
-      "content_text": "Introducing Claude Opus 5",
-      "date_published": "2026-10-14T13:47:04.197541+00:00",
-      "tags": [
-        "model-release",
-        "feature",
-        "official",
-        "news",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:f4b18b12b32ef53c",
-      "url": "https://www.anthropic.com/news/cognizant-anthropic",
-      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "content_text": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "date_published": "2026-10-14T13:47:04.197526+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "frontierfeed:9a13f34e2ecc4eb4",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "title": "Our position on open-weights models",
-      "summary": "Our position on open-weights models",
-      "content_text": "Our position on open-weights models",
-      "date_published": "2026-10-14T13:47:04.197510+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:37147b115f3e1032",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "content_text": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "date_published": "2026-10-14T13:47:04.197495+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:778a0265f5854c98",
-      "url": "https://www.anthropic.com/news/tino-cuellar",
-      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "content_text": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "date_published": "2026-10-14T13:47:04.197479+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:67a4d3c1b57d9cd3",
-      "url": "https://www.anthropic.com/news/singapore-office-opening",
-      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "summary": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "content_text": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "date_published": "2026-10-14T13:47:04.197162+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:b5a42bb81c36cab8",
-      "url": "https://news.ycombinator.com/item?id=50084969",
-      "title": "Ask HN: What is the current trajectory of a senior engineer?",
-      "summary": "40 points, 78 comments. Discussion: https://news.ycombinator.com/item?id=50084969",
-      "content_text": "40 points, 78 comments. Discussion: https://news.ycombinator.com/item?id=50084969",
-      "date_published": "2026-10-14T09:54:23+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:2a2fbdbbff7d8e3f",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
-      "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-      "summary": "62 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50082962",
-      "content_text": "62 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50082962",
-      "date_published": "2026-10-14T05:53:36+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:4b50c9fb51e66f88",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.249",
-      "title": "v1.0.249",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.248...v1.0.249",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.248...v1.0.249",
-      "date_published": "2026-10-14T02:57:56+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:5fd29179c195bfa2",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.299",
-      "title": "@anthropic-ai/claude-code 2.1.299 published",
-      "summary": "Version 2.1.299 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.299 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-14T00:23:19.588000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:6342af68165503b4",
-      "url": "https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai",
-      "title": "Uber's CISO on building an insider threat program for AI",
-      "summary": "Uber's CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber's open-source tooling works alongside Enterprise Frontier Safeguards.",
-      "content_text": "Uber's CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber's open-source tooling works alongside Enterprise Frontier Safeguards.",
-      "date_published": "2026-10-13T22:50:08.475619+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "frontierfeed:2840611b3635b38c",
-      "url": "https://parsimony.lasu.dev/",
-      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-      "summary": "50 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50077619",
-      "content_text": "50 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50077619",
-      "date_published": "2026-10-13T19:50:31+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]

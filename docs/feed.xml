@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 13:52:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 18:42:08 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,94 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude Security now scans continuously and tracks fixes</title>
+<link>https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes</link>
+<guid isPermaLink="false">frontierfeed:f98a755d299d399a</guid>
+<pubDate>Wed, 21 Oct 2026 18:41:57 +0000</pubDate>
+<category>api</category>
+<description>Claude Security now keeps up with your repositories as code changes, tracks findings until they’re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.</description>
+</item>
+<item>
+<title>Introducing the Life Sciences Verification Program</title>
+<link>https://www.anthropic.com/news/life-sciences-verification-program</link>
+<guid isPermaLink="false">frontierfeed:773e2f6fa0b8f009</guid>
+<pubDate>Wed, 21 Oct 2026 18:41:55 +0000</pubDate>
+<category>launch</category>
+<description>The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.</description>
+</item>
+<item>
+<title>Partnering with Accenture on embedded evaluation</title>
+<link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
+<guid isPermaLink="false">frontierfeed:f28145f8cf320c8a</guid>
+<pubDate>Wed, 21 Oct 2026 18:41:55 +0000</pubDate>
+<category>research</category>
+<description>Partnering with Accenture on embedded evaluation</description>
+</item>
+<item>
+<title>Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust</title>
+<link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
+<guid isPermaLink="false">frontierfeed:aa9fefa2be90e4ed</guid>
+<pubDate>Wed, 21 Oct 2026 18:41:55 +0000</pubDate>
+<category>note</category>
+<description>Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.</description>
+</item>
+<item>
+<title>[breaking] google-cloud-sdk-v1.0.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.0.0</link>
+<guid isPermaLink="false">frontierfeed:377d27758a4c7ad5</guid>
+<pubDate>Wed, 21 Oct 2026 15:52:51 +0000</pubDate>
+<category>api</category>
+<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21</description>
+</item>
+<item>
+<title>[breaking] aws-sdk-v1.0.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.0.0</link>
+<guid isPermaLink="false">frontierfeed:3a3fbbd4774eb20b</guid>
+<pubDate>Wed, 21 Oct 2026 15:52:49 +0000</pubDate>
+<category>api</category>
+<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21</description>
+</item>
+<item>
+<title>[breaking] foundry-sdk-v1.0.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.0.0</link>
+<guid isPermaLink="false">frontierfeed:78e6490fa7c6a32a</guid>
+<pubDate>Wed, 21 Oct 2026 15:52:46 +0000</pubDate>
+<category>api</category>
+<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21</description>
+</item>
+<item>
+<title>[breaking] bedrock-sdk-v1.0.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.0.0</link>
+<guid isPermaLink="false">frontierfeed:878b56071e2f54d5</guid>
+<pubDate>Wed, 21 Oct 2026 15:52:43 +0000</pubDate>
+<category>api</category>
+<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21</description>
+</item>
+<item>
+<title>[breaking] vertex-sdk-v1.0.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.0.0</link>
+<guid isPermaLink="false">frontierfeed:910bd7e3d823ea57</guid>
+<pubDate>Wed, 21 Oct 2026 15:52:40 +0000</pubDate>
+<category>api</category>
+<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21</description>
+</item>
+<item>
+<title>[breaking] sdk-v1.0.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.0.0</link>
+<guid isPermaLink="false">frontierfeed:6245e7091c0f60ad</guid>
+<pubDate>Wed, 21 Oct 2026 15:52:38 +0000</pubDate>
+<category>api</category>
+<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Chores * **ci:** check the changelog of each…</description>
+</item>
+<item>
+<title>[breaking] v2.0.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.0.0</link>
+<guid isPermaLink="false">frontierfeed:1c62619906394987</guid>
+<pubDate>Wed, 21 Oct 2026 15:51:32 +0000</pubDate>
+<category>api</category>
+<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Documentation * **api:** remove outdated sys…</description>
+</item>
 <item>
 <title>Using Claude to reduce the attack surface of code</title>
 <link>https://www.anthropic.com/research/attack-surface-reduction</link>
@@ -38,6 +126,14 @@
 <pubDate>Wed, 21 Oct 2026 02:28:47 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.306 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Anthropic recorded a staggering $80B net loss in the first half of 2026</title>
+<link>https://twitter.com/Polymarket/status/2112634886070919426</link>
+<guid isPermaLink="false">frontierfeed:7f41b3a492202082</guid>
+<pubDate>Tue, 20 Oct 2026 22:27:07 +0000</pubDate>
+<category>note</category>
+<description>40 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50173557</description>
 </item>
 <item>
 <title>sdk-v0.137.0</title>
@@ -718,102 +814,6 @@
 <pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
 <category>note</category>
 <description>Ask Claude about the Anthropic Economic Index</description>
-</item>
-<item>
-<title>Introducing Claude Opus 5</title>
-<link>https://www.anthropic.com/news/claude-opus-5</link>
-<guid isPermaLink="false">frontierfeed:cb3d7ccb220b7d1b</guid>
-<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
-<category>model-release</category>
-<description>Introducing Claude Opus 5</description>
-</item>
-<item>
-<title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
-<link>https://www.anthropic.com/news/cognizant-anthropic</link>
-<guid isPermaLink="false">frontierfeed:f4b18b12b32ef53c</guid>
-<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
-<category>note</category>
-<description>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</description>
-</item>
-<item>
-<title>Our position on open-weights models</title>
-<link>https://www.anthropic.com/news/position-open-weights-models</link>
-<guid isPermaLink="false">frontierfeed:9a13f34e2ecc4eb4</guid>
-<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
-<category>note</category>
-<description>Our position on open-weights models</description>
-</item>
-<item>
-<title>Investigating three real-world incidents in our cybersecurity evaluations</title>
-<link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
-<guid isPermaLink="false">frontierfeed:37147b115f3e1032</guid>
-<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
-<category>note</category>
-<description>Investigating three real-world incidents in our cybersecurity evaluations</description>
-</item>
-<item>
-<title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
-<link>https://www.anthropic.com/news/tino-cuellar</link>
-<guid isPermaLink="false">frontierfeed:778a0265f5854c98</guid>
-<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
-<category>note</category>
-<description>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</description>
-</item>
-<item>
-<title>Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
-<link>https://www.anthropic.com/news/singapore-office-opening</link>
-<guid isPermaLink="false">frontierfeed:67a4d3c1b57d9cd3</guid>
-<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
-<category>note</category>
-<description>Anthropic opens Singapore office and signs MOU with the Government of Singapore</description>
-</item>
-<item>
-<title>Ask HN: What is the current trajectory of a senior engineer?</title>
-<link>https://news.ycombinator.com/item?id=50084969</link>
-<guid isPermaLink="false">frontierfeed:b5a42bb81c36cab8</guid>
-<pubDate>Wed, 14 Oct 2026 09:54:23 +0000</pubDate>
-<category>note</category>
-<description>40 points, 78 comments. Discussion: https://news.ycombinator.com/item?id=50084969</description>
-</item>
-<item>
-<title>Anthropic conjures threat that doesn&#x27;t exist yet to stoke fears of AI apocalypse</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866</link>
-<guid isPermaLink="false">frontierfeed:2a2fbdbbff7d8e3f</guid>
-<pubDate>Wed, 14 Oct 2026 05:53:36 +0000</pubDate>
-<category>note</category>
-<description>62 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50082962</description>
-</item>
-<item>
-<title>v1.0.249</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.249</link>
-<guid isPermaLink="false">frontierfeed:4b50c9fb51e66f88</guid>
-<pubDate>Wed, 14 Oct 2026 02:57:56 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.248...v1.0.249</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.299 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.299</link>
-<guid isPermaLink="false">frontierfeed:5fd29179c195bfa2</guid>
-<pubDate>Wed, 14 Oct 2026 00:23:19 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.299 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Uber&#x27;s CISO on building an insider threat program for AI</title>
-<link>https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai</link>
-<guid isPermaLink="false">frontierfeed:6342af68165503b4</guid>
-<pubDate>Tue, 13 Oct 2026 22:50:08 +0000</pubDate>
-<category>note</category>
-<description>Uber&#x27;s CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber&#x27;s open-source tooling works alongside Enterprise Frontier Safeguards.</description>
-</item>
-<item>
-<title>Show HN: Parsimony – an open-source benchmark for how much code AI models add</title>
-<link>https://parsimony.lasu.dev/</link>
-<guid isPermaLink="false">frontierfeed:2840611b3635b38c</guid>
-<pubDate>Tue, 13 Oct 2026 19:50:31 +0000</pubDate>
-<category>note</category>
-<description>50 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50077619</description>
 </item>
 </channel>
 </rss>
