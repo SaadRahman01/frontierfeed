@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 22:21:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 01:39:17 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -286,6 +286,14 @@
 <pubDate>Tue, 20 Oct 2026 15:11:56 +0000</pubDate>
 <category>note</category>
 <description>47 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=50167617</description>
+</item>
+<item>
+<title>Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins</title>
+<link>https://news.ycombinator.com/item?id=50167583</link>
+<guid isPermaLink="false">frontierfeed:f61dcdbcccfa3bb0</guid>
+<pubDate>Tue, 20 Oct 2026 15:09:29 +0000</pubDate>
+<category>note</category>
+<description>45 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50167583</description>
 </item>
 <item>
 <title>NixOS is making me less afraid</title>
@@ -806,14 +814,6 @@
 <pubDate>Tue, 13 Oct 2026 11:32:00 +0000</pubDate>
 <category>api</category>
 <description>50 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50070010</description>
-</item>
-<item>
-<title>AI models may soon self-replicate without access to data centers</title>
-<link>https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/</link>
-<guid isPermaLink="false">frontierfeed:026195d6cb35827a</guid>
-<pubDate>Tue, 13 Oct 2026 10:08:18 +0000</pubDate>
-<category>note</category>
-<description>40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333</description>
 </item>
 </channel>
 </rss>

@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-20T22:21:09.070975+00:00",
+  "generated": "2026-10-21T01:39:17.175390+00:00",
   "count": 300,
   "items": [
     {
@@ -555,6 +555,22 @@
         "community"
       ],
       "uid": "e8938d0aebf71303"
+    },
+    {
+      "title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
+      "url": "https://news.ycombinator.com/item?id=50167583",
+      "source": "hackernews",
+      "published": "2026-10-20T15:09:29+00:00",
+      "body": "45 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50167583",
+      "summary": "45 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50167583",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community",
+        "skills"
+      ],
+      "uid": "f61dcdbcccfa3bb0"
     },
     {
       "title": "NixOS is making me less afraid",
@@ -4764,22 +4780,6 @@
         "claude-code-action"
       ],
       "uid": "bd69a5648d9b1acf"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.278 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.278",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-19T01:48:59.758000+00:00",
-      "body": "Version 2.1.278 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.278 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.278",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "fa8cbdfdf74f1bec"
     }
   ]
 }

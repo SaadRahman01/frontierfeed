@@ -493,6 +493,20 @@
       ]
     },
     {
+      "id": "frontierfeed:f61dcdbcccfa3bb0",
+      "url": "https://news.ycombinator.com/item?id=50167583",
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "summary": "45 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50167583",
+      "content_text": "45 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50167583",
+      "date_published": "2026-10-20T15:09:29+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "community",
+        "skills"
+      ]
+    },
+    {
       "id": "frontierfeed:2f111908a58c6676",
       "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
       "title": "NixOS is making me less afraid",
@@ -1381,19 +1395,6 @@
       "date_published": "2026-10-13T11:32:00+00:00",
       "tags": [
         "api",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:026195d6cb35827a",
-      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
-      "title": "AI models may soon self-replicate without access to data centers",
-      "summary": "40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333",
-      "content_text": "40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333",
-      "date_published": "2026-10-13T10:08:18+00:00",
-      "tags": [
-        "note",
         "info",
         "community"
       ]
