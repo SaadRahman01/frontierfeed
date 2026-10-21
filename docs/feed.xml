@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 18:42:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 22:24:38 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,54 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing Claude Duet</title>
+<link>https://claude.com/resources/articles/claude-duet</link>
+<guid isPermaLink="false">frontierfeed:efb4512850a8c472</guid>
+<pubDate>Wed, 21 Oct 2026 22:24:26 +0000</pubDate>
+<category>launch</category>
+<description>A research preview is available by waitlist today, starting with US Pro and Max subscribers.</description>
+</item>
+<item>
+<title>HCLTech joins the Claude Partner Network as a Global Premier partner</title>
+<link>https://claude.com/resources/articles/hcltech-joins-claude-partner-network</link>
+<guid isPermaLink="false">frontierfeed:4bbca170c9b4495f</guid>
+<pubDate>Wed, 21 Oct 2026 22:24:26 +0000</pubDate>
+<category>note</category>
+<description>HCLTech will bring Claude into the solutions it provides for banks, hospitals, telecom companies, and manufacturers.</description>
+</item>
+<item>
+<title>v1.0.257</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.257</link>
+<guid isPermaLink="false">frontierfeed:67314818381c68bd</guid>
+<pubDate>Wed, 21 Oct 2026 22:21:23 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.256...v1.0.257</description>
+</item>
+<item>
+<title>v2.1.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.1.0</link>
+<guid isPermaLink="false">frontierfeed:c76128999b4e56d3</guid>
+<pubDate>Wed, 21 Oct 2026 22:00:30 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add enforcement status, actions and filter to user profiles</description>
+</item>
+<item>
+<title>sdk-v1.1.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.1.0</link>
+<guid isPermaLink="false">frontierfeed:a5b2dd7f53a9015f</guid>
+<pubDate>Wed, 21 Oct 2026 21:54:03 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add enforcement status, actions and filter to user profiles</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.307 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.307</link>
+<guid isPermaLink="false">frontierfeed:702337d079007172</guid>
+<pubDate>Wed, 21 Oct 2026 20:47:18 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.307 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Claude Security now scans continuously and tracks fixes</title>
 <link>https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes</link>
@@ -46,6 +94,14 @@
 <pubDate>Wed, 21 Oct 2026 18:41:55 +0000</pubDate>
 <category>note</category>
 <description>Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.</description>
+</item>
+<item>
+<title>Anthropic&#x27;s Public Benefit Charter</title>
+<link>https://www.anthropic.com/public-benefit-charter</link>
+<guid isPermaLink="false">frontierfeed:c411a0e2f24370bd</guid>
+<pubDate>Wed, 21 Oct 2026 18:29:54 +0000</pubDate>
+<category>note</category>
+<description>45 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50185438</description>
 </item>
 <item>
 <title>[breaking] google-cloud-sdk-v1.0.0</title>
@@ -758,62 +814,6 @@
 <pubDate>Wed, 14 Oct 2026 17:13:22 +0000</pubDate>
 <category>api</category>
 <description>### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types</description>
-</item>
-<item>
-<title>foundry-sdk-v0.6.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.6.0</link>
-<guid isPermaLink="false">frontierfeed:b77486b4b8f09da8</guid>
-<pubDate>Wed, 14 Oct 2026 17:13:19 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types</description>
-</item>
-<item>
-<title>bedrock-sdk-v0.35.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.35.0</link>
-<guid isPermaLink="false">frontierfeed:2c305a60738040c3</guid>
-<pubDate>Wed, 14 Oct 2026 17:13:16 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types</description>
-</item>
-<item>
-<title>vertex-sdk-v0.21.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.21.0</link>
-<guid isPermaLink="false">frontierfeed:8040790851a5ec96</guid>
-<pubDate>Wed, 14 Oct 2026 17:13:14 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types</description>
-</item>
-<item>
-<title>sdk-v0.134.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.134.0</link>
-<guid isPermaLink="false">frontierfeed:63502ed7f155d606</guid>
-<pubDate>Wed, 14 Oct 2026 17:13:11 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** emit OpenTelem…</description>
-</item>
-<item>
-<title>v1.14.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.14.0</link>
-<guid isPermaLink="false">frontierfeed:2a657ad9ca7d5ad2</guid>
-<pubDate>Wed, 14 Oct 2026 17:13:08 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** add OpenTeleme…</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.300 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.300</link>
-<guid isPermaLink="false">frontierfeed:ecc84831383f7e91</guid>
-<pubDate>Wed, 14 Oct 2026 14:27:26 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.300 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Ask Claude about the Anthropic Economic Index</title>
-<link>https://www.anthropic.com/news/anthropic-economic-index-connector</link>
-<guid isPermaLink="false">frontierfeed:823e8100cfe93440</guid>
-<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
-<category>note</category>
-<description>Ask Claude about the Anthropic Economic Index</description>
 </item>
 </channel>
 </rss>

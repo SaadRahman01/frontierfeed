@@ -9,6 +9,90 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:efb4512850a8c472",
+      "url": "https://claude.com/resources/articles/claude-duet",
+      "title": "Introducing Claude Duet",
+      "summary": "A research preview is available by waitlist today, starting with US Pro and Max subscribers.",
+      "content_text": "A research preview is available by waitlist today, starting with US Pro and Max subscribers.",
+      "date_published": "2026-10-21T22:24:26.745805+00:00",
+      "tags": [
+        "launch",
+        "feature",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:4bbca170c9b4495f",
+      "url": "https://claude.com/resources/articles/hcltech-joins-claude-partner-network",
+      "title": "HCLTech joins the Claude Partner Network as a Global Premier partner",
+      "summary": "HCLTech will bring Claude into the solutions it provides for banks, hospitals, telecom companies, and manufacturers.",
+      "content_text": "HCLTech will bring Claude into the solutions it provides for banks, hospitals, telecom companies, and manufacturers.",
+      "date_published": "2026-10-21T22:24:26.745741+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:67314818381c68bd",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.257",
+      "title": "v1.0.257",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.256...v1.0.257",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.256...v1.0.257",
+      "date_published": "2026-10-21T22:21:23+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:c76128999b4e56d3",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.1.0",
+      "title": "v2.1.0",
+      "summary": "### Features * **api:** add enforcement status, actions and filter to user profiles",
+      "content_text": "### Features * **api:** add enforcement status, actions and filter to user profiles",
+      "date_published": "2026-10-21T22:00:30+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-python"
+      ]
+    },
+    {
+      "id": "frontierfeed:a5b2dd7f53a9015f",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.1.0",
+      "title": "sdk-v1.1.0",
+      "summary": "### Features * **api:** add enforcement status, actions and filter to user profiles",
+      "content_text": "### Features * **api:** add enforcement status, actions and filter to user profiles",
+      "date_published": "2026-10-21T21:54:03+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:702337d079007172",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.307",
+      "title": "@anthropic-ai/claude-code 2.1.307 published",
+      "summary": "Version 2.1.307 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.307 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-21T20:47:18.383000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:f98a755d299d399a",
       "url": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes",
       "title": "Claude Security now scans continuously and tracks fixes",
@@ -66,6 +150,19 @@
         "info",
         "official",
         "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:c411a0e2f24370bd",
+      "url": "https://www.anthropic.com/public-benefit-charter",
+      "title": "Anthropic's Public Benefit Charter",
+      "summary": "45 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50185438",
+      "content_text": "45 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50185438",
+      "date_published": "2026-10-21T18:29:54+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1301,106 +1398,6 @@
         "feature",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:b77486b4b8f09da8",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.6.0",
-      "title": "foundry-sdk-v0.6.0",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "date_published": "2026-10-14T17:13:19+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:2c305a60738040c3",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.35.0",
-      "title": "bedrock-sdk-v0.35.0",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "date_published": "2026-10-14T17:13:16+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:8040790851a5ec96",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.21.0",
-      "title": "vertex-sdk-v0.21.0",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "date_published": "2026-10-14T17:13:14+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:63502ed7f155d606",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.134.0",
-      "title": "sdk-v0.134.0",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** emit OpenTelem…",
-      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** emit OpenTelem…",
-      "date_published": "2026-10-14T17:13:11+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "frontierfeed:2a657ad9ca7d5ad2",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.14.0",
-      "title": "v1.14.0",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** add OpenTeleme…",
-      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** add OpenTeleme…",
-      "date_published": "2026-10-14T17:13:08+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-python",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "frontierfeed:ecc84831383f7e91",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.300",
-      "title": "@anthropic-ai/claude-code 2.1.300 published",
-      "summary": "Version 2.1.300 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.300 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-14T14:27:26.554000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:823e8100cfe93440",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "title": "Ask Claude about the Anthropic Economic Index",
-      "summary": "Ask Claude about the Anthropic Economic Index",
-      "content_text": "Ask Claude about the Anthropic Economic Index",
-      "date_published": "2026-10-14T13:47:04.197572+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
       ]
     }
   ]
