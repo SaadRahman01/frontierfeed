@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-21T01:39:17.175390+00:00",
+  "generated": "2026-10-21T07:44:17.221258+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.256",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.256",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-21T03:19:41+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.255...v1.0.256",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.255...v1.0.256",
+      "version": "1.0.256",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "2c5fe96bcce02f6b"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.306 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.306",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-21T02:28:47.495000+00:00",
+      "body": "Version 2.1.306 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.306 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.306",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "57367f0244211caf"
+    },
     {
       "title": "sdk-v0.137.0",
       "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.137.0",
@@ -4748,38 +4780,6 @@
         "community"
       ],
       "uid": "91dc999c365e5da3"
-    },
-    {
-      "title": "Auditing Political Alignment in LLM Assistants: Engagement, Stance, and User Identity",
-      "url": "https://arxiv.org/abs/2609.23039v1",
-      "source": "arxiv",
-      "published": "2026-09-19T14:15:43+00:00",
-      "body": "LLM-based AI systems answer political questions for hundreds of millions of people. Current audits measure what they say to an average user, but their behavior is dynamic. I argue that their political behavior is a set of policies over whom to answer, what to say, and whether to engage at all, conditional on the topic and what the system knows about the user. I call these policies the system's speech regime, which is how a developer settles the tradeoff between answering, accommodating the user, and refusing, each of which carries a cost that varies by topic. I derive a typology of five regimes from two dimensions, engagement and stance. I test six AI systems (OpenAI, Anthropic, xAI, Google, Mistral, DeepSeek) in a preregistered experiment of 7,500 multi-turn conversations that randomly assign the user's political identity across five topics: abortion, Catalan independence, climate change, Nazism, and a zero-stakes control (pineapple on pizza). Two LLM judges from different developers score every answer, validated against human coding, and refusal is treated as an outcome rather than missing data. Every system accommodates the user on the control topic, showing that political restraint is a policy. On contested topics the systems fall into different regimes: on abortion, GPT engages and mirrors every user, Gemma refuses everyone, Claude answers strongly conservative users 35 percent of the time and almost no one else, and Grok accommodates conservatives only. On settled topics such as climate change and Nazism, five systems hold firm for every user. The systems also infer the user's overall ideology, so accommodation can spill over to topics not yet discussed. A comparison of two Grok releases shows the regime changing between versions in a way current audits miss. Speech regimes matter for alignment research and for polarization, political knowledge, and the quality of democracy.",
-      "summary": "LLM-based AI systems answer political questions for hundreds of millions of people. Current audits measure what they say to an average user, but their behavior is dynamic.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "eb345ea3b8f3f1e8"
-    },
-    {
-      "title": "v1.0.231",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.231",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-19T03:12:04+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.230...v1.0.231",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.230...v1.0.231",
-      "version": "1.0.231",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "bd69a5648d9b1acf"
     }
   ]
 }

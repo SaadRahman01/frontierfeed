@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:2c5fe96bcce02f6b",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.256",
+      "title": "v1.0.256",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.255...v1.0.256",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.255...v1.0.256",
+      "date_published": "2026-10-21T03:19:41+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:57367f0244211caf",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.306",
+      "title": "@anthropic-ai/claude-code 2.1.306 published",
+      "summary": "Version 2.1.306 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.306 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-21T02:28:47.495000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:23f8935054bd2bf0",
       "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.137.0",
       "title": "sdk-v0.137.0",
@@ -1371,32 +1399,6 @@
         "info",
         "official",
         "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:0b964f1b3ecd4d8e",
-      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "title": "How to engineer an AI harness for game development",
-      "summary": "109 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50072120",
-      "content_text": "109 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50072120",
-      "date_published": "2026-10-13T14:14:23+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:e720c265a2c1a2a3",
-      "url": "https://github.com/LargeModGames/spotatui",
-      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-      "summary": "50 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50070010",
-      "content_text": "50 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50070010",
-      "date_published": "2026-10-13T11:32:00+00:00",
-      "tags": [
-        "api",
-        "info",
-        "community"
       ]
     }
   ]

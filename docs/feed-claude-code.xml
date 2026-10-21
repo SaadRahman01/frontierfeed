@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 01:39:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 07:44:17 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.256</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.256</link>
+<guid isPermaLink="false">frontierfeed:2c5fe96bcce02f6b</guid>
+<pubDate>Wed, 21 Oct 2026 03:19:41 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.255...v1.0.256</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.306 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.306</link>
+<guid isPermaLink="false">frontierfeed:57367f0244211caf</guid>
+<pubDate>Wed, 21 Oct 2026 02:28:47 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.306 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>v1.0.255</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.255</link>
@@ -574,14 +590,6 @@
 <pubDate>Tue, 22 Sep 2026 08:49:13 +0000</pubDate>
 <category>claude-code</category>
 <description>41 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=49798257</description>
-</item>
-<item>
-<title>v1.0.231</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.231</link>
-<guid isPermaLink="false">frontierfeed:bd69a5648d9b1acf</guid>
-<pubDate>Sat, 19 Sep 2026 03:12:04 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.230...v1.0.231</description>
 </item>
 </channel>
 </rss>
