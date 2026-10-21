@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-21T07:44:17.221258+00:00",
+  "generated": "2026-10-21T13:52:18.706681+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "source": "hackernews",
+      "published": "2026-10-21T03:36:43+00:00",
+      "body": "92 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50175779",
+      "summary": "92 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50175779",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b2bdcbdc1b05fce1"
+    },
     {
       "title": "v1.0.256",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.256",
@@ -4765,21 +4780,6 @@
         "community"
       ],
       "uid": "8502ac223fef9ddd"
-    },
-    {
-      "title": "Show HN: CUA-S1 \u2013 A System One Model for Computer Use",
-      "url": "https://github.com/trycua/cua",
-      "source": "hackernews",
-      "published": "2026-09-19T15:52:51+00:00",
-      "body": "49 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=49767564",
-      "summary": "49 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=49767564",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "91dc999c365e5da3"
     }
   ]
 }

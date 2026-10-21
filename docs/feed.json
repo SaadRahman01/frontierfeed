@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:b2bdcbdc1b05fce1",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "title": "Using Claude to reduce the attack surface of code",
+      "summary": "92 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50175779",
+      "content_text": "92 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50175779",
+      "date_published": "2026-10-21T03:36:43+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:2c5fe96bcce02f6b",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.256",
       "title": "v1.0.256",
@@ -1385,20 +1398,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:0cece0787f003053",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "title": "Redesigning source control at Anthropic",
-      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
-      "content_text": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
-      "date_published": "2026-10-13T17:37:37.705063+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering"
       ]
     }
   ]
