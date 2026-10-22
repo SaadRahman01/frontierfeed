@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:7ee50b4eb9b11588",
+      "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "title": "Building agents: When to fold subagents into your main agent loop",
+      "summary": "When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate.",
+      "content_text": "When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate.",
+      "date_published": "2026-10-22T18:35:08.128527+00:00",
+      "tags": [
+        "pricing",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
       "id": "frontierfeed:f9c9866883caa08f",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.258",
       "title": "v1.0.258",
@@ -1383,20 +1397,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:8431345bd0690d0b",
-      "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
-      "title": "Agent observability on the Claude Platform",
-      "summary": "Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.",
-      "content_text": "Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.",
-      "date_published": "2026-10-14T18:40:31.867842+00:00",
-      "tags": [
-        "api",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]

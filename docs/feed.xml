@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 13:51:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 18:35:18 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Building agents: When to fold subagents into your main agent loop</title>
+<link>https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop</link>
+<guid isPermaLink="false">frontierfeed:7ee50b4eb9b11588</guid>
+<pubDate>Thu, 22 Oct 2026 18:35:08 +0000</pubDate>
+<category>pricing</category>
+<description>When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate.</description>
+</item>
 <item>
 <title>v1.0.258</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.258</link>
@@ -806,14 +814,6 @@
 <pubDate>Wed, 14 Oct 2026 20:30:54 +0000</pubDate>
 <category>note</category>
 <description>164 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50094694</description>
-</item>
-<item>
-<title>Agent observability on the Claude Platform</title>
-<link>https://claude.com/resources/articles/agent-observability-on-the-claude-platform</link>
-<guid isPermaLink="false">frontierfeed:8431345bd0690d0b</guid>
-<pubDate>Wed, 14 Oct 2026 18:40:31 +0000</pubDate>
-<category>api</category>
-<description>Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.</description>
 </item>
 </channel>
 </rss>
