@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 18:35:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 22:23:34 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>The full Claude Platform, available on Google Cloud</title>
+<link>https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed</link>
+<guid isPermaLink="false">frontierfeed:863144bde0789b93</guid>
+<pubDate>Thu, 22 Oct 2026 22:23:23 +0000</pubDate>
+<category>deprecation</category>
+<description>Use Claude Models on Google Cloud (Anthropic managed) to access Claude Platform features with Google Cloud authentication, billing, and commitment retirement.</description>
+</item>
+<item>
+<title>Donating Agent Skills to the Agentic AI Foundation</title>
+<link>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</link>
+<guid isPermaLink="false">frontierfeed:d9b5ef0e7d125d65</guid>
+<pubDate>Thu, 22 Oct 2026 22:23:21 +0000</pubDate>
+<category>note</category>
+<description>We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation.</description>
+</item>
+<item>
+<title>Ask HN: If the models are so good, why doesn&#x27;t OpenAI just start 100 companies?</title>
+<link>https://news.ycombinator.com/item?id=50200997</link>
+<guid isPermaLink="false">frontierfeed:f8c8047888c2f494</guid>
+<pubDate>Thu, 22 Oct 2026 21:03:55 +0000</pubDate>
+<category>note</category>
+<description>42 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50200997</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.309 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.309</link>
+<guid isPermaLink="false">frontierfeed:fad8ef5c63648d68</guid>
+<pubDate>Thu, 22 Oct 2026 20:34:13 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.309 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Building agents: When to fold subagents into your main agent loop</title>
 <link>https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop</link>
@@ -782,38 +814,6 @@
 <pubDate>Thu, 15 Oct 2026 17:05:19 +0000</pubDate>
 <category>note</category>
 <description>107 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=50106738</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.301 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.301</link>
-<guid isPermaLink="false">frontierfeed:bae8b3882c1b05d8</guid>
-<pubDate>Thu, 15 Oct 2026 14:34:23 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.301 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>A research agenda for the Economic Futures Research Fund</title>
-<link>https://www.anthropic.com/news/economic-futures-research-fund-agenda</link>
-<guid isPermaLink="false">frontierfeed:0ea1743424c3f00b</guid>
-<pubDate>Wed, 14 Oct 2026 22:19:51 +0000</pubDate>
-<category>note</category>
-<description>A research agenda for the Economic Futures Research Fund</description>
-</item>
-<item>
-<title>Preparing for the 2026 US midterms</title>
-<link>https://www.anthropic.com/news/2026-us-midterms</link>
-<guid isPermaLink="false">frontierfeed:804e2c5ac69d9884</guid>
-<pubDate>Wed, 14 Oct 2026 22:19:51 +0000</pubDate>
-<category>note</category>
-<description>Preparing for the 2026 US midterms</description>
-</item>
-<item>
-<title>Anthropic&#x27;s Scion is heavily inspired by Mononoke</title>
-<link>https://sunshowers.io/posts/anthropic-mononoke/</link>
-<guid isPermaLink="false">frontierfeed:af7ec3dee446ed0e</guid>
-<pubDate>Wed, 14 Oct 2026 20:30:54 +0000</pubDate>
-<category>note</category>
-<description>164 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50094694</description>
 </item>
 </channel>
 </rss>

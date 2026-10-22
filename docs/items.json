@@ -1,9 +1,73 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-22T18:35:18.747409+00:00",
+  "generated": "2026-10-22T22:23:34.022889+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "The full Claude Platform, available on Google Cloud",
+      "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
+      "source": "claude-blog",
+      "published": "2026-10-22T22:23:23.605891+00:00",
+      "body": "Use Claude Models on Google Cloud (Anthropic managed) to access Claude Platform features with Google Cloud authentication, billing, and commitment retirement.",
+      "summary": "Use Claude Models on Google Cloud (Anthropic managed) to access Claude Platform features with Google Cloud authentication, billing, and commitment retirement.",
+      "version": "",
+      "category": "deprecation",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "863144bde0789b93"
+    },
+    {
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "source": "anthropic-news",
+      "published": "2026-10-22T22:23:21.491739+00:00",
+      "body": "We\u2019re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.",
+      "summary": "We\u2019re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news",
+        "skills"
+      ],
+      "uid": "d9b5ef0e7d125d65"
+    },
+    {
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "url": "https://news.ycombinator.com/item?id=50200997",
+      "source": "hackernews",
+      "published": "2026-10-22T21:03:55+00:00",
+      "body": "42 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50200997",
+      "summary": "42 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50200997",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "f8c8047888c2f494"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.309 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.309",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-22T20:34:13.713000+00:00",
+      "body": "Version 2.1.309 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.309 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.309",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "fad8ef5c63648d68"
+    },
     {
       "title": "Building agents: When to fold subagents into your main agent loop",
       "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
@@ -4720,71 +4784,6 @@
         "product"
       ],
       "uid": "56185ec142d8d37f"
-    },
-    {
-      "title": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
-      "url": "https://claude.com/blog/claude-marketplace",
-      "source": "claude-blog",
-      "published": "2026-09-23T20:26:53.225416+00:00",
-      "body": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
-      "summary": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product",
-        "skills"
-      ],
-      "uid": "20fb7ec00500f312"
-    },
-    {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "source": "anthropic-news",
-      "published": "2026-09-23T20:26:51.148248+00:00",
-      "body": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "6d87425449e9b6fb"
-    },
-    {
-      "title": "v1.0.233",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.233",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-23T19:40:57+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.232...v1.0.233",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.232...v1.0.233",
-      "version": "1.0.233",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "0ec9ed12e2a18484"
-    },
-    {
-      "title": "How to prepare for AI-driven code modernization projects",
-      "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
-      "source": "claude-blog",
-      "published": "2026-09-23T17:08:41.209191+00:00",
-      "body": "How to prepare for AI-driven code modernization projects",
-      "summary": "How to prepare for AI-driven code modernization projects",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "c5ae6ffe5ce86854"
     }
   ]
 }
