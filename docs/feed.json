@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:f9c9866883caa08f",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.258",
+      "title": "v1.0.258",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.257...v1.0.258",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.257...v1.0.258",
+      "date_published": "2026-10-22T04:37:34+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:b4c84646a5590fbf",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.308",
+      "title": "@anthropic-ai/claude-code 2.1.308 published",
+      "summary": "Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-22T04:19:48.902000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:efb4512850a8c472",
       "url": "https://claude.com/resources/articles/claude-duet",
       "title": "Introducing Claude Duet",
@@ -159,6 +187,19 @@
       "summary": "45 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50185438",
       "content_text": "45 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50185438",
       "date_published": "2026-10-21T18:29:54+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:5fc290bb09157170",
+      "url": "https://github.com/omnara-ai/omnara",
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "summary": "68 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50183892",
+      "content_text": "68 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50183892",
+      "date_published": "2026-10-21T16:44:53+00:00",
       "tags": [
         "note",
         "info",
@@ -1356,48 +1397,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:0c9413fdbd1e4ca2",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.250",
-      "title": "v1.0.250",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.249...v1.0.250",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.249...v1.0.250",
-      "date_published": "2026-10-14T18:38:52+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:21dc55d5b68fdf0e",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.1.0",
-      "title": "google-cloud-sdk-v0.1.0",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "date_published": "2026-10-14T17:13:24+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:1c6f5924c02e8bc4",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.8.0",
-      "title": "aws-sdk-v0.8.0",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "content_text": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "date_published": "2026-10-14T17:13:22+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]

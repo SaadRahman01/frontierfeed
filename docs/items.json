@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-22T01:34:21.935404+00:00",
+  "generated": "2026-10-22T07:39:58.567564+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.258",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.258",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-22T04:37:34+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.257...v1.0.258",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.257...v1.0.258",
+      "version": "1.0.258",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "f9c9866883caa08f"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.308 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.308",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-22T04:19:48.902000+00:00",
+      "body": "Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.308",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "b4c84646a5590fbf"
+    },
     {
       "title": "Introducing Claude Duet",
       "url": "https://claude.com/resources/articles/claude-duet",
@@ -182,6 +214,21 @@
         "community"
       ],
       "uid": "c411a0e2f24370bd"
+    },
+    {
+      "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "source": "hackernews",
+      "published": "2026-10-21T16:44:53+00:00",
+      "body": "68 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50183892",
+      "summary": "68 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50183892",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "5fc290bb09157170"
     },
     {
       "title": "google-cloud-sdk-v1.0.0",
@@ -4738,55 +4785,6 @@
         "npm"
       ],
       "uid": "bac5b5a3e703f1ab"
-    },
-    {
-      "title": "v1.0.232",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.232",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-23T16:51:14+00:00",
-      "body": "## What's Changed\n* ci: pin the integration tests to claude-opus-5 by @mhegazy in https://github.com/anthropics/claude-code-action/pull/1853\n\n## New Contributors\n* @mhegazy made their first contribution in https://github.com/anthropics/claude-code-action/pull/1853\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.231...v1.0.232",
-      "summary": "## What's Changed * ci: pin the integration tests to claude-opus-5 by @mhegazy in https://github.com/anthropics/claude-code-action/pull/1853 ## New Contributors * @mhegazy made their first contribution in https://github.com/anthropics/claude-code-action/pull/1853 **Full Changelog\u2026",
-      "version": "1.0.232",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action",
-        "opus"
-      ],
-      "uid": "8c34d0ea2e416539"
-    },
-    {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "source": "hackernews",
-      "published": "2026-09-23T12:15:33+00:00",
-      "body": "360 points, 199 comments. Discussion: https://news.ycombinator.com/item?id=49814947",
-      "summary": "360 points, 199 comments. Discussion: https://news.ycombinator.com/item?id=49814947",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "213a9a56ffca51b5"
-    },
-    {
-      "title": "What a task costs on Opus 5.5",
-      "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
-      "source": "claude-blog",
-      "published": "2026-09-22T18:57:48.045264+00:00",
-      "body": "What a task costs on Opus 5.5",
-      "summary": "What a task costs on Opus 5.5",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product",
-        "opus"
-      ],
-      "uid": "fb73c8c386b392cb"
     }
   ]
 }

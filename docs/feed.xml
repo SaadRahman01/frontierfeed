@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 01:34:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 07:39:58 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.258</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.258</link>
+<guid isPermaLink="false">frontierfeed:f9c9866883caa08f</guid>
+<pubDate>Thu, 22 Oct 2026 04:37:34 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.257...v1.0.258</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.308 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.308</link>
+<guid isPermaLink="false">frontierfeed:b4c84646a5590fbf</guid>
+<pubDate>Thu, 22 Oct 2026 04:19:48 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Introducing Claude Duet</title>
 <link>https://claude.com/resources/articles/claude-duet</link>
@@ -102,6 +118,14 @@
 <pubDate>Wed, 21 Oct 2026 18:29:54 +0000</pubDate>
 <category>note</category>
 <description>45 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50185438</description>
+</item>
+<item>
+<title>Show HN: Omnara – Open-source alternative to Claude Managed Agents</title>
+<link>https://github.com/omnara-ai/omnara</link>
+<guid isPermaLink="false">frontierfeed:5fc290bb09157170</guid>
+<pubDate>Wed, 21 Oct 2026 16:44:53 +0000</pubDate>
+<category>note</category>
+<description>68 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50183892</description>
 </item>
 <item>
 <title>[breaking] google-cloud-sdk-v1.0.0</title>
@@ -790,30 +814,6 @@
 <pubDate>Wed, 14 Oct 2026 18:40:31 +0000</pubDate>
 <category>api</category>
 <description>Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.</description>
-</item>
-<item>
-<title>v1.0.250</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.250</link>
-<guid isPermaLink="false">frontierfeed:0c9413fdbd1e4ca2</guid>
-<pubDate>Wed, 14 Oct 2026 18:38:52 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.249...v1.0.250</description>
-</item>
-<item>
-<title>google-cloud-sdk-v0.1.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.1.0</link>
-<guid isPermaLink="false">frontierfeed:21dc55d5b68fdf0e</guid>
-<pubDate>Wed, 14 Oct 2026 17:13:24 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types</description>
-</item>
-<item>
-<title>aws-sdk-v0.8.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.8.0</link>
-<guid isPermaLink="false">frontierfeed:1c6f5924c02e8bc4</guid>
-<pubDate>Wed, 14 Oct 2026 17:13:22 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types</description>
 </item>
 </channel>
 </rss>
