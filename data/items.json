@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "v1.0.260",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.260",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-23T17:02:49+00:00",
+      "body": "## What's Changed\n* Pin the PR version a run checks out by @OctavianGuzu in https://github.com/anthropics/claude-code-action/pull/1915\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.259...v1.0.260",
+      "summary": "## What's Changed * Pin the PR version a run checks out by @OctavianGuzu in https://github.com/anthropics/claude-code-action/pull/1915 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.259...v1.0.260",
+      "version": "1.0.260",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "6cdaddf3a55924e5"
+    },
+    {
       "title": "v2.2.0",
       "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0",
       "source": "github:anthropics/anthropic-sdk-python",
@@ -4768,21 +4784,6 @@
         "claude-code-action"
       ],
       "uid": "20801ae591ecb475"
-    },
-    {
-      "title": "Show HN: Ekselio \u2013 Loveable for finance workflows (local first)",
-      "url": "https://www.gptbeyond.com/try?home=1",
-      "source": "hackernews",
-      "published": "2026-09-25T21:09:28+00:00",
-      "body": "40 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49849986",
-      "summary": "40 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49849986",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "c22f3b9281f98303"
     }
   ]
 }

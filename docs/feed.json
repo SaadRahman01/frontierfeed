@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:6cdaddf3a55924e5",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.260",
+      "title": "v1.0.260",
+      "summary": "## What's Changed * Pin the PR version a run checks out by @OctavianGuzu in https://github.com/anthropics/claude-code-action/pull/1915 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.259...v1.0.260",
+      "content_text": "## What's Changed * Pin the PR version a run checks out by @OctavianGuzu in https://github.com/anthropics/claude-code-action/pull/1915 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.259...v1.0.260",
+      "date_published": "2026-10-23T17:02:49+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:71c3b2960baa0b32",
       "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0",
       "title": "v2.2.0",
@@ -1390,20 +1404,6 @@
         "api",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:fbf0a1a58bf4b204",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.252",
-      "title": "v1.0.252",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.251...v1.0.252",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.251...v1.0.252",
-      "date_published": "2026-10-16T21:01:08+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
       ]
     }
   ]
