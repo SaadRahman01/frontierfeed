@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 01:35:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 07:37:29 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -86,6 +86,14 @@
 <pubDate>Thu, 22 Oct 2026 18:35:08 +0000</pubDate>
 <category>pricing</category>
 <description>When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate.</description>
+</item>
+<item>
+<title>Invisibilization as a Source of Probability Bias in Language Models</title>
+<link>https://arxiv.org/abs/2610.30785v1</link>
+<guid isPermaLink="false">frontierfeed:51ab381366afbcf7</guid>
+<pubDate>Thu, 22 Oct 2026 06:03:35 +0000</pubDate>
+<category>research</category>
+<description>Language models are aligned to avoid using protected attributes such as race, ethnicity, and gender to inform their responses. Therefore, they increasingly refuse or hedge when such attributes appear in a prompt.</description>
 </item>
 <item>
 <title>v1.0.258</title>
@@ -806,14 +814,6 @@
 <pubDate>Fri, 16 Oct 2026 14:18:44 +0000</pubDate>
 <category>note</category>
 <description>85 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50118688</description>
-</item>
-<item>
-<title>Code Review is now generally available</title>
-<link>https://claude.com/resources/articles/code-review-is-now-generally-available</link>
-<guid isPermaLink="false">frontierfeed:9272483df81fefb4</guid>
-<pubDate>Thu, 15 Oct 2026 22:24:12 +0000</pubDate>
-<category>note</category>
-<description>Catch more bugs before they reach production.</description>
 </item>
 </channel>
 </rss>

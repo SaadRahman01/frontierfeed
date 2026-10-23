@@ -134,6 +134,20 @@
       ]
     },
     {
+      "id": "frontierfeed:51ab381366afbcf7",
+      "url": "https://arxiv.org/abs/2610.30785v1",
+      "title": "Invisibilization as a Source of Probability Bias in Language Models",
+      "summary": "Language models are aligned to avoid using protected attributes such as race, ethnicity, and gender to inform their responses. Therefore, they increasingly refuse or hedge when such attributes appear in a prompt.",
+      "content_text": "Language models are aligned to avoid using protected attributes such as race, ethnicity, and gender to inform their responses. Therefore, they increasingly refuse or hedge when such attributes appear in a prompt.",
+      "date_published": "2026-10-22T06:03:35+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper"
+      ]
+    },
+    {
       "id": "frontierfeed:f9c9866883caa08f",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.258",
       "title": "v1.0.258",
@@ -1384,20 +1398,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:9272483df81fefb4",
-      "url": "https://claude.com/resources/articles/code-review-is-now-generally-available",
-      "title": "Code Review is now generally available",
-      "summary": "Catch more bugs before they reach production.",
-      "content_text": "Catch more bugs before they reach production.",
-      "date_published": "2026-10-15T22:24:12.040126+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]
