@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "title": "Claude Duet Safety, Privacy, and Security",
+      "url": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
+      "source": "claude-blog",
+      "published": "2026-10-23T22:15:42.224895+00:00",
+      "body": "Claude Duet is a proactive agent that works for you, even while you\u2019re away. It builds on two layers of protection: safety training in the Claude model itself and the safeguards that exist in products like Claude Code and Claude Managed Agents. On top of those, we added new protections for working across your accounts and acting on your behalf.",
+      "summary": "Claude Duet is a proactive agent that works for you, even while you\u2019re away. It builds on two layers of protection: safety training in the Claude model itself and the safeguards that exist in products like Claude Code and Claude Managed Agents.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "2492d72f3e7135b4"
+    },
+    {
+      "title": "Claude Cowork and chat come together for Enterprise",
+      "url": "https://claude.com/resources/articles/unified-claude-enterprise",
+      "source": "claude-blog",
+      "published": "2026-10-23T22:15:42.224843+00:00",
+      "body": "Claude Cowork and chat come together for Enterprise",
+      "summary": "Claude Cowork and chat come together for Enterprise",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "enterprise"
+      ],
+      "uid": "f5692ec0caafec4e"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.310 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.310",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-23T21:20:46.540000+00:00",
+      "body": "Version 2.1.310 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.310 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.310",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "131cae9d86f222f5"
+    },
+    {
       "title": "v1.0.260",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.260",
       "source": "github:anthropics/claude-code-action",
@@ -4736,54 +4785,6 @@
         "community"
       ],
       "uid": "495c64177bbc30b6"
-    },
-    {
-      "title": "Show HN: A Claude Code skill to analyze your chess games",
-      "url": "https://github.com/brumar/chess-postmortem-skills",
-      "source": "hackernews",
-      "published": "2026-09-26T15:34:53+00:00",
-      "body": "60 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49857528",
-      "summary": "60 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49857528",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community",
-        "skills"
-      ],
-      "uid": "2764fc19aa415523"
-    },
-    {
-      "title": "Masking Frequent Tokens Sharpens Direct Preference Optimization",
-      "url": "https://arxiv.org/abs/2609.32445v1",
-      "source": "arxiv",
-      "published": "2026-09-26T10:21:46+00:00",
-      "body": "Direct Preference Optimization (DPO) aligns language models by optimizing over sequence-level sums of token-wise implicit reward differences. However, we identify a pervasive pathology in this formulation: a disproportionately small subset of high-frequency token types dominates cumulative sequence scores while appearing symmetrically across both preferred and dispreferred responses. Specifically, under canonical Qwen tokenization on Anthropic HH-RLHF, merely 69 token types account for $55.1\\%$ of all response tokens and $85.9\\%$ of within-pair shared token mass, exhibiting substantially lower preference-side specificity than the remaining vocabulary. This symmetric ubiquity induces gradient entanglement and dilutes the discriminative preference signal propagated through the objective. To resolve this issue, we introduce \\emph{Anisotropic DPO} (\\textsf{ADPO}) and its canonical realization, \\emph{Frequency-Hard DPO}. Using a fixed, label-agnostic vocabulary mask, our method zeroes the implicit reward contribution of high-frequency response tokens while assigning unit weight to informative positions, thereby suppressing gradient interference without modifying preference pairs, discarding context, or introducing learned parameters. Here, \\emph{anisotropy} designates non-uniform token-level objective weighting rather than representational geometry. Extensive empirical evaluations on AlpacaEval, MT-Bench, and Arena-Hard demonstrate that Frequency-Hard DPO consistently outperforms standard DPO across Qwen-2.5-7B-Instruct and Llama-3-8B-Instruct, establishing that selectively masking shared high-frequency tokens offers an effective, zero-overhead mechanism for robust preference alignment.",
-      "summary": "Direct Preference Optimization (DPO) aligns language models by optimizing over sequence-level sums of token-wise implicit reward differences.",
-      "version": "",
-      "category": "research",
-      "impact": "feature",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "9525aee886e1e5b6"
-    },
-    {
-      "title": "v1.0.235",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.235",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-25T21:51:57+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.234...v1.0.235",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.234...v1.0.235",
-      "version": "1.0.235",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "20801ae591ecb475"
     }
   ]
 }

@@ -9,6 +9,49 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:2492d72f3e7135b4",
+      "url": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
+      "title": "Claude Duet Safety, Privacy, and Security",
+      "summary": "Claude Duet is a proactive agent that works for you, even while you’re away. It builds on two layers of protection: safety training in the Claude model itself and the safeguards that exist in products like Claude Code and Claude Managed Agents.",
+      "content_text": "Claude Duet is a proactive agent that works for you, even while you’re away. It builds on two layers of protection: safety training in the Claude model itself and the safeguards that exist in products like Claude Code and Claude Managed Agents.",
+      "date_published": "2026-10-23T22:15:42.224895+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:f5692ec0caafec4e",
+      "url": "https://claude.com/resources/articles/unified-claude-enterprise",
+      "title": "Claude Cowork and chat come together for Enterprise",
+      "summary": "Claude Cowork and chat come together for Enterprise",
+      "content_text": "Claude Cowork and chat come together for Enterprise",
+      "date_published": "2026-10-23T22:15:42.224843+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "official",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "frontierfeed:131cae9d86f222f5",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.310",
+      "title": "@anthropic-ai/claude-code 2.1.310 published",
+      "summary": "Version 2.1.310 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.310 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-23T21:20:46.540000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:6cdaddf3a55924e5",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.260",
       "title": "v1.0.260",
@@ -1361,47 +1404,6 @@
       "date_published": "2026-10-18T10:49:26+00:00",
       "tags": [
         "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:68bce686739bff91",
-      "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
-      "title": "How an Anthropic BDR in Japan runs his day with Claude Managed Agents",
-      "summary": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
-      "content_text": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
-      "date_published": "2026-10-18T05:59:07.523352+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:5c98c7266e2917cb",
-      "url": "https://tkgally.github.io/500-clocks/",
-      "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-      "summary": "53 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50137820",
-      "content_text": "53 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50137820",
-      "date_published": "2026-10-18T04:04:58+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:fa9058c3a4a6585d",
-      "url": "https://thingstodoapi.com/",
-      "title": "Show HN: Things to Do API",
-      "summary": "41 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50126384",
-      "content_text": "41 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50126384",
-      "date_published": "2026-10-16T23:58:34+00:00",
-      "tags": [
-        "api",
         "info",
         "community"
       ]

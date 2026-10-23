@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 18:25:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 22:15:53 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude Duet Safety, Privacy, and Security</title>
+<link>https://claude.com/resources/articles/claude-duet-safety-privacy-and-security</link>
+<guid isPermaLink="false">frontierfeed:2492d72f3e7135b4</guid>
+<pubDate>Fri, 23 Oct 2026 22:15:42 +0000</pubDate>
+<category>claude-code</category>
+<description>Claude Duet is a proactive agent that works for you, even while you’re away. It builds on two layers of protection: safety training in the Claude model itself and the safeguards that exist in products like Claude Code and Claude Managed Agents.</description>
+</item>
+<item>
+<title>Claude Cowork and chat come together for Enterprise</title>
+<link>https://claude.com/resources/articles/unified-claude-enterprise</link>
+<guid isPermaLink="false">frontierfeed:f5692ec0caafec4e</guid>
+<pubDate>Fri, 23 Oct 2026 22:15:42 +0000</pubDate>
+<category>claude-code</category>
+<description>Claude Cowork and chat come together for Enterprise</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.310 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.310</link>
+<guid isPermaLink="false">frontierfeed:131cae9d86f222f5</guid>
+<pubDate>Fri, 23 Oct 2026 21:20:46 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.310 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>v1.0.260</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.260</link>
@@ -550,22 +574,6 @@
 <pubDate>Mon, 28 Sep 2026 17:11:59 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.284 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Show HN: A Claude Code skill to analyze your chess games</title>
-<link>https://github.com/brumar/chess-postmortem-skills</link>
-<guid isPermaLink="false">frontierfeed:2764fc19aa415523</guid>
-<pubDate>Sat, 26 Sep 2026 15:34:53 +0000</pubDate>
-<category>claude-code</category>
-<description>60 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=49857528</description>
-</item>
-<item>
-<title>v1.0.235</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.235</link>
-<guid isPermaLink="false">frontierfeed:20801ae591ecb475</guid>
-<pubDate>Fri, 25 Sep 2026 21:51:57 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.234...v1.0.235</description>
 </item>
 </channel>
 </rss>
