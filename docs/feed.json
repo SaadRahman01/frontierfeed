@@ -9,6 +9,61 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:6d87425449e9b6fb",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "content_text": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "date_published": "2026-10-23T01:34:22.780470+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:2a50ec3e7aca0d2d",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "title": "Open call for guest investigators in the life sciences",
+      "summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+      "content_text": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+      "date_published": "2026-10-23T01:34:22.780205+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:88c04042e4b53940",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "summary": "99 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50202217",
+      "content_text": "99 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50202217",
+      "date_published": "2026-10-22T22:54:43+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:436b37aeb7d8ec95",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.259",
+      "title": "v1.0.259",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.258...v1.0.259",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.258...v1.0.259",
+      "date_published": "2026-10-22T22:27:34+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:863144bde0789b93",
       "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
       "title": "The full Claude Platform, available on Google Cloud",
@@ -104,6 +159,20 @@
         "fix",
         "release",
         "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:68317242ffea8e07",
+      "url": "https://arxiv.org/abs/2610.30690v1",
+      "title": "From Clinical Judgment to Checkable Rules: Clinician-Led Guardrails for Mental-Health Chatbots",
+      "summary": "Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult to inspect or explain. Common approaches to improving safety rely on prompt engineering, LLM-as-a-Judge, and Constitutional AI.",
+      "content_text": "Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult to inspect or explain. Common approaches to improving safety rely on prompt engineering, LLM-as-a-Judge, and Constitutional AI.",
+      "date_published": "2026-10-22T04:02:51+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper"
       ]
     },
     {
@@ -1329,75 +1398,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:4ca5aceb512b2829",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.15.0",
-      "title": "v1.15.0",
-      "summary": "### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization's usage-tier spend cap as a read-only spend limit ### Chores * **ci:** speed up breaking chang…",
-      "content_text": "### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization's usage-tier spend cap as a read-only spend limit ### Chores * **ci:** speed up breaking chang…",
-      "date_published": "2026-10-15T19:45:15+00:00",
-      "tags": [
-        "api",
-        "breaking",
-        "release",
-        "anthropic-sdk-python"
-      ]
-    },
-    {
-      "id": "frontierfeed:f96454ed60123945",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.135.0",
-      "title": "sdk-v0.135.0",
-      "summary": "### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization's usage-tier spend cap as a read-only spend limit ### Bug Fixes * **client:** close streams dr…",
-      "content_text": "### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization's usage-tier spend cap as a read-only spend limit ### Bug Fixes * **client:** close streams dr…",
-      "date_published": "2026-10-15T19:42:46+00:00",
-      "tags": [
-        "api",
-        "breaking",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:10fe280b29425d96",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.251",
-      "title": "v1.0.251",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.250...v1.0.251",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.250...v1.0.251",
-      "date_published": "2026-10-15T19:32:16+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:86090baa782068b5",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "title": "An update on independent evaluators",
-      "summary": "An update on independent evaluators",
-      "content_text": "An update on independent evaluators",
-      "date_published": "2026-10-15T18:20:39.557345+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:ee4428f7cc2c4781",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
-      "title": "More on Anthropic's Scion ripping off Mononoke",
-      "summary": "107 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=50106738",
-      "content_text": "107 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=50106738",
-      "date_published": "2026-10-15T17:05:19+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]

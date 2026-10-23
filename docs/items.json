@@ -1,9 +1,72 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-22T22:23:34.022889+00:00",
+  "generated": "2026-10-23T01:35:27.305983+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source": "anthropic-news",
+      "published": "2026-10-23T01:34:22.780470+00:00",
+      "body": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "6d87425449e9b6fb"
+    },
+    {
+      "title": "Open call for guest investigators in the life sciences",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "source": "anthropic-news",
+      "published": "2026-10-23T01:34:22.780205+00:00",
+      "body": "Today, we\u2019re inviting members of the life sciences community to apply to work with us on special projects.",
+      "summary": "Today, we\u2019re inviting members of the life sciences community to apply to work with us on special projects.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "2a50ec3e7aca0d2d"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "source": "hackernews",
+      "published": "2026-10-22T22:54:43+00:00",
+      "body": "99 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50202217",
+      "summary": "99 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50202217",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "88c04042e4b53940"
+    },
+    {
+      "title": "v1.0.259",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.259",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-22T22:27:34+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.258...v1.0.259",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.258...v1.0.259",
+      "version": "1.0.259",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "436b37aeb7d8ec95"
+    },
     {
       "title": "The full Claude Platform, available on Google Cloud",
       "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
@@ -115,6 +178,22 @@
         "npm"
       ],
       "uid": "b4c84646a5590fbf"
+    },
+    {
+      "title": "From Clinical Judgment to Checkable Rules: Clinician-Led Guardrails for Mental-Health Chatbots",
+      "url": "https://arxiv.org/abs/2610.30690v1",
+      "source": "arxiv",
+      "published": "2026-10-22T04:02:51+00:00",
+      "body": "Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult to inspect or explain. Common approaches to improving safety rely on prompt engineering, LLM-as-a-Judge, and Constitutional AI. In this work, we describe a clinician-led alternative in which two clinicians define, finalize, and adjudicate the four safety checks of a rule base, which is formally verified for internal consistency and applied as a guardrail over LLM outputs. Here and in the title, clinician-led refers to this rule base, not to the fact extractor or the uncertainty default, which are ours. Every verdict of the resulting verification layer is recomputable from a named rule and sixteen facts. Against an LLM judge matched in model, revision, quantization, rule text, and decoding but without the layer's computed 988/911 fact, the largest disagreement class, the satisfied-rule class, is structured: the Llama-3.3-70B judge, on its primary prompt, demands a crisis resource from 55 of the 65 replies (84.6%) that already contain one, while the same model, asked as a fact extractor, reports a recognized resource present on 54 of the 55. The verification layer never raises that demand, by construction. We report with equal prominence where this judge is stronger: fewer false crisis alarms on the one reference-scored check. We also report the measured cost (a specification revision raised block-class outcomes on held-out boundary prompts of an over-refusal benchmark from 6.0% to 16.0%, chiefly by changing fact extraction), the clinicians' decision to keep our uncertainty default, and the analysis of the result. The contribution is not a safer verdict. It is a guardrail whose disagreements with the judge localize to named rules and facts and whose measured costs trace to named facts and the uncertainty default.",
+      "summary": "Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult to inspect or explain. Common approaches to improving safety rely on prompt engineering, LLM-as-a-Judge, and Constitutional AI.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "68317242ffea8e07"
     },
     {
       "title": "Introducing Claude Duet",
@@ -4704,86 +4783,6 @@
         "news"
       ],
       "uid": "b7a1e2afb6e77707"
-    },
-    {
-      "title": "v1.0.234",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.234",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-24T20:27:59+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.233...v1.0.234",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.233...v1.0.234",
-      "version": "1.0.234",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "a1015231b632efb7"
-    },
-    {
-      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-      "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-      "source": "claude-blog",
-      "published": "2026-09-24T19:14:18.840478+00:00",
-      "body": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-      "summary": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product",
-        "opus"
-      ],
-      "uid": "c2472e4aae9f4f13"
-    },
-    {
-      "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "source": "hackernews",
-      "published": "2026-09-24T17:21:36+00:00",
-      "body": "87 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49833867",
-      "summary": "87 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49833867",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "c86d7469f076690e"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.282 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.282",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-24T15:56:22.706000+00:00",
-      "body": "Version 2.1.282 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.282 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.282",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "08cafbd1f1392a0c"
-    },
-    {
-      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
-      "url": "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
-      "source": "claude-blog",
-      "published": "2026-09-23T20:26:53.225457+00:00",
-      "body": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
-      "summary": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "56185ec142d8d37f"
     }
   ]
 }

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 22:23:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 01:35:27 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
+<link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
+<guid isPermaLink="false">frontierfeed:6d87425449e9b6fb</guid>
+<pubDate>Fri, 23 Oct 2026 01:34:22 +0000</pubDate>
+<category>note</category>
+<description>Claude discovers a novel enzyme system with CRISPR-like repeats</description>
+</item>
+<item>
+<title>Open call for guest investigators in the life sciences</title>
+<link>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</link>
+<guid isPermaLink="false">frontierfeed:2a50ec3e7aca0d2d</guid>
+<pubDate>Fri, 23 Oct 2026 01:34:22 +0000</pubDate>
+<category>note</category>
+<description>Today, we’re inviting members of the life sciences community to apply to work with us on special projects.</description>
+</item>
+<item>
+<title>LLMs are making formal software verification feasible at a much larger scale</title>
+<link>https://www.anthropic.com/research/formal-verification</link>
+<guid isPermaLink="false">frontierfeed:88c04042e4b53940</guid>
+<pubDate>Thu, 22 Oct 2026 22:54:43 +0000</pubDate>
+<category>note</category>
+<description>99 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50202217</description>
+</item>
+<item>
+<title>v1.0.259</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.259</link>
+<guid isPermaLink="false">frontierfeed:436b37aeb7d8ec95</guid>
+<pubDate>Thu, 22 Oct 2026 22:27:34 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.258...v1.0.259</description>
+</item>
 <item>
 <title>The full Claude Platform, available on Google Cloud</title>
 <link>https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed</link>
@@ -70,6 +102,14 @@
 <pubDate>Thu, 22 Oct 2026 04:19:48 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>From Clinical Judgment to Checkable Rules: Clinician-Led Guardrails for Mental-Health Chatbots</title>
+<link>https://arxiv.org/abs/2610.30690v1</link>
+<guid isPermaLink="false">frontierfeed:68317242ffea8e07</guid>
+<pubDate>Thu, 22 Oct 2026 04:02:51 +0000</pubDate>
+<category>research</category>
+<description>Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult to inspect or explain. Common approaches to improving safety rely on prompt engineering, LLM-as-a-Judge, and Constitutional AI.</description>
 </item>
 <item>
 <title>Introducing Claude Duet</title>
@@ -774,46 +814,6 @@
 <pubDate>Thu, 15 Oct 2026 22:24:12 +0000</pubDate>
 <category>note</category>
 <description>Catch more bugs before they reach production.</description>
-</item>
-<item>
-<title>[breaking] v1.15.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.15.0</link>
-<guid isPermaLink="false">frontierfeed:4ca5aceb512b2829</guid>
-<pubDate>Thu, 15 Oct 2026 19:45:15 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization&#x27;s usage-tier spend cap as a read-only spend limit ### Chores * **ci:** speed up breaking chang…</description>
-</item>
-<item>
-<title>[breaking] sdk-v0.135.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.135.0</link>
-<guid isPermaLink="false">frontierfeed:f96454ed60123945</guid>
-<pubDate>Thu, 15 Oct 2026 19:42:46 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization&#x27;s usage-tier spend cap as a read-only spend limit ### Bug Fixes * **client:** close streams dr…</description>
-</item>
-<item>
-<title>v1.0.251</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.251</link>
-<guid isPermaLink="false">frontierfeed:10fe280b29425d96</guid>
-<pubDate>Thu, 15 Oct 2026 19:32:16 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.250...v1.0.251</description>
-</item>
-<item>
-<title>An update on independent evaluators</title>
-<link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
-<guid isPermaLink="false">frontierfeed:86090baa782068b5</guid>
-<pubDate>Thu, 15 Oct 2026 18:20:39 +0000</pubDate>
-<category>note</category>
-<description>An update on independent evaluators</description>
-</item>
-<item>
-<title>More on Anthropic&#x27;s Scion ripping off Mononoke</title>
-<link>https://sunshowers.io/posts/anthropic-mononoke-2/</link>
-<guid isPermaLink="false">frontierfeed:ee4428f7cc2c4781</guid>
-<pubDate>Thu, 15 Oct 2026 17:05:19 +0000</pubDate>
-<category>note</category>
-<description>107 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=50106738</description>
 </item>
 </channel>
 </rss>
