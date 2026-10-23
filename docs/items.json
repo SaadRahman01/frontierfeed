@@ -1,9 +1,123 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-23T07:37:29.174505+00:00",
+  "generated": "2026-10-23T13:31:12.823528+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v2.2.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-10-23T13:10:10+00:00",
+      "body": "### Features\n\n* **api:** add support for message threads\n* **api:** add usage and cost reports by dimension, mark older reports legacy\n\n\n### Bug Fixes\n\n* **client:** stop suggesting math.inf in the max_retries error message\n* **tools:** leave the tool runner's history to the caller after `append_messages()`, and keep the current reply out of the `set_messages_params()` callback\n* **tools:** keep running the tool runner's function tools when `set_messages_params()` gives `tools` as definitions, and stop running one it takes out of `tools`\n* **tools:** give the `set_messages_params()` callback of a tool runner its `tools` as definitions again\n* **tools:** keep a tool runner's `betas`, `user_profile_id` and `workspace_id` when `set_messages_params()` leaves them out\n\n\n### Chores\n\n* **deps:** bump certifi in the dev lockfile\n* **docs:** clarify plugin content scan and validation descriptions\n* **docs:** clarify plugin served_version_pinned and updated_at\n* **docs:** fix usage and cost report examples and ending_at docs\n* **docs:** rate limit model lists vary by organization and workspace",
+      "summary": "### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **client:** stop suggesting math.inf in the max_retries error message * **tools:** leave the tool runner's history to the caller a\u2026",
+      "version": "2.2.0",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "skills"
+      ],
+      "uid": "71c3b2960baa0b32"
+    },
+    {
+      "title": "google-cloud-sdk-v1.1.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-23T13:09:27+00:00",
+      "body": "### Features\n\n* **api:** add support for message threads",
+      "summary": "### Features * **api:** add support for message threads",
+      "version": "google-cloud-sdk-v1.1.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "ee840c96b6b8066c"
+    },
+    {
+      "title": "aws-sdk-v1.1.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.1.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-23T13:09:24+00:00",
+      "body": "### Features\n\n* **api:** add support for message threads",
+      "summary": "### Features * **api:** add support for message threads",
+      "version": "aws-sdk-v1.1.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "bdf8827a85702216"
+    },
+    {
+      "title": "foundry-sdk-v1.1.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.1.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-23T13:09:22+00:00",
+      "body": "### Features\n\n* **api:** add support for message threads",
+      "summary": "### Features * **api:** add support for message threads",
+      "version": "foundry-sdk-v1.1.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "4b04362e2b05acdf"
+    },
+    {
+      "title": "bedrock-sdk-v1.1.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-23T13:09:19+00:00",
+      "body": "### Features\n\n* **api:** add support for message threads",
+      "summary": "### Features * **api:** add support for message threads",
+      "version": "bedrock-sdk-v1.1.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "344e84b8ffc888b9"
+    },
+    {
+      "title": "vertex-sdk-v1.1.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-23T13:09:16+00:00",
+      "body": "### Features\n\n* **api:** add support for message threads",
+      "summary": "### Features * **api:** add support for message threads",
+      "version": "ertex-sdk-v1.1.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "0828470285d0b159"
+    },
+    {
+      "title": "sdk-v1.2.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.2.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-23T13:09:13+00:00",
+      "body": "### Features\n\n* **api:** add support for message threads\n* **api:** add usage and cost reports by dimension, mark older reports legacy\n\n\n### Bug Fixes\n\n* **tools:** copy the messages a tool runner is created with again\n* **tools:** restore what the tool runner does after setMessagesParams() or pushMessages() in the loop body\n\n\n### Chores\n\n* **docs:** clarify plugin content scan and validation descriptions\n* **docs:** clarify plugin served_version_pinned and updated_at\n* **docs:** fix usage and cost report examples and ending_at docs\n* **docs:** rate limit model lists vary by organization and workspace\n* **internal:** rename the version manifest to .version-manifest.json\n* **tests:** fix a retry count header test that could never fail",
+      "summary": "### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **tools:** copy the messages a tool runner is created with again * **tools:** restore what the tool runner does after setMessagesP\u2026",
+      "version": "sdk-v1.2.0",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "skills"
+      ],
+      "uid": "88e2c1d1c4ddc73e"
+    },
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -146,6 +260,21 @@
         "product"
       ],
       "uid": "7ee50b4eb9b11588"
+    },
+    {
+      "title": "Show HN: OnKey \u2013 I'm a bad singer, so I built an app to show where I'm off-key",
+      "url": "https://github.com/dsmurrell/onkey",
+      "source": "hackernews",
+      "published": "2026-10-22T14:04:44+00:00",
+      "body": "90 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50195488",
+      "summary": "90 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50195488",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "48c60ba99abcff69"
     },
     {
       "title": "Invisibilization as a Source of Probability Bias in Language Models",
@@ -4658,131 +4787,6 @@
         "community"
       ],
       "uid": "c22f3b9281f98303"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.283 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.283",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-25T18:46:11.330000+00:00",
-      "body": "Version 2.1.283 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.283 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.283",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "47bd34feb1a1d6d5"
-    },
-    {
-      "title": "Build plugins for Claude",
-      "url": "https://claude.com/blog/build-plugins-for-claude",
-      "source": "claude-blog",
-      "published": "2026-09-25T18:40:52.512121+00:00",
-      "body": "Build plugins for Claude",
-      "summary": "Build plugins for Claude",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product",
-        "skills"
-      ],
-      "uid": "4d76baa23a107e33"
-    },
-    {
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "source": "hackernews",
-      "published": "2026-09-25T18:37:05+00:00",
-      "body": "102 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49848295",
-      "summary": "102 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=49848295",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "e886ced3ad306028"
-    },
-    {
-      "title": "Yes, Claude can do nine loops",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "source": "hackernews",
-      "published": "2026-09-25T18:11:48+00:00",
-      "body": "101 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49848033",
-      "summary": "101 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=49848033",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "4dcbec3ac2fff264"
-    },
-    {
-      "title": "Jevmem \u2013 automatic project memory for Claude Code, built on Jev",
-      "url": "https://github.com/Avinash-jetwani/jevmem",
-      "source": "hackernews",
-      "published": "2026-09-25T16:04:04+00:00",
-      "body": "52 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49846391",
-      "summary": "52 points, 36 comments. Discussion: https://news.ycombinator.com/item?id=49846391",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "deb5758605368daa"
-    },
-    {
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "source": "hackernews",
-      "published": "2026-09-25T15:29:25+00:00",
-      "body": "229 points, 323 comments. Discussion: https://news.ycombinator.com/item?id=49845977",
-      "summary": "229 points, 323 comments. Discussion: https://news.ycombinator.com/item?id=49845977",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "8814c67170e60eab"
-    },
-    {
-      "title": "Claude Tag now supports personal connectors in channels",
-      "url": "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
-      "source": "claude-blog",
-      "published": "2026-09-24T22:29:58.740980+00:00",
-      "body": "Claude Tag now supports personal connectors in channels",
-      "summary": "Claude Tag now supports personal connectors in channels",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "06c781742c977685"
-    },
-    {
-      "title": "Improving Fable 5's biology safeguards",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "source": "anthropic-news",
-      "published": "2026-09-24T22:29:56.653989+00:00",
-      "body": "Improving Fable 5's biology safeguards",
-      "summary": "Improving Fable 5's biology safeguards",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "4d79082435796095"
     }
   ]
 }

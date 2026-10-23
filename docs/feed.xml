@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 07:37:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 13:31:12 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,62 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v2.2.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0</link>
+<guid isPermaLink="false">frontierfeed:71c3b2960baa0b32</guid>
+<pubDate>Fri, 23 Oct 2026 13:10:10 +0000</pubDate>
+<category>pricing</category>
+<description>### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **client:** stop suggesting math.inf in the max_retries error message * **tools:** leave the tool runner&#x27;s history to the caller a…</description>
+</item>
+<item>
+<title>google-cloud-sdk-v1.1.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.0</link>
+<guid isPermaLink="false">frontierfeed:ee840c96b6b8066c</guid>
+<pubDate>Fri, 23 Oct 2026 13:09:27 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add support for message threads</description>
+</item>
+<item>
+<title>aws-sdk-v1.1.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.1.0</link>
+<guid isPermaLink="false">frontierfeed:bdf8827a85702216</guid>
+<pubDate>Fri, 23 Oct 2026 13:09:24 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add support for message threads</description>
+</item>
+<item>
+<title>foundry-sdk-v1.1.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.1.0</link>
+<guid isPermaLink="false">frontierfeed:4b04362e2b05acdf</guid>
+<pubDate>Fri, 23 Oct 2026 13:09:22 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add support for message threads</description>
+</item>
+<item>
+<title>bedrock-sdk-v1.1.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.0</link>
+<guid isPermaLink="false">frontierfeed:344e84b8ffc888b9</guid>
+<pubDate>Fri, 23 Oct 2026 13:09:19 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add support for message threads</description>
+</item>
+<item>
+<title>vertex-sdk-v1.1.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.0</link>
+<guid isPermaLink="false">frontierfeed:0828470285d0b159</guid>
+<pubDate>Fri, 23 Oct 2026 13:09:16 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add support for message threads</description>
+</item>
+<item>
+<title>sdk-v1.2.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.2.0</link>
+<guid isPermaLink="false">frontierfeed:88e2c1d1c4ddc73e</guid>
+<pubDate>Fri, 23 Oct 2026 13:09:13 +0000</pubDate>
+<category>pricing</category>
+<description>### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **tools:** copy the messages a tool runner is created with again * **tools:** restore what the tool runner does after setMessagesP…</description>
+</item>
 <item>
 <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
 <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
@@ -86,6 +142,14 @@
 <pubDate>Thu, 22 Oct 2026 18:35:08 +0000</pubDate>
 <category>pricing</category>
 <description>When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate.</description>
+</item>
+<item>
+<title>Show HN: OnKey – I&#x27;m a bad singer, so I built an app to show where I&#x27;m off-key</title>
+<link>https://github.com/dsmurrell/onkey</link>
+<guid isPermaLink="false">frontierfeed:48c60ba99abcff69</guid>
+<pubDate>Thu, 22 Oct 2026 14:04:44 +0000</pubDate>
+<category>note</category>
+<description>90 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50195488</description>
 </item>
 <item>
 <title>Invisibilization as a Source of Probability Bias in Language Models</title>
@@ -750,70 +814,6 @@
 <pubDate>Fri, 16 Oct 2026 21:01:08 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.251...v1.0.252</description>
-</item>
-<item>
-<title>Claude reveals ECDSA curve origins</title>
-<link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
-<guid isPermaLink="false">frontierfeed:d82cbddfbf35a897</guid>
-<pubDate>Fri, 16 Oct 2026 18:55:59 +0000</pubDate>
-<category>note</category>
-<description>392 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50122800</description>
-</item>
-<item>
-<title>Anthropic assigned highest junk credit rating in June</title>
-<link>https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d</link>
-<guid isPermaLink="false">frontierfeed:1a336200e8fd910c</guid>
-<pubDate>Fri, 16 Oct 2026 18:11:42 +0000</pubDate>
-<category>pricing</category>
-<description>136 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50122112</description>
-</item>
-<item>
-<title>Designing more efficient quantum circuits with Claude</title>
-<link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
-<guid isPermaLink="false">frontierfeed:bae0c8571549ec69</guid>
-<pubDate>Fri, 16 Oct 2026 18:00:18 +0000</pubDate>
-<category>note</category>
-<description>60 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=50121939</description>
-</item>
-<item>
-<title>Anthropic Console overcharged my card 100x due to internationalization input bug</title>
-<link>https://news.ycombinator.com/item?id=50121562</link>
-<guid isPermaLink="false">frontierfeed:e596d6a26b34264b</guid>
-<pubDate>Fri, 16 Oct 2026 17:31:42 +0000</pubDate>
-<category>note</category>
-<description>73 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50121562</description>
-</item>
-<item>
-<title>How an Anthropic Japan BDR runs his day with a fleet of Claude agents</title>
-<link>https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day</link>
-<guid isPermaLink="false">frontierfeed:8af0989f92522a60</guid>
-<pubDate>Fri, 16 Oct 2026 17:28:59 +0000</pubDate>
-<category>note</category>
-<description>How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.</description>
-</item>
-<item>
-<title>How the Claude Code team does code review</title>
-<link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
-<guid isPermaLink="false">frontierfeed:0beedb40f75c6d40</guid>
-<pubDate>Fri, 16 Oct 2026 17:28:59 +0000</pubDate>
-<category>claude-code</category>
-<description>How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.302 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.302</link>
-<guid isPermaLink="false">frontierfeed:9eb61591a411174a</guid>
-<pubDate>Fri, 16 Oct 2026 16:48:28 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.302 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Show HN: Gemini 4 Argon plays StarCraft</title>
-<link>https://starskirmish.com/bench/v0-2/</link>
-<guid isPermaLink="false">frontierfeed:65ed39adb6008041</guid>
-<pubDate>Fri, 16 Oct 2026 14:18:44 +0000</pubDate>
-<category>note</category>
-<description>85 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50118688</description>
 </item>
 </channel>
 </rss>

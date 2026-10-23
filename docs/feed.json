@@ -9,6 +9,106 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:71c3b2960baa0b32",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0",
+      "title": "v2.2.0",
+      "summary": "### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **client:** stop suggesting math.inf in the max_retries error message * **tools:** leave the tool runner's history to the caller a…",
+      "content_text": "### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **client:** stop suggesting math.inf in the max_retries error message * **tools:** leave the tool runner's history to the caller a…",
+      "date_published": "2026-10-23T13:10:10+00:00",
+      "tags": [
+        "pricing",
+        "feature",
+        "release",
+        "anthropic-sdk-python",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:ee840c96b6b8066c",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.0",
+      "title": "google-cloud-sdk-v1.1.0",
+      "summary": "### Features * **api:** add support for message threads",
+      "content_text": "### Features * **api:** add support for message threads",
+      "date_published": "2026-10-23T13:09:27+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:bdf8827a85702216",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.1.0",
+      "title": "aws-sdk-v1.1.0",
+      "summary": "### Features * **api:** add support for message threads",
+      "content_text": "### Features * **api:** add support for message threads",
+      "date_published": "2026-10-23T13:09:24+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:4b04362e2b05acdf",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.1.0",
+      "title": "foundry-sdk-v1.1.0",
+      "summary": "### Features * **api:** add support for message threads",
+      "content_text": "### Features * **api:** add support for message threads",
+      "date_published": "2026-10-23T13:09:22+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:344e84b8ffc888b9",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.0",
+      "title": "bedrock-sdk-v1.1.0",
+      "summary": "### Features * **api:** add support for message threads",
+      "content_text": "### Features * **api:** add support for message threads",
+      "date_published": "2026-10-23T13:09:19+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:0828470285d0b159",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.0",
+      "title": "vertex-sdk-v1.1.0",
+      "summary": "### Features * **api:** add support for message threads",
+      "content_text": "### Features * **api:** add support for message threads",
+      "date_published": "2026-10-23T13:09:16+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:88e2c1d1c4ddc73e",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.2.0",
+      "title": "sdk-v1.2.0",
+      "summary": "### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **tools:** copy the messages a tool runner is created with again * **tools:** restore what the tool runner does after setMessagesP…",
+      "content_text": "### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **tools:** copy the messages a tool runner is created with again * **tools:** restore what the tool runner does after setMessagesP…",
+      "date_published": "2026-10-23T13:09:13+00:00",
+      "tags": [
+        "pricing",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript",
+        "skills"
+      ]
+    },
+    {
       "id": "frontierfeed:6d87425449e9b6fb",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
@@ -131,6 +231,19 @@
         "info",
         "official",
         "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:48c60ba99abcff69",
+      "url": "https://github.com/dsmurrell/onkey",
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "summary": "90 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50195488",
+      "content_text": "90 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50195488",
+      "date_published": "2026-10-22T14:04:44+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1291,113 +1404,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:d82cbddfbf35a897",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "title": "Claude reveals ECDSA curve origins",
-      "summary": "392 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50122800",
-      "content_text": "392 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50122800",
-      "date_published": "2026-10-16T18:55:59+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:1a336200e8fd910c",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "summary": "136 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50122112",
-      "content_text": "136 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50122112",
-      "date_published": "2026-10-16T18:11:42+00:00",
-      "tags": [
-        "pricing",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:bae0c8571549ec69",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "summary": "60 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=50121939",
-      "content_text": "60 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=50121939",
-      "date_published": "2026-10-16T18:00:18+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:e596d6a26b34264b",
-      "url": "https://news.ycombinator.com/item?id=50121562",
-      "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
-      "summary": "73 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50121562",
-      "content_text": "73 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50121562",
-      "date_published": "2026-10-16T17:31:42+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:8af0989f92522a60",
-      "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
-      "title": "How an Anthropic Japan BDR runs his day with a fleet of Claude agents",
-      "summary": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
-      "content_text": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
-      "date_published": "2026-10-16T17:28:59.554088+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:0beedb40f75c6d40",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "title": "How the Claude Code team does code review",
-      "summary": "How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.",
-      "content_text": "How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.",
-      "date_published": "2026-10-16T17:28:59.554038+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:9eb61591a411174a",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.302",
-      "title": "@anthropic-ai/claude-code 2.1.302 published",
-      "summary": "Version 2.1.302 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.302 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-16T16:48:28.057000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:65ed39adb6008041",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "summary": "85 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50118688",
-      "content_text": "85 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50118688",
-      "date_published": "2026-10-16T14:18:44+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
