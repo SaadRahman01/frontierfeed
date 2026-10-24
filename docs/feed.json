@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:601452757f9889bf",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.262",
+      "title": "v1.0.262",
+      "summary": "## What's Changed * chore: bump Bun to 1.4.4 by @dylan-conway in https://github.com/anthropics/claude-code-action/pull/1916 ## New Contributors * @dylan-conway made their first contribution in https://github.com/anthropics/claude-code-action/pull/1916 **Full Changelog**: https://…",
+      "content_text": "## What's Changed * chore: bump Bun to 1.4.4 by @dylan-conway in https://github.com/anthropics/claude-code-action/pull/1916 ## New Contributors * @dylan-conway made their first contribution in https://github.com/anthropics/claude-code-action/pull/1916 **Full Changelog**: https://…",
+      "date_published": "2026-10-24T18:57:30+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:b1069b0805180bb8",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.261",
       "title": "v1.0.261",
@@ -1399,20 +1413,6 @@
         "claude-code",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:3ec7e24ac0a40783",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.253",
-      "title": "v1.0.253",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.252...v1.0.253",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.252...v1.0.253",
-      "date_published": "2026-10-18T22:35:48+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
       ]
     }
   ]

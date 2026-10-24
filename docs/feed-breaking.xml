@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, breaking changes only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 18:12:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 20:55:10 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-breaking.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -150,14 +150,6 @@
 <pubDate>Wed, 30 Sep 2026 22:58:09 +0000</pubDate>
 <category>deprecation</category>
 <description>## 1.11.0 (2026-09-30) Full Changelog: [v1.10.0...v1.11.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.10.0...v1.11.0) ### Features * **api:** add list spend limits endpoint ([e8f0cac](https://github.com/anthropics/anthropic-sdk-python/commit/e8f0cac35af67a083ba…</description>
-</item>
-<item>
-<title>[breaking] sdk: v0.129.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.129.0</link>
-<guid isPermaLink="false">frontierfeed:88a9cc4acbaff11f</guid>
-<pubDate>Mon, 28 Sep 2026 18:03:48 +0000</pubDate>
-<category>deprecation</category>
-<description>## 0.129.0 (2026-09-28) Full Changelog: [sdk-v0.128.0...sdk-v0.129.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.128.0...sdk-v0.129.0) ### Features * **api:** add between_tools thinking type ([ab51075](https://github.com/anthropics/anthropic-sdk-typescr…</description>
 </item>
 </channel>
 </rss>
