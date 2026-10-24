@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 22:15:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 00:48:45 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,46 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.261</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.261</link>
+<guid isPermaLink="false">frontierfeed:b1069b0805180bb8</guid>
+<pubDate>Fri, 23 Oct 2026 23:48:45 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.260...v1.0.261</description>
+</item>
+<item>
+<title>google-cloud-sdk-v1.1.1</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.1</link>
+<guid isPermaLink="false">frontierfeed:1d96ed831c5fb0c3</guid>
+<pubDate>Fri, 23 Oct 2026 23:23:48 +0000</pubDate>
+<category>api</category>
+<description>### Bug Fixes * **google-cloud:** send user profile routes to the organization endpoint ### Chores * **internal:** stop expecting the beta query param in tests ### Documentation * **google-cloud:** update the product name in the package description * **google-cloud:** update the…</description>
+</item>
+<item>
+<title>aws-sdk-v1.1.1</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.1.1</link>
+<guid isPermaLink="false">frontierfeed:2e5116e471533e76</guid>
+<pubDate>Fri, 23 Oct 2026 23:23:45 +0000</pubDate>
+<category>api</category>
+<description>### Chores * **internal:** stop expecting the beta query param in tests</description>
+</item>
+<item>
+<title>sdk-v1.3.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.3.0</link>
+<guid isPermaLink="false">frontierfeed:7ee447e88fbd5244</guid>
+<pubDate>Fri, 23 Oct 2026 23:23:43 +0000</pubDate>
+<category>pricing</category>
+<description>### Features * **api:** add Claude Tag endpoints for Claude Enterprise organizations ### Bug Fixes * **client:** link the long-request error messages to the SDK documentation ### Chores * **client:** stop sending query params hardcoded in endpoint paths * **docs:** improve the de…</description>
+</item>
+<item>
+<title>v2.3.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.3.0</link>
+<guid isPermaLink="false">frontierfeed:d1dce59fe776bc82</guid>
+<pubDate>Fri, 23 Oct 2026 23:18:22 +0000</pubDate>
+<category>pricing</category>
+<description>### Features * **api:** add Claude Tag endpoints for Claude Enterprise organizations ### Bug Fixes * **google-cloud:** send user profiles requests to the organization endpoint ### Chores * **client:** stop sending query params hardcoded in endpoint paths * **docs:** improve the d…</description>
+</item>
 <item>
 <title>Claude Duet Safety, Privacy, and Security</title>
 <link>https://claude.com/resources/articles/claude-duet-safety-privacy-and-security</link>
@@ -774,46 +814,6 @@
 <pubDate>Sun, 18 Oct 2026 21:15:23 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.303 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Investing in the public benefit</title>
-<link>https://www.anthropic.com/news/public-benefit-fund</link>
-<guid isPermaLink="false">frontierfeed:2ebf6910c50c0e44</guid>
-<pubDate>Sun, 18 Oct 2026 20:49:51 +0000</pubDate>
-<category>note</category>
-<description>Investing in the public benefit</description>
-</item>
-<item>
-<title>Aligning Language Models with Indigenous Community Cosmovision through Constitutional AI</title>
-<link>https://arxiv.org/abs/2610.25298v1</link>
-<guid isPermaLink="false">frontierfeed:ce98b02caf1de0ef</guid>
-<pubDate>Sun, 18 Oct 2026 14:31:59 +0000</pubDate>
-<category>research</category>
-<description>Large language models (LLMs) are predominantly trained on corpora that reflect Western, anglophone worldviews.</description>
-</item>
-<item>
-<title>Anthropic&#x27;s proposed AI safety bill only kicks in if 50 deaths or $1B in damages</title>
-<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</link>
-<guid isPermaLink="false">frontierfeed:4b16c22ec9ea1317</guid>
-<pubDate>Sun, 18 Oct 2026 14:30:27 +0000</pubDate>
-<category>note</category>
-<description>127 points, 144 comments. Discussion: https://news.ycombinator.com/item?id=50141429</description>
-</item>
-<item>
-<title>Show HN: The Zelda timeline to catch up before the Ocarina of Time remake</title>
-<link>https://legendofhyrule.com/</link>
-<guid isPermaLink="false">frontierfeed:3470ae1466a8c367</guid>
-<pubDate>Sun, 18 Oct 2026 13:06:54 +0000</pubDate>
-<category>note</category>
-<description>92 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50140769</description>
-</item>
-<item>
-<title>How employment is changing at Anthropic</title>
-<link>https://www.anthropic.com/research/employment-at-anthropic</link>
-<guid isPermaLink="false">frontierfeed:7c9f07db18fda6d9</guid>
-<pubDate>Sun, 18 Oct 2026 10:49:26 +0000</pubDate>
-<category>note</category>
-<description>82 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50139873</description>
 </item>
 </channel>
 </rss>

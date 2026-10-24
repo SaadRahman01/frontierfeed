@@ -1,9 +1,94 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-23T22:15:53.800515+00:00",
+  "generated": "2026-10-24T00:48:45.887071+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.261",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.261",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-23T23:48:45+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.260...v1.0.261",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.260...v1.0.261",
+      "version": "1.0.261",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "b1069b0805180bb8"
+    },
+    {
+      "title": "google-cloud-sdk-v1.1.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.1",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-23T23:23:48+00:00",
+      "body": "### Bug Fixes\n\n* **google-cloud:** send user profile routes to the organization endpoint\n\n\n### Chores\n\n* **internal:** stop expecting the beta query param in tests\n\n\n### Documentation\n\n* **google-cloud:** update the product name in the package description\n* **google-cloud:** update the product name",
+      "summary": "### Bug Fixes * **google-cloud:** send user profile routes to the organization endpoint ### Chores * **internal:** stop expecting the beta query param in tests ### Documentation * **google-cloud:** update the product name in the package description * **google-cloud:** update the\u2026",
+      "version": "google-cloud-sdk-v1.1.1",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "1d96ed831c5fb0c3"
+    },
+    {
+      "title": "aws-sdk-v1.1.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.1.1",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-23T23:23:45+00:00",
+      "body": "### Chores\n\n* **internal:** stop expecting the beta query param in tests",
+      "summary": "### Chores * **internal:** stop expecting the beta query param in tests",
+      "version": "aws-sdk-v1.1.1",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "2e5116e471533e76"
+    },
+    {
+      "title": "sdk-v1.3.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.3.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-10-23T23:23:43+00:00",
+      "body": "### Features\n\n* **api:** add Claude Tag endpoints for Claude Enterprise organizations\n\n\n### Bug Fixes\n\n* **client:** link the long-request error messages to the SDK documentation\n\n\n### Chores\n\n* **client:** stop sending query params hardcoded in endpoint paths\n* **docs:** improve the descriptions of the code execution tool and its encrypted results\n* **docs:** reword work queue, skill and external key descriptions\n* **docs:** update descriptions of the per-user usage and cost reports\n* **internal:** carry endpoint path query params to the request layer\n* **internal:** check the repository by owner and public name in workflows\n* **internal:** read the beta route qualifier instead of the beta=true query\n* **internal:** remove preview build upload from CI\n* **internal:** stop expecting the beta query param in tests\n\n\n### Documentation\n\n* update the README and the example request",
+      "summary": "### Features * **api:** add Claude Tag endpoints for Claude Enterprise organizations ### Bug Fixes * **client:** link the long-request error messages to the SDK documentation ### Chores * **client:** stop sending query params hardcoded in endpoint paths * **docs:** improve the de\u2026",
+      "version": "sdk-v1.3.0",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "enterprise",
+        "skills"
+      ],
+      "uid": "7ee447e88fbd5244"
+    },
+    {
+      "title": "v2.3.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.3.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-10-23T23:18:22+00:00",
+      "body": "### Features\n\n* **api:** add Claude Tag endpoints for Claude Enterprise organizations\n\n\n### Bug Fixes\n\n* **google-cloud:** send user profiles requests to the organization endpoint\n\n\n### Chores\n\n* **client:** stop sending query params hardcoded in endpoint paths\n* **docs:** improve the descriptions of the code execution tool and its encrypted results\n* **docs:** reword work queue, skill and external key descriptions\n* **docs:** update descriptions of the per-user usage and cost reports\n* **internal:** carry endpoint path query params to the request layer\n* **internal:** check the repository by owner and public name in workflows\n* **internal:** read the beta route qualifier instead of the beta=true query\n* **internal:** remove preview build upload from CI\n* **internal:** stop sending the beta query param from parse and stream\n\n\n### Documentation\n\n* **mcp:** remove the stray `await` from the async `tool_runner` examples\n* **google-cloud:** update the product name\n* **client:** link the Bedrock and Vertex raw response docstrings to the SDK documentation\n* update the README and the example request",
+      "summary": "### Features * **api:** add Claude Tag endpoints for Claude Enterprise organizations ### Bug Fixes * **google-cloud:** send user profiles requests to the organization endpoint ### Chores * **client:** stop sending query params hardcoded in endpoint paths * **docs:** improve the d\u2026",
+      "version": "2.3.0",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "mcp",
+        "enterprise",
+        "skills"
+      ],
+      "uid": "d1dce59fe776bc82"
+    },
     {
       "title": "Claude Duet Safety, Privacy, and Security",
       "url": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
@@ -4709,86 +4794,6 @@
         "sonnet"
       ],
       "uid": "3e6a6ba00af2f111"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.284 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.284",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-28T17:11:59.750000+00:00",
-      "body": "Version 2.1.284 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.284 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.284",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "fdaec24b0105ddbe"
-    },
-    {
-      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
-      "url": "https://github.com/seamusc/papermono-shopping-list",
-      "source": "hackernews",
-      "published": "2026-09-28T10:14:41+00:00",
-      "body": "47 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49875801",
-      "summary": "47 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=49875801",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "a776f5c70c3e93d3"
-    },
-    {
-      "title": "Prompting Claude Opus 5.5",
-      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "source": "hackernews",
-      "published": "2026-09-28T07:33:29+00:00",
-      "body": "179 points, 195 comments. Discussion: https://news.ycombinator.com/item?id=49874728",
-      "summary": "179 points, 195 comments. Discussion: https://news.ycombinator.com/item?id=49874728",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "f7e78dac1e409772"
-    },
-    {
-      "title": "AgentHop: A Diagnostic Benchmark for Agentic Multi-Hop Scientific Question Answering",
-      "url": "https://arxiv.org/abs/2609.34428v1",
-      "source": "arxiv",
-      "published": "2026-09-28T06:45:01+00:00",
-      "body": "Agentic tasks require a large language model to interact with the world, navigating information and gathering evidence across multiple steps with restricted resources. Due to this complexity, agentic task failures arise from various sources, and pinpointing these failure causes is essential to diagnose and improve agentic systems. Existing benchmarks, however, tend to focus on a single leaderboard score, leaving the underlying failure modes opaque. To fill this gap, we introduce AgentHop, a diagnostic benchmark of 1,011 multiple-choice questions paired with a controlled seven-tool sandbox under fixed token, turn, and tool-call constraints. AgentHop reveals model vulnerabilities by dissecting a single accuracy score along four axes of agent operation: retrieval, synthesis, tool-call, and resource management. Across 19 models, we find that behavior clusters by model family, with tool-call signatures revealing distinct family fingerprints: GPT models commit early, Anthropic and GLM checkpoints verify before committing, DeepSeek and Kimi over-search, and Gemini-3 Pro stays balanced. Decomposed axes further expose within-family structure: Claude Opus 4.6 and Sonnet 4.6 land within one accuracy point yet diverge on retrieval-versus-synthesis emphasis, with Opus retrieving more and Sonnet synthesizing better. We release the full benchmark set and the harness to support diagnostic agent benchmarking.",
-      "summary": "Agentic tasks require a large language model to interact with the world, navigating information and gathering evidence across multiple steps with restricted resources.",
-      "version": "",
-      "category": "research",
-      "impact": "feature",
-      "tags": [
-        "research",
-        "paper",
-        "opus",
-        "sonnet"
-      ],
-      "uid": "3cc6aa239a4cb79a"
-    },
-    {
-      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-      "source": "hackernews",
-      "published": "2026-09-27T17:32:02+00:00",
-      "body": "76 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49868831",
-      "summary": "76 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=49868831",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "495c64177bbc30b6"
     }
   ]
 }

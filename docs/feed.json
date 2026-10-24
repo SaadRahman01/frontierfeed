@@ -9,6 +9,81 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:b1069b0805180bb8",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.261",
+      "title": "v1.0.261",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.260...v1.0.261",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.260...v1.0.261",
+      "date_published": "2026-10-23T23:48:45+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:1d96ed831c5fb0c3",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.1",
+      "title": "google-cloud-sdk-v1.1.1",
+      "summary": "### Bug Fixes * **google-cloud:** send user profile routes to the organization endpoint ### Chores * **internal:** stop expecting the beta query param in tests ### Documentation * **google-cloud:** update the product name in the package description * **google-cloud:** update the…",
+      "content_text": "### Bug Fixes * **google-cloud:** send user profile routes to the organization endpoint ### Chores * **internal:** stop expecting the beta query param in tests ### Documentation * **google-cloud:** update the product name in the package description * **google-cloud:** update the…",
+      "date_published": "2026-10-23T23:23:48+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:2e5116e471533e76",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.1.1",
+      "title": "aws-sdk-v1.1.1",
+      "summary": "### Chores * **internal:** stop expecting the beta query param in tests",
+      "content_text": "### Chores * **internal:** stop expecting the beta query param in tests",
+      "date_published": "2026-10-23T23:23:45+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:7ee447e88fbd5244",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.3.0",
+      "title": "sdk-v1.3.0",
+      "summary": "### Features * **api:** add Claude Tag endpoints for Claude Enterprise organizations ### Bug Fixes * **client:** link the long-request error messages to the SDK documentation ### Chores * **client:** stop sending query params hardcoded in endpoint paths * **docs:** improve the de…",
+      "content_text": "### Features * **api:** add Claude Tag endpoints for Claude Enterprise organizations ### Bug Fixes * **client:** link the long-request error messages to the SDK documentation ### Chores * **client:** stop sending query params hardcoded in endpoint paths * **docs:** improve the de…",
+      "date_published": "2026-10-23T23:23:43+00:00",
+      "tags": [
+        "pricing",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript",
+        "enterprise",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:d1dce59fe776bc82",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.3.0",
+      "title": "v2.3.0",
+      "summary": "### Features * **api:** add Claude Tag endpoints for Claude Enterprise organizations ### Bug Fixes * **google-cloud:** send user profiles requests to the organization endpoint ### Chores * **client:** stop sending query params hardcoded in endpoint paths * **docs:** improve the d…",
+      "content_text": "### Features * **api:** add Claude Tag endpoints for Claude Enterprise organizations ### Bug Fixes * **google-cloud:** send user profiles requests to the organization endpoint ### Chores * **client:** stop sending query params hardcoded in endpoint paths * **docs:** improve the d…",
+      "date_published": "2026-10-23T23:18:22+00:00",
+      "tags": [
+        "pricing",
+        "feature",
+        "release",
+        "anthropic-sdk-python",
+        "mcp",
+        "enterprise",
+        "skills"
+      ]
+    },
+    {
       "id": "frontierfeed:2492d72f3e7135b4",
       "url": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
       "title": "Claude Duet Safety, Privacy, and Security",
@@ -1339,73 +1414,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:2ebf6910c50c0e44",
-      "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "title": "Investing in the public benefit",
-      "summary": "Investing in the public benefit",
-      "content_text": "Investing in the public benefit",
-      "date_published": "2026-10-18T20:49:51.471064+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:ce98b02caf1de0ef",
-      "url": "https://arxiv.org/abs/2610.25298v1",
-      "title": "Aligning Language Models with Indigenous Community Cosmovision through Constitutional AI",
-      "summary": "Large language models (LLMs) are predominantly trained on corpora that reflect Western, anglophone worldviews.",
-      "content_text": "Large language models (LLMs) are predominantly trained on corpora that reflect Western, anglophone worldviews.",
-      "date_published": "2026-10-18T14:31:59+00:00",
-      "tags": [
-        "research",
-        "fix",
-        "research",
-        "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:4b16c22ec9ea1317",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "summary": "127 points, 144 comments. Discussion: https://news.ycombinator.com/item?id=50141429",
-      "content_text": "127 points, 144 comments. Discussion: https://news.ycombinator.com/item?id=50141429",
-      "date_published": "2026-10-18T14:30:27+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:3470ae1466a8c367",
-      "url": "https://legendofhyrule.com/",
-      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-      "summary": "92 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50140769",
-      "content_text": "92 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50140769",
-      "date_published": "2026-10-18T13:06:54+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:7c9f07db18fda6d9",
-      "url": "https://www.anthropic.com/research/employment-at-anthropic",
-      "title": "How employment is changing at Anthropic",
-      "summary": "82 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50139873",
-      "content_text": "82 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50139873",
-      "date_published": "2026-10-18T10:49:26+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
