@@ -135,6 +135,21 @@
       "uid": "131cae9d86f222f5"
     },
     {
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://corgi.computer/",
+      "source": "hackernews",
+      "published": "2026-10-23T19:46:38+00:00",
+      "body": "65 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50214373",
+      "summary": "65 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50214373",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "074fe5a3007e9040"
+    },
+    {
       "title": "v1.0.260",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.260",
       "source": "github:anthropics/claude-code-action",
@@ -4774,22 +4789,6 @@
         "sonnet"
       ],
       "uid": "88a9cc4acbaff11f"
-    },
-    {
-      "title": "Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "source": "hackernews",
-      "published": "2026-09-28T17:58:11+00:00",
-      "body": "465 points, 315 comments. Discussion: https://news.ycombinator.com/item?id=49881850",
-      "summary": "465 points, 315 comments. Discussion: https://news.ycombinator.com/item?id=49881850",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community",
-        "sonnet"
-      ],
-      "uid": "3e6a6ba00af2f111"
     }
   ]
 }
