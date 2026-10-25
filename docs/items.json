@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-25T14:25:39.926755+00:00",
+  "generated": "2026-10-25T18:26:05.632511+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "What Adobe v ArtCraft teaches us",
+      "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+      "source": "hackernews",
+      "published": "2026-10-25T15:34:44+00:00",
+      "body": "75 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50232682",
+      "summary": "75 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50232682",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "9ba096dc98ce5995"
+    },
     {
       "title": "v2.1.0",
       "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.1.0",
@@ -4776,23 +4791,6 @@
         "sonnet"
       ],
       "uid": "ca31a974b7cd49e4"
-    },
-    {
-      "title": "vertex-sdk: v0.20.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-28T18:04:00+00:00",
-      "body": "## 0.20.0 (2026-09-28)\n\nFull Changelog: [vertex-sdk-v0.19.11...vertex-sdk-v0.20.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.11...vertex-sdk-v0.20.0)\n\n### Features\n\n* **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthropic-sdk-typescript/commit/4e7736625fd23a5607800e8de4aa3c37daa74a07))",
-      "summary": "## 0.20.0 (2026-09-28) Full Changelog: [vertex-sdk-v0.19.11...vertex-sdk-v0.20.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.19.11...vertex-sdk-v0.20.0) ### Features * **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthro\u2026",
-      "version": "ertex-sdk-v0.20.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript",
-        "sonnet"
-      ],
-      "uid": "9642e4f9f48d29a3"
     }
   ]
 }

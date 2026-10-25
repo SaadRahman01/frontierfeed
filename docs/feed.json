@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:9ba096dc98ce5995",
+      "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+      "title": "What Adobe v ArtCraft teaches us",
+      "summary": "75 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50232682",
+      "content_text": "75 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50232682",
+      "date_published": "2026-10-25T15:34:44+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:cb55270237a2f8b7",
       "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.1.0",
       "title": "v2.1.0",
@@ -1401,21 +1414,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:2d9198ed2c99acc6",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.0.0",
-      "title": "v2.0.0",
-      "summary": "## Servers refactored to modern era This release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected.",
-      "content_text": "## Servers refactored to modern era This release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected.",
-      "date_published": "2026-10-19T06:46:48+00:00",
-      "tags": [
-        "api",
-        "breaking",
-        "release",
-        "servers",
-        "mcp"
       ]
     }
   ]
