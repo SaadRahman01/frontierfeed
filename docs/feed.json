@@ -9,6 +9,22 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:cb55270237a2f8b7",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.1.0",
+      "title": "v2.1.0",
+      "summary": "## Security fixes v2.1.0 fixes eight vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` and `@modelcontextprotocol/server-everything` to 2.0.1, and `mcp-server-fetch` to 2026.10.24.",
+      "content_text": "## Security fixes v2.1.0 fixes eight vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` and `@modelcontextprotocol/server-everything` to 2.0.1, and `mcp-server-fetch` to 2026.10.24.",
+      "date_published": "2026-10-25T00:03:20+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "servers",
+        "mcp",
+        "skills"
+      ]
+    },
+    {
       "id": "frontierfeed:601452757f9889bf",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.262",
       "title": "v1.0.262",
@@ -1400,19 +1416,6 @@
         "release",
         "servers",
         "mcp"
-      ]
-    },
-    {
-      "id": "frontierfeed:3d0ba3951fa1455c",
-      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "summary": "130 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=50148855",
-      "content_text": "130 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=50148855",
-      "date_published": "2026-10-19T05:55:31+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
       ]
     }
   ]

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 23:19:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 04:49:59 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v2.1.0</title>
+<link>https://github.com/modelcontextprotocol/servers/releases/tag/v2.1.0</link>
+<guid isPermaLink="false">frontierfeed:cb55270237a2f8b7</guid>
+<pubDate>Sun, 25 Oct 2026 00:03:20 +0000</pubDate>
+<category>api</category>
+<description>## Security fixes v2.1.0 fixes eight vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` and `@modelcontextprotocol/server-everything` to 2.0.1, and `mcp-server-fetch` to 2026.10.24.</description>
+</item>
 <item>
 <title>v1.0.262</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.262</link>
@@ -806,14 +814,6 @@
 <pubDate>Mon, 19 Oct 2026 06:46:48 +0000</pubDate>
 <category>api</category>
 <description>## Servers refactored to modern era This release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected.</description>
-</item>
-<item>
-<title>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
-<link>https://crystl.dev/guides/tmux-for-ai-agents/</link>
-<guid isPermaLink="false">frontierfeed:3d0ba3951fa1455c</guid>
-<pubDate>Mon, 19 Oct 2026 05:55:31 +0000</pubDate>
-<category>claude-code</category>
-<description>130 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=50148855</description>
 </item>
 </channel>
 </rss>
