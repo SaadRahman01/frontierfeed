@@ -9,6 +9,35 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:2b7c4c69ac5830e4",
+      "url": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
+      "title": "Expanding Claude for Nonprofits",
+      "summary": "Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.",
+      "content_text": "Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.",
+      "date_published": "2026-10-26T20:33:26.499498+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:feb5e901901cfb1f",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.311",
+      "title": "@anthropic-ai/claude-code 2.1.311 published",
+      "summary": "Version 2.1.311 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.311 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-26T19:47:57.395000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:28711e2b7dea3d56",
       "url": "https://www.anthropic.com/news/s1-sec",
       "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
@@ -1387,34 +1416,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:e881737413bcf389",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.254",
-      "title": "v1.0.254",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.253...v1.0.254",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.253...v1.0.254",
-      "date_published": "2026-10-19T21:43:04+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:0e08daf9e2324963",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.304",
-      "title": "@anthropic-ai/claude-code 2.1.304 published",
-      "summary": "Version 2.1.304 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.304 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-19T19:47:15.337000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]

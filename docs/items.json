@@ -1,9 +1,42 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-26T14:20:47.339612+00:00",
+  "generated": "2026-10-26T20:33:37.152636+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Expanding Claude for Nonprofits",
+      "url": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
+      "source": "claude-blog",
+      "published": "2026-10-26T20:33:26.499498+00:00",
+      "body": "Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.",
+      "summary": "Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "skills"
+      ],
+      "uid": "2b7c4c69ac5830e4"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.311 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.311",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-26T19:47:57.395000+00:00",
+      "body": "Version 2.1.311 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.311 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.311",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "feb5e901901cfb1f"
+    },
     {
       "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
       "url": "https://www.anthropic.com/news/s1-sec",
@@ -4754,38 +4787,6 @@
         "community"
       ],
       "uid": "f02c188dd7a3a704"
-    },
-    {
-      "title": "Giving companies more control over their AI agents, with NVIDIA",
-      "url": "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia",
-      "source": "claude-blog",
-      "published": "2026-09-28T22:05:55.938873+00:00",
-      "body": "Giving companies more control over their AI agents, with NVIDIA",
-      "summary": "Giving companies more control over their AI agents, with NVIDIA",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "d981f0eac7f664af"
-    },
-    {
-      "title": "v1.0.236",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.236",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-28T18:05:26+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.235...v1.0.236",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.235...v1.0.236",
-      "version": "1.0.236",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "ac39232ec1c08aee"
     }
   ]
 }
