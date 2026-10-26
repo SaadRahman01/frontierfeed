@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 06:20:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 14:20:47 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
+<link>https://www.anthropic.com/news/s1-sec</link>
+<guid isPermaLink="false">frontierfeed:28711e2b7dea3d56</guid>
+<pubDate>Mon, 26 Oct 2026 14:20:34 +0000</pubDate>
+<category>note</category>
+<description>Anthropic files S-1 with the SEC for proposed initial public offering</description>
+</item>
+<item>
+<title>Anthropic S-1</title>
+<link>https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</link>
+<guid isPermaLink="false">frontierfeed:264779e795ca4808</guid>
+<pubDate>Mon, 26 Oct 2026 13:04:50 +0000</pubDate>
+<category>note</category>
+<description>425 points, 335 comments. Discussion: https://news.ycombinator.com/item?id=50242939</description>
+</item>
 <item>
 <title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
 <link>https://minimaxir.com/2026/10/cheap-llms/</link>
@@ -30,6 +46,14 @@
 <pubDate>Sun, 25 Oct 2026 15:34:44 +0000</pubDate>
 <category>note</category>
 <description>75 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50232682</description>
+</item>
+<item>
+<title>Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git</title>
+<link>https://adrs.systems</link>
+<guid isPermaLink="false">frontierfeed:84fcbb9d4c7eea78</guid>
+<pubDate>Sun, 25 Oct 2026 00:43:47 +0000</pubDate>
+<category>note</category>
+<description>59 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=50227041</description>
 </item>
 <item>
 <title>v2.1.0</title>
@@ -790,30 +814,6 @@
 <pubDate>Mon, 19 Oct 2026 19:47:15 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.304 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Show HN: KiviDB, a faster Redis-compatible memory database and vector cache</title>
-<link>https://github.com/kividbio/kividb</link>
-<guid isPermaLink="false">frontierfeed:213eb54163025543</guid>
-<pubDate>Mon, 19 Oct 2026 13:53:52 +0000</pubDate>
-<category>note</category>
-<description>47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541</description>
-</item>
-<item>
-<title>Maxwell: A new kind of model that sits between code and hardware</title>
-<link>https://heymaxwell.ai/</link>
-<guid isPermaLink="false">frontierfeed:bac9729631cd0699</guid>
-<pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
-<category>note</category>
-<description>43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50152466</description>
-</item>
-<item>
-<title>Show HN: I built a task system to handle the drudgery so I could focus on tasks</title>
-<link>https://3anddoneapp.com/try</link>
-<guid isPermaLink="false">frontierfeed:ba96fe69d41527f4</guid>
-<pubDate>Mon, 19 Oct 2026 13:07:07 +0000</pubDate>
-<category>note</category>
-<description>43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980</description>
 </item>
 </channel>
 </rss>

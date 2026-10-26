@@ -1,9 +1,40 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-26T06:20:53.357426+00:00",
+  "generated": "2026-10-26T14:20:47.339612+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "source": "anthropic-news",
+      "published": "2026-10-26T14:20:34.290608+00:00",
+      "body": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "summary": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "28711e2b7dea3d56"
+    },
+    {
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "source": "hackernews",
+      "published": "2026-10-26T13:04:50+00:00",
+      "body": "425 points, 335 comments. Discussion: https://news.ycombinator.com/item?id=50242939",
+      "summary": "425 points, 335 comments. Discussion: https://news.ycombinator.com/item?id=50242939",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "264779e795ca4808"
+    },
     {
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
       "url": "https://minimaxir.com/2026/10/cheap-llms/",
@@ -33,6 +64,21 @@
         "community"
       ],
       "uid": "9ba096dc98ce5995"
+    },
+    {
+      "title": "Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "source": "hackernews",
+      "published": "2026-10-25T00:43:47+00:00",
+      "body": "59 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=50227041",
+      "summary": "59 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=50227041",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "84fcbb9d4c7eea78"
     },
     {
       "title": "v2.1.0",
@@ -4740,55 +4786,6 @@
         "claude-code-action"
       ],
       "uid": "ac39232ec1c08aee"
-    },
-    {
-      "title": "google-cloud-sdk: v0.0.15",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.15",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-28T18:04:24+00:00",
-      "body": "## 0.0.15 (2026-09-28)\n\nFull Changelog: [google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15)",
-      "summary": "## 0.0.15 (2026-09-28) Full Changelog: [google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.14...google-cloud-sdk-v0.0.15)",
-      "version": "google-cloud-sdk-v0.0.15",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "f8724d89e35f2a9a"
-    },
-    {
-      "title": "aws-sdk: v0.7.5",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.5",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-28T18:04:18+00:00",
-      "body": "## 0.7.5 (2026-09-28)\n\nFull Changelog: [aws-sdk-v0.7.4...aws-sdk-v0.7.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.4...aws-sdk-v0.7.5)",
-      "summary": "## 0.7.5 (2026-09-28) Full Changelog: [aws-sdk-v0.7.4...aws-sdk-v0.7.5](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.4...aws-sdk-v0.7.5)",
-      "version": "aws-sdk-v0.7.5",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "4554f7da9059dfea"
-    },
-    {
-      "title": "foundry-sdk: v0.5.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-28T18:04:12+00:00",
-      "body": "## 0.5.0 (2026-09-28)\n\nFull Changelog: [foundry-sdk-v0.4.9...foundry-sdk-v0.5.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.9...foundry-sdk-v0.5.0)\n\n### Features\n\n* **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthropic-sdk-typescript/commit/4e7736625fd23a5607800e8de4aa3c37daa74a07))",
-      "summary": "## 0.5.0 (2026-09-28) Full Changelog: [foundry-sdk-v0.4.9...foundry-sdk-v0.5.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.9...foundry-sdk-v0.5.0) ### Features * **api:** add claude-sonnet-5-5 ([4e77366](https://github.com/anthropics/anthropic\u2026",
-      "version": "foundry-sdk-v0.5.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript",
-        "sonnet"
-      ],
-      "uid": "370b3321440764ae"
     }
   ]
 }

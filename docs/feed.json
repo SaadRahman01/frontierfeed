@@ -9,6 +9,33 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:28711e2b7dea3d56",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "summary": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "content_text": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "date_published": "2026-10-26T14:20:34.290608+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:264779e795ca4808",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "title": "Anthropic S-1",
+      "summary": "425 points, 335 comments. Discussion: https://news.ycombinator.com/item?id=50242939",
+      "content_text": "425 points, 335 comments. Discussion: https://news.ycombinator.com/item?id=50242939",
+      "date_published": "2026-10-26T13:04:50+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:1ee4459ed65d39e1",
       "url": "https://minimaxir.com/2026/10/cheap-llms/",
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
@@ -28,6 +55,19 @@
       "summary": "75 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50232682",
       "content_text": "75 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50232682",
       "date_published": "2026-10-25T15:34:44+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:84fcbb9d4c7eea78",
+      "url": "https://adrs.systems",
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "summary": "59 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=50227041",
+      "content_text": "59 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=50227041",
+      "date_published": "2026-10-25T00:43:47+00:00",
       "tags": [
         "note",
         "info",
@@ -1375,45 +1415,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:213eb54163025543",
-      "url": "https://github.com/kividbio/kividb",
-      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-      "summary": "47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541",
-      "content_text": "47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541",
-      "date_published": "2026-10-19T13:53:52+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:bac9729631cd0699",
-      "url": "https://heymaxwell.ai/",
-      "title": "Maxwell: A new kind of model that sits between code and hardware",
-      "summary": "43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50152466",
-      "content_text": "43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50152466",
-      "date_published": "2026-10-19T13:47:56+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:ba96fe69d41527f4",
-      "url": "https://3anddoneapp.com/try",
-      "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-      "summary": "43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980",
-      "content_text": "43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980",
-      "date_published": "2026-10-19T13:07:07+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
