@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 21:51:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 00:26:14 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
+<link>https://minimaxir.com/2026/10/cheap-llms/</link>
+<guid isPermaLink="false">frontierfeed:1ee4459ed65d39e1</guid>
+<pubDate>Sun, 25 Oct 2026 21:11:31 +0000</pubDate>
+<category>note</category>
+<description>99 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50236102</description>
+</item>
 <item>
 <title>What Adobe v ArtCraft teaches us</title>
 <link>https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace</link>
@@ -806,14 +814,6 @@
 <pubDate>Mon, 19 Oct 2026 13:07:07 +0000</pubDate>
 <category>note</category>
 <description>43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980</description>
-</item>
-<item>
-<title>The obscure trust looming over Anthropic&#x27;s IPO</title>
-<link>https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">frontierfeed:4e2b02e152135efc</guid>
-<pubDate>Mon, 19 Oct 2026 12:06:03 +0000</pubDate>
-<category>note</category>
-<description>122 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=50151376</description>
 </item>
 </channel>
 </rss>

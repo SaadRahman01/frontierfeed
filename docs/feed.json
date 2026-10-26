@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:1ee4459ed65d39e1",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "summary": "99 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50236102",
+      "content_text": "99 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50236102",
+      "date_published": "2026-10-25T21:11:31+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:9ba096dc98ce5995",
       "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
       "title": "What Adobe v ArtCraft teaches us",
@@ -1397,19 +1410,6 @@
       "summary": "43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980",
       "content_text": "43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980",
       "date_published": "2026-10-19T13:07:07+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:4e2b02e152135efc",
-      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
-      "title": "The obscure trust looming over Anthropic's IPO",
-      "summary": "122 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=50151376",
-      "content_text": "122 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=50151376",
-      "date_published": "2026-10-19T12:06:03+00:00",
       "tags": [
         "note",
         "info",
