@@ -1,6 +1,68 @@
 {
   "items": [
     {
+      "title": "Manage costs and demonstrate ROI for Claude Code on Google Cloud",
+      "url": "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud",
+      "source": "claude-blog",
+      "published": "2026-10-27T19:27:11.981411+00:00",
+      "body": "Best practices for managing costs and measuring return on investment for Claude Code on Google Cloud.",
+      "summary": "Best practices for managing costs and measuring return on investment for Claude Code on Google Cloud.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "64e8068220de2328"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.312 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.312",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-27T18:36:10.160000+00:00",
+      "body": "Version 2.1.312 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.312 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.312",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "1f810d3c7f9f04f4"
+    },
+    {
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "source": "hackernews",
+      "published": "2026-10-27T15:28:26+00:00",
+      "body": "229 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50260814",
+      "summary": "229 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50260814",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ef1e2758b703a64f"
+    },
+    {
+      "title": "Is my data used for model training?",
+      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "source": "hackernews",
+      "published": "2026-10-27T13:56:15+00:00",
+      "body": "192 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=50259406",
+      "summary": "192 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=50259406",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "8157ae7960d31ae7"
+    },
+    {
       "title": "v1.0.263",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.263",
       "source": "github:anthropics/claude-code-action",
@@ -4721,69 +4783,6 @@
         "community"
       ],
       "uid": "1fb4cad8d8887878"
-    },
-    {
-      "title": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
-      "url": "https://arxiv.org/abs/2609.39001v1",
-      "source": "arxiv",
-      "published": "2026-09-30T05:14:43+00:00",
-      "body": "LLM services are billed per token and context windows are measured in tokens, yet the number of tokens needed for the same content varies across languages. We measure this token premium on seven tokenizers of widely used 2026 models (OpenAI o200k, Llama 3, Qwen3, DeepSeek V3/V4, Gemma 3, Mistral Tekken, and the Claude generation-5 tokenizer via Anthropic's counting API) on NTREX-128 (124 non-English reference translations) and on the Universal Declaration of Human Rights for regional languages. French requires 31% to 58% more tokens than English, whereas Simplified Chinese ranges from 5% fewer to 40% more and is cheaper than French on six of the seven tokenizers. Regional and overseas languages of France pay roughly 1.6 to 3.3 times the English count. We discuss how history re-sending, tiered pricing and fixed context windows amplify the absolute gap in agentic use. In a controlled experiment (BPE, Europarl, 50k vocabulary), adding French to tokenizer training data quickly reduces the premium, with diminishing returns and a growing cost for English. Finally, we present Baracoda FR v1.2, a byte-level BPE prototype with Tekken's vocabulary size. On a final test of six corpora never consulted during design, with a protocol declared fixed beforehand, it uses 11.5% fewer tokens than Tekken on French and 3.7% fewer on English; results hold after removing test sentences overlapping the training data and with an equal ordinary-token budget. It is worse on other languages and, at comparable vocabulary size, does not outperform CroissantLLM. These are segmentation results only; effects on model quality and task cost remain to be shown.",
-      "summary": "LLM services are billed per token and context windows are measured in tokens, yet the number of tokens needed for the same content varies across languages.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "a92c8245f2a4a95d"
-    },
-    {
-      "title": "v1.0.237",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.237",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-29T19:30:41+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.236...v1.0.237",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.236...v1.0.237",
-      "version": "1.0.237",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "adff89584c89655e"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.285 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.285",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-09-29T17:32:09.173000+00:00",
-      "body": "Version 2.1.285 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.285 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.285",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "d4ab4937f85c1868"
-    },
-    {
-      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "source": "hackernews",
-      "published": "2026-09-29T17:31:26+00:00",
-      "body": "78 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=49897075",
-      "summary": "78 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=49897075",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "b0c9118363559ddf"
     }
   ]
 }

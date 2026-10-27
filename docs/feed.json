@@ -9,6 +9,60 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:64e8068220de2328",
+      "url": "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud",
+      "title": "Manage costs and demonstrate ROI for Claude Code on Google Cloud",
+      "summary": "Best practices for managing costs and measuring return on investment for Claude Code on Google Cloud.",
+      "content_text": "Best practices for managing costs and measuring return on investment for Claude Code on Google Cloud.",
+      "date_published": "2026-10-27T19:27:11.981411+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:1f810d3c7f9f04f4",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.312",
+      "title": "@anthropic-ai/claude-code 2.1.312 published",
+      "summary": "Version 2.1.312 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.312 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-27T18:36:10.160000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:ef1e2758b703a64f",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "summary": "229 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50260814",
+      "content_text": "229 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50260814",
+      "date_published": "2026-10-27T15:28:26+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:8157ae7960d31ae7",
+      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "title": "Is my data used for model training?",
+      "summary": "192 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=50259406",
+      "content_text": "192 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=50259406",
+      "date_published": "2026-10-27T13:56:15+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:d3323382388722eb",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.263",
       "title": "v1.0.263",
@@ -1359,64 +1413,6 @@
         "feature",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:a19650ecc49aff76",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.136.0",
-      "title": "sdk-v0.136.0",
-      "summary": "### Features * **api:** add data_refreshed_at and has_more to analytics report pages * **api:** add workspace rate-limit updates to the Admin API * **api:** make User Profiles generally available * **client:** yield server-sent events with unrecognized event names * **tools:** ac…",
-      "content_text": "### Features * **api:** add data_refreshed_at and has_more to analytics report pages * **api:** add workspace rate-limit updates to the Admin API * **api:** make User Profiles generally available * **client:** yield server-sent events with unrecognized event names * **tools:** ac…",
-      "date_published": "2026-10-20T17:53:59+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "enterprise",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:2257fb40f336b7dc",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.16.0",
-      "title": "v1.16.0",
-      "summary": "### Features * **api:** add data_refreshed_at and has_more to analytics report pages * **api:** add workspace rate-limit updates to the Admin API * **api:** make User Profiles generally available * **client:** yield server-sent events with unrecognized event names * **google-clou…",
-      "content_text": "### Features * **api:** add data_refreshed_at and has_more to analytics report pages * **api:** add workspace rate-limit updates to the Admin API * **api:** make User Profiles generally available * **client:** yield server-sent events with unrecognized event names * **google-clou…",
-      "date_published": "2026-10-20T17:49:46+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-python",
-        "enterprise",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:a4e478ace43b746c",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "summary": "67 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=50170021",
-      "content_text": "67 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=50170021",
-      "date_published": "2026-10-20T17:48:29+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:e8938d0aebf71303",
-      "url": "https://jevcards.com",
-      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-      "summary": "47 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=50167617",
-      "content_text": "47 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=50167617",
-      "date_published": "2026-10-20T15:11:56+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
