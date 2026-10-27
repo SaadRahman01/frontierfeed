@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-27T00:31:00.284182+00:00",
+  "generated": "2026-10-27T06:21:41.711251+00:00",
   "count": 300,
   "items": [
     {
@@ -161,6 +161,22 @@
         "skills"
       ],
       "uid": "cb55270237a2f8b7"
+    },
+    {
+      "title": "Why Does Structured Output Fail? An Empirical Study of Prompt-Enforced Pydantic Schemas Across Nine LLMs",
+      "url": "https://arxiv.org/abs/2610.33949v1",
+      "source": "arxiv",
+      "published": "2026-10-24T23:30:38+00:00",
+      "body": "Pipelines that require structured outputs from hosted language models often specify a Pydantic schema in the prompt, validate the response, and retry when validation fails. Although native structured-output modes provide an alternative, application-side validation remains important for enforcing custom constraints. Yet pipeline reliability is often summarized by a single validity rate, which obscures why outputs fail and which interventions may help. We introduce a fine-grained taxonomy of schema-conformance failures and a deterministic classifier that assigns failure categories from model responses and Pydantic validation errors. We apply this framework to 3,997 generation attempts across nine OpenAI and Anthropic model/API configurations, using questions from HotpotQA and FinanceBench. Our results show that similar validity rates can mask different failure patterns, and that dominant failure categories vary with schema constraints and task. Markdown-fenced JSON is the most common failure: among 681 fenced failures, only 48.0% pass validation after fence removal, while the remainder conceal additional violations, predominantly field-length violations. In an exploratory prompt ablation, variants that suppress fences appear to shift failures toward length violations, but the shift is consistent with exposing violations that were already present, illustrating how aggregate validity rates can obscure changes in failure composition. We derive four engineering practices for validator, schema, retry and evaluation design, three supported by our data and one, on retry feedback, proposed but not tested, and release the classifier, completions, and annotations.",
+      "summary": "Pipelines that require structured outputs from hosted language models often specify a Pydantic schema in the prompt, validate the response, and retry when validation fails.",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "51e05538e6adf23d"
     },
     {
       "title": "v1.0.262",
@@ -4772,22 +4788,6 @@
         "community"
       ],
       "uid": "b0c9118363559ddf"
-    },
-    {
-      "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
-      "url": "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
-      "source": "claude-blog",
-      "published": "2026-09-29T15:56:53.476402+00:00",
-      "body": "Agents you can coach: how Asana builds human-agent teams with Claude",
-      "summary": "Agents you can coach: how Asana builds human-agent teams with Claude",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "c3516fd826ac38d4"
     }
   ]
 }

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 00:31:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 06:21:41 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -94,6 +94,14 @@
 <pubDate>Sun, 25 Oct 2026 00:03:20 +0000</pubDate>
 <category>api</category>
 <description>## Security fixes v2.1.0 fixes eight vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` and `@modelcontextprotocol/server-everything` to 2.0.1, and `mcp-server-fetch` to 2026.10.24.</description>
+</item>
+<item>
+<title>Why Does Structured Output Fail? An Empirical Study of Prompt-Enforced Pydantic Schemas Across Nine LLMs</title>
+<link>https://arxiv.org/abs/2610.33949v1</link>
+<guid isPermaLink="false">frontierfeed:51e05538e6adf23d</guid>
+<pubDate>Sat, 24 Oct 2026 23:30:38 +0000</pubDate>
+<category>research</category>
+<description>Pipelines that require structured outputs from hosted language models often specify a Pydantic schema in the prompt, validate the response, and retry when validation fails.</description>
 </item>
 <item>
 <title>v1.0.262</title>
@@ -806,14 +814,6 @@
 <pubDate>Tue, 20 Oct 2026 15:11:56 +0000</pubDate>
 <category>note</category>
 <description>47 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=50167617</description>
-</item>
-<item>
-<title>Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins</title>
-<link>https://news.ycombinator.com/item?id=50167583</link>
-<guid isPermaLink="false">frontierfeed:f61dcdbcccfa3bb0</guid>
-<pubDate>Tue, 20 Oct 2026 15:09:29 +0000</pubDate>
-<category>note</category>
-<description>45 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50167583</description>
 </item>
 </channel>
 </rss>

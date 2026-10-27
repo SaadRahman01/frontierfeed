@@ -147,6 +147,20 @@
       ]
     },
     {
+      "id": "frontierfeed:51e05538e6adf23d",
+      "url": "https://arxiv.org/abs/2610.33949v1",
+      "title": "Why Does Structured Output Fail? An Empirical Study of Prompt-Enforced Pydantic Schemas Across Nine LLMs",
+      "summary": "Pipelines that require structured outputs from hosted language models often specify a Pydantic schema in the prompt, validate the response, and retry when validation fails.",
+      "content_text": "Pipelines that require structured outputs from hosted language models often specify a Pydantic schema in the prompt, validate the response, and retry when validation fails.",
+      "date_published": "2026-10-24T23:30:38+00:00",
+      "tags": [
+        "research",
+        "feature",
+        "research",
+        "paper"
+      ]
+    },
+    {
       "id": "frontierfeed:601452757f9889bf",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.262",
       "title": "v1.0.262",
@@ -1403,20 +1417,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:f61dcdbcccfa3bb0",
-      "url": "https://news.ycombinator.com/item?id=50167583",
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "summary": "45 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50167583",
-      "content_text": "45 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50167583",
-      "date_published": "2026-10-20T15:09:29+00:00",
-      "tags": [
-        "note",
-        "feature",
-        "community",
-        "skills"
       ]
     }
   ]
