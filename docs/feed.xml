@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 19:27:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 23:48:51 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude for Financial Advisors</title>
+<link>https://claude.com/resources/articles/claude-for-financial-advisors</link>
+<guid isPermaLink="false">frontierfeed:380f1838ca48347e</guid>
+<pubDate>Tue, 27 Oct 2026 23:48:41 +0000</pubDate>
+<category>note</category>
+<description>Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.</description>
+</item>
+<item>
+<title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
+<link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
+<guid isPermaLink="false">frontierfeed:9fa32717fb2b1b74</guid>
+<pubDate>Tue, 27 Oct 2026 23:48:39 +0000</pubDate>
+<category>api</category>
+<description>We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.</description>
+</item>
+<item>
+<title>Early progress on accelerating drug development with Claude</title>
+<link>https://www.anthropic.com/research/early-progress-drug-development</link>
+<guid isPermaLink="false">frontierfeed:dce6c34913ef5473</guid>
+<pubDate>Tue, 27 Oct 2026 23:48:39 +0000</pubDate>
+<category>note</category>
+<description>We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</description>
+</item>
+<item>
+<title>v1.0.264</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.264</link>
+<guid isPermaLink="false">frontierfeed:2b3d084fb4bace01</guid>
+<pubDate>Tue, 27 Oct 2026 20:28:03 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed * docs: use claude-plugins-official in plugin examples by @mhegazy in https://github.com/anthropics/claude-code-action/pull/1932 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.263...v1.0.264</description>
+</item>
 <item>
 <title>Manage costs and demonstrate ROI for Claude Code on Google Cloud</title>
 <link>https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud</link>
@@ -782,38 +814,6 @@
 <pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
 <category>model-release</category>
 <description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
-</item>
-<item>
-<title>Introducing Claude Sonnet 5.5</title>
-<link>https://www.anthropic.com/claude-sonnet-5-5</link>
-<guid isPermaLink="false">frontierfeed:361da431c7af83fe</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
-<category>model-release</category>
-<description>Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.</description>
-</item>
-<item>
-<title>Introducing Claude Haiku 5.5</title>
-<link>https://www.anthropic.com/claude-haiku-5-5</link>
-<guid isPermaLink="false">frontierfeed:903a41d0fe841e64</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
-<category>model-release</category>
-<description>Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</description>
-</item>
-<item>
-<title>Strengthening our defenses against distillation attacks</title>
-<link>https://www.anthropic.com/news/distillation-defenses</link>
-<guid isPermaLink="false">frontierfeed:0b8c1f899aea05bb</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
-<category>note</category>
-<description>Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.</description>
-</item>
-<item>
-<title>google-cloud-sdk-v0.2.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.2.0</link>
-<guid isPermaLink="false">frontierfeed:858e90301558d27f</guid>
-<pubDate>Tue, 20 Oct 2026 17:54:01 +0000</pubDate>
-<category>api</category>
-<description>### Features * **google-cloud:** use the v1 endpoints and add the organization endpoint</description>
 </item>
 </channel>
 </rss>

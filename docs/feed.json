@@ -9,6 +9,65 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:380f1838ca48347e",
+      "url": "https://claude.com/resources/articles/claude-for-financial-advisors",
+      "title": "Claude for Financial Advisors",
+      "summary": "Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.",
+      "content_text": "Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.",
+      "date_published": "2026-10-27T23:48:41.137856+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:9fa32717fb2b1b74",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "summary": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
+      "content_text": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
+      "date_published": "2026-10-27T23:48:39.030711+00:00",
+      "tags": [
+        "api",
+        "info",
+        "official",
+        "news",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "frontierfeed:dce6c34913ef5473",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "title": "Early progress on accelerating drug development with Claude",
+      "summary": "We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
+      "content_text": "We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
+      "date_published": "2026-10-27T23:48:39.030659+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:2b3d084fb4bace01",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.264",
+      "title": "v1.0.264",
+      "summary": "## What's Changed * docs: use claude-plugins-official in plugin examples by @mhegazy in https://github.com/anthropics/claude-code-action/pull/1932 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.263...v1.0.264",
+      "content_text": "## What's Changed * docs: use claude-plugins-official in plugin examples by @mhegazy in https://github.com/anthropics/claude-code-action/pull/1932 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.263...v1.0.264",
+      "date_published": "2026-10-27T20:28:03+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action",
+        "skills"
+      ]
+    },
+    {
       "id": "frontierfeed:64e8068220de2328",
       "url": "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud",
       "title": "Manage costs and demonstrate ROI for Claude Code on Google Cloud",
@@ -1355,64 +1414,6 @@
         "official",
         "news",
         "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:361da431c7af83fe",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "title": "Introducing Claude Sonnet 5.5",
-      "summary": "Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
-      "content_text": "Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
-      "date_published": "2026-10-20T18:29:39.421435+00:00",
-      "tags": [
-        "model-release",
-        "feature",
-        "official",
-        "news",
-        "sonnet"
-      ]
-    },
-    {
-      "id": "frontierfeed:903a41d0fe841e64",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "title": "Introducing Claude Haiku 5.5",
-      "summary": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
-      "content_text": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
-      "date_published": "2026-10-20T18:29:39.421347+00:00",
-      "tags": [
-        "model-release",
-        "feature",
-        "official",
-        "news",
-        "haiku"
-      ]
-    },
-    {
-      "id": "frontierfeed:0b8c1f899aea05bb",
-      "url": "https://www.anthropic.com/news/distillation-defenses",
-      "title": "Strengthening our defenses against distillation attacks",
-      "summary": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
-      "content_text": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
-      "date_published": "2026-10-20T18:29:39.421253+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:858e90301558d27f",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.2.0",
-      "title": "google-cloud-sdk-v0.2.0",
-      "summary": "### Features * **google-cloud:** use the v1 endpoints and add the organization endpoint",
-      "content_text": "### Features * **google-cloud:** use the v1 endpoints and add the organization endpoint",
-      "date_published": "2026-10-20T17:54:01+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]
