@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:d3323382388722eb",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.263",
+      "title": "v1.0.263",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.262...v1.0.263",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.262...v1.0.263",
+      "date_published": "2026-10-26T21:55:05+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:2b7c4c69ac5830e4",
       "url": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
       "title": "Expanding Claude for Nonprofits",
@@ -35,6 +49,19 @@
         "fix",
         "release",
         "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:41876b63e6bbae7c",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "summary": "105 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50246238",
+      "content_text": "105 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50246238",
+      "date_published": "2026-10-26T16:12:29+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
       ]
     },
     {
@@ -1390,32 +1417,6 @@
         "feature",
         "community",
         "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:2f111908a58c6676",
-      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-      "title": "NixOS is making me less afraid",
-      "summary": "124 points, 82 comments. Discussion: https://news.ycombinator.com/item?id=50165484",
-      "content_text": "124 points, 82 comments. Discussion: https://news.ycombinator.com/item?id=50165484",
-      "date_published": "2026-10-20T12:43:05+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:82850e338d233fb4",
-      "url": "https://deathplanswitch.com/",
-      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-      "summary": "49 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50161408",
-      "content_text": "49 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50161408",
-      "date_published": "2026-10-20T04:37:43+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]

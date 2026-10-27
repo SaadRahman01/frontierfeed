@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 20:33:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 00:31:00 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.263</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.263</link>
+<guid isPermaLink="false">frontierfeed:d3323382388722eb</guid>
+<pubDate>Mon, 26 Oct 2026 21:55:05 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.262...v1.0.263</description>
+</item>
 <item>
 <title>Expanding Claude for Nonprofits</title>
 <link>https://claude.com/resources/articles/expanding-claude-for-nonprofits</link>
@@ -30,6 +38,14 @@
 <pubDate>Mon, 26 Oct 2026 19:47:57 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.311 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT</title>
+<link>https://github.com/FrigadeHQ/hob</link>
+<guid isPermaLink="false">frontierfeed:41876b63e6bbae7c</guid>
+<pubDate>Mon, 26 Oct 2026 16:12:29 +0000</pubDate>
+<category>claude-code</category>
+<description>105 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50246238</description>
 </item>
 <item>
 <title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
@@ -798,22 +814,6 @@
 <pubDate>Tue, 20 Oct 2026 15:09:29 +0000</pubDate>
 <category>note</category>
 <description>45 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50167583</description>
-</item>
-<item>
-<title>NixOS is making me less afraid</title>
-<link>https://entropicthoughts.com/nixos-is-making-me-less-afraid</link>
-<guid isPermaLink="false">frontierfeed:2f111908a58c6676</guid>
-<pubDate>Tue, 20 Oct 2026 12:43:05 +0000</pubDate>
-<category>note</category>
-<description>124 points, 82 comments. Discussion: https://news.ycombinator.com/item?id=50165484</description>
-</item>
-<item>
-<title>Show HN: Death Plan Switch, a self-hosted dead man&#x27;s switch for solo devs</title>
-<link>https://deathplanswitch.com/</link>
-<guid isPermaLink="false">frontierfeed:82850e338d233fb4</guid>
-<pubDate>Tue, 20 Oct 2026 04:37:43 +0000</pubDate>
-<category>note</category>
-<description>49 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50161408</description>
 </item>
 </channel>
 </rss>

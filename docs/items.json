@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-26T20:33:37.152636+00:00",
+  "generated": "2026-10-27T00:31:00.284182+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.263",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.263",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-26T21:55:05+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.262...v1.0.263",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.262...v1.0.263",
+      "version": "1.0.263",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "d3323382388722eb"
+    },
     {
       "title": "Expanding Claude for Nonprofits",
       "url": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
@@ -36,6 +52,21 @@
         "npm"
       ],
       "uid": "feb5e901901cfb1f"
+    },
+    {
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "source": "hackernews",
+      "published": "2026-10-26T16:12:29+00:00",
+      "body": "105 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50246238",
+      "summary": "105 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50246238",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "41876b63e6bbae7c"
     },
     {
       "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
@@ -4757,36 +4788,6 @@
         "product"
       ],
       "uid": "c3516fd826ac38d4"
-    },
-    {
-      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
-      "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
-      "source": "hackernews",
-      "published": "2026-09-29T12:01:07+00:00",
-      "body": "42 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49891721",
-      "summary": "42 points, 2 comments. Discussion: https://news.ycombinator.com/item?id=49891721",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "ee0d0ffba11ae45d"
-    },
-    {
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-      "source": "hackernews",
-      "published": "2026-09-28T23:40:59+00:00",
-      "body": "69 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49886005",
-      "summary": "69 points, 63 comments. Discussion: https://news.ycombinator.com/item?id=49886005",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "f02c188dd7a3a704"
     }
   ]
 }
