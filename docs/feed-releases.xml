@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, model releases only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 13:03:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 18:53:43 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-releases.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — model releases</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing artifacts for legal work</title>
+<link>https://claude.com/resources/articles/introducing-artifacts-for-legal-work</link>
+<guid isPermaLink="false">frontierfeed:f3e4ed1902d88096</guid>
+<pubDate>Wed, 28 Oct 2026 18:53:32 +0000</pubDate>
+<category>launch</category>
+<description>Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business.</description>
+</item>
 <item>
 <title>Introducing Claude Duet</title>
 <link>https://claude.com/resources/articles/claude-duet</link>

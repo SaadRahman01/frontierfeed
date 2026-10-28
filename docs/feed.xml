@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 13:03:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 18:53:43 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>IDC brings Quanta into Claude and adopts Claude across the company</title>
+<link>https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company</link>
+<guid isPermaLink="false">frontierfeed:61fb733fb1536b2e</guid>
+<pubDate>Wed, 28 Oct 2026 18:53:32 +0000</pubDate>
+<category>note</category>
+<description>IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business</description>
+</item>
+<item>
+<title>Introducing artifacts for legal work</title>
+<link>https://claude.com/resources/articles/introducing-artifacts-for-legal-work</link>
+<guid isPermaLink="false">frontierfeed:f3e4ed1902d88096</guid>
+<pubDate>Wed, 28 Oct 2026 18:53:32 +0000</pubDate>
+<category>launch</category>
+<description>Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business.</description>
+</item>
+<item>
+<title>Smart reports, surveys, and pooled group budgets for Claude Enterprise</title>
+<link>https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets</link>
+<guid isPermaLink="false">frontierfeed:1a5c3c753b560087</guid>
+<pubDate>Wed, 28 Oct 2026 18:53:32 +0000</pubDate>
+<category>note</category>
+<description>In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team.</description>
+</item>
 <item>
 <title>Claude for Financial Advisors</title>
 <link>https://claude.com/resources/articles/claude-for-financial-advisors</link>
@@ -790,30 +814,6 @@
 <pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
 <category>note</category>
 <description>As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.</description>
-</item>
-<item>
-<title>Introducing Claude Mythos and Fable 5.1</title>
-<link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
-<guid isPermaLink="false">frontierfeed:67713036ecf2e2c4</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
-<category>launch</category>
-<description>They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.</description>
-</item>
-<item>
-<title>The Situation Report</title>
-<link>https://www.anthropic.com/features/ebola-response</link>
-<guid isPermaLink="false">frontierfeed:7bbded248b0a92ff</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
-<category>note</category>
-<description>A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.</description>
-</item>
-<item>
-<title>Introducing Claude Opus 5.5</title>
-<link>https://www.anthropic.com/claude-opus-5-5</link>
-<guid isPermaLink="false">frontierfeed:e3c3dad186995627</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
-<category>model-release</category>
-<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 </channel>
 </rss>

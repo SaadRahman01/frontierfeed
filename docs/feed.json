@@ -9,6 +9,49 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:61fb733fb1536b2e",
+      "url": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
+      "title": "IDC brings Quanta into Claude and adopts Claude across the company",
+      "summary": "IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business",
+      "content_text": "IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business",
+      "date_published": "2026-10-28T18:53:32.271431+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:f3e4ed1902d88096",
+      "url": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+      "title": "Introducing artifacts for legal work",
+      "summary": "Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business.",
+      "content_text": "Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business.",
+      "date_published": "2026-10-28T18:53:32.271415+00:00",
+      "tags": [
+        "launch",
+        "feature",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:1a5c3c753b560087",
+      "url": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+      "title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+      "summary": "In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team.",
+      "content_text": "In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team.",
+      "date_published": "2026-10-28T18:53:32.271374+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
       "id": "frontierfeed:380f1838ca48347e",
       "url": "https://claude.com/resources/articles/claude-for-financial-advisors",
       "title": "Claude for Financial Advisors",
@@ -1371,49 +1414,6 @@
         "info",
         "official",
         "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:67713036ecf2e2c4",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "title": "Introducing Claude Mythos and Fable 5.1",
-      "summary": "They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.",
-      "content_text": "They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.",
-      "date_published": "2026-10-20T18:29:39.421563+00:00",
-      "tags": [
-        "launch",
-        "feature",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:7bbded248b0a92ff",
-      "url": "https://www.anthropic.com/features/ebola-response",
-      "title": "The Situation Report",
-      "summary": "A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.",
-      "content_text": "A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.",
-      "date_published": "2026-10-20T18:29:39.421499+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:e3c3dad186995627",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "title": "Introducing Claude Opus 5.5",
-      "summary": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
-      "content_text": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
-      "date_published": "2026-10-20T18:29:39.421478+00:00",
-      "tags": [
-        "model-release",
-        "feature",
-        "official",
-        "news",
-        "opus"
       ]
     }
   ]

@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "title": "IDC brings Quanta into Claude and adopts Claude across the company",
+      "url": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
+      "source": "claude-blog",
+      "published": "2026-10-28T18:53:32.271431+00:00",
+      "body": "IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business",
+      "summary": "IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "61fb733fb1536b2e"
+    },
+    {
+      "title": "Introducing artifacts for legal work",
+      "url": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+      "source": "claude-blog",
+      "published": "2026-10-28T18:53:32.271415+00:00",
+      "body": "Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business.",
+      "summary": "Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business.",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "f3e4ed1902d88096"
+    },
+    {
+      "title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+      "url": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+      "source": "claude-blog",
+      "published": "2026-10-28T18:53:32.271374+00:00",
+      "body": "In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team.",
+      "summary": "In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "enterprise"
+      ],
+      "uid": "1a5c3c753b560087"
+    },
+    {
       "title": "Claude for Financial Advisors",
       "url": "https://claude.com/resources/articles/claude-for-financial-advisors",
       "source": "claude-blog",
@@ -4733,54 +4782,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "4f082830bcbedf82"
-    },
-    {
-      "title": "foundry-sdk: v0.5.1",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.1",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-30T18:29:48+00:00",
-      "body": "## 0.5.1 (2026-09-30)\n\nFull Changelog: [foundry-sdk-v0.5.0...foundry-sdk-v0.5.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.0...foundry-sdk-v0.5.1)",
-      "summary": "## 0.5.1 (2026-09-30) Full Changelog: [foundry-sdk-v0.5.0...foundry-sdk-v0.5.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.0...foundry-sdk-v0.5.1)",
-      "version": "foundry-sdk-v0.5.1",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "a25cd6e8ee545be3"
-    },
-    {
-      "title": "bedrock-sdk: v0.34.1",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.1",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-30T18:29:41+00:00",
-      "body": "## 0.34.1 (2026-09-30)\n\nFull Changelog: [bedrock-sdk-v0.34.0...bedrock-sdk-v0.34.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.0...bedrock-sdk-v0.34.1)",
-      "summary": "## 0.34.1 (2026-09-30) Full Changelog: [bedrock-sdk-v0.34.0...bedrock-sdk-v0.34.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.0...bedrock-sdk-v0.34.1)",
-      "version": "bedrock-sdk-v0.34.1",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "c9703db50b6c4313"
-    },
-    {
-      "title": "vertex-sdk: v0.20.1",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.1",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-30T18:29:34+00:00",
-      "body": "## 0.20.1 (2026-09-30)\n\nFull Changelog: [vertex-sdk-v0.20.0...vertex-sdk-v0.20.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.0...vertex-sdk-v0.20.1)",
-      "summary": "## 0.20.1 (2026-09-30) Full Changelog: [vertex-sdk-v0.20.0...vertex-sdk-v0.20.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.0...vertex-sdk-v0.20.1)",
-      "version": "ertex-sdk-v0.20.1",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "15f9bbc6288c4c9b"
     }
   ]
 }
