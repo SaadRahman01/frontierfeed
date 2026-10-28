@@ -9,6 +9,35 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:07933cd124cd3bd2",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "title": "AI for Science expands to foundations and research institutions",
+      "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
+      "content_text": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
+      "date_published": "2026-10-28T23:15:49.499502+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:2c4c4692fbfce983",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.2.0",
+      "title": "v2.2.0",
+      "summary": "## Security: Node.js runtime and CA certificate updates (October 2026) On October 20, 2026, eMudhra disclosed that the private keys for eight of its intermediate CA certificates could be recovered from the public certificates.",
+      "content_text": "## Security: Node.js runtime and CA certificate updates (October 2026) On October 20, 2026, eMudhra disclosed that the private keys for eight of its intermediate CA certificates could be recovered from the public certificates.",
+      "date_published": "2026-10-28T20:57:13+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "servers",
+        "mcp"
+      ]
+    },
+    {
       "id": "frontierfeed:61fb733fb1536b2e",
       "url": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
       "title": "IDC brings Quanta into Claude and adopts Claude across the company",
@@ -1383,34 +1412,6 @@
       "date_published": "2026-10-20T18:29:40.452586+00:00",
       "tags": [
         "claude-code",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:8a655ad8eac3c2fd",
-      "url": "https://www.anthropic.com/research/how-we-contain-claude",
-      "title": "How we contain Claude across products",
-      "summary": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "content_text": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "date_published": "2026-10-20T18:29:40.452560+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:9a18ada52b37c221",
-      "url": "https://www.anthropic.com/research/redesigning-source-control",
-      "title": "Redesigning source control at Anthropic",
-      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
-      "content_text": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
-      "date_published": "2026-10-20T18:29:40.452520+00:00",
-      "tags": [
-        "note",
         "info",
         "official",
         "engineering"

@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "title": "AI for Science expands to foundations and research institutions",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "source": "anthropic-news",
+      "published": "2026-10-28T23:15:49.499502+00:00",
+      "body": "We\u2019re highlighting 20 scientific foundations, institutions, and research groups from around the world that we\u2019ve partnered with in an expansion of our AI for Science program.",
+      "summary": "We\u2019re highlighting 20 scientific foundations, institutions, and research groups from around the world that we\u2019ve partnered with in an expansion of our AI for Science program.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "07933cd124cd3bd2"
+    },
+    {
+      "title": "v2.2.0",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.2.0",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2026-10-28T20:57:13+00:00",
+      "body": "## Security: Node.js runtime and CA certificate updates (October 2026)\r\n\r\nOn October 20, 2026, eMudhra disclosed that the private keys for eight of its intermediate CA certificates could be recovered from the public certificates. On October 21, Node.js shipped [security releases](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases) that update its bundled CA certificates for the compromise and fix several unrelated high-severity runtime CVEs. On October 23, Python's `certifi` 2026.10.23 removed the eMudhra roots `emSign Root CA - C1` and `emSign ECC Root CA - C3`.\r\n\r\n**How these servers stand**\r\n\r\n- **The TypeScript servers rely on the Node.js runtime for certificate checks.** They ship no CA certificates of their own. Only `server-everything` makes outbound HTTPS requests (`gzip-file-as-resource`), and the Node.js it runs on verifies them. `server-filesystem`, `server-memory` and `server-sequential-thinking` make no network connections.\r\n- **`mcp-server-fetch` verifies HTTPS against the `certifi` bundle**, through `httpx`. Installing from PyPI (`uvx mcp-server-fetch`, `pip install mcp-server-fetch`) resolves the current `certifi`, 2026.10.23 or later. The repository's `fetch` Dockerfile installs from its lockfile, which this release moves to `certifi` 2026.10.23 (#5341).\r\n- **`mcp-server-git` and `mcp-server-time` make no network connections.**\r\n\r\n**If you run a TypeScript server from npm (`npx` or a global install)**\r\n\r\nIt runs on your Node.js, which we can't update for you. Please run Node.js **24.22.1 or 26.12.1, or later**, and check with `node --version`. The packages' `engines` field accepts any Node.js 24, so npm won't warn you about an older, unpatched runtime.\r\n\r\n**If you run `mcp-server-fetch` from an existing environment**\r\n\r\nAn environment created before October 23 keeps its older `certifi`. Refresh it with `uvx --refresh mcp-server-fetch`, or `pip install -U certifi`.\r\n\r\n## Packages\r\n\r\n| Package | Version | Registry | In this release |\r\n| --- | --- | --- | --- |\r\n| `@modelcontextprotocol/server-everything` | `2.1.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-filesystem` | `2.1.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-memory` | `2.0.1` | npm | **published** |\r\n| `@modelcontextprotocol/server-sequential-thinking` | `2.0.0` | npm | unchanged |\r\n| `mcp-server-fetch` | `2026.10.28` | PyPI | **published** |\r\n| `mcp-server-git` | `2026.10.28` | PyPI | **published** |\r\n| `mcp-server-time` | `2026.10.28` | PyPI | **published** |\r\n\r\nRelease ledger: [v2/chore/5330-release-v2.2.0](https://claude.ai/artifact/4QBpF136w3oXcAMVDRJtbe)\r\n\r\n## @modelcontextprotocol/server-everything 2.1.0\r\n\r\n### What's Changed\r\n\r\n* fix(everything): trigger-elicitation-request summarizes the form's own fields by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5289\r\n* fix(everything): fail gzip-file-as-resource on an HTTP error response by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5290\r\n* fix(everything): get-env masks credential-like values by default by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5293\r\n* fix(everything): gzip-file-as-resource refuses non-public addresses on every hop by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5295\r\n* fix(everything): drop the corrupt iCCP chunk from get-tiny-image's PNG by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5298\r\n* chore(everything): fix misleading names in get-resource-links and two JSDoc headers by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5297\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5296\r\n* Release v2.2.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5338\r\n\r\n## @modelcontextprotocol/server-filesystem 2.1.0\r\n\r\n### What's Changed\r\n\r\n* fix(filesystem): accept a case-only respelling of an allowed directory where the file system confirms it by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5319\r\n* fix(filesystem): tail no longer counts a final newline as a line by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5316\r\n* feat(filesystem): report the hard-link count in get_file_info and document hard links (#5226) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5315\r\n* fix(filesystem): bound realpath/readdir waits and recursive walks (#4162) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5326\r\n* fix(filesystem): compare overwrite identity as BigInt stats, with a Windows no-device fallback by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5325\r\n* fix(filesystem): retry a failed realpath once before losing a root by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5318\r\n* fix(filesystem): head returns CRLF lines normalized to LF, like tail by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5324\r\n* fix(filesystem): allow a client Root in its advertised form as well as its realpath by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5317\r\n* fix(filesystem): move a file across filesystems by copying it on EXDEV by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5322\r\n* test(filesystem): explicit timeout on the 100000-entry walk tests by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5331\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5296\r\n* Release v2.2.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5338\r\n\r\n## @modelcontextprotocol/server-memory 2.0.1\r\n\r\n### What's Changed\r\n\r\n* fix(memory): keep unmodelled fields on stored records across writes by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5292\r\n* fix(memory): stop startup when the memory.json migration fails by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5291\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5296\r\n* Release v2.2.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5338\r\n\r\n## mcp-server-fetch 2026.10.28\r\n\r\n### What's Changed\r\n\r\n* fix(fetch): refuse an autonomous fetch when robots.txt answers 5xx by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5299\r\n* fix(fetch): refuse IPv4-compatible IPv6 addresses (::/96) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5301\r\n* fix(fetch): report an empty-tree page as unsimplifiable under beautifulsoup4 4.13 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5304\r\n* fix(fetch): treat a header-less response as HTML only when its body is by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5300\r\n* feat(fetch): add --no-readability-js to keep extraction off Node.js by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5307\r\n* fix(fetch): decode a page by the charset its HTML declares by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5302\r\n* fix(fetch): require readabilipy 0.3.0 so HTML extraction works on non-cp1252 pages on Windows by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5311\r\n* fix(fetch): recover server-rendered content hidden until hydration by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5308\r\n* fix(fetch): declare beautifulsoup4 and name a missing Content-Type in the raw prefix by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5323\r\n* chore: stamp Python CalVer versions for 2026.10.28 by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5336\r\n* Release v2.2.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5338\r\n* chore(fet",
+      "summary": "## Security: Node.js runtime and CA certificate updates (October 2026) On October 20, 2026, eMudhra disclosed that the private keys for eight of its intermediate CA certificates could be recovered from the public certificates.",
+      "version": "2.2.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "2c4c4692fbfce983"
+    },
+    {
       "title": "IDC brings Quanta into Claude and adopts Claude across the company",
       "url": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
       "source": "claude-blog",
@@ -4750,38 +4783,6 @@
         "claude-code-action"
       ],
       "uid": "2ef56e08af23bee0"
-    },
-    {
-      "title": "google-cloud-sdk: v0.0.16",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.16",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-30T18:30:00+00:00",
-      "body": "## 0.0.16 (2026-09-30)\n\nFull Changelog: [google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16)",
-      "summary": "## 0.0.16 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.15...google-cloud-sdk-v0.0.16)",
-      "version": "google-cloud-sdk-v0.0.16",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "d7fee75dfe10b7cc"
-    },
-    {
-      "title": "aws-sdk: v0.7.6",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.6",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-30T18:29:54+00:00",
-      "body": "## 0.7.6 (2026-09-30)\n\nFull Changelog: [aws-sdk-v0.7.5...aws-sdk-v0.7.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.5...aws-sdk-v0.7.6)",
-      "summary": "## 0.7.6 (2026-09-30) Full Changelog: [aws-sdk-v0.7.5...aws-sdk-v0.7.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.5...aws-sdk-v0.7.6)",
-      "version": "aws-sdk-v0.7.6",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "4f082830bcbedf82"
     }
   ]
 }
