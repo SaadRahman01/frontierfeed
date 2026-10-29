@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-29T02:31:10.881289+00:00",
+  "generated": "2026-10-29T10:05:22.384899+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "source": "hackernews",
+      "published": "2026-10-29T03:33:42+00:00",
+      "body": "372 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50284255",
+      "summary": "372 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50284255",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "7fd3a3ec01fe78f8"
+    },
     {
       "title": "AI for Science expands to foundations and research institutions",
       "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
@@ -4771,22 +4786,6 @@
         "product"
       ],
       "uid": "b6b1285f4817e54e"
-    },
-    {
-      "title": "v1.0.238",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.238",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-09-30T19:17:33+00:00",
-      "body": "## What's Changed\n* ci: security hardening for GitHub Actions workflows that call Claude by @qing-ant in https://github.com/anthropics/claude-code-action/pull/1867\n\n## New Contributors\n* @qing-ant made their first contribution in https://github.com/anthropics/claude-code-action/pull/1867\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.237...v1.0.238",
-      "summary": "## What's Changed * ci: security hardening for GitHub Actions workflows that call Claude by @qing-ant in https://github.com/anthropics/claude-code-action/pull/1867 ## New Contributors * @qing-ant made their first contribution in https://github.com/anthropics/claude-code-action/pu\u2026",
-      "version": "1.0.238",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "2ef56e08af23bee0"
     }
   ]
 }

@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:7fd3a3ec01fe78f8",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "summary": "372 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50284255",
+      "content_text": "372 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50284255",
+      "date_published": "2026-10-29T03:33:42+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:07933cd124cd3bd2",
       "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
       "title": "AI for Science expands to foundations and research institutions",
@@ -1398,20 +1411,6 @@
       "date_published": "2026-10-20T18:29:40.452633+00:00",
       "tags": [
         "note",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:7cd855a9dc93a047",
-      "url": "https://www.anthropic.com/research/april-23-postmortem",
-      "title": "An update on recent Claude Code quality reports",
-      "summary": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened and what we're changing.",
-      "content_text": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened and what we're changing.",
-      "date_published": "2026-10-20T18:29:40.452586+00:00",
-      "tags": [
-        "claude-code",
         "info",
         "official",
         "engineering"
