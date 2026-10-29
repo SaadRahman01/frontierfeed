@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 16:57:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 21:50:20 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents</title>
+<link>https://news.ycombinator.com/item?id=50291116</link>
+<guid isPermaLink="false">frontierfeed:8bde5c1df5283cf6</guid>
+<pubDate>Thu, 29 Oct 2026 15:56:32 +0000</pubDate>
+<category>note</category>
+<description>40 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50291116</description>
+</item>
 <item>
 <title>Claude Code regularly sends each background agent’s transcript to its model</title>
 <link>https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</link>
@@ -806,14 +814,6 @@
 <pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
 <category>claude-code</category>
 <description>Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here&#x27;s what it catches, and what it misses.</description>
-</item>
-<item>
-<title>Scaling Managed Agents: Decoupling the brain from the hands</title>
-<link>https://www.anthropic.com/research/managed-agents</link>
-<guid isPermaLink="false">frontierfeed:e0578653f5c4fca4</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
-<category>note</category>
-<description>Harnesses encode assumptions that go stale as models improve. Managed Agents—our hosted service for long-horizon agent work—is built around interfaces that stay stable as harnesses change.</description>
 </item>
 </channel>
 </rss>

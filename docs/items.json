@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-29T16:57:43.064792+00:00",
+  "generated": "2026-10-29T21:50:20.174389+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
+      "url": "https://news.ycombinator.com/item?id=50291116",
+      "source": "hackernews",
+      "published": "2026-10-29T15:56:32+00:00",
+      "body": "40 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50291116",
+      "summary": "40 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50291116",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "8bde5c1df5283cf6"
+    },
     {
       "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
       "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
@@ -4770,22 +4785,6 @@
         "product"
       ],
       "uid": "038cf5bcb5ab5431"
-    },
-    {
-      "title": "How Anthropic's sales team rebuilt inbound with Claude Managed Agents",
-      "url": "https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
-      "source": "claude-blog",
-      "published": "2026-09-30T19:25:59.180064+00:00",
-      "body": "How Anthropic's sales team rebuilt inbound with Claude Managed Agents",
-      "summary": "How Anthropic's sales team rebuilt inbound with Claude Managed Agents",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "b6b1285f4817e54e"
     }
   ]
 }
