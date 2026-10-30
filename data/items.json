@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "source": "hackernews",
+      "published": "2026-10-30T17:27:25+00:00",
+      "body": "183 points, 128 comments. Discussion: https://news.ycombinator.com/item?id=50307219",
+      "summary": "183 points, 128 comments. Discussion: https://news.ycombinator.com/item?id=50307219",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "cae8382b1b1a762c"
+    },
+    {
       "title": "Anthropic Cracking Down on Video Game Rewrites",
       "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
       "source": "hackernews",
@@ -4758,22 +4773,6 @@
         "news"
       ],
       "uid": "1dad5134d5fbe6b5"
-    },
-    {
-      "title": "google-cloud-sdk: v0.0.17",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.17",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-30T22:58:53+00:00",
-      "body": "## 0.0.17 (2026-09-30)\n\nFull Changelog: [google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17)",
-      "summary": "## 0.0.17 (2026-09-30) Full Changelog: [google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.16...google-cloud-sdk-v0.0.17)",
-      "version": "google-cloud-sdk-v0.0.17",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "c119c4ffa0b04a24"
     }
   ]
 }

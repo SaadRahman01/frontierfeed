@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 15:58:39 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 20:51:02 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Anthropic may not secure investment-grade rating after IPO, Blackstone says</title>
+<link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</link>
+<guid isPermaLink="false">frontierfeed:cae8382b1b1a762c</guid>
+<pubDate>Fri, 30 Oct 2026 17:27:25 +0000</pubDate>
+<category>note</category>
+<description>183 points, 128 comments. Discussion: https://news.ycombinator.com/item?id=50307219</description>
+</item>
 <item>
 <title>Anthropic Cracking Down on Video Game Rewrites</title>
 <link>https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968</link>
@@ -806,14 +814,6 @@
 <pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
 <category>launch</category>
 <description>We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.</description>
-</item>
-<item>
-<title>Effective harnesses for long-running agents</title>
-<link>https://www.anthropic.com/research/effective-harnesses-for-long-running-agents</link>
-<guid isPermaLink="false">frontierfeed:b5f900c211bf24ba</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
-<category>api</category>
-<description>We developed a two-fold solution to enable the Claude Agent SDK to work effectively across many context windows: an initializer agent that sets up the environment on the first run, and a coding agent that is tasked with making incremental progress in every session while leaving c…</description>
 </item>
 </channel>
 </rss>

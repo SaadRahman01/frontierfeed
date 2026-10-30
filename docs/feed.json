@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:cae8382b1b1a762c",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "summary": "183 points, 128 comments. Discussion: https://news.ycombinator.com/item?id=50307219",
+      "content_text": "183 points, 128 comments. Discussion: https://news.ycombinator.com/item?id=50307219",
+      "date_published": "2026-10-30T17:27:25+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:0c0b093c1eb6e49b",
       "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
       "title": "Anthropic Cracking Down on Video Game Rewrites",
@@ -1392,20 +1405,6 @@
       "tags": [
         "launch",
         "feature",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:b5f900c211bf24ba",
-      "url": "https://www.anthropic.com/research/effective-harnesses-for-long-running-agents",
-      "title": "Effective harnesses for long-running agents",
-      "summary": "We developed a two-fold solution to enable the Claude Agent SDK to work effectively across many context windows: an initializer agent that sets up the environment on the first run, and a coding agent that is tasked with making incremental progress in every session while leaving c…",
-      "content_text": "We developed a two-fold solution to enable the Claude Agent SDK to work effectively across many context windows: an initializer agent that sets up the environment on the first run, and a coding agent that is tasked with making incremental progress in every session while leaving c…",
-      "date_published": "2026-10-20T18:29:40.452804+00:00",
-      "tags": [
-        "api",
-        "info",
         "official",
         "engineering"
       ]
