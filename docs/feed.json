@@ -63,6 +63,20 @@
       ]
     },
     {
+      "id": "frontierfeed:dfa9f639ce209cd0",
+      "url": "https://arxiv.org/abs/2610.39062v1",
+      "title": "HEARSAYBENCH: Can AI Navigate from Abstract Human Rights to Lived Lives?",
+      "summary": "As large language models (LLMs) reach users worldwide, personal counseling has emerged as one of their most consequential applications, sometimes in life-critical situations. Yet broader access does not mean equal support.",
+      "content_text": "As large language models (LLMs) reach users worldwide, personal counseling has emerged as one of their most consequential applications, sometimes in life-critical situations. Yet broader access does not mean equal support.",
+      "date_published": "2026-10-28T23:49:28+00:00",
+      "tags": [
+        "research",
+        "feature",
+        "research",
+        "paper"
+      ]
+    },
+    {
       "id": "frontierfeed:07933cd124cd3bd2",
       "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
       "title": "AI for Science expands to foundations and research institutions",
@@ -1398,21 +1412,6 @@
         "info",
         "official",
         "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:67b820295c2def45",
-      "url": "https://www.anthropic.com/research/eval-awareness-browsecomp",
-      "title": "Eval awareness in Claude Opus 4.6’s BrowseComp performance",
-      "summary": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it—raising questions about eval integrity in web-enabled environments.",
-      "content_text": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it—raising questions about eval integrity in web-enabled environments.",
-      "date_published": "2026-10-20T18:29:40.452699+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering",
-        "opus"
       ]
     }
   ]

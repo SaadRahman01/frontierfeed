@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-30T01:59:29.224052+00:00",
+  "generated": "2026-10-30T08:43:29.485322+00:00",
   "count": 300,
   "items": [
     {
@@ -65,6 +65,22 @@
         "community"
       ],
       "uid": "7fd3a3ec01fe78f8"
+    },
+    {
+      "title": "HEARSAYBENCH: Can AI Navigate from Abstract Human Rights to Lived Lives?",
+      "url": "https://arxiv.org/abs/2610.39062v1",
+      "source": "arxiv",
+      "published": "2026-10-28T23:49:28+00:00",
+      "body": "As large language models (LLMs) reach users worldwide, personal counseling has emerged as one of their most consequential applications, sometimes in life-critical situations. Yet broader access does not mean equal support. The text these models learn from disproportionately reflects people with the freedom to act, embedding an implicit assumption that users can leave, report, seek help, or appeal. Existing benchmarks largely inherit this assumption, overlooking users whose agency is constrained by structural conditions such as war, statelessness, and displacement. Meanwhile, models are increasingly shaped by normative frameworks such as Constitutional AI, often grounded in ideals like human rights, even as many users live where those rights offer little protection or recourse.\n  We introduce HEARSAYBENCH, a human-authored dataset of 400 test cases with in-region human verification grounded in scenarios where structural barriers stand between a person and the exercise of their rights. Built from United Nations and other human rights reports, the scenarios span over 80 regions and cover social, environmental, and personal constraints. Drawing on Nobel laureate Amartya Sen's Capabilities Approach, HEARSAYBENCH tests whether models can distinguish what a person is formally entitled to do from what they are actually able to do. Across 14 proprietary and open-weight models, every model infers a user's situation more accurately than it advises on it. Stronger models narrow this gap, but their recommendations remain unsafe to follow. Models may understand lives shaped by constraint, yet that knowledge remains hearsay if it cannot translate into advice people can act on. Those people are not alignment's long tail; they are among the users for whom good guidance matters most. HEARSAYBENCH makes this failure measurable, a step toward systems that serve the world as it is rather than as assumed.",
+      "summary": "As large language models (LLMs) reach users worldwide, personal counseling has emerged as one of their most consequential applications, sometimes in life-critical situations. Yet broader access does not mean equal support.",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "dfa9f639ce209cd0"
     },
     {
       "title": "AI for Science expands to foundations and research institutions",
@@ -4769,23 +4785,6 @@
         "sonnet"
       ],
       "uid": "d5a33d1e9600dab8"
-    },
-    {
-      "title": "v1.11.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.11.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-09-30T22:58:09+00:00",
-      "body": "## 1.11.0 (2026-09-30)\n\nFull Changelog: [v1.10.0...v1.11.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.10.0...v1.11.0)\n\n### Features\n\n* **api:** add list spend limits endpoint ([e8f0cac](https://github.com/anthropics/anthropic-sdk-python/commit/e8f0cac35af67a083ba05a308d27328925e03568))\n\n\n### Chores\n\n* **client:** deprecate sonnet 4.5 ([22b36b1](https://github.com/anthropics/anthropic-sdk-python/commit/22b36b1a1b65cb87f2a6f3b40f61147c9e1c3e93))",
-      "summary": "## 1.11.0 (2026-09-30) Full Changelog: [v1.10.0...v1.11.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.10.0...v1.11.0) ### Features * **api:** add list spend limits endpoint ([e8f0cac](https://github.com/anthropics/anthropic-sdk-python/commit/e8f0cac35af67a083ba\u2026",
-      "version": "1.11.0",
-      "category": "deprecation",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-python",
-        "sonnet"
-      ],
-      "uid": "cc4d4baf7005bc22"
     }
   ]
 }
