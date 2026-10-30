@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:bd457459370796ab",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.265",
+      "title": "v1.0.265",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.264...v1.0.265",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.264...v1.0.265",
+      "date_published": "2026-10-30T01:10:03+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:f8123404acbb182f",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.314",
+      "title": "@anthropic-ai/claude-code 2.1.314 published",
+      "summary": "Version 2.1.314 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.314 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-30T00:12:56.911000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:8bde5c1df5283cf6",
       "url": "https://news.ycombinator.com/item?id=50291116",
       "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
@@ -1385,34 +1413,6 @@
         "official",
         "engineering",
         "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:d7af4282c26b2995",
-      "url": "https://www.anthropic.com/research/harness-design-long-running-apps",
-      "title": "Harness design for long-running application development",
-      "summary": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
-      "content_text": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
-      "date_published": "2026-10-20T18:29:40.452679+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:e8109e646553a5b7",
-      "url": "https://www.anthropic.com/research/claude-code-auto-mode",
-      "title": "How we built Claude Code auto mode: a safer way to skip permissions",
-      "summary": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.",
-      "content_text": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.",
-      "date_published": "2026-10-20T18:29:40.452657+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "engineering"
       ]
     }
   ]

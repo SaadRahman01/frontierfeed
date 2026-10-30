@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 21:50:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 01:59:29 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.265</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.265</link>
+<guid isPermaLink="false">frontierfeed:bd457459370796ab</guid>
+<pubDate>Fri, 30 Oct 2026 01:10:03 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.264...v1.0.265</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.314 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.314</link>
+<guid isPermaLink="false">frontierfeed:f8123404acbb182f</guid>
+<pubDate>Fri, 30 Oct 2026 00:12:56 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.314 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents</title>
 <link>https://news.ycombinator.com/item?id=50291116</link>
@@ -798,22 +814,6 @@
 <pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
 <category>note</category>
 <description>Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it—raising questions about eval integrity in web-enabled environments.</description>
-</item>
-<item>
-<title>Harness design for long-running application development</title>
-<link>https://www.anthropic.com/research/harness-design-long-running-apps</link>
-<guid isPermaLink="false">frontierfeed:d7af4282c26b2995</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
-<category>note</category>
-<description>Harness design is key to performance at the frontier of agentic coding. Here&#x27;s how we pushed Claude further in frontend design and long-running autonomous software engineering.</description>
-</item>
-<item>
-<title>How we built Claude Code auto mode: a safer way to skip permissions</title>
-<link>https://www.anthropic.com/research/claude-code-auto-mode</link>
-<guid isPermaLink="false">frontierfeed:e8109e646553a5b7</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
-<category>claude-code</category>
-<description>Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here&#x27;s what it catches, and what it misses.</description>
 </item>
 </channel>
 </rss>

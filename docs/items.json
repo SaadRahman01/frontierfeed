@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-29T21:50:20.174389+00:00",
+  "generated": "2026-10-30T01:59:29.224052+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.265",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.265",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-10-30T01:10:03+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.264...v1.0.265",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.264...v1.0.265",
+      "version": "1.0.265",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "bd457459370796ab"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.314 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.314",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-30T00:12:56.911000+00:00",
+      "body": "Version 2.1.314 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.314 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.314",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "f8123404acbb182f"
+    },
     {
       "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
       "url": "https://news.ycombinator.com/item?id=50291116",
@@ -4754,37 +4786,6 @@
         "sonnet"
       ],
       "uid": "cc4d4baf7005bc22"
-    },
-    {
-      "title": "Anthropic's IPO Prospectus Is a Fucking Doozy",
-      "url": "https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus",
-      "source": "hackernews",
-      "published": "2026-09-30T20:44:19+00:00",
-      "body": "46 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49914149",
-      "summary": "46 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=49914149",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "99e44bd3d37075f0"
-    },
-    {
-      "title": "Claude for Government is now generally available",
-      "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
-      "source": "claude-blog",
-      "published": "2026-09-30T19:25:59.180096+00:00",
-      "body": "Claude for Government is now generally available",
-      "summary": "Claude for Government is now generally available",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "038cf5bcb5ab5431"
     }
   ]
 }
