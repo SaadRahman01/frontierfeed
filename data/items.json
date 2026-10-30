@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Anthropic Cracking Down on Video Game Rewrites",
+      "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
+      "source": "hackernews",
+      "published": "2026-10-30T14:22:52+00:00",
+      "body": "62 points, 60 comments. Discussion: https://news.ycombinator.com/item?id=50304358",
+      "summary": "62 points, 60 comments. Discussion: https://news.ycombinator.com/item?id=50304358",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "0c0b093c1eb6e49b"
+    },
+    {
+      "title": "Backdoors in official Claude Code extensions",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "source": "hackernews",
+      "published": "2026-10-30T11:05:53+00:00",
+      "body": "641 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50302334",
+      "summary": "641 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50302334",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "2739f7818e473c47"
+    },
+    {
+      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "source": "hackernews",
+      "published": "2026-10-30T10:22:51+00:00",
+      "body": "395 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=50301983",
+      "summary": "395 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=50301983",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "2443cdad209fec08"
+    },
+    {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "source": "hackernews",
+      "published": "2026-10-30T07:09:12+00:00",
+      "body": "265 points, 331 comments. Discussion: https://news.ycombinator.com/item?id=50300683",
+      "summary": "265 points, 331 comments. Discussion: https://news.ycombinator.com/item?id=50300683",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "15478e7e9607a5de"
+    },
+    {
       "title": "v1.0.265",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.265",
       "source": "github:anthropics/claude-code-action",
@@ -4714,73 +4774,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "c119c4ffa0b04a24"
-    },
-    {
-      "title": "foundry-sdk: v0.5.2",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.2",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-30T22:58:41+00:00",
-      "body": "## 0.5.2 (2026-09-30)\n\nFull Changelog: [foundry-sdk-v0.5.1...foundry-sdk-v0.5.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.1...foundry-sdk-v0.5.2)",
-      "summary": "## 0.5.2 (2026-09-30) Full Changelog: [foundry-sdk-v0.5.1...foundry-sdk-v0.5.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.1...foundry-sdk-v0.5.2)",
-      "version": "foundry-sdk-v0.5.2",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "3001b8c34a2faa4e"
-    },
-    {
-      "title": "bedrock-sdk: v0.34.2",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.2",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-30T22:58:35+00:00",
-      "body": "## 0.34.2 (2026-09-30)\n\nFull Changelog: [bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2)\n\n### Chores\n\n* **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anthropic-sdk-typescript/commit/d72cfaf6a551c75d54fad0538fb5fd65fb2346d1))",
-      "summary": "## 0.34.2 (2026-09-30) Full Changelog: [bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.1...bedrock-sdk-v0.34.2) ### Chores * **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anth\u2026",
-      "version": "bedrock-sdk-v0.34.2",
-      "category": "deprecation",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript",
-        "sonnet"
-      ],
-      "uid": "b377653792f914ed"
-    },
-    {
-      "title": "vertex-sdk: v0.20.2",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.2",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-30T22:58:29+00:00",
-      "body": "## 0.20.2 (2026-09-30)\n\nFull Changelog: [vertex-sdk-v0.20.1...vertex-sdk-v0.20.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.1...vertex-sdk-v0.20.2)\n\n### Chores\n\n* **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anthropic-sdk-typescript/commit/d72cfaf6a551c75d54fad0538fb5fd65fb2346d1))",
-      "summary": "## 0.20.2 (2026-09-30) Full Changelog: [vertex-sdk-v0.20.1...vertex-sdk-v0.20.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.1...vertex-sdk-v0.20.2) ### Chores * **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anthropi\u2026",
-      "version": "ertex-sdk-v0.20.2",
-      "category": "deprecation",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript",
-        "sonnet"
-      ],
-      "uid": "b43e93e3b9b5058b"
-    },
-    {
-      "title": "sdk: v0.131.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.131.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-09-30T22:58:20+00:00",
-      "body": "## 0.131.0 (2026-09-30)\n\nFull Changelog: [sdk-v0.130.0...sdk-v0.131.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.130.0...sdk-v0.131.0)\n\n### Features\n\n* **api:** add list spend limits endpoint ([cfb78c8](https://github.com/anthropics/anthropic-sdk-typescript/commit/cfb78c8dde70b5f9ea07bf2aebd3651282f2c9a8))\n\n\n### Chores\n\n* **client:** deprecate sonnet 4.5 ([d72cfaf](https://github.com/anthropics/anthropic-sdk-typescript/commit/d72cfaf6a551c75d54fad0538fb5fd65fb2346d1))",
-      "summary": "## 0.131.0 (2026-09-30) Full Changelog: [sdk-v0.130.0...sdk-v0.131.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.130.0...sdk-v0.131.0) ### Features * **api:** add list spend limits endpoint ([cfb78c8](https://github.com/anthropics/anthropic-sdk-typescri\u2026",
-      "version": "sdk-v0.131.0",
-      "category": "deprecation",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript",
-        "sonnet"
-      ],
-      "uid": "d5a33d1e9600dab8"
     }
   ]
 }

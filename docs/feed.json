@@ -9,6 +9,58 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:0c0b093c1eb6e49b",
+      "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
+      "title": "Anthropic Cracking Down on Video Game Rewrites",
+      "summary": "62 points, 60 comments. Discussion: https://news.ycombinator.com/item?id=50304358",
+      "content_text": "62 points, 60 comments. Discussion: https://news.ycombinator.com/item?id=50304358",
+      "date_published": "2026-10-30T14:22:52+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:2739f7818e473c47",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "title": "Backdoors in official Claude Code extensions",
+      "summary": "641 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50302334",
+      "content_text": "641 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50302334",
+      "date_published": "2026-10-30T11:05:53+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:2443cdad209fec08",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+      "summary": "395 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=50301983",
+      "content_text": "395 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=50301983",
+      "date_published": "2026-10-30T10:22:51+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:15478e7e9607a5de",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "summary": "265 points, 331 comments. Discussion: https://news.ycombinator.com/item?id=50300683",
+      "content_text": "265 points, 331 comments. Discussion: https://news.ycombinator.com/item?id=50300683",
+      "date_published": "2026-10-30T07:09:12+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:bd457459370796ab",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.265",
       "title": "v1.0.265",
@@ -1353,62 +1405,6 @@
       "date_published": "2026-10-20T18:29:40.452804+00:00",
       "tags": [
         "api",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:c43ad2d66b220c71",
-      "url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",
-      "title": "Demystifying evals for AI agents",
-      "summary": "Guidance on how to design more rigorous and useful evals for agents across a range of agent architectures and use cases in real-world deployment.",
-      "content_text": "Guidance on how to design more rigorous and useful evals for agents across a range of agent architectures and use cases in real-world deployment.",
-      "date_published": "2026-10-20T18:29:40.452783+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:e448c0186ac33d60",
-      "url": "https://www.anthropic.com/research/AI-resistant-technical-evaluations",
-      "title": "Designing AI-resistant technical evaluations",
-      "summary": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
-      "content_text": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
-      "date_published": "2026-10-20T18:29:40.452763+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:f26747cd77e40576",
-      "url": "https://www.anthropic.com/research/building-c-compiler",
-      "title": "Building a C compiler with a team of parallel Claudes",
-      "summary": "Nicholas Carlini, a researcher on our Safeguards team, explains how he tasked 16 agents with writing a Rust-based C compiler, from scratch, capable of compiling the Linux kernel.",
-      "content_text": "Nicholas Carlini, a researcher on our Safeguards team, explains how he tasked 16 agents with writing a Rust-based C compiler, from scratch, capable of compiling the Linux kernel.",
-      "date_published": "2026-10-20T18:29:40.452741+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:95ac1f7755c42dbe",
-      "url": "https://www.anthropic.com/research/infrastructure-noise",
-      "title": "Quantifying infrastructure noise in agentic coding evals",
-      "summary": "Agentic coding benchmarks are often treated as precise measurements of relative model capability. However, we’ve found that infrastructure configuration alone can produce meaningful differences in the scores.",
-      "content_text": "Agentic coding benchmarks are often treated as precise measurements of relative model capability. However, we’ve found that infrastructure configuration alone can produce meaningful differences in the scores.",
-      "date_published": "2026-10-20T18:29:40.452720+00:00",
-      "tags": [
-        "note",
         "info",
         "official",
         "engineering"

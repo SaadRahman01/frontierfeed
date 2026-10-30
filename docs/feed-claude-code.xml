@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 08:43:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 15:58:39 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Backdoors in official Claude Code extensions</title>
+<link>https://cyberplace.social/@GossiTheDog/117528831681803563</link>
+<guid isPermaLink="false">frontierfeed:2739f7818e473c47</guid>
+<pubDate>Fri, 30 Oct 2026 11:05:53 +0000</pubDate>
+<category>claude-code</category>
+<description>641 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50302334</description>
+</item>
+<item>
+<title>Claude Code VS Code extension with backdoor released on Cursor marketplace</title>
+<link>https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</link>
+<guid isPermaLink="false">frontierfeed:2443cdad209fec08</guid>
+<pubDate>Fri, 30 Oct 2026 10:22:51 +0000</pubDate>
+<category>claude-code</category>
+<description>395 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=50301983</description>
+</item>
+<item>
+<title>Backdoor in Claude Code for VS Code extension on the Cursor Marketplace</title>
+<link>https://phorion.io/blog/offical-claude-code-vsx-compromise/</link>
+<guid isPermaLink="false">frontierfeed:15478e7e9607a5de</guid>
+<pubDate>Fri, 30 Oct 2026 07:09:12 +0000</pubDate>
+<category>claude-code</category>
+<description>265 points, 331 comments. Discussion: https://news.ycombinator.com/item?id=50300683</description>
+</item>
 <item>
 <title>v1.0.265</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.265</link>
