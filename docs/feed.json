@@ -9,6 +9,47 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:6fa563b2c4fa3593",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.316",
+      "title": "@anthropic-ai/claude-code 2.1.316 published",
+      "summary": "Version 2.1.316 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.316 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-31T00:42:05.743000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:78445fc6ba447779",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+      "summary": "45 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50311311",
+      "content_text": "45 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50311311",
+      "date_published": "2026-10-30T23:08:12+00:00",
+      "tags": [
+        "pricing",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:1e4a17441c5841f0",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.315",
+      "title": "@anthropic-ai/claude-code 2.1.315 published",
+      "summary": "Version 2.1.315 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.315 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-10-30T21:05:24.080000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:cae8382b1b1a762c",
       "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
       "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
@@ -1364,49 +1405,6 @@
         "feature",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:6cebd0312f47400e",
-      "url": "https://www.anthropic.com/research/claude-code-sandboxing",
-      "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
-      "summary": "Beyond permission prompts: making Claude Code more secure and autonomous",
-      "content_text": "Beyond permission prompts: making Claude Code more secure and autonomous",
-      "date_published": "2026-10-20T18:29:40.452866+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "engineering"
-      ]
-    },
-    {
-      "id": "frontierfeed:272f0914b39ffc8f",
-      "url": "https://www.anthropic.com/research/code-execution-with-mcp",
-      "title": "Code execution with MCP: Building more efficient agents",
-      "summary": "Code execution with MCP: Building more efficient agents",
-      "content_text": "Code execution with MCP: Building more efficient agents",
-      "date_published": "2026-10-20T18:29:40.452844+00:00",
-      "tags": [
-        "api",
-        "info",
-        "official",
-        "engineering",
-        "mcp"
-      ]
-    },
-    {
-      "id": "frontierfeed:eea90782d2b30405",
-      "url": "https://www.anthropic.com/research/advanced-tool-use",
-      "title": "Introducing advanced tool use on the Claude Developer Platform",
-      "summary": "We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.",
-      "content_text": "We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.",
-      "date_published": "2026-10-20T18:29:40.452824+00:00",
-      "tags": [
-        "launch",
-        "feature",
-        "official",
-        "engineering"
       ]
     }
   ]

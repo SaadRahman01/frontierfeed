@@ -1,9 +1,56 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-30T20:51:02.886158+00:00",
+  "generated": "2026-10-31T00:51:01.063334+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "@anthropic-ai/claude-code 2.1.316 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.316",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-31T00:42:05.743000+00:00",
+      "body": "Version 2.1.316 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.316 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.316",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "6fa563b2c4fa3593"
+    },
+    {
+      "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "hackernews",
+      "published": "2026-10-30T23:08:12+00:00",
+      "body": "45 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50311311",
+      "summary": "45 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50311311",
+      "version": "",
+      "category": "pricing",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "78445fc6ba447779"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.315 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.315",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-10-30T21:05:24.080000+00:00",
+      "body": "Version 2.1.315 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.315 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.315",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "1e4a17441c5841f0"
+    },
     {
       "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
       "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
@@ -4730,53 +4777,6 @@
         "npm"
       ],
       "uid": "47fae7e3efa1f58e"
-    },
-    {
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "url": "https://www.anthropic.com/news/barclays-scales-claude",
-      "source": "anthropic-news",
-      "published": "2026-10-01T13:25:32.453675+00:00",
-      "body": "Barclays scales Claude to upgrade operations and improve client experience",
-      "summary": "Barclays scales Claude to upgrade operations and improve client experience",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "d811cc8071495c64"
-    },
-    {
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "source": "hackernews",
-      "published": "2026-10-01T13:00:55+00:00",
-      "body": "183 points, 124 comments. Discussion: https://news.ycombinator.com/item?id=49921050",
-      "summary": "183 points, 124 comments. Discussion: https://news.ycombinator.com/item?id=49921050",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "45f476bd3d2349c2"
-    },
-    {
-      "title": "Funding better evaluations of AI\u2019s impact on wellbeing",
-      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "source": "anthropic-news",
-      "published": "2026-09-30T23:54:41.145695+00:00",
-      "body": "Funding better evaluations of AI\u2019s impact on wellbeing",
-      "summary": "Funding better evaluations of AI\u2019s impact on wellbeing",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "1dad5134d5fbe6b5"
     }
   ]
 }

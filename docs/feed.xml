@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 20:51:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 00:51:01 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>@anthropic-ai/claude-code 2.1.316 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.316</link>
+<guid isPermaLink="false">frontierfeed:6fa563b2c4fa3593</guid>
+<pubDate>Sat, 31 Oct 2026 00:42:05 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.316 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Anthropic to receive high &#x27;junk&#x27; rating from credit agencies following IPO</title>
+<link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</link>
+<guid isPermaLink="false">frontierfeed:78445fc6ba447779</guid>
+<pubDate>Fri, 30 Oct 2026 23:08:12 +0000</pubDate>
+<category>pricing</category>
+<description>45 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50311311</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.315 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.315</link>
+<guid isPermaLink="false">frontierfeed:1e4a17441c5841f0</guid>
+<pubDate>Fri, 30 Oct 2026 21:05:24 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.315 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Anthropic may not secure investment-grade rating after IPO, Blackstone says</title>
 <link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</link>
@@ -790,30 +814,6 @@
 <pubDate>Tue, 20 Oct 2026 18:45:59 +0000</pubDate>
 <category>api</category>
 <description>### Features * **vertex:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicVertex`, which doesn&#x27;t serve the user profile endpoints</description>
-</item>
-<item>
-<title>Beyond permission prompts: making Claude Code more secure and autonomous</title>
-<link>https://www.anthropic.com/research/claude-code-sandboxing</link>
-<guid isPermaLink="false">frontierfeed:6cebd0312f47400e</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
-<category>claude-code</category>
-<description>Beyond permission prompts: making Claude Code more secure and autonomous</description>
-</item>
-<item>
-<title>Code execution with MCP: Building more efficient agents</title>
-<link>https://www.anthropic.com/research/code-execution-with-mcp</link>
-<guid isPermaLink="false">frontierfeed:272f0914b39ffc8f</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
-<category>api</category>
-<description>Code execution with MCP: Building more efficient agents</description>
-</item>
-<item>
-<title>Introducing advanced tool use on the Claude Developer Platform</title>
-<link>https://www.anthropic.com/research/advanced-tool-use</link>
-<guid isPermaLink="false">frontierfeed:eea90782d2b30405</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
-<category>launch</category>
-<description>We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.</description>
 </item>
 </channel>
 </rss>
