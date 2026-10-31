@@ -1,9 +1,39 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-31T18:36:55.377699+00:00",
+  "generated": "2026-10-31T22:31:53.080213+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "source": "hackernews",
+      "published": "2026-10-31T21:07:58+00:00",
+      "body": "67 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50320255",
+      "summary": "67 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50320255",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "60cb2377bb5cda92"
+    },
+    {
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "source": "hackernews",
+      "published": "2026-10-31T19:39:19+00:00",
+      "body": "87 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50319358",
+      "summary": "87 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50319358",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "3adde024795e45ed"
+    },
     {
       "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
       "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
@@ -4742,39 +4772,6 @@
         "npm"
       ],
       "uid": "f5fbd7d4367d9958"
-    },
-    {
-      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "source": "anthropic-news",
-      "published": "2026-10-02T18:28:25.000438+00:00",
-      "body": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "summary": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news",
-        "enterprise"
-      ],
-      "uid": "4692dab6f141f9c0"
-    },
-    {
-      "title": "Unmasking Propaganda: A Comparative Analysis of Masked and Causal Language Models",
-      "url": "https://arxiv.org/abs/2610.03077v1",
-      "source": "arxiv",
-      "published": "2026-10-02T09:59:47+00:00",
-      "body": "Propaganda detection is an essential task in natural language processing (NLP), particularly in the context of manipulative political communications. However, identifying specific propaganda techniques presents a significant challenge due to their often subtle nature and reliance on context, making them difficult to distinguish from legitimate persuasive language. Propaganda often involves highlighting certain facts while downplaying or ignoring others to create a desired perception. This biased communication aims to influence attitudes, beliefs, or behaviors towards a particular cause or position. This paper explores advances in detecting propaganda techniques through a comparative analysis of modern language models, using the SemEval-2020 Task 11 dataset. We evaluated both masked language models (based on XLM-RoBERTa or DeBERTa V3) and causal models (from OpenAI, Google, Mistral, Anthropic and Meta), employing two prompting strategies: base and chain-of-thought prompting. Our results demonstrate improvements over state-of-the-art models, with the best-performing MLM achieving an F1 score of 63.18 in technique classification and the best causal model achieving 63.62. We also observed that certain models excel in specific techniques, such as loaded language and name-calling, while struggling with others like bandwagon and black-and-white fallacy. These findings suggest that fine-tuning, ensemble modeling, and the use of larger datasets can further enhance propaganda detection capabilities.",
-      "summary": "Propaganda detection is an essential task in natural language processing (NLP), particularly in the context of manipulative political communications.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "5e84bd834b4a53f5"
     }
   ]
 }

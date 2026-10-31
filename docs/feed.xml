@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 18:36:55 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 22:31:53 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Anthropic takes steps to block Claude from reverse-engineering video games</title>
+<link>https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</link>
+<guid isPermaLink="false">frontierfeed:60cb2377bb5cda92</guid>
+<pubDate>Sat, 31 Oct 2026 21:07:58 +0000</pubDate>
+<category>note</category>
+<description>67 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50320255</description>
+</item>
+<item>
+<title>Anthropic blocks users for anything touching training larger models</title>
+<link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
+<guid isPermaLink="false">frontierfeed:3adde024795e45ed</guid>
+<pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
+<category>note</category>
+<description>87 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50319358</description>
+</item>
 <item>
 <title>AI startup hacks Anthropic, gains access to employee details, internal messages</title>
 <link>https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</link>
@@ -798,22 +814,6 @@
 <pubDate>Tue, 20 Oct 2026 22:16:13 +0000</pubDate>
 <category>api</category>
 <description>### Features * **api:** add org webhook endpoints and user profile enforcement events ### Chores * **ci:** run the changelog check on a standard runner * **tests:** make credential tests independent of the caller&#x27;s environment</description>
-</item>
-<item>
-<title>v1.17.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.17.0</link>
-<guid isPermaLink="false">frontierfeed:69044a8bb9574f07</guid>
-<pubDate>Tue, 20 Oct 2026 22:13:01 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add org webhook endpoints and user profile enforcement events * **api:** add RBAC Group owner-access error codes to the Admin API * **api:** document the unsupported_charset error code for plugin uploads ### Bug Fixes * **bedrock:** keep a workspace ID set…</description>
-</item>
-<item>
-<title>v1.0.255</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.255</link>
-<guid isPermaLink="false">frontierfeed:fc79e0575336db2e</guid>
-<pubDate>Tue, 20 Oct 2026 20:52:57 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.254...v1.0.255</description>
 </item>
 </channel>
 </rss>

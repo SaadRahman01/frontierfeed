@@ -9,6 +9,32 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:60cb2377bb5cda92",
+      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+      "summary": "67 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50320255",
+      "content_text": "67 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50320255",
+      "date_published": "2026-10-31T21:07:58+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:3adde024795e45ed",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "summary": "87 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50319358",
+      "content_text": "87 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50319358",
+      "date_published": "2026-10-31T19:39:19+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:8619266fe964118b",
       "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
       "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
@@ -1372,36 +1398,6 @@
         "feature",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:69044a8bb9574f07",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.17.0",
-      "title": "v1.17.0",
-      "summary": "### Features * **api:** add org webhook endpoints and user profile enforcement events * **api:** add RBAC Group owner-access error codes to the Admin API * **api:** document the unsupported_charset error code for plugin uploads ### Bug Fixes * **bedrock:** keep a workspace ID set…",
-      "content_text": "### Features * **api:** add org webhook endpoints and user profile enforcement events * **api:** add RBAC Group owner-access error codes to the Admin API * **api:** document the unsupported_charset error code for plugin uploads ### Bug Fixes * **bedrock:** keep a workspace ID set…",
-      "date_published": "2026-10-20T22:13:01+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-python",
-        "enterprise",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:fc79e0575336db2e",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.255",
-      "title": "v1.0.255",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.254...v1.0.255",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.254...v1.0.255",
-      "date_published": "2026-10-20T20:52:57+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
       ]
     }
   ]
