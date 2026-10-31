@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:a5b9d19691f52350",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.266",
+      "title": "v1.0.266",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.265...v1.0.266",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.265...v1.0.266",
+      "date_published": "2026-10-31T01:05:37+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:6fa563b2c4fa3593",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.316",
       "title": "@anthropic-ai/claude-code 2.1.316 published",
@@ -1386,20 +1400,6 @@
       "summary": "### Features * **bedrock:** send `user_profile_id` in the request body on `AnthropicBedrockMantle` Messages and token counting requests * **bedrock:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicBedrock`, which doesn't serve user prof…",
       "content_text": "### Features * **bedrock:** send `user_profile_id` in the request body on `AnthropicBedrockMantle` Messages and token counting requests * **bedrock:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicBedrock`, which doesn't serve user prof…",
       "date_published": "2026-10-20T18:46:02+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:140b0a7d1d9abd63",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.22.0",
-      "title": "vertex-sdk-v0.22.0",
-      "summary": "### Features * **vertex:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicVertex`, which doesn't serve the user profile endpoints",
-      "content_text": "### Features * **vertex:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicVertex`, which doesn't serve the user profile endpoints",
-      "date_published": "2026-10-20T18:45:59+00:00",
       "tags": [
         "api",
         "feature",

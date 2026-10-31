@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 00:51:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 07:02:04 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.266</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.266</link>
+<guid isPermaLink="false">frontierfeed:a5b9d19691f52350</guid>
+<pubDate>Sat, 31 Oct 2026 01:05:37 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.265...v1.0.266</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.316 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.316</link>
@@ -806,14 +814,6 @@
 <pubDate>Tue, 20 Oct 2026 18:46:02 +0000</pubDate>
 <category>api</category>
 <description>### Features * **bedrock:** send `user_profile_id` in the request body on `AnthropicBedrockMantle` Messages and token counting requests * **bedrock:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicBedrock`, which doesn&#x27;t serve user prof…</description>
-</item>
-<item>
-<title>vertex-sdk-v0.22.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.22.0</link>
-<guid isPermaLink="false">frontierfeed:140b0a7d1d9abd63</guid>
-<pubDate>Tue, 20 Oct 2026 18:45:59 +0000</pubDate>
-<category>api</category>
-<description>### Features * **vertex:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicVertex`, which doesn&#x27;t serve the user profile endpoints</description>
 </item>
 </channel>
 </rss>
