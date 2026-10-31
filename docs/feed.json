@@ -9,6 +9,45 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:8619266fe964118b",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "summary": "74 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50315990",
+      "content_text": "74 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50315990",
+      "date_published": "2026-10-31T13:25:10+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:0a4cdc3d03bc5d27",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "summary": "43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50315987",
+      "content_text": "43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50315987",
+      "date_published": "2026-10-31T13:25:00+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:00a7c670b7e88ecf",
+      "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "title": "Why Anthropic's filing crushed tech stocks",
+      "summary": "49 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=50315574",
+      "content_text": "49 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=50315574",
+      "date_published": "2026-10-31T12:32:10+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:a5b9d19691f52350",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.266",
       "title": "v1.0.266",
@@ -166,6 +205,19 @@
       "tags": [
         "note",
         "feature",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:48dfab6da394e082",
+      "url": "https://entropicthoughts.com/history-of-pdp-computers",
+      "title": "Brief History of PDP Computers",
+      "summary": "43 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50289081",
+      "content_text": "43 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50289081",
+      "date_published": "2026-10-29T13:53:33+00:00",
+      "tags": [
+        "note",
+        "info",
         "community"
       ]
     },
@@ -1350,61 +1402,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:64867896242b55cf",
-      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
-      "title": "Anthropic logged net loss of over $80B in first half of 2026",
-      "summary": "64 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50171966",
-      "content_text": "64 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50171966",
-      "date_published": "2026-10-20T20:09:46+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:fdf28474db720877",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.305",
-      "title": "@anthropic-ai/claude-code 2.1.305 published",
-      "summary": "Version 2.1.305 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.305 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-20T19:29:36.816000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:10e468d984507cd9",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.9.0",
-      "title": "aws-sdk-v0.9.0",
-      "summary": "### Features * **aws:** require `@anthropic-ai/sdk` 0.136.0 or later * **aws:** throw an `AnthropicError` when `actionURLs` is read on `userProfiles` or `beta.userProfiles`, which the AWS gateway doesn't serve",
-      "content_text": "### Features * **aws:** require `@anthropic-ai/sdk` 0.136.0 or later * **aws:** throw an `AnthropicError` when `actionURLs` is read on `userProfiles` or `beta.userProfiles`, which the AWS gateway doesn't serve",
-      "date_published": "2026-10-20T18:46:04+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:0787787ca555e0f4",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.36.0",
-      "title": "bedrock-sdk-v0.36.0",
-      "summary": "### Features * **bedrock:** send `user_profile_id` in the request body on `AnthropicBedrockMantle` Messages and token counting requests * **bedrock:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicBedrock`, which doesn't serve user prof…",
-      "content_text": "### Features * **bedrock:** send `user_profile_id` in the request body on `AnthropicBedrockMantle` Messages and token counting requests * **bedrock:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicBedrock`, which doesn't serve user prof…",
-      "date_published": "2026-10-20T18:46:02+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]

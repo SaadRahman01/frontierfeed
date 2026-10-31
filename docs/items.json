@@ -1,9 +1,54 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-10-31T13:41:41.265249+00:00",
+  "generated": "2026-10-31T18:36:55.377699+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "source": "hackernews",
+      "published": "2026-10-31T13:25:10+00:00",
+      "body": "74 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50315990",
+      "summary": "74 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50315990",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "8619266fe964118b"
+    },
+    {
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "source": "hackernews",
+      "published": "2026-10-31T13:25:00+00:00",
+      "body": "43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50315987",
+      "summary": "43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50315987",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "0a4cdc3d03bc5d27"
+    },
+    {
+      "title": "Why Anthropic's filing crushed tech stocks",
+      "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "source": "hackernews",
+      "published": "2026-10-31T12:32:10+00:00",
+      "body": "49 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=50315574",
+      "summary": "49 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=50315574",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "00a7c670b7e88ecf"
+    },
     {
       "title": "v1.0.266",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.266",
@@ -188,6 +233,21 @@
         "community"
       ],
       "uid": "8bde5c1df5283cf6"
+    },
+    {
+      "title": "Brief History of PDP Computers",
+      "url": "https://entropicthoughts.com/history-of-pdp-computers",
+      "source": "hackernews",
+      "published": "2026-10-29T13:53:33+00:00",
+      "body": "43 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50289081",
+      "summary": "43 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50289081",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "48dfab6da394e082"
     },
     {
       "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
@@ -4715,68 +4775,6 @@
         "paper"
       ],
       "uid": "5e84bd834b4a53f5"
-    },
-    {
-      "title": "Show HN: Rhun, an open-source code editor written in assembly",
-      "url": "https://rhun.app/",
-      "source": "hackernews",
-      "published": "2026-10-01T20:32:18+00:00",
-      "body": "43 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49926726",
-      "summary": "43 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=49926726",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "c6e97642255b6d96"
-    },
-    {
-      "title": "Customize Claude Code with mods",
-      "url": "https://claude.com/blog/claude-code-mods",
-      "source": "claude-blog",
-      "published": "2026-10-01T19:35:17.736779+00:00",
-      "body": "Customize Claude Code with mods",
-      "summary": "Customize Claude Code with mods",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "48c57876df63927b"
-    },
-    {
-      "title": "v1.0.239",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.239",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-01T18:04:49+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.238...v1.0.239",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.238...v1.0.239",
-      "version": "1.0.239",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "079d200f1c4dd648"
-    },
-    {
-      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
-      "url": "https://innerloop.works/breadcrumb",
-      "source": "hackernews",
-      "published": "2026-10-01T17:58:37+00:00",
-      "body": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49924943",
-      "summary": "41 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=49924943",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "3ccdceb4da2f2c54"
     }
   ]
 }

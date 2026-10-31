@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 13:41:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 18:36:55 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>AI startup hacks Anthropic, gains access to employee details, internal messages</title>
+<link>https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</link>
+<guid isPermaLink="false">frontierfeed:8619266fe964118b</guid>
+<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
+<category>note</category>
+<description>74 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50315990</description>
+</item>
+<item>
+<title>Anthropic&#x27;s Claude AI blocks video game cloning and reverse-engineering</title>
+<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked</link>
+<guid isPermaLink="false">frontierfeed:0a4cdc3d03bc5d27</guid>
+<pubDate>Sat, 31 Oct 2026 13:25:00 +0000</pubDate>
+<category>note</category>
+<description>43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50315987</description>
+</item>
+<item>
+<title>Why Anthropic&#x27;s filing crushed tech stocks</title>
+<link>https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</link>
+<guid isPermaLink="false">frontierfeed:00a7c670b7e88ecf</guid>
+<pubDate>Sat, 31 Oct 2026 12:32:10 +0000</pubDate>
+<category>note</category>
+<description>49 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=50315574</description>
+</item>
 <item>
 <title>v1.0.266</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.266</link>
@@ -110,6 +134,14 @@
 <pubDate>Thu, 29 Oct 2026 15:56:32 +0000</pubDate>
 <category>note</category>
 <description>40 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50291116</description>
+</item>
+<item>
+<title>Brief History of PDP Computers</title>
+<link>https://entropicthoughts.com/history-of-pdp-computers</link>
+<guid isPermaLink="false">frontierfeed:48dfab6da394e082</guid>
+<pubDate>Thu, 29 Oct 2026 13:53:33 +0000</pubDate>
+<category>note</category>
+<description>43 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50289081</description>
 </item>
 <item>
 <title>Claude Code regularly sends each background agent’s transcript to its model</title>
@@ -782,38 +814,6 @@
 <pubDate>Tue, 20 Oct 2026 20:52:57 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.254...v1.0.255</description>
-</item>
-<item>
-<title>Anthropic logged net loss of over $80B in first half of 2026</title>
-<link>https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/</link>
-<guid isPermaLink="false">frontierfeed:64867896242b55cf</guid>
-<pubDate>Tue, 20 Oct 2026 20:09:46 +0000</pubDate>
-<category>note</category>
-<description>64 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50171966</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.305 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.305</link>
-<guid isPermaLink="false">frontierfeed:fdf28474db720877</guid>
-<pubDate>Tue, 20 Oct 2026 19:29:36 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.305 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>aws-sdk-v0.9.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.9.0</link>
-<guid isPermaLink="false">frontierfeed:10e468d984507cd9</guid>
-<pubDate>Tue, 20 Oct 2026 18:46:04 +0000</pubDate>
-<category>api</category>
-<description>### Features * **aws:** require `@anthropic-ai/sdk` 0.136.0 or later * **aws:** throw an `AnthropicError` when `actionURLs` is read on `userProfiles` or `beta.userProfiles`, which the AWS gateway doesn&#x27;t serve</description>
-</item>
-<item>
-<title>bedrock-sdk-v0.36.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.36.0</link>
-<guid isPermaLink="false">frontierfeed:0787787ca555e0f4</guid>
-<pubDate>Tue, 20 Oct 2026 18:46:02 +0000</pubDate>
-<category>api</category>
-<description>### Features * **bedrock:** send `user_profile_id` in the request body on `AnthropicBedrockMantle` Messages and token counting requests * **bedrock:** throw an `AnthropicError` when `userProfiles` or `beta.userProfiles` is read on `AnthropicBedrock`, which doesn&#x27;t serve user prof…</description>
 </item>
 </channel>
 </rss>
