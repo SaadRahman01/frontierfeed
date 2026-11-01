@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 16:49:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 21:12:45 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -22,6 +22,22 @@
 <pubDate>Sun, 01 Nov 2026 15:58:28 +0000</pubDate>
 <category>note</category>
 <description>98 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=50326821</description>
+</item>
+<item>
+<title>Show HN: HackerBooks – HackerTube, but for books mentioned on HN</title>
+<link>https://hackerbooks.org</link>
+<guid isPermaLink="false">frontierfeed:ec6ebb23581c4b23</guid>
+<pubDate>Sun, 01 Nov 2026 15:58:28 +0000</pubDate>
+<category>note</category>
+<description>590 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=50326821</description>
+</item>
+<item>
+<title>Anthropic&#x27;s Mythos-class model allegedly leaked on Hugging Face</title>
+<link>https://news.ycombinator.com/item?id=50326727</link>
+<guid isPermaLink="false">frontierfeed:2628aee2a1a9c65d</guid>
+<pubDate>Sun, 01 Nov 2026 15:45:10 +0000</pubDate>
+<category>note</category>
+<description>44 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=50326727</description>
 </item>
 <item>
 <title>Show HN: BBRouter – Ben Eater&#x27;s 8-bit computer, simulated on 3D breadboards</title>
@@ -798,22 +814,6 @@
 <pubDate>Wed, 21 Oct 2026 03:36:43 +0000</pubDate>
 <category>note</category>
 <description>92 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50175779</description>
-</item>
-<item>
-<title>v1.0.256</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.256</link>
-<guid isPermaLink="false">frontierfeed:2c5fe96bcce02f6b</guid>
-<pubDate>Wed, 21 Oct 2026 03:19:41 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.255...v1.0.256</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.306 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.306</link>
-<guid isPermaLink="false">frontierfeed:57367f0244211caf</guid>
-<pubDate>Wed, 21 Oct 2026 02:28:47 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.306 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

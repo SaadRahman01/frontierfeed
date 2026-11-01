@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-01T16:49:57.499163+00:00",
+  "generated": "2026-11-01T21:12:45.723790+00:00",
   "count": 300,
   "items": [
     {
@@ -18,6 +18,36 @@
         "community"
       ],
       "uid": "b59b65e9d0eb2109"
+    },
+    {
+      "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "source": "hackernews",
+      "published": "2026-11-01T15:58:28+00:00",
+      "body": "590 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=50326821",
+      "summary": "590 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=50326821",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ec6ebb23581c4b23"
+    },
+    {
+      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+      "url": "https://news.ycombinator.com/item?id=50326727",
+      "source": "hackernews",
+      "published": "2026-11-01T15:45:10+00:00",
+      "body": "44 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=50326727",
+      "summary": "44 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=50326727",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "2628aee2a1a9c65d"
     },
     {
       "title": "Show HN: BBRouter \u2013 Ben Eater's 8-bit computer, simulated on 3D breadboards",
@@ -4740,37 +4770,6 @@
         "news"
       ],
       "uid": "1a42e045640872a6"
-    },
-    {
-      "title": "v1.0.240",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.240",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-02T20:30:21+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.239...v1.0.240",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.239...v1.0.240",
-      "version": "1.0.240",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "0e0d4b9fac0a82e3"
-    },
-    {
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "source": "hackernews",
-      "published": "2026-10-02T20:00:15+00:00",
-      "body": "48 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49937916",
-      "summary": "48 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=49937916",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "be98988a7c782d62"
     }
   ]
 }

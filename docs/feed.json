@@ -22,6 +22,32 @@
       ]
     },
     {
+      "id": "frontierfeed:ec6ebb23581c4b23",
+      "url": "https://hackerbooks.org",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "summary": "590 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=50326821",
+      "content_text": "590 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=50326821",
+      "date_published": "2026-11-01T15:58:28+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:2628aee2a1a9c65d",
+      "url": "https://news.ycombinator.com/item?id=50326727",
+      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+      "summary": "44 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=50326727",
+      "content_text": "44 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=50326727",
+      "date_published": "2026-11-01T15:45:10+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:ef077cc39c0849f0",
       "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
       "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
@@ -1369,34 +1395,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:2c5fe96bcce02f6b",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.256",
-      "title": "v1.0.256",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.255...v1.0.256",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.255...v1.0.256",
-      "date_published": "2026-10-21T03:19:41+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:57367f0244211caf",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.306",
-      "title": "@anthropic-ai/claude-code 2.1.306 published",
-      "summary": "Version 2.1.306 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.306 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-21T02:28:47.495000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
