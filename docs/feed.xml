@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 09:24:37 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 16:49:57 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Show HN: HackerBooks – HackerTube, but for books recommended on HN</title>
+<link>https://hackerbooks.org</link>
+<guid isPermaLink="false">frontierfeed:b59b65e9d0eb2109</guid>
+<pubDate>Sun, 01 Nov 2026 15:58:28 +0000</pubDate>
+<category>note</category>
+<description>98 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=50326821</description>
+</item>
+<item>
+<title>Show HN: BBRouter – Ben Eater&#x27;s 8-bit computer, simulated on 3D breadboards</title>
+<link>https://bbrouter.com/bbrouter/ben-eater-sap-1</link>
+<guid isPermaLink="false">frontierfeed:ef077cc39c0849f0</guid>
+<pubDate>Sun, 01 Nov 2026 00:10:30 +0000</pubDate>
+<category>note</category>
+<description>43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50321522</description>
+</item>
 <item>
 <title>Anthropic takes steps to block Claude from reverse-engineering video games</title>
 <link>https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</link>
@@ -798,22 +814,6 @@
 <pubDate>Wed, 21 Oct 2026 02:28:47 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.306 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Anthropic recorded a staggering $80B net loss in the first half of 2026</title>
-<link>https://twitter.com/Polymarket/status/2112634886070919426</link>
-<guid isPermaLink="false">frontierfeed:7f41b3a492202082</guid>
-<pubDate>Tue, 20 Oct 2026 22:27:07 +0000</pubDate>
-<category>note</category>
-<description>40 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50173557</description>
-</item>
-<item>
-<title>sdk-v0.137.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.137.0</link>
-<guid isPermaLink="false">frontierfeed:23f8935054bd2bf0</guid>
-<pubDate>Tue, 20 Oct 2026 22:16:13 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add org webhook endpoints and user profile enforcement events ### Chores * **ci:** run the changelog check on a standard runner * **tests:** make credential tests independent of the caller&#x27;s environment</description>
 </item>
 </channel>
 </rss>

@@ -1,9 +1,39 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-01T09:24:37.029405+00:00",
+  "generated": "2026-11-01T16:49:57.499163+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Show HN: HackerBooks \u2013 HackerTube, but for books recommended on HN",
+      "url": "https://hackerbooks.org",
+      "source": "hackernews",
+      "published": "2026-11-01T15:58:28+00:00",
+      "body": "98 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=50326821",
+      "summary": "98 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=50326821",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b59b65e9d0eb2109"
+    },
+    {
+      "title": "Show HN: BBRouter \u2013 Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+      "source": "hackernews",
+      "published": "2026-11-01T00:10:30+00:00",
+      "body": "43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50321522",
+      "summary": "43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50321522",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ef077cc39c0849f0"
+    },
     {
       "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
       "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
@@ -4741,37 +4771,6 @@
         "community"
       ],
       "uid": "be98988a7c782d62"
-    },
-    {
-      "title": "Show HN: Pi pod \u2013 Run your pi coding agent in sandboxes on your own server",
-      "url": "https://pipod.dev/",
-      "source": "hackernews",
-      "published": "2026-10-02T19:10:38+00:00",
-      "body": "48 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49937304",
-      "summary": "48 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=49937304",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "3b1b998c670345ee"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.288 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.288",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-02T18:30:40.093000+00:00",
-      "body": "Version 2.1.288 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.288 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.288",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "f5fbd7d4367d9958"
     }
   ]
 }

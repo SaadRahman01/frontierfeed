@@ -9,6 +9,32 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:b59b65e9d0eb2109",
+      "url": "https://hackerbooks.org",
+      "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+      "summary": "98 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=50326821",
+      "content_text": "98 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=50326821",
+      "date_published": "2026-11-01T15:58:28+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:ef077cc39c0849f0",
+      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "summary": "43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50321522",
+      "content_text": "43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50321522",
+      "date_published": "2026-11-01T00:10:30+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:60cb2377bb5cda92",
       "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
       "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
@@ -1371,33 +1397,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:7f41b3a492202082",
-      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
-      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
-      "summary": "40 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50173557",
-      "content_text": "40 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50173557",
-      "date_published": "2026-10-20T22:27:07+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:23f8935054bd2bf0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.137.0",
-      "title": "sdk-v0.137.0",
-      "summary": "### Features * **api:** add org webhook endpoints and user profile enforcement events ### Chores * **ci:** run the changelog check on a standard runner * **tests:** make credential tests independent of the caller's environment",
-      "content_text": "### Features * **api:** add org webhook endpoints and user profile enforcement events ### Chores * **ci:** run the changelog check on a standard runner * **tests:** make credential tests independent of the caller's environment",
-      "date_published": "2026-10-20T22:16:13+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]
