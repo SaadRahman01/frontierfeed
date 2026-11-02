@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "source": "hackernews",
+      "published": "2026-11-02T17:05:25+00:00",
+      "body": "50 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=50339913",
+      "summary": "50 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=50339913",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "0f6c0569ab0269cf"
+    },
+    {
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "source": "hackernews",
+      "published": "2026-11-02T16:40:29+00:00",
+      "body": "115 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=50339494",
+      "summary": "115 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=50339494",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "4a275c49cd892440"
+    },
+    {
+      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+      "source": "hackernews",
+      "published": "2026-11-02T14:40:05+00:00",
+      "body": "85 points, 98 comments. Discussion: https://news.ycombinator.com/item?id=50337454",
+      "summary": "85 points, 98 comments. Discussion: https://news.ycombinator.com/item?id=50337454",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "52b8e838720bbe75"
+    },
+    {
+      "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "source": "hackernews",
+      "published": "2026-11-02T14:38:45+00:00",
+      "body": "197 points, 209 comments. Discussion: https://news.ycombinator.com/item?id=50337439",
+      "summary": "197 points, 209 comments. Discussion: https://news.ycombinator.com/item?id=50337439",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "9d29973ea47446f5"
+    },
+    {
       "title": "Show HN: HackerBooks \u2013 HackerTube, but for books recommended on HN",
       "url": "https://hackerbooks.org",
       "source": "hackernews",
@@ -4704,68 +4764,6 @@
         "community"
       ],
       "uid": "a91e018c3fc40b53"
-    },
-    {
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "source": "hackernews",
-      "published": "2026-10-03T18:29:30+00:00",
-      "body": "55 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49946567",
-      "summary": "55 points, 16 comments. Discussion: https://news.ycombinator.com/item?id=49946567",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "5b0429d59be7c93c"
-    },
-    {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "source": "hackernews",
-      "published": "2026-10-03T17:44:29+00:00",
-      "body": "72 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=49946228",
-      "summary": "72 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=49946228",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "1ab447255196d4b2"
-    },
-    {
-      "title": "Show HN: Offrun \u2013 manage every coding agent from one workspace",
-      "url": "https://offrun.dev/",
-      "source": "hackernews",
-      "published": "2026-10-03T08:40:17+00:00",
-      "body": "62 points, 32 comments. Discussion: https://news.ycombinator.com/item?id=49942434",
-      "summary": "62 points, 32 comments. Discussion: https://news.ycombinator.com/item?id=49942434",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "982827686795d290"
-    },
-    {
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "source": "anthropic-news",
-      "published": "2026-10-03T02:02:41.264951+00:00",
-      "body": "Previewing the Model Hardware Standard",
-      "summary": "Previewing the Model Hardware Standard",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "1a42e045640872a6"
     }
   ]
 }

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 07:43:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 18:27:52 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app</title>
+<link>https://momentic.ai/</link>
+<guid isPermaLink="false">frontierfeed:0f6c0569ab0269cf</guid>
+<pubDate>Mon, 02 Nov 2026 17:05:25 +0000</pubDate>
+<category>note</category>
+<description>50 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=50339913</description>
+</item>
+<item>
+<title>Anthropic&#x27;s internal AI use, at retail prices, now exceeds its employee pay</title>
+<link>https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</link>
+<guid isPermaLink="false">frontierfeed:4a275c49cd892440</guid>
+<pubDate>Mon, 02 Nov 2026 16:40:29 +0000</pubDate>
+<category>note</category>
+<description>115 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=50339494</description>
+</item>
+<item>
+<title>Jobless tech workers are being left out of San Francisco&#x27;s AI boom</title>
+<link>https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near</link>
+<guid isPermaLink="false">frontierfeed:52b8e838720bbe75</guid>
+<pubDate>Mon, 02 Nov 2026 14:40:05 +0000</pubDate>
+<category>note</category>
+<description>85 points, 98 comments. Discussion: https://news.ycombinator.com/item?id=50337454</description>
+</item>
+<item>
+<title>Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1</title>
+<link>https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</link>
+<guid isPermaLink="false">frontierfeed:9d29973ea47446f5</guid>
+<pubDate>Mon, 02 Nov 2026 14:38:45 +0000</pubDate>
+<category>note</category>
+<description>197 points, 209 comments. Discussion: https://news.ycombinator.com/item?id=50337439</description>
+</item>
 <item>
 <title>Show HN: HackerBooks – HackerTube, but for books recommended on HN</title>
 <link>https://hackerbooks.org</link>
@@ -782,38 +814,6 @@
 <pubDate>Wed, 21 Oct 2026 15:52:43 +0000</pubDate>
 <category>api</category>
 <description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21</description>
-</item>
-<item>
-<title>[breaking] vertex-sdk-v1.0.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.0.0</link>
-<guid isPermaLink="false">frontierfeed:910bd7e3d823ea57</guid>
-<pubDate>Wed, 21 Oct 2026 15:52:40 +0000</pubDate>
-<category>api</category>
-<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21</description>
-</item>
-<item>
-<title>[breaking] sdk-v1.0.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.0.0</link>
-<guid isPermaLink="false">frontierfeed:6245e7091c0f60ad</guid>
-<pubDate>Wed, 21 Oct 2026 15:52:38 +0000</pubDate>
-<category>api</category>
-<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Chores * **ci:** check the changelog of each…</description>
-</item>
-<item>
-<title>[breaking] v2.0.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.0.0</link>
-<guid isPermaLink="false">frontierfeed:1c62619906394987</guid>
-<pubDate>Wed, 21 Oct 2026 15:51:32 +0000</pubDate>
-<category>api</category>
-<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Documentation * **api:** remove outdated sys…</description>
-</item>
-<item>
-<title>Using Claude to reduce the attack surface of code</title>
-<link>https://www.anthropic.com/research/attack-surface-reduction</link>
-<guid isPermaLink="false">frontierfeed:b2bdcbdc1b05fce1</guid>
-<pubDate>Wed, 21 Oct 2026 03:36:43 +0000</pubDate>
-<category>note</category>
-<description>92 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50175779</description>
 </item>
 </channel>
 </rss>

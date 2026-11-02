@@ -9,6 +9,58 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:0f6c0569ab0269cf",
+      "url": "https://momentic.ai/",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "summary": "50 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=50339913",
+      "content_text": "50 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=50339913",
+      "date_published": "2026-11-02T17:05:25+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:4a275c49cd892440",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "summary": "115 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=50339494",
+      "content_text": "115 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=50339494",
+      "date_published": "2026-11-02T16:40:29+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:52b8e838720bbe75",
+      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+      "summary": "85 points, 98 comments. Discussion: https://news.ycombinator.com/item?id=50337454",
+      "content_text": "85 points, 98 comments. Discussion: https://news.ycombinator.com/item?id=50337454",
+      "date_published": "2026-11-02T14:40:05+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:9d29973ea47446f5",
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+      "summary": "197 points, 209 comments. Discussion: https://news.ycombinator.com/item?id=50337439",
+      "content_text": "197 points, 209 comments. Discussion: https://news.ycombinator.com/item?id=50337439",
+      "date_published": "2026-11-02T14:38:45+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:b59b65e9d0eb2109",
       "url": "https://hackerbooks.org",
       "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
@@ -1340,61 +1392,6 @@
         "breaking",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:910bd7e3d823ea57",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.0.0",
-      "title": "vertex-sdk-v1.0.0",
-      "summary": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
-      "content_text": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
-      "date_published": "2026-10-21T15:52:40+00:00",
-      "tags": [
-        "api",
-        "breaking",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:6245e7091c0f60ad",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.0.0",
-      "title": "sdk-v1.0.0",
-      "summary": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Chores * **ci:** check the changelog of each…",
-      "content_text": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Chores * **ci:** check the changelog of each…",
-      "date_published": "2026-10-21T15:52:38+00:00",
-      "tags": [
-        "api",
-        "breaking",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:1c62619906394987",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.0.0",
-      "title": "v2.0.0",
-      "summary": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Documentation * **api:** remove outdated sys…",
-      "content_text": "### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Documentation * **api:** remove outdated sys…",
-      "date_published": "2026-10-21T15:51:32+00:00",
-      "tags": [
-        "api",
-        "breaking",
-        "release",
-        "anthropic-sdk-python"
-      ]
-    },
-    {
-      "id": "frontierfeed:b2bdcbdc1b05fce1",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "title": "Using Claude to reduce the attack surface of code",
-      "summary": "92 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50175779",
-      "content_text": "92 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50175779",
-      "date_published": "2026-10-21T03:36:43+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
