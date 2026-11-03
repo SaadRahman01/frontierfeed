@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 09:38:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 17:52:59 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>OpenAI seems to be silently re-enabling model training on Codex chats</title>
+<link>https://news.ycombinator.com/item?id=50352757</link>
+<guid isPermaLink="false">frontierfeed:0751547fb6f33c66</guid>
+<pubDate>Tue, 03 Nov 2026 14:53:41 +0000</pubDate>
+<category>note</category>
+<description>145 points, 50 comments. Discussion: https://news.ycombinator.com/item?id=50352757</description>
+</item>
+<item>
+<title>Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly</title>
+<link>https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html</link>
+<guid isPermaLink="false">frontierfeed:6a15038e4192867e</guid>
+<pubDate>Tue, 03 Nov 2026 11:16:07 +0000</pubDate>
+<category>note</category>
+<description>72 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50350560</description>
+</item>
 <item>
 <title>Make long-running agents faster with message threads</title>
 <link>https://claude.com/resources/articles/message-threads</link>
@@ -798,22 +814,6 @@
 <pubDate>Thu, 22 Oct 2026 04:19:48 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>From Clinical Judgment to Checkable Rules: Clinician-Led Guardrails for Mental-Health Chatbots</title>
-<link>https://arxiv.org/abs/2610.30690v1</link>
-<guid isPermaLink="false">frontierfeed:68317242ffea8e07</guid>
-<pubDate>Thu, 22 Oct 2026 04:02:51 +0000</pubDate>
-<category>research</category>
-<description>Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult to inspect or explain. Common approaches to improving safety rely on prompt engineering, LLM-as-a-Judge, and Constitutional AI.</description>
-</item>
-<item>
-<title>Introducing Claude Duet</title>
-<link>https://claude.com/resources/articles/claude-duet</link>
-<guid isPermaLink="false">frontierfeed:efb4512850a8c472</guid>
-<pubDate>Wed, 21 Oct 2026 22:24:26 +0000</pubDate>
-<category>launch</category>
-<description>A research preview is available by waitlist today, starting with US Pro and Max subscribers.</description>
 </item>
 </channel>
 </rss>

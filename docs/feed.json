@@ -9,6 +9,32 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:0751547fb6f33c66",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "summary": "145 points, 50 comments. Discussion: https://news.ycombinator.com/item?id=50352757",
+      "content_text": "145 points, 50 comments. Discussion: https://news.ycombinator.com/item?id=50352757",
+      "date_published": "2026-11-03T14:53:41+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:6a15038e4192867e",
+      "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+      "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+      "summary": "72 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50350560",
+      "content_text": "72 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50350560",
+      "date_published": "2026-11-03T11:16:07+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:272df11deda55ca1",
       "url": "https://claude.com/resources/articles/message-threads",
       "title": "Make long-running agents faster with message threads",
@@ -1365,34 +1391,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:68317242ffea8e07",
-      "url": "https://arxiv.org/abs/2610.30690v1",
-      "title": "From Clinical Judgment to Checkable Rules: Clinician-Led Guardrails for Mental-Health Chatbots",
-      "summary": "Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult to inspect or explain. Common approaches to improving safety rely on prompt engineering, LLM-as-a-Judge, and Constitutional AI.",
-      "content_text": "Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult to inspect or explain. Common approaches to improving safety rely on prompt engineering, LLM-as-a-Judge, and Constitutional AI.",
-      "date_published": "2026-10-22T04:02:51+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:efb4512850a8c472",
-      "url": "https://claude.com/resources/articles/claude-duet",
-      "title": "Introducing Claude Duet",
-      "summary": "A research preview is available by waitlist today, starting with US Pro and Max subscribers.",
-      "content_text": "A research preview is available by waitlist today, starting with US Pro and Max subscribers.",
-      "date_published": "2026-10-21T22:24:26.745805+00:00",
-      "tags": [
-        "launch",
-        "feature",
-        "official",
-        "product"
       ]
     }
   ]

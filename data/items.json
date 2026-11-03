@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "source": "hackernews",
+      "published": "2026-11-03T14:53:41+00:00",
+      "body": "145 points, 50 comments. Discussion: https://news.ycombinator.com/item?id=50352757",
+      "summary": "145 points, 50 comments. Discussion: https://news.ycombinator.com/item?id=50352757",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "0751547fb6f33c66"
+    },
+    {
+      "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+      "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+      "source": "hackernews",
+      "published": "2026-11-03T11:16:07+00:00",
+      "body": "72 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50350560",
+      "summary": "72 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50350560",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "6a15038e4192867e"
+    },
+    {
       "title": "Make long-running agents faster with message threads",
       "url": "https://claude.com/resources/articles/message-threads",
       "source": "claude-blog",
@@ -4742,37 +4772,6 @@
         "claude-code-action"
       ],
       "uid": "f709d32be3f8deb0"
-    },
-    {
-      "title": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "source": "hackernews",
-      "published": "2026-10-06T18:00:34+00:00",
-      "body": "90 points, 48 comments. Discussion: https://news.ycombinator.com/item?id=49981905",
-      "summary": "90 points, 48 comments. Discussion: https://news.ycombinator.com/item?id=49981905",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "55df0f703e7af21a"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.292 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.292",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-06T17:10:31.715000+00:00",
-      "body": "Version 2.1.292 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.292 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.292",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "845df7588ea61854"
     }
   ]
 }
