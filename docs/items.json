@@ -1,9 +1,218 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-02T18:27:52.342994+00:00",
+  "generated": "2026-11-03T01:37:54.131853+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Make long-running agents faster with message threads",
+      "url": "https://claude.com/resources/articles/message-threads",
+      "source": "claude-blog",
+      "published": "2026-11-03T01:37:43.485246+00:00",
+      "body": "New in the Messages API, send your conversation once, and the API receives only what\u2019s new with every turn.",
+      "summary": "New in the Messages API, send your conversation once, and the API receives only what\u2019s new with every turn.",
+      "version": "",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "272df11deda55ca1"
+    },
+    {
+      "title": "v1.0.267",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.267",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-03T01:33:23+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.266...v1.0.267",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.266...v1.0.267",
+      "version": "1.0.267",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "0ca36d450b8f3363"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.317 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.317",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-02T23:57:53.069000+00:00",
+      "body": "Version 2.1.317 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.317 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.317",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "95474272909eee97"
+    },
+    {
+      "title": "Anthropic's growth just flattened",
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "source": "hackernews",
+      "published": "2026-11-02T22:33:20+00:00",
+      "body": "155 points, 187 comments. Discussion: https://news.ycombinator.com/item?id=50344958",
+      "summary": "155 points, 187 comments. Discussion: https://news.ycombinator.com/item?id=50344958",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "6040dfcec9454bc9"
+    },
+    {
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "source": "hackernews",
+      "published": "2026-11-02T22:30:47+00:00",
+      "body": "187 points, 114 comments. Discussion: https://news.ycombinator.com/item?id=50344919",
+      "summary": "187 points, 114 comments. Discussion: https://news.ycombinator.com/item?id=50344919",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "97bc974877fac1ab"
+    },
+    {
+      "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+      "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+      "source": "hackernews",
+      "published": "2026-11-02T19:36:37+00:00",
+      "body": "71 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50342424",
+      "summary": "71 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50342424",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "8c16d86386d76fd8"
+    },
+    {
+      "title": "google-cloud-sdk-v1.1.2",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.2",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-02T19:17:27+00:00",
+      "body": "### Chores\n\n* **internal:** type-check the published declarations of every subpackage\n\n\n### Documentation\n\n* **examples:** use current model IDs",
+      "summary": "### Chores * **internal:** type-check the published declarations of every subpackage ### Documentation * **examples:** use current model IDs",
+      "version": "google-cloud-sdk-v1.1.2",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "de97a5c4097b8bfb"
+    },
+    {
+      "title": "aws-sdk-v1.1.2",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.1.2",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-02T19:17:24+00:00",
+      "body": "### Chores\n\n* **internal:** type-check the published declarations of every subpackage",
+      "summary": "### Chores * **internal:** type-check the published declarations of every subpackage",
+      "version": "aws-sdk-v1.1.2",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "029142bf27b959eb"
+    },
+    {
+      "title": "foundry-sdk-v1.1.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.1.1",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-02T19:17:21+00:00",
+      "body": "### Bug Fixes\n\n* **foundry:** make client.d.ts type-check with skipLibCheck off\n\n\n### Chores\n\n* **internal:** type-check the published declarations of every subpackage",
+      "summary": "### Bug Fixes * **foundry:** make client.d.ts type-check with skipLibCheck off ### Chores * **internal:** type-check the published declarations of every subpackage",
+      "version": "foundry-sdk-v1.1.1",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "5b19640f394bffbf"
+    },
+    {
+      "title": "bedrock-sdk-v1.1.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.1",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-02T19:17:18+00:00",
+      "body": "### Chores\n\n* **internal:** type-check the published declarations of every subpackage",
+      "summary": "### Chores * **internal:** type-check the published declarations of every subpackage",
+      "version": "bedrock-sdk-v1.1.1",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "77145e84b80fa5f3"
+    },
+    {
+      "title": "vertex-sdk-v1.1.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.1",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-02T19:17:16+00:00",
+      "body": "### Chores\n\n* **internal:** type-check the published declarations of every subpackage",
+      "summary": "### Chores * **internal:** type-check the published declarations of every subpackage",
+      "version": "ertex-sdk-v1.1.1",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "2a921e5bf9078f9c"
+    },
+    {
+      "title": "sdk-v1.4.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.4.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-02T19:17:13+00:00",
+      "body": "### Features\n\n* **api:** add GA methods for analytics, spend limits and RBAC\n* **api:** add named beta types for unified metrics and RBAC delete responses\n* **api:** add shared analytics order and increase request actor types\n* **api:** add tool_use_limit_reached_error and compaction_limit_reached_error session error types\n* **api:** add types for analytics group_by and spend limit period filters\n* **api:** add user_profile_id to External Keys and Workspaces\n\n\n### Bug Fixes\n\n* **api:** make spend_limit nullable in the spend limit increase request approve response\n* **api:** require always-sent analytics fields and drop the unused project product field\n\n\n### Chores\n\n* **ci:** install only the headless Chromium shell in the browser ecosystem tests\n* **ci:** remove unused build upload steps\n* **docs:** clarify the Slack channel id description\n* **docs:** clarify what disabling the Compliance API stops\n* **docs:** clarify what the capability_access_all role action grants\n* **docs:** link Dreams model fields to the supported models section\n* **docs:** update example user ID in Admin API examples\n* **internal:** add a section for each repository's own review rules\n* **internal:** plainer wording in worker comments\n* **internal:** type-check the published declarations of every subpackage\n\n### Documentation\n\n* add a description to the AnthropicBeta type\n* **examples:** keep the message threads example valid on Sonnet 5.5\n* **examples:** use current model IDs\n* **readme:** point to the docs site for documentation",
+      "summary": "### Features * **api:** add GA methods for analytics, spend limits and RBAC * **api:** add named beta types for unified metrics and RBAC delete responses * **api:** add shared analytics order and increase request actor types * **api:** add tool_use_limit_reached_error and compact\u2026",
+      "version": "sdk-v1.4.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "sonnet",
+        "enterprise"
+      ],
+      "uid": "9284e4b9edd91e44"
+    },
+    {
+      "title": "v2.4.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.4.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-11-02T19:07:19+00:00",
+      "body": "### Features\n\n* **api:** add GA methods for analytics, spend limits and RBAC\n* **api:** add named beta types for unified metrics and RBAC delete responses\n* **api:** add shared analytics order and increase request actor types\n* **api:** add tool_use_limit_reached_error and compaction_limit_reached_error session error types\n* **api:** add types for analytics group_by and spend limit period filters\n* **api:** add user_profile_id to External Keys and Workspaces\n\n\n### Bug Fixes\n\n* **api:** make spend_limit nullable in the spend limit increase request approve response\n* **api:** require always-sent analytics fields and drop the unused project product field\n* **client:** let pydantic validate params types that accept omit\n\n\n### Chores\n\n* **ci:** remove unused build upload steps\n* **docs:** clarify the Slack channel id description\n* **docs:** clarify what disabling the Compliance API stops\n* **docs:** clarify what the capability_access_all role action grants\n* **docs:** link Dreams model fields to the supported models section\n* **docs:** update example user ID in Admin API examples\n* **internal:** add a section for each repository's own review rules\n* **internal:** plainer wording in worker comments\n\n### Documentation\n\n* **client:** add missing await to the async parse() docstring example\n* **examples:** keep the message threads example valid on Sonnet 5.5\n* **examples:** use current model IDs\n* **readme:** point to the docs site for documentation\n* link to the SDK documentation instead of removed README sections",
+      "summary": "### Features * **api:** add GA methods for analytics, spend limits and RBAC * **api:** add named beta types for unified metrics and RBAC delete responses * **api:** add shared analytics order and increase request actor types * **api:** add tool_use_limit_reached_error and compact\u2026",
+      "version": "2.4.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "sonnet",
+        "enterprise"
+      ],
+      "uid": "20b79cb70dd0fe94"
+    },
     {
       "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
       "url": "https://momentic.ai/",
@@ -33,6 +242,22 @@
         "community"
       ],
       "uid": "4a275c49cd892440"
+    },
+    {
+      "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+      "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+      "source": "hackernews",
+      "published": "2026-11-02T16:25:33+00:00",
+      "body": "82 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50339224",
+      "summary": "82 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50339224",
+      "version": "",
+      "category": "model-release",
+      "impact": "feature",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "0ff0a108a33cd83a"
     },
     {
       "title": "Jobless tech workers are being left out of San Francisco's AI boom",
@@ -4549,225 +4774,6 @@
         "community"
       ],
       "uid": "d81bd350f4faf035"
-    },
-    {
-      "title": "SIGMA: Self-Improving Alignment Generalization from a Model Spec",
-      "url": "https://arxiv.org/abs/2610.07935v1",
-      "source": "arxiv",
-      "published": "2026-10-06T08:09:56+00:00",
-      "body": "LLM agents are increasingly capable of executing complex tasks and of recursively improving themselves on easy-to-verify objectives such as software engineering and mathematics. Since alignment is much harder to verify, this creates a growing risk of capabilities increasing without appropriate safety alignment, especially as capabilities expand to auto-research and cybersecurity. Existing approaches focus on capability self-improvement using verifiable feedback or on alignment training with supervision from stronger models or curated data, creating an external supervision bottleneck for alignment. We ask whether current models can improve their own safety alignment, and propose SIGMA, a data generation and training pipeline enabling alignment self-improvement that generalizes to out-of-distribution settings. Given only a \"Model Spec\" stating the model's desired behavior, SIGMA leverages a model's reasoning capabilities to strengthen its own safety reasoning. SIGMA first performs spec-guided task synthesis, using the candidate model as a task designer agent to generate diverse alignment dilemma scenarios and convert them into training tasks that stress-test its understanding of the Model Spec. Next, SIGMA conducts self-judged alignment training through supervised fine-tuning and rubric-based reinforcement learning with the model itself as the reward model. Despite training only on single-turn chat data, SIGMA improves safety alignment in multi-turn agentic environments (AgentHarm harmfulness decreases from 22.6 to 14.8; Agentic Misalignment decreases from 79.1 to 3.8), outperforms Deliberative Alignment and Constitutional AI baselines, and retains general capability. Analyses show that a Model Spec balancing harmlessness and helpfulness, test-time reasoning for safety deliberation, and high-quality rubrics from SIGMA's task designer agent are crucial for effective self-improvement.",
-      "summary": "LLM agents are increasingly capable of executing complex tasks and of recursively improving themselves on easy-to-verify objectives such as software engineering and mathematics.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "1cec5e35a3635c0f"
-    },
-    {
-      "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-      "source": "hackernews",
-      "published": "2026-10-06T07:29:50+00:00",
-      "body": "75 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=49975345",
-      "summary": "75 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=49975345",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "97198b52d27a9414"
-    },
-    {
-      "title": "v1.0.243",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.243",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-06T04:03:51+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.242...v1.0.243",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.242...v1.0.243",
-      "version": "1.0.243",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "deaab6fa87a6d08f"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.291 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.291",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-06T03:32:36.856000+00:00",
-      "body": "Version 2.1.291 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.291 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.291",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "01c9ededf1fc7974"
-    },
-    {
-      "title": "v1.0.242",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.242",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-05T23:38:07+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.241...v1.0.242",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.241...v1.0.242",
-      "version": "1.0.242",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "6f0ed8de4e7c4acc"
-    },
-    {
-      "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
-      "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
-      "source": "hackernews",
-      "published": "2026-10-05T22:01:35+00:00",
-      "body": "56 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=49971473",
-      "summary": "56 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=49971473",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "d1db354f307d9d09"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.290 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.290",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-05T18:12:44.907000+00:00",
-      "body": "Version 2.1.290 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.290 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.290",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "12e38a1ac4df1c00"
-    },
-    {
-      "title": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
-      "url": "https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
-      "source": "claude-blog",
-      "published": "2026-10-05T16:06:31.248275+00:00",
-      "body": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
-      "summary": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "b9f48ae78d48e2fc"
-    },
-    {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "source": "hackernews",
-      "published": "2026-10-05T05:37:40+00:00",
-      "body": "49 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49961057",
-      "summary": "49 points, 41 comments. Discussion: https://news.ycombinator.com/item?id=49961057",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "9c3f406153af17fd"
-    },
-    {
-      "title": "Religious scholars met with Anthropic",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "source": "hackernews",
-      "published": "2026-10-04T02:34:22+00:00",
-      "body": "56 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=49950052",
-      "summary": "56 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=49950052",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "34bd529cc6f7fbd3"
-    },
-    {
-      "title": "Expanding our support for scientists",
-      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "source": "anthropic-news",
-      "published": "2026-10-04T00:42:01.463904+00:00",
-      "body": "Expanding our support for scientists",
-      "summary": "Expanding our support for scientists",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "5c538f75557a17d5"
-    },
-    {
-      "title": "v1.0.241",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.241",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-03T23:16:10+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.240...v1.0.241",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.240...v1.0.241",
-      "version": "1.0.241",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "2ab8b5b7fddd0d84"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.289 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.289",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-03T20:12:02.717000+00:00",
-      "body": "Version 2.1.289 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.289 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.289",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "673dd1a36e0bee05"
-    },
-    {
-      "title": "Anthropic tried to persuade Pope that AI could be conscious being",
-      "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
-      "source": "hackernews",
-      "published": "2026-10-03T19:33:10+00:00",
-      "body": "46 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49947050",
-      "summary": "46 points, 69 comments. Discussion: https://news.ycombinator.com/item?id=49947050",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "a91e018c3fc40b53"
     }
   ]
 }

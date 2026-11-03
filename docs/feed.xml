@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 18:27:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 01:37:54 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,110 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Make long-running agents faster with message threads</title>
+<link>https://claude.com/resources/articles/message-threads</link>
+<guid isPermaLink="false">frontierfeed:272df11deda55ca1</guid>
+<pubDate>Tue, 03 Nov 2026 01:37:43 +0000</pubDate>
+<category>api</category>
+<description>New in the Messages API, send your conversation once, and the API receives only what’s new with every turn.</description>
+</item>
+<item>
+<title>v1.0.267</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.267</link>
+<guid isPermaLink="false">frontierfeed:0ca36d450b8f3363</guid>
+<pubDate>Tue, 03 Nov 2026 01:33:23 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.266...v1.0.267</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.317 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.317</link>
+<guid isPermaLink="false">frontierfeed:95474272909eee97</guid>
+<pubDate>Mon, 02 Nov 2026 23:57:53 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.317 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Anthropic&#x27;s growth just flattened</title>
+<link>https://www.regenerator1.com/p/anthropics-growth-just-flattened</link>
+<guid isPermaLink="false">frontierfeed:6040dfcec9454bc9</guid>
+<pubDate>Mon, 02 Nov 2026 22:33:20 +0000</pubDate>
+<category>note</category>
+<description>155 points, 187 comments. Discussion: https://news.ycombinator.com/item?id=50344958</description>
+</item>
+<item>
+<title>The SEC Should Block Anthropic&#x27;s IPO to Protect the Public</title>
+<link>https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/</link>
+<guid isPermaLink="false">frontierfeed:97bc974877fac1ab</guid>
+<pubDate>Mon, 02 Nov 2026 22:30:47 +0000</pubDate>
+<category>note</category>
+<description>187 points, 114 comments. Discussion: https://news.ycombinator.com/item?id=50344919</description>
+</item>
+<item>
+<title>Anthropic reveals $900B AI spending commitments ahead of IPO</title>
+<link>https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f</link>
+<guid isPermaLink="false">frontierfeed:8c16d86386d76fd8</guid>
+<pubDate>Mon, 02 Nov 2026 19:36:37 +0000</pubDate>
+<category>note</category>
+<description>71 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50342424</description>
+</item>
+<item>
+<title>google-cloud-sdk-v1.1.2</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.2</link>
+<guid isPermaLink="false">frontierfeed:de97a5c4097b8bfb</guid>
+<pubDate>Mon, 02 Nov 2026 19:17:27 +0000</pubDate>
+<category>api</category>
+<description>### Chores * **internal:** type-check the published declarations of every subpackage ### Documentation * **examples:** use current model IDs</description>
+</item>
+<item>
+<title>aws-sdk-v1.1.2</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.1.2</link>
+<guid isPermaLink="false">frontierfeed:029142bf27b959eb</guid>
+<pubDate>Mon, 02 Nov 2026 19:17:24 +0000</pubDate>
+<category>api</category>
+<description>### Chores * **internal:** type-check the published declarations of every subpackage</description>
+</item>
+<item>
+<title>foundry-sdk-v1.1.1</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.1.1</link>
+<guid isPermaLink="false">frontierfeed:5b19640f394bffbf</guid>
+<pubDate>Mon, 02 Nov 2026 19:17:21 +0000</pubDate>
+<category>api</category>
+<description>### Bug Fixes * **foundry:** make client.d.ts type-check with skipLibCheck off ### Chores * **internal:** type-check the published declarations of every subpackage</description>
+</item>
+<item>
+<title>bedrock-sdk-v1.1.1</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.1</link>
+<guid isPermaLink="false">frontierfeed:77145e84b80fa5f3</guid>
+<pubDate>Mon, 02 Nov 2026 19:17:18 +0000</pubDate>
+<category>api</category>
+<description>### Chores * **internal:** type-check the published declarations of every subpackage</description>
+</item>
+<item>
+<title>vertex-sdk-v1.1.1</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.1</link>
+<guid isPermaLink="false">frontierfeed:2a921e5bf9078f9c</guid>
+<pubDate>Mon, 02 Nov 2026 19:17:16 +0000</pubDate>
+<category>api</category>
+<description>### Chores * **internal:** type-check the published declarations of every subpackage</description>
+</item>
+<item>
+<title>sdk-v1.4.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.4.0</link>
+<guid isPermaLink="false">frontierfeed:9284e4b9edd91e44</guid>
+<pubDate>Mon, 02 Nov 2026 19:17:13 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add GA methods for analytics, spend limits and RBAC * **api:** add named beta types for unified metrics and RBAC delete responses * **api:** add shared analytics order and increase request actor types * **api:** add tool_use_limit_reached_error and compact…</description>
+</item>
+<item>
+<title>v2.4.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.4.0</link>
+<guid isPermaLink="false">frontierfeed:20b79cb70dd0fe94</guid>
+<pubDate>Mon, 02 Nov 2026 19:07:19 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add GA methods for analytics, spend limits and RBAC * **api:** add named beta types for unified metrics and RBAC delete responses * **api:** add shared analytics order and increase request actor types * **api:** add tool_use_limit_reached_error and compact…</description>
+</item>
 <item>
 <title>Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app</title>
 <link>https://momentic.ai/</link>
@@ -30,6 +134,14 @@
 <pubDate>Mon, 02 Nov 2026 16:40:29 +0000</pubDate>
 <category>note</category>
 <description>115 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=50339494</description>
+</item>
+<item>
+<title>Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings</title>
+<link>https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now</link>
+<guid isPermaLink="false">frontierfeed:0ff0a108a33cd83a</guid>
+<pubDate>Mon, 02 Nov 2026 16:25:33 +0000</pubDate>
+<category>model-release</category>
+<description>82 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50339224</description>
 </item>
 <item>
 <title>Jobless tech workers are being left out of San Francisco&#x27;s AI boom</title>
@@ -702,118 +814,6 @@
 <pubDate>Wed, 21 Oct 2026 22:24:26 +0000</pubDate>
 <category>note</category>
 <description>HCLTech will bring Claude into the solutions it provides for banks, hospitals, telecom companies, and manufacturers.</description>
-</item>
-<item>
-<title>v1.0.257</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.257</link>
-<guid isPermaLink="false">frontierfeed:67314818381c68bd</guid>
-<pubDate>Wed, 21 Oct 2026 22:21:23 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.256...v1.0.257</description>
-</item>
-<item>
-<title>v2.1.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.1.0</link>
-<guid isPermaLink="false">frontierfeed:c76128999b4e56d3</guid>
-<pubDate>Wed, 21 Oct 2026 22:00:30 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add enforcement status, actions and filter to user profiles</description>
-</item>
-<item>
-<title>sdk-v1.1.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.1.0</link>
-<guid isPermaLink="false">frontierfeed:a5b2dd7f53a9015f</guid>
-<pubDate>Wed, 21 Oct 2026 21:54:03 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add enforcement status, actions and filter to user profiles</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.307 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.307</link>
-<guid isPermaLink="false">frontierfeed:702337d079007172</guid>
-<pubDate>Wed, 21 Oct 2026 20:47:18 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.307 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Claude Security now scans continuously and tracks fixes</title>
-<link>https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes</link>
-<guid isPermaLink="false">frontierfeed:f98a755d299d399a</guid>
-<pubDate>Wed, 21 Oct 2026 18:41:57 +0000</pubDate>
-<category>api</category>
-<description>Claude Security now keeps up with your repositories as code changes, tracks findings until they’re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.</description>
-</item>
-<item>
-<title>Introducing the Life Sciences Verification Program</title>
-<link>https://www.anthropic.com/news/life-sciences-verification-program</link>
-<guid isPermaLink="false">frontierfeed:773e2f6fa0b8f009</guid>
-<pubDate>Wed, 21 Oct 2026 18:41:55 +0000</pubDate>
-<category>launch</category>
-<description>The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.</description>
-</item>
-<item>
-<title>Partnering with Accenture on embedded evaluation</title>
-<link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
-<guid isPermaLink="false">frontierfeed:f28145f8cf320c8a</guid>
-<pubDate>Wed, 21 Oct 2026 18:41:55 +0000</pubDate>
-<category>research</category>
-<description>Partnering with Accenture on embedded evaluation</description>
-</item>
-<item>
-<title>Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust</title>
-<link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
-<guid isPermaLink="false">frontierfeed:aa9fefa2be90e4ed</guid>
-<pubDate>Wed, 21 Oct 2026 18:41:55 +0000</pubDate>
-<category>note</category>
-<description>Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.</description>
-</item>
-<item>
-<title>Anthropic&#x27;s Public Benefit Charter</title>
-<link>https://www.anthropic.com/public-benefit-charter</link>
-<guid isPermaLink="false">frontierfeed:c411a0e2f24370bd</guid>
-<pubDate>Wed, 21 Oct 2026 18:29:54 +0000</pubDate>
-<category>note</category>
-<description>45 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50185438</description>
-</item>
-<item>
-<title>Show HN: Omnara – Open-source alternative to Claude Managed Agents</title>
-<link>https://github.com/omnara-ai/omnara</link>
-<guid isPermaLink="false">frontierfeed:5fc290bb09157170</guid>
-<pubDate>Wed, 21 Oct 2026 16:44:53 +0000</pubDate>
-<category>note</category>
-<description>68 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50183892</description>
-</item>
-<item>
-<title>[breaking] google-cloud-sdk-v1.0.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.0.0</link>
-<guid isPermaLink="false">frontierfeed:377d27758a4c7ad5</guid>
-<pubDate>Wed, 21 Oct 2026 15:52:51 +0000</pubDate>
-<category>api</category>
-<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21</description>
-</item>
-<item>
-<title>[breaking] aws-sdk-v1.0.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.0.0</link>
-<guid isPermaLink="false">frontierfeed:3a3fbbd4774eb20b</guid>
-<pubDate>Wed, 21 Oct 2026 15:52:49 +0000</pubDate>
-<category>api</category>
-<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21</description>
-</item>
-<item>
-<title>[breaking] foundry-sdk-v1.0.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.0.0</link>
-<guid isPermaLink="false">frontierfeed:78e6490fa7c6a32a</guid>
-<pubDate>Wed, 21 Oct 2026 15:52:46 +0000</pubDate>
-<category>api</category>
-<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21</description>
-</item>
-<item>
-<title>[breaking] bedrock-sdk-v1.0.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.0.0</link>
-<guid isPermaLink="false">frontierfeed:878b56071e2f54d5</guid>
-<pubDate>Wed, 21 Oct 2026 15:52:43 +0000</pubDate>
-<category>api</category>
-<description>### ⚠ BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21</description>
 </item>
 </channel>
 </rss>

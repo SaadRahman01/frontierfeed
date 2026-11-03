@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, model releases only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 18:27:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 01:37:54 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-releases.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — model releases</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings</title>
+<link>https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now</link>
+<guid isPermaLink="false">frontierfeed:0ff0a108a33cd83a</guid>
+<pubDate>Mon, 02 Nov 2026 16:25:33 +0000</pubDate>
+<category>model-release</category>
+<description>82 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50339224</description>
+</item>
 <item>
 <title>Introducing artifacts for legal work</title>
 <link>https://claude.com/resources/articles/introducing-artifacts-for-legal-work</link>
