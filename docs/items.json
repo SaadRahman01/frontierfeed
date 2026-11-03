@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-03T01:37:54.131853+00:00",
+  "generated": "2026-11-03T09:38:52.327111+00:00",
   "count": 300,
   "items": [
     {
@@ -333,6 +333,24 @@
         "community"
       ],
       "uid": "2628aee2a1a9c65d"
+    },
+    {
+      "title": "Learning by Doing: Autonomously Compiling and Curating Agent Skills from Verified Traces",
+      "url": "https://arxiv.org/abs/2611.01386v1",
+      "source": "arxiv",
+      "published": "2026-11-01T00:47:54+00:00",
+      "body": "Memory systems for production LLM agents mostly store semantic memory (facts about users and domains) or episodic memory (earlier interactions). Research systems such as Trace2Skill, WikiSkill, and SkillRevise learn procedures from agent runs, package them as Skills, and evaluate them on benchmarks. We describe Zep Agent Skills, a production service that gives deployed agents this procedural memory. The service uses only verified attempts as evidence, cites the supporting events for each field of a Skill, and governs the admission and distribution of each Skill version. The service records each task attempt as a Trace with ordered events, an outcome, and a verification strength. A compiler with separate Reflector and Curator roles turns verified Traces into versioned Skills. Scans and admission gates control which candidates become active, and verified use outcomes change the search rank of each Skill. The Agent Skills format is an open standard that Anthropic originated and donated to the Agentic AI Foundation, so any host of the format can load a compiled Skill. Agents retrieve Skills through lexical search with progressive disclosure, over an API or MCP. We evaluate Zep Agent Skills on $\u03c4^3$-bench banking, AppWorld, and EnterpriseOps-Gym. Skills compiled from the Traces of a teacher model increase the pass rate of three weaker executor models on the same tasks, at every reasoning effort, by 4.5 to 18.8 points. Most of the gain is on the tasks that the teacher solved. On ALFWorld, Skills compiled from the runs of a small model give a gain similar to or larger than the gain that prior work reports for continuous fine-tuning, with no training.",
+      "summary": "Memory systems for production LLM agents mostly store semantic memory (facts about users and domains) or episodic memory (earlier interactions).",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper",
+        "mcp",
+        "skills"
+      ],
+      "uid": "14a57581a45bbe2f"
     },
     {
       "title": "Show HN: BBRouter \u2013 Ben Eater's 8-bit computer, simulated on 3D breadboards",
@@ -4759,21 +4777,6 @@
         "npm"
       ],
       "uid": "845df7588ea61854"
-    },
-    {
-      "title": "Show HN: OpenChart \u2013 OSS TradingView alternative with your own AI agent",
-      "url": "https://github.com/longsurf-ai/openchart",
-      "source": "hackernews",
-      "published": "2026-10-06T15:16:45+00:00",
-      "body": "41 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49979793",
-      "summary": "41 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=49979793",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "d81bd350f4faf035"
     }
   ]
 }

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 01:37:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 09:38:52 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -182,6 +182,14 @@
 <pubDate>Sun, 01 Nov 2026 15:45:10 +0000</pubDate>
 <category>note</category>
 <description>44 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=50326727</description>
+</item>
+<item>
+<title>Learning by Doing: Autonomously Compiling and Curating Agent Skills from Verified Traces</title>
+<link>https://arxiv.org/abs/2611.01386v1</link>
+<guid isPermaLink="false">frontierfeed:14a57581a45bbe2f</guid>
+<pubDate>Sun, 01 Nov 2026 00:47:54 +0000</pubDate>
+<category>research</category>
+<description>Memory systems for production LLM agents mostly store semantic memory (facts about users and domains) or episodic memory (earlier interactions).</description>
 </item>
 <item>
 <title>Show HN: BBRouter – Ben Eater&#x27;s 8-bit computer, simulated on 3D breadboards</title>
@@ -806,14 +814,6 @@
 <pubDate>Wed, 21 Oct 2026 22:24:26 +0000</pubDate>
 <category>launch</category>
 <description>A research preview is available by waitlist today, starting with US Pro and Max subscribers.</description>
-</item>
-<item>
-<title>HCLTech joins the Claude Partner Network as a Global Premier partner</title>
-<link>https://claude.com/resources/articles/hcltech-joins-claude-partner-network</link>
-<guid isPermaLink="false">frontierfeed:4bbca170c9b4495f</guid>
-<pubDate>Wed, 21 Oct 2026 22:24:26 +0000</pubDate>
-<category>note</category>
-<description>HCLTech will bring Claude into the solutions it provides for banks, hospitals, telecom companies, and manufacturers.</description>
 </item>
 </channel>
 </rss>

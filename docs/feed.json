@@ -297,6 +297,22 @@
       ]
     },
     {
+      "id": "frontierfeed:14a57581a45bbe2f",
+      "url": "https://arxiv.org/abs/2611.01386v1",
+      "title": "Learning by Doing: Autonomously Compiling and Curating Agent Skills from Verified Traces",
+      "summary": "Memory systems for production LLM agents mostly store semantic memory (facts about users and domains) or episodic memory (earlier interactions).",
+      "content_text": "Memory systems for production LLM agents mostly store semantic memory (facts about users and domains) or episodic memory (earlier interactions).",
+      "date_published": "2026-11-01T00:47:54+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper",
+        "mcp",
+        "skills"
+      ]
+    },
+    {
       "id": "frontierfeed:ef077cc39c0849f0",
       "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
       "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
@@ -1375,20 +1391,6 @@
       "tags": [
         "launch",
         "feature",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:4bbca170c9b4495f",
-      "url": "https://claude.com/resources/articles/hcltech-joins-claude-partner-network",
-      "title": "HCLTech joins the Claude Partner Network as a Global Premier partner",
-      "summary": "HCLTech will bring Claude into the solutions it provides for banks, hospitals, telecom companies, and manufacturers.",
-      "content_text": "HCLTech will bring Claude into the solutions it provides for banks, hospitals, telecom companies, and manufacturers.",
-      "date_published": "2026-10-21T22:24:26.745741+00:00",
-      "tags": [
-        "note",
-        "info",
         "official",
         "product"
       ]
