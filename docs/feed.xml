@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 17:52:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 23:27:56 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>@anthropic-ai/claude-code 2.1.318 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.318</link>
+<guid isPermaLink="false">frontierfeed:e1d6bb662c3fc6f4</guid>
+<pubDate>Tue, 03 Nov 2026 21:55:17 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.318 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>OpenAI seems to be silently re-enabling model training on Codex chats</title>
 <link>https://news.ycombinator.com/item?id=50352757</link>
@@ -46,6 +54,14 @@
 <pubDate>Tue, 03 Nov 2026 01:33:23 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.266...v1.0.267</description>
+</item>
+<item>
+<title>Show HN: HackerTV – HN&#x27;s most-recommended Youtube videos as 24/7 TV channels</title>
+<link>https://hackertv.org</link>
+<guid isPermaLink="false">frontierfeed:44a15221ec26ce5d</guid>
+<pubDate>Tue, 03 Nov 2026 01:18:09 +0000</pubDate>
+<category>note</category>
+<description>108 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50346755</description>
 </item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.317 published</title>
@@ -798,22 +814,6 @@
 <pubDate>Thu, 22 Oct 2026 06:03:35 +0000</pubDate>
 <category>research</category>
 <description>Language models are aligned to avoid using protected attributes such as race, ethnicity, and gender to inform their responses. Therefore, they increasingly refuse or hedge when such attributes appear in a prompt.</description>
-</item>
-<item>
-<title>v1.0.258</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.258</link>
-<guid isPermaLink="false">frontierfeed:f9c9866883caa08f</guid>
-<pubDate>Thu, 22 Oct 2026 04:37:34 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.257...v1.0.258</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.308 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.308</link>
-<guid isPermaLink="false">frontierfeed:b4c84646a5590fbf</guid>
-<pubDate>Thu, 22 Oct 2026 04:19:48 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

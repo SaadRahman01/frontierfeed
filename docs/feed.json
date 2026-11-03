@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:e1d6bb662c3fc6f4",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.318",
+      "title": "@anthropic-ai/claude-code 2.1.318 published",
+      "summary": "Version 2.1.318 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.318 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-11-03T21:55:17.247000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:0751547fb6f33c66",
       "url": "https://news.ycombinator.com/item?id=50352757",
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
@@ -60,6 +74,19 @@
         "fix",
         "release",
         "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:44a15221ec26ce5d",
+      "url": "https://hackertv.org",
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "summary": "108 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50346755",
+      "content_text": "108 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50346755",
+      "date_published": "2026-11-03T01:18:09+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1363,34 +1390,6 @@
         "info",
         "research",
         "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:f9c9866883caa08f",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.258",
-      "title": "v1.0.258",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.257...v1.0.258",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.257...v1.0.258",
-      "date_published": "2026-10-22T04:37:34+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:b4c84646a5590fbf",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.308",
-      "title": "@anthropic-ai/claude-code 2.1.308 published",
-      "summary": "Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-22T04:19:48.902000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
