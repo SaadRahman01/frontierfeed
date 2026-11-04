@@ -33,6 +33,21 @@
       "uid": "e1d6bb662c3fc6f4"
     },
     {
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "source": "hackernews",
+      "published": "2026-11-03T21:20:03+00:00",
+      "body": "100 points, 51 comments. Discussion: https://news.ycombinator.com/item?id=50358352",
+      "summary": "100 points, 51 comments. Discussion: https://news.ycombinator.com/item?id=50358352",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b4c9d8927cb6f911"
+    },
+    {
       "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
       "url": "https://github.com/finic-ai/kairos",
       "source": "hackernews",
@@ -4754,22 +4769,6 @@
         "product"
       ],
       "uid": "184de313f3686dcb"
-    },
-    {
-      "title": "How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases",
-      "url": "https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500146+00:00",
-      "body": "Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.",
-      "summary": "Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "469efd50ce766d31"
     }
   ]
 }

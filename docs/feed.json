@@ -37,6 +37,19 @@
       ]
     },
     {
+      "id": "frontierfeed:b4c9d8927cb6f911",
+      "url": "https://uncracked.city",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "summary": "100 points, 51 comments. Discussion: https://news.ycombinator.com/item?id=50358352",
+      "content_text": "100 points, 51 comments. Discussion: https://news.ycombinator.com/item?id=50358352",
+      "date_published": "2026-11-03T21:20:03+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:1e7e650acad371d5",
       "url": "https://github.com/finic-ai/kairos",
       "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
@@ -1376,20 +1389,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:7ee50b4eb9b11588",
-      "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
-      "title": "Building agents: When to fold subagents into your main agent loop",
-      "summary": "When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate.",
-      "content_text": "When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate.",
-      "date_published": "2026-10-22T18:35:08.128527+00:00",
-      "tags": [
-        "pricing",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]
