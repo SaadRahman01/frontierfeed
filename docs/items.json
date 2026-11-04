@@ -1,9 +1,153 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-04T15:29:21.117319+00:00",
+  "generated": "2026-11-04T21:55:48.055682+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
+      "source": "claude-blog",
+      "published": "2026-11-04T21:55:36.607039+00:00",
+      "body": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "summary": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "ee55211ffc7d32f3"
+    },
+    {
+      "title": "v2.3.0",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.3.0",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2026-11-04T21:28:41+00:00",
+      "body": "## Packages\r\n\r\n| Package | Version | Registry | In this release |\r\n| --- | --- | --- | --- |\r\n| `@modelcontextprotocol/server-everything` | `2.2.1` | npm | **published** |\r\n| `@modelcontextprotocol/server-filesystem` | `2.2.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-memory` | `2.1.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-sequential-thinking` | `2.1.1` | npm | **published** |\r\n| `mcp-server-fetch` | `2026.11.4` | PyPI | **published** |\r\n| `mcp-server-git` | `2026.11.4` | PyPI | **published** |\r\n| `mcp-server-time` | `2026.11.4` | PyPI | **published** |\r\n\r\nRelease ledger: [v2/chore/5425-release-v2.3.0](https://claude.ai/artifact/TqFXVNLvtAszdLJ1xE77ew)\r\n\r\n## @modelcontextprotocol/server-everything 2.2.1\r\n\r\n### What's Changed\r\n\r\n* test(everything): check every registered tool carries all four annotation hints by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5347\r\n* fix(everything): name resource-prompt's allowed argument values by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5350\r\n* everything: build the Docker image from the workspace lockfile, with a Streamable HTTP mode by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5382\r\n* feat(everything): add a resource collection example by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5365\r\n* fix(everything): stop a cancelled long-running operation by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5396\r\n* feat(everything): light and dark themed icons on every primitive by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5389\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5401\r\n* fix(everything): give gzip-file-as-resource's resource the resource icons by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5436\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5437\r\n* Release v2.3.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5430\r\n\r\n## @modelcontextprotocol/server-filesystem 2.2.0\r\n\r\n### What's Changed\r\n\r\n* test(filesystem): give the real HFS+ volume test an explicit timeout by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5344\r\n* chore(filesystem): remove the unused glob dependency by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5351\r\n* feat(filesystem): set idempotentHint and destructiveHint on the read-only tools by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5353\r\n* fix(filesystem): return no lines for read_text_file head/tail 0 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5377\r\n* fix(filesystem): show an unstattable entry's size as unknown in list_directory_with_sizes by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5378\r\n* fix(filesystem): name the subdirectories search_files could not read by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5355\r\n* fix(filesystem): say search_files matches names, not contents by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5367\r\n* fix(filesystem): report a dangling symlink as broken, not as a missing parent by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5380\r\n* fix(filesystem): do not trim an allowed directory's name after realpath by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5383\r\n* fix(filesystem): expand ~\\ to the home directory on Windows by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5384\r\n* feat(filesystem): add an append_file tool by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5376\r\n* feat(filesystem): add a copy_file tool by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5385\r\n* feat(filesystem): add an optional depth to directory_tree by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5388\r\n* feat(filesystem): expose files as resources through a file:// template by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5368\r\n* feat(filesystem): show the closest file lines when an edit_file edit has no match by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5379\r\n* feat(filesystem): add a --read-only mode that serves only read tools by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5359\r\n* feat(filesystem): log the effective allowed directories and their source by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5390\r\n* feat(filesystem): add --confine-roots to keep client Roots inside the command-line directories by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5395\r\n* fix(filesystem): move minimatch to ^11.0.4 for GHSA-g3hv-75wg-m249 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5426\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5401\r\n* Release v2.3.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5430\r\n\r\n## @modelcontextprotocol/server-memory 2.1.0\r\n\r\n### What's Changed\r\n\r\n* docs(memory): state the search_nodes query length limit by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5381\r\n* feat(memory): say when to use search_nodes and open_nodes by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5393\r\n* feat(memory): add lightweight read modes to the read tools by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5394\r\n* fix(memory): store an observation repeated in one add_observations call once by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5357\r\n* feat(memory): declare idempotentHint on create_entities, create_relations and add_observations by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5349\r\n* feat(memory): warn when the memory file is inside node_modules, and document a durable MEMORY_FILE_PATH by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5362\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5401\r\n* Release v2.3.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5430\r\n\r\n## @modelcontextprotocol/server-sequential-thinking 2.1.1\r\n\r\n### What's Changed\r\n\r\n* chore(sequentialthinking): remove the unused yargs dependency by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5352\r\n* docs(sequentialthinking): name the tool sequentialthinking in the README by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5356\r\n* fix(sequentialthinking): draw a multi-line thought one row per line by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5361\r\n* feat(sequentialthinking): trim the tool description to fit 1024 characters by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5374\r\n* fix(sequentialthinking): cap the thought history each connection keeps by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5397\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5401\r\n* fix(sequentialthinking): bound the stderr thought box by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5435\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5437\r\n* Release v2.3.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5430\r\n\r\n## mcp-server-fetch 2026.11.4\r\n\r\n### What's Changed\r\n\r\n* fix(fetch): run Readability.js under a bounded subprocess, off the event loop and stdout by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5391\r\n* feat(fetch): open the simplified",
+      "summary": "## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `2.2.1` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `2.2.0` | npm | **published** | | `@modelcontextprotocol/server-mem\u2026",
+      "version": "2.3.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "aa2ddf9df8e1e7ee"
+    },
+    {
+      "title": "v2.5.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.5.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-11-04T20:27:20+00:00",
+      "body": "### Features\n\n* **api:** add error details types and new error type values\n* **api:** add ids filter to list workspaces\n* **client:** add error classes for HTTP statuses and API error codes, and error_code, details and api_message on APIStatusError\n\n\n### Bug Fixes\n\n* **api:** capitalize CMEK in error details type names\n* **api:** move some error details types to the resource they describe\n* **bedrock:** raise a ValueError when model is \".\" or \"..\" instead of sending the request to a different path\n* **bedrock:** raise a ValueError when model is empty instead of sending the request to `/model//invoke`\n* **client:** make OverloadedError and ServiceUnavailableError subclasses of InternalServerError\n* **client:** make the first parse of each response model thread-safe\n* **client:** reject path parameters such as '..;x' and ';x'\n* **client:** validate unions correctly across threads on pydantic v1\n* **tools:** keep the memory tool from renaming or deleting the /memories directory\n* **vertex:** percent-encode the model, project ID and region in the request path\n\n\n### Chores\n\n* **api:** update example values for pattern-constrained string fields\n* **ci:** also run the tests with deferred pydantic model builds\n* **docs:** clarify plugin reach values\n* **docs:** clarify plugin version description and plugin reach\n* **docs:** clarify plugin version description length\n* **docs:** clarify some API field descriptions\n* **docs:** clarify three error descriptions\n* **docs:** clarify which blocks to send back around a fallback block\n* **docs:** correct Claude Tag direct message notes in usage reports\n* **docs:** reword Dream and RBAC role permission descriptions\n* **docs:** update the telemetry destination headers description\n* **docs:** use the Claude Platform name in analytics filter docs\n* **internal:** accept changelog entry files in the changelog check\n* **internal:** move error body helpers into the internal utils\n* **internal:** remove stale TODO comments and a test that could not pass\n* **tests:** check that a None path param is rejected\n\n\n### Documentation\n\n* **api:** show each field's own description for `speed`\n* clean up escapes and code spans in doc comments",
+      "summary": "### Features * **api:** add error details types and new error type values * **api:** add ids filter to list workspaces * **client:** add error classes for HTTP statuses and API error codes, and error_code, details and api_message on APIStatusError ### Bug Fixes * **api:** capital\u2026",
+      "version": "2.5.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "skills"
+      ],
+      "uid": "312743c20d875dde"
+    },
+    {
+      "title": "google-cloud-sdk-v1.1.3",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.3",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-04T20:25:17+00:00",
+      "body": "### Bug Fixes\n\n* **google-cloud:** percent-encode the project, location and workspace ID in the derived base URL, and throw an `AnthropicError` for a value of `.` or `..`",
+      "summary": "### Bug Fixes * **google-cloud:** percent-encode the project, location and workspace ID in the derived base URL, and throw an `AnthropicError` for a value of `.` or `..`",
+      "version": "google-cloud-sdk-v1.1.3",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "5d71cd34ffc6a9b2"
+    },
+    {
+      "title": "vertex-sdk-v1.1.2",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.2",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-04T20:25:14+00:00",
+      "body": "### Bug Fixes\n\n* **vertex:** percent-encode the project ID, region and model in the request path, so a `/` in the model can't move the request outside `/publishers/anthropic/models/`, and throw an `AnthropicError` for an empty `model` or a project ID or region of `.` or `..`",
+      "summary": "### Bug Fixes * **vertex:** percent-encode the project ID, region and model in the request path, so a `/` in the model can't move the request outside `/publishers/anthropic/models/`, and throw an `AnthropicError` for an empty `model` or a project ID or region of `.` or `..`",
+      "version": "ertex-sdk-v1.1.2",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "41cf4f1096c1bbc4"
+    },
+    {
+      "title": "sdk-v1.5.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.5.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-04T20:25:11+00:00",
+      "body": "### Features\n\n* **api:** add error details types and new error type values\n* **api:** add ids filter to list workspaces\n* **client:** add error classes for HTTP statuses and API error codes, and apiMessage, errorCode and details on APIError\n\n\n### Bug Fixes\n\n* **api:** capitalize CMEK in error details type names\n* **api:** move some error details types to the resource they describe\n* **client:** reject path parameters like \";x\", \".;x\" and \"..;x\"\n* **tools:** keep the memory tool from renaming or deleting the /memories directory\n\n\n### Performance Improvements\n\n* **streaming:** decode server-sent events once per chunk\n\n\n### Chores\n\n* **api:** update example values for pattern-constrained string fields\n* **docs:** clarify plugin reach values\n* **docs:** clarify plugin version description and plugin reach\n* **docs:** clarify plugin version description length\n* **docs:** clarify some API field descriptions\n* **docs:** clarify three error descriptions\n* **docs:** clarify which blocks to send back around a fallback block\n* **docs:** correct Claude Tag direct message notes in usage reports\n* **docs:** reword Dream and RBAC role permission descriptions\n* **docs:** update the telemetry destination headers description\n* **docs:** use the Claude Platform name in analytics filter docs\n* **internal:** accept changelog entry files in the changelog check\n* **internal:** ignore changelog entry files\n* **internal:** simplify how error classes read the response body\n\n\n### Documentation\n\n* **api:** show each field's own description for `speed`\n* clean up escapes and code spans in doc comments\n* fix examples that leave out a required params argument",
+      "summary": "### Features * **api:** add error details types and new error type values * **api:** add ids filter to list workspaces * **client:** add error classes for HTTP statuses and API error codes, and apiMessage, errorCode and details on APIError ### Bug Fixes * **api:** capitalize CMEK\u2026",
+      "version": "sdk-v1.5.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "skills"
+      ],
+      "uid": "faa2877a1d27ef27"
+    },
+    {
+      "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "source": "hackernews",
+      "published": "2026-11-04T17:31:53+00:00",
+      "body": "52 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50368804",
+      "summary": "52 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50368804",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "d77a4e6ed5eb36e9"
+    },
+    {
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "source": "hackernews",
+      "published": "2026-11-04T17:17:46+00:00",
+      "body": "146 points, 74 comments. Discussion: https://news.ycombinator.com/item?id=50368626",
+      "summary": "146 points, 74 comments. Discussion: https://news.ycombinator.com/item?id=50368626",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "f33d5c8f98f3255d"
+    },
+    {
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "source": "hackernews",
+      "published": "2026-11-04T14:37:22+00:00",
+      "body": "64 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=50366117",
+      "summary": "64 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=50366117",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "a1405471db8ed057"
+    },
     {
       "title": "v1.0.268",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.268",
@@ -4625,154 +4769,6 @@
         "product"
       ],
       "uid": "9e8bfd86645272e8"
-    },
-    {
-      "title": "Automating eval design and hillclimbing with Claude",
-      "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500359+00:00",
-      "body": "Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work.",
-      "summary": "Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work.",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product",
-        "skills"
-      ],
-      "uid": "5a98b42c8b2fa1b1"
-    },
-    {
-      "title": "Building with Claude Sonnet 5.5",
-      "url": "https://claude.dev/blog/building-with-claude-sonnet-5-5/",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500338+00:00",
-      "body": "When to choose Sonnet over Opus, what it costs, and how to tune it.",
-      "summary": "When to choose Sonnet over Opus, what it costs, and how to tune it.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product",
-        "opus",
-        "sonnet"
-      ],
-      "uid": "5eb7b0300447cf20"
-    },
-    {
-      "title": "Claude Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500315+00:00",
-      "body": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It\u2019s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
-      "summary": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It\u2019s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
-      "version": "",
-      "category": "model-release",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "product",
-        "sonnet"
-      ],
-      "uid": "0b723e7f62755dac"
-    },
-    {
-      "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
-      "url": "https://claude.com/resources/articles/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500289+00:00",
-      "body": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see.\n\n\u200d",
-      "summary": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see. \u200d",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "1f4f35f8c5030b6d"
-    },
-    {
-      "title": "Claude for Government is now generally available",
-      "url": "https://claude.com/resources/articles/claude-for-government-is-now-generally-available",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500266+00:00",
-      "body": "Claude Code CLI and Claude for Microsoft 365 also now available in early access.",
-      "summary": "Claude Code CLI and Claude for Microsoft 365 also now available in early access.",
-      "version": "",
-      "category": "claude-code",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "995eea78ed090fd7"
-    },
-    {
-      "title": "How Anthropic's sales team rebuilt inbound with Claude Managed Agents",
-      "url": "https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500245+00:00",
-      "body": "Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.",
-      "summary": "Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "cd834a7ad2a26280"
-    },
-    {
-      "title": "Customize Claude Code with mods",
-      "url": "https://claude.com/resources/articles/claude-code-mods",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500223+00:00",
-      "body": "Change how Claude Code behaves and looks with a few lines of TypeScript.",
-      "summary": "Change how Claude Code behaves and looks with a few lines of TypeScript.",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "b029dbb701b0bcfa"
-    },
-    {
-      "title": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
-      "url": "https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500200+00:00",
-      "body": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
-      "summary": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "da92de4f33c46253"
-    },
-    {
-      "title": "Claude now works with Google Docs, Sheets, and Slides",
-      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500175+00:00",
-      "body": "Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).",
-      "summary": "Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "184de313f3686dcb"
     }
   ]
 }

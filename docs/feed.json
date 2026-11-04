@@ -9,6 +9,132 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:ee55211ffc7d32f3",
+      "url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
+      "title": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "summary": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "content_text": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "date_published": "2026-11-04T21:55:36.607039+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:aa2ddf9df8e1e7ee",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.3.0",
+      "title": "v2.3.0",
+      "summary": "## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `2.2.1` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `2.2.0` | npm | **published** | | `@modelcontextprotocol/server-mem…",
+      "content_text": "## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `2.2.1` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `2.2.0` | npm | **published** | | `@modelcontextprotocol/server-mem…",
+      "date_published": "2026-11-04T21:28:41+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "servers",
+        "mcp"
+      ]
+    },
+    {
+      "id": "frontierfeed:312743c20d875dde",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.5.0",
+      "title": "v2.5.0",
+      "summary": "### Features * **api:** add error details types and new error type values * **api:** add ids filter to list workspaces * **client:** add error classes for HTTP statuses and API error codes, and error_code, details and api_message on APIStatusError ### Bug Fixes * **api:** capital…",
+      "content_text": "### Features * **api:** add error details types and new error type values * **api:** add ids filter to list workspaces * **client:** add error classes for HTTP statuses and API error codes, and error_code, details and api_message on APIStatusError ### Bug Fixes * **api:** capital…",
+      "date_published": "2026-11-04T20:27:20+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-python",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:5d71cd34ffc6a9b2",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.3",
+      "title": "google-cloud-sdk-v1.1.3",
+      "summary": "### Bug Fixes * **google-cloud:** percent-encode the project, location and workspace ID in the derived base URL, and throw an `AnthropicError` for a value of `.` or `..`",
+      "content_text": "### Bug Fixes * **google-cloud:** percent-encode the project, location and workspace ID in the derived base URL, and throw an `AnthropicError` for a value of `.` or `..`",
+      "date_published": "2026-11-04T20:25:17+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:41cf4f1096c1bbc4",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.2",
+      "title": "vertex-sdk-v1.1.2",
+      "summary": "### Bug Fixes * **vertex:** percent-encode the project ID, region and model in the request path, so a `/` in the model can't move the request outside `/publishers/anthropic/models/`, and throw an `AnthropicError` for an empty `model` or a project ID or region of `.` or `..`",
+      "content_text": "### Bug Fixes * **vertex:** percent-encode the project ID, region and model in the request path, so a `/` in the model can't move the request outside `/publishers/anthropic/models/`, and throw an `AnthropicError` for an empty `model` or a project ID or region of `.` or `..`",
+      "date_published": "2026-11-04T20:25:14+00:00",
+      "tags": [
+        "api",
+        "fix",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:faa2877a1d27ef27",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.5.0",
+      "title": "sdk-v1.5.0",
+      "summary": "### Features * **api:** add error details types and new error type values * **api:** add ids filter to list workspaces * **client:** add error classes for HTTP statuses and API error codes, and apiMessage, errorCode and details on APIError ### Bug Fixes * **api:** capitalize CMEK…",
+      "content_text": "### Features * **api:** add error details types and new error type values * **api:** add ids filter to list workspaces * **client:** add error classes for HTTP statuses and API error codes, and apiMessage, errorCode and details on APIError ### Bug Fixes * **api:** capitalize CMEK…",
+      "date_published": "2026-11-04T20:25:11+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:d77a4e6ed5eb36e9",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "summary": "52 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50368804",
+      "content_text": "52 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50368804",
+      "date_published": "2026-11-04T17:31:53+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:f33d5c8f98f3255d",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "title": "Progress on provable inference for large language models",
+      "summary": "146 points, 74 comments. Discussion: https://news.ycombinator.com/item?id=50368626",
+      "content_text": "146 points, 74 comments. Discussion: https://news.ycombinator.com/item?id=50368626",
+      "date_published": "2026-11-04T17:17:46+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:a1405471db8ed057",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "summary": "64 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=50366117",
+      "content_text": "64 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=50366117",
+      "date_published": "2026-11-04T14:37:22+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:80c203dc4b0201a5",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.268",
       "title": "v1.0.268",
@@ -1263,132 +1389,6 @@
         "feature",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:88e2c1d1c4ddc73e",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.2.0",
-      "title": "sdk-v1.2.0",
-      "summary": "### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **tools:** copy the messages a tool runner is created with again * **tools:** restore what the tool runner does after setMessagesP…",
-      "content_text": "### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **tools:** copy the messages a tool runner is created with again * **tools:** restore what the tool runner does after setMessagesP…",
-      "date_published": "2026-10-23T13:09:13+00:00",
-      "tags": [
-        "pricing",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:6d87425449e9b6fb",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "content_text": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "date_published": "2026-10-23T01:34:22.780470+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:2a50ec3e7aca0d2d",
-      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-      "title": "Open call for guest investigators in the life sciences",
-      "summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
-      "content_text": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
-      "date_published": "2026-10-23T01:34:22.780205+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:88c04042e4b53940",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "summary": "99 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50202217",
-      "content_text": "99 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50202217",
-      "date_published": "2026-10-22T22:54:43+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:436b37aeb7d8ec95",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.259",
-      "title": "v1.0.259",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.258...v1.0.259",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.258...v1.0.259",
-      "date_published": "2026-10-22T22:27:34+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:863144bde0789b93",
-      "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
-      "title": "The full Claude Platform, available on Google Cloud",
-      "summary": "Use Claude Models on Google Cloud (Anthropic managed) to access Claude Platform features with Google Cloud authentication, billing, and commitment retirement.",
-      "content_text": "Use Claude Models on Google Cloud (Anthropic managed) to access Claude Platform features with Google Cloud authentication, billing, and commitment retirement.",
-      "date_published": "2026-10-22T22:23:23.605891+00:00",
-      "tags": [
-        "deprecation",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:d9b5ef0e7d125d65",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "summary": "We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation.",
-      "content_text": "We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation.",
-      "date_published": "2026-10-22T22:23:21.491739+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:f8c8047888c2f494",
-      "url": "https://news.ycombinator.com/item?id=50200997",
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "summary": "42 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50200997",
-      "content_text": "42 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50200997",
-      "date_published": "2026-10-22T21:03:55+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:fad8ef5c63648d68",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.309",
-      "title": "@anthropic-ai/claude-code 2.1.309 published",
-      "summary": "Version 2.1.309 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.309 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-22T20:34:13.713000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, model releases only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 15:29:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 21:55:48 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-releases.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -110,14 +110,6 @@
 <pubDate>Wed, 07 Oct 2026 22:02:16 +0000</pubDate>
 <category>model-release</category>
 <description>Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.</description>
-</item>
-<item>
-<title>Claude Sonnet 5.5</title>
-<link>https://www.anthropic.com/claude-sonnet-5-5</link>
-<guid isPermaLink="false">frontierfeed:0b723e7f62755dac</guid>
-<pubDate>Wed, 07 Oct 2026 08:45:53 +0000</pubDate>
-<category>model-release</category>
-<description>Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.</description>
 </item>
 </channel>
 </rss>
