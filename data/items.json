@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "v1.0.268",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.268",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-04T00:05:32+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.267...v1.0.268",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.267...v1.0.268",
+      "version": "1.0.268",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "80c203dc4b0201a5"
+    },
+    {
       "title": "@anthropic-ai/claude-code 2.1.318 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.318",
       "source": "npm:@anthropic-ai/claude-code",
@@ -15,6 +31,21 @@
         "npm"
       ],
       "uid": "e1d6bb662c3fc6f4"
+    },
+    {
+      "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
+      "url": "https://github.com/finic-ai/kairos",
+      "source": "hackernews",
+      "published": "2026-11-03T21:16:48+00:00",
+      "body": "83 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50358314",
+      "summary": "83 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50358314",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "1e7e650acad371d5"
     },
     {
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
@@ -4739,38 +4770,6 @@
         "product"
       ],
       "uid": "469efd50ce766d31"
-    },
-    {
-      "title": "We\u2019re expanding the Claude Startups program to help founders build",
-      "url": "https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500091+00:00",
-      "body": "We\u2019re expanding the Claude Startups program to help founders build",
-      "summary": "We\u2019re expanding the Claude Startups program to help founders build",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "204ab973481889b6"
-    },
-    {
-      "title": "Improving our alignment and security efforts",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "source": "anthropic-news",
-      "published": "2026-10-06T21:42:25.883635+00:00",
-      "body": "Improving our alignment and security efforts",
-      "summary": "Improving our alignment and security efforts",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "417fed66f67d9d66"
     }
   ]
 }

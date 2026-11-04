@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:80c203dc4b0201a5",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.268",
+      "title": "v1.0.268",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.267...v1.0.268",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.267...v1.0.268",
+      "date_published": "2026-11-04T00:05:32+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:e1d6bb662c3fc6f4",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.318",
       "title": "@anthropic-ai/claude-code 2.1.318 published",
@@ -20,6 +34,19 @@
         "fix",
         "release",
         "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:1e7e650acad371d5",
+      "url": "https://github.com/finic-ai/kairos",
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "summary": "83 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50358314",
+      "content_text": "83 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50358314",
+      "date_published": "2026-11-03T21:16:48+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1363,33 +1390,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:48c60ba99abcff69",
-      "url": "https://github.com/dsmurrell/onkey",
-      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
-      "summary": "90 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50195488",
-      "content_text": "90 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50195488",
-      "date_published": "2026-10-22T14:04:44+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:51ab381366afbcf7",
-      "url": "https://arxiv.org/abs/2610.30785v1",
-      "title": "Invisibilization as a Source of Probability Bias in Language Models",
-      "summary": "Language models are aligned to avoid using protected attributes such as race, ethnicity, and gender to inform their responses. Therefore, they increasingly refuse or hedge when such attributes appear in a prompt.",
-      "content_text": "Language models are aligned to avoid using protected attributes such as race, ethnicity, and gender to inform their responses. Therefore, they increasingly refuse or hedge when such attributes appear in a prompt.",
-      "date_published": "2026-10-22T06:03:35+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper"
       ]
     }
   ]
