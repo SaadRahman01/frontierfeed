@@ -1,9 +1,42 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-05T11:03:32.528992+00:00",
+  "generated": "2026-11-05T18:48:03.168948+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "More visibility and control over Claude Enterprise for security teams",
+      "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+      "source": "claude-blog",
+      "published": "2026-11-05T18:47:52.446424+00:00",
+      "body": "Claude Enterprise has new security and admin features, including a security center, generally available inference hooks, centralized management, and additional access controls.",
+      "summary": "Claude Enterprise has new security and admin features, including a security center, generally available inference hooks, centralized management, and additional access controls.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "enterprise"
+      ],
+      "uid": "7f969121c3bd5bf3"
+    },
+    {
+      "title": "Introducing Personal Finance in Claude",
+      "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+      "source": "claude-blog",
+      "published": "2026-11-05T18:47:52.446352+00:00",
+      "body": "Ask Claude about your money and get straight answers from the accounts you connect.",
+      "summary": "Ask Claude about your money and get straight answers from the accounts you connect.",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "8bb6e44c56c39a4d"
+    },
     {
       "title": "New agents and products for security, productivity, and creative work on Claude Marketplace",
       "url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
@@ -36,6 +69,21 @@
         "mcp"
       ],
       "uid": "aa2ddf9df8e1e7ee"
+    },
+    {
+      "title": "Show HN: Gauge \u2013 Open-Source CLI to recursively improve your docs",
+      "url": "https://github.com/gauge-sh/gauge-cli",
+      "source": "hackernews",
+      "published": "2026-11-04T20:31:30+00:00",
+      "body": "40 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=50371090",
+      "summary": "40 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=50371090",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "9fb8d0dfa45a5851"
     },
     {
       "title": "v2.5.0",
@@ -4720,57 +4768,6 @@
         "product"
       ],
       "uid": "28cfc148d52e108e"
-    },
-    {
-      "title": "Build plugins for Claude",
-      "url": "https://claude.com/resources/articles/build-plugins-for-claude",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500442+00:00",
-      "body": "You can now submit plugins to the Claude directory through a new developer portal, track them through review, and see usage analytics once they\u2019re live.",
-      "summary": "You can now submit plugins to the Claude directory through a new developer portal, track them through review, and see usage analytics once they\u2019re live.",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "product",
-        "skills"
-      ],
-      "uid": "ef1ba7ccd56faf00"
-    },
-    {
-      "title": "Using Claude Code: Spending your effort",
-      "url": "https://claude.dev/blog/spending-your-effort/",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500421+00:00",
-      "body": "What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.",
-      "summary": "What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product",
-        "opus"
-      ],
-      "uid": "15227bcdf797307a"
-    },
-    {
-      "title": "What a task costs on Opus 5.5",
-      "url": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500401+00:00",
-      "body": "The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.",
-      "summary": "The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.",
-      "version": "",
-      "category": "pricing",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product",
-        "opus"
-      ],
-      "uid": "8cb462d6ed5cdbda"
     }
   ]
 }

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 11:03:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 18:48:03 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>More visibility and control over Claude Enterprise for security teams</title>
+<link>https://claude.com/resources/articles/claude-enterprise-security-updates</link>
+<guid isPermaLink="false">frontierfeed:7f969121c3bd5bf3</guid>
+<pubDate>Thu, 05 Nov 2026 18:47:52 +0000</pubDate>
+<category>note</category>
+<description>Claude Enterprise has new security and admin features, including a security center, generally available inference hooks, centralized management, and additional access controls.</description>
+</item>
+<item>
+<title>Introducing Personal Finance in Claude</title>
+<link>https://claude.com/resources/articles/introducing-personal-finance-in-claude</link>
+<guid isPermaLink="false">frontierfeed:8bb6e44c56c39a4d</guid>
+<pubDate>Thu, 05 Nov 2026 18:47:52 +0000</pubDate>
+<category>launch</category>
+<description>Ask Claude about your money and get straight answers from the accounts you connect.</description>
+</item>
 <item>
 <title>New agents and products for security, productivity, and creative work on Claude Marketplace</title>
 <link>https://claude.com/resources/articles/new-agents-and-products-claude-marketplace</link>
@@ -30,6 +46,14 @@
 <pubDate>Wed, 04 Nov 2026 21:28:41 +0000</pubDate>
 <category>api</category>
 <description>## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `2.2.1` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `2.2.0` | npm | **published** | | `@modelcontextprotocol/server-mem…</description>
+</item>
+<item>
+<title>Show HN: Gauge – Open-Source CLI to recursively improve your docs</title>
+<link>https://github.com/gauge-sh/gauge-cli</link>
+<guid isPermaLink="false">frontierfeed:9fb8d0dfa45a5851</guid>
+<pubDate>Wed, 04 Nov 2026 20:31:30 +0000</pubDate>
+<category>note</category>
+<description>40 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=50371090</description>
 </item>
 <item>
 <title>v2.5.0</title>
@@ -788,30 +812,6 @@
 <link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.0</link>
 <guid isPermaLink="false">frontierfeed:ee840c96b6b8066c</guid>
 <pubDate>Fri, 23 Oct 2026 13:09:27 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add support for message threads</description>
-</item>
-<item>
-<title>aws-sdk-v1.1.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.1.0</link>
-<guid isPermaLink="false">frontierfeed:bdf8827a85702216</guid>
-<pubDate>Fri, 23 Oct 2026 13:09:24 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add support for message threads</description>
-</item>
-<item>
-<title>foundry-sdk-v1.1.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.1.0</link>
-<guid isPermaLink="false">frontierfeed:4b04362e2b05acdf</guid>
-<pubDate>Fri, 23 Oct 2026 13:09:22 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add support for message threads</description>
-</item>
-<item>
-<title>bedrock-sdk-v1.1.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.0</link>
-<guid isPermaLink="false">frontierfeed:344e84b8ffc888b9</guid>
-<pubDate>Fri, 23 Oct 2026 13:09:19 +0000</pubDate>
 <category>api</category>
 <description>### Features * **api:** add support for message threads</description>
 </item>

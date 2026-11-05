@@ -9,6 +9,35 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:7f969121c3bd5bf3",
+      "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+      "title": "More visibility and control over Claude Enterprise for security teams",
+      "summary": "Claude Enterprise has new security and admin features, including a security center, generally available inference hooks, centralized management, and additional access controls.",
+      "content_text": "Claude Enterprise has new security and admin features, including a security center, generally available inference hooks, centralized management, and additional access controls.",
+      "date_published": "2026-11-05T18:47:52.446424+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "frontierfeed:8bb6e44c56c39a4d",
+      "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+      "title": "Introducing Personal Finance in Claude",
+      "summary": "Ask Claude about your money and get straight answers from the accounts you connect.",
+      "content_text": "Ask Claude about your money and get straight answers from the accounts you connect.",
+      "date_published": "2026-11-05T18:47:52.446352+00:00",
+      "tags": [
+        "launch",
+        "feature",
+        "official",
+        "product"
+      ]
+    },
+    {
       "id": "frontierfeed:ee55211ffc7d32f3",
       "url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
       "title": "New agents and products for security, productivity, and creative work on Claude Marketplace",
@@ -35,6 +64,19 @@
         "release",
         "servers",
         "mcp"
+      ]
+    },
+    {
+      "id": "frontierfeed:9fb8d0dfa45a5851",
+      "url": "https://github.com/gauge-sh/gauge-cli",
+      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+      "summary": "40 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=50371090",
+      "content_text": "40 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=50371090",
+      "date_published": "2026-11-04T20:31:30+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1344,48 +1386,6 @@
       "summary": "### Features * **api:** add support for message threads",
       "content_text": "### Features * **api:** add support for message threads",
       "date_published": "2026-10-23T13:09:27+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:bdf8827a85702216",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.1.0",
-      "title": "aws-sdk-v1.1.0",
-      "summary": "### Features * **api:** add support for message threads",
-      "content_text": "### Features * **api:** add support for message threads",
-      "date_published": "2026-10-23T13:09:24+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:4b04362e2b05acdf",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.1.0",
-      "title": "foundry-sdk-v1.1.0",
-      "summary": "### Features * **api:** add support for message threads",
-      "content_text": "### Features * **api:** add support for message threads",
-      "date_published": "2026-10-23T13:09:22+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:344e84b8ffc888b9",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.0",
-      "title": "bedrock-sdk-v1.1.0",
-      "summary": "### Features * **api:** add support for message threads",
-      "content_text": "### Features * **api:** add support for message threads",
-      "date_published": "2026-10-23T13:09:19+00:00",
       "tags": [
         "api",
         "feature",
