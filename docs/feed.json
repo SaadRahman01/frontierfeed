@@ -189,6 +189,22 @@
       ]
     },
     {
+      "id": "frontierfeed:90064f289477bea5",
+      "url": "https://arxiv.org/abs/2611.05548v1",
+      "title": "Iterated creation, grading, and revision of data science projects by language models",
+      "summary": "We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with feedback.",
+      "content_text": "We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with feedback.",
+      "date_published": "2026-11-03T19:39:03+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper",
+        "opus",
+        "haiku"
+      ]
+    },
+    {
       "id": "frontierfeed:0751547fb6f33c66",
       "url": "https://news.ycombinator.com/item?id=50352757",
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
@@ -1370,20 +1386,6 @@
       "summary": "### Features * **api:** add support for message threads",
       "content_text": "### Features * **api:** add support for message threads",
       "date_published": "2026-10-23T13:09:19+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:0828470285d0b159",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.0",
-      "title": "vertex-sdk-v1.1.0",
-      "summary": "### Features * **api:** add support for message threads",
-      "content_text": "### Features * **api:** add support for message threads",
-      "date_published": "2026-10-23T13:09:16+00:00",
       "tags": [
         "api",
         "feature",
