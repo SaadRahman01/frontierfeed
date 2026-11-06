@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "source": "hackernews",
+      "published": "2026-11-05T22:17:15+00:00",
+      "body": "340 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50385272",
+      "summary": "340 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50385272",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "3cecccc92a729ca3"
+    },
+    {
+      "title": "sdk-v1.6.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.6.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-05T19:00:33+00:00",
+      "body": "### Features\n\n* **api:** add error code for ramp limit errors\n* **api:** add error codes for External Key validation failures\n* **api:** add support for signing organization members out everywhere\n\n\n### Bug Fixes\n\n* **client:** set the name of each error to its class name\n* **client:** set the name of WorkloadIdentityError\n\n\n### Chores\n\n* **docs:** describe the type and message of API errors\n* **internal:** generate the OpenTelemetry span attribute tables\n* **internal:** tell contributors when a runtime type check belongs\n\n\n### Documentation\n\n* add the rules the SDKs share to CLAUDE.md\n* **client:** describe the type, message, code and details of API errors\n* **client:** list each method's errors without their descriptions",
+      "summary": "### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **client:** set the name of each error to its class name * **client:\u2026",
+      "version": "sdk-v1.6.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "a5ad334108deaa12"
+    },
+    {
+      "title": "v2.6.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.6.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-11-05T18:58:47+00:00",
+      "body": "### Features\n\n* **api:** add error code for ramp limit errors\n* **api:** add error codes for External Key validation failures\n* **api:** add support for signing organization members out everywhere\n\n\n### Bug Fixes\n\n* **bedrock,vertex:** raise error-code and status exception classes on platform clients\n* **bedrock:** keep a custom http_client and aws_profile on copies made with copy and with_options\n\n\n### Chores\n\n* **client:** stop recording sampling parameters on OpenTelemetry spans\n* **docs:** describe the type and message of API errors\n* **internal:** define the status error mapping once on the base client\n* **internal:** tell contributors when a runtime type check belongs\n* **tests:** remove ambient ANTHROPIC_ and AWS_ variables before the tests run\n\n\n### Documentation\n\n* **client:** describe the type, message, code and details of API errors\n* **client:** list each method's errors without their descriptions",
+      "summary": "### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **bedrock,vertex:** raise error-code and status exception classes on\u2026",
+      "version": "2.6.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "41f0d0eab971d074"
+    },
+    {
       "title": "More visibility and control over Claude Enterprise for security teams",
       "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
       "source": "claude-blog",
@@ -954,6 +1001,21 @@
         "community"
       ],
       "uid": "48dfab6da394e082"
+    },
+    {
+      "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
+      "url": "https://news.ycombinator.com/item?id=50286306",
+      "source": "hackernews",
+      "published": "2026-10-29T09:06:12+00:00",
+      "body": "40 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=50286306",
+      "summary": "40 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=50286306",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "264b24c78b2e4e08"
     },
     {
       "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
@@ -4699,71 +4761,6 @@
         "product"
       ],
       "uid": "be8cce5ca88bb529"
-    },
-    {
-      "title": "How to prepare for AI-driven code modernization projects",
-      "url": "https://claude.com/resources/articles/how-to-prepare-for-ai-driven-code-modernization-projects",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500529+00:00",
-      "body": "How to organize AI-driven modernization projects for critical systems and regulated enterprises.",
-      "summary": "How to organize AI-driven modernization projects for critical systems and regulated enterprises.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "59936901db0de269"
-    },
-    {
-      "title": "How we made claude.ai 3x faster in two weeks",
-      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500507+00:00",
-      "body": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.",
-      "summary": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "a1850294eff3ca64"
-    },
-    {
-      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-      "url": "https://claude.com/resources/articles/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500486+00:00",
-      "body": "Our latest Opus model is priced and trained to optimize costs for how developers code now.",
-      "summary": "Our latest Opus model is priced and trained to optimize costs for how developers code now.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product",
-        "opus"
-      ],
-      "uid": "49022e7b77bd6e76"
-    },
-    {
-      "title": "Claude Tag now supports personal connectors in channels",
-      "url": "https://claude.com/resources/articles/claude-tag-now-supports-personal-connectors-in-channels",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500464+00:00",
-      "body": "Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you're in control of how to present the output.",
-      "summary": "Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you're in control of how to present the output.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "28cfc148d52e108e"
     }
   ]
 }

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 18:48:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 00:21:41 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude Code sends your email address to websites</title>
+<link>https://github.com/anthropics/claude-code/issues/107757</link>
+<guid isPermaLink="false">frontierfeed:3cecccc92a729ca3</guid>
+<pubDate>Thu, 05 Nov 2026 22:17:15 +0000</pubDate>
+<category>claude-code</category>
+<description>340 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50385272</description>
+</item>
 <item>
 <title>v1.0.268</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.268</link>
@@ -110,6 +118,14 @@
 <pubDate>Fri, 30 Oct 2026 00:12:56 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.314 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites</title>
+<link>https://news.ycombinator.com/item?id=50286306</link>
+<guid isPermaLink="false">frontierfeed:264b24c78b2e4e08</guid>
+<pubDate>Thu, 29 Oct 2026 09:06:12 +0000</pubDate>
+<category>claude-code</category>
+<description>40 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=50286306</description>
 </item>
 <item>
 <title>Claude Code regularly sends each background agent’s transcript to its model</title>

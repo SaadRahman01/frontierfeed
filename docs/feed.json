@@ -9,6 +9,47 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:3cecccc92a729ca3",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "title": "Claude Code sends your email address to websites",
+      "summary": "340 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50385272",
+      "content_text": "340 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50385272",
+      "date_published": "2026-11-05T22:17:15+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:a5ad334108deaa12",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.6.0",
+      "title": "sdk-v1.6.0",
+      "summary": "### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **client:** set the name of each error to its class name * **client:…",
+      "content_text": "### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **client:** set the name of each error to its class name * **client:…",
+      "date_published": "2026-11-05T19:00:33+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:41f0d0eab971d074",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.6.0",
+      "title": "v2.6.0",
+      "summary": "### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **bedrock,vertex:** raise error-code and status exception classes on…",
+      "content_text": "### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **bedrock,vertex:** raise error-code and status exception classes on…",
+      "date_published": "2026-11-05T18:58:47+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-python"
+      ]
+    },
+    {
       "id": "frontierfeed:7f969121c3bd5bf3",
       "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
       "title": "More visibility and control over Claude Enterprise for security teams",
@@ -842,6 +883,19 @@
       ]
     },
     {
+      "id": "frontierfeed:264b24c78b2e4e08",
+      "url": "https://news.ycombinator.com/item?id=50286306",
+      "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
+      "summary": "40 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=50286306",
+      "content_text": "40 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=50286306",
+      "date_published": "2026-10-29T09:06:12+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:7fd3a3ec01fe78f8",
       "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
       "title": "Claude Code regularly sends each background agent’s transcript to its model",
@@ -1335,62 +1389,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:074fe5a3007e9040",
-      "url": "https://corgi.computer/",
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "summary": "65 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50214373",
-      "content_text": "65 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50214373",
-      "date_published": "2026-10-23T19:46:38+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:6cdaddf3a55924e5",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.260",
-      "title": "v1.0.260",
-      "summary": "## What's Changed * Pin the PR version a run checks out by @OctavianGuzu in https://github.com/anthropics/claude-code-action/pull/1915 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.259...v1.0.260",
-      "content_text": "## What's Changed * Pin the PR version a run checks out by @OctavianGuzu in https://github.com/anthropics/claude-code-action/pull/1915 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.259...v1.0.260",
-      "date_published": "2026-10-23T17:02:49+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:71c3b2960baa0b32",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0",
-      "title": "v2.2.0",
-      "summary": "### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **client:** stop suggesting math.inf in the max_retries error message * **tools:** leave the tool runner's history to the caller a…",
-      "content_text": "### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **client:** stop suggesting math.inf in the max_retries error message * **tools:** leave the tool runner's history to the caller a…",
-      "date_published": "2026-10-23T13:10:10+00:00",
-      "tags": [
-        "pricing",
-        "feature",
-        "release",
-        "anthropic-sdk-python",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:ee840c96b6b8066c",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.0",
-      "title": "google-cloud-sdk-v1.1.0",
-      "summary": "### Features * **api:** add support for message threads",
-      "content_text": "### Features * **api:** add support for message threads",
-      "date_published": "2026-10-23T13:09:27+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]

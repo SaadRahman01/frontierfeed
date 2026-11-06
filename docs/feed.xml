@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 18:48:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 00:21:41 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude Code sends your email address to websites</title>
+<link>https://github.com/anthropics/claude-code/issues/107757</link>
+<guid isPermaLink="false">frontierfeed:3cecccc92a729ca3</guid>
+<pubDate>Thu, 05 Nov 2026 22:17:15 +0000</pubDate>
+<category>claude-code</category>
+<description>340 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50385272</description>
+</item>
+<item>
+<title>sdk-v1.6.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.6.0</link>
+<guid isPermaLink="false">frontierfeed:a5ad334108deaa12</guid>
+<pubDate>Thu, 05 Nov 2026 19:00:33 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **client:** set the name of each error to its class name * **client:…</description>
+</item>
+<item>
+<title>v2.6.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.6.0</link>
+<guid isPermaLink="false">frontierfeed:41f0d0eab971d074</guid>
+<pubDate>Thu, 05 Nov 2026 18:58:47 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **bedrock,vertex:** raise error-code and status exception classes on…</description>
+</item>
 <item>
 <title>More visibility and control over Claude Enterprise for security teams</title>
 <link>https://claude.com/resources/articles/claude-enterprise-security-updates</link>
@@ -504,6 +528,14 @@
 <description>43 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50289081</description>
 </item>
 <item>
+<title>Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites</title>
+<link>https://news.ycombinator.com/item?id=50286306</link>
+<guid isPermaLink="false">frontierfeed:264b24c78b2e4e08</guid>
+<pubDate>Thu, 29 Oct 2026 09:06:12 +0000</pubDate>
+<category>claude-code</category>
+<description>40 points, 5 comments. Discussion: https://news.ycombinator.com/item?id=50286306</description>
+</item>
+<item>
 <title>Claude Code regularly sends each background agent’s transcript to its model</title>
 <link>https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</link>
 <guid isPermaLink="false">frontierfeed:7fd3a3ec01fe78f8</guid>
@@ -782,38 +814,6 @@
 <pubDate>Fri, 23 Oct 2026 21:20:46 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.310 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Show HN: Corgi, a helpful {agent, terminal} multiplexer</title>
-<link>https://corgi.computer/</link>
-<guid isPermaLink="false">frontierfeed:074fe5a3007e9040</guid>
-<pubDate>Fri, 23 Oct 2026 19:46:38 +0000</pubDate>
-<category>note</category>
-<description>65 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50214373</description>
-</item>
-<item>
-<title>v1.0.260</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.260</link>
-<guid isPermaLink="false">frontierfeed:6cdaddf3a55924e5</guid>
-<pubDate>Fri, 23 Oct 2026 17:02:49 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed * Pin the PR version a run checks out by @OctavianGuzu in https://github.com/anthropics/claude-code-action/pull/1915 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.259...v1.0.260</description>
-</item>
-<item>
-<title>v2.2.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0</link>
-<guid isPermaLink="false">frontierfeed:71c3b2960baa0b32</guid>
-<pubDate>Fri, 23 Oct 2026 13:10:10 +0000</pubDate>
-<category>pricing</category>
-<description>### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **client:** stop suggesting math.inf in the max_retries error message * **tools:** leave the tool runner&#x27;s history to the caller a…</description>
-</item>
-<item>
-<title>google-cloud-sdk-v1.1.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.0</link>
-<guid isPermaLink="false">frontierfeed:ee840c96b6b8066c</guid>
-<pubDate>Fri, 23 Oct 2026 13:09:27 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add support for message threads</description>
 </item>
 </channel>
 </rss>
