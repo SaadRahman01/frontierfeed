@@ -1,6 +1,67 @@
 {
   "items": [
     {
+      "title": "Anthropic IPO valuation talks drop to $1.3T",
+      "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+      "source": "hackernews",
+      "published": "2026-11-06T17:21:15+00:00",
+      "body": "93 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=50395318",
+      "summary": "93 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=50395318",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "4281cba191d76726"
+    },
+    {
+      "title": "v1.0.269",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.269",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-06T17:07:25+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.268...v1.0.269",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.268...v1.0.269",
+      "version": "1.0.269",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "2c4ce124de20b4b7"
+    },
+    {
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "source": "hackernews",
+      "published": "2026-11-06T16:54:36+00:00",
+      "body": "137 points, 330 comments. Discussion: https://news.ycombinator.com/item?id=50394906",
+      "summary": "137 points, 330 comments. Discussion: https://news.ycombinator.com/item?id=50394906",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "534c5651e6723bd3"
+    },
+    {
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "source": "hackernews",
+      "published": "2026-11-06T09:13:30+00:00",
+      "body": "82 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=50389990",
+      "summary": "82 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=50389990",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ed887fc29a73050d"
+    },
+    {
       "title": "@anthropic-ai/claude-code 2.1.319 published",
       "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.319",
       "source": "npm:@anthropic-ai/claude-code",
@@ -45,6 +106,21 @@
         "community"
       ],
       "uid": "3cecccc92a729ca3"
+    },
+    {
+      "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "source": "hackernews",
+      "published": "2026-11-05T20:16:19+00:00",
+      "body": "44 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50383902",
+      "summary": "44 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50383902",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "89a8510083fdc0ef"
     },
     {
       "title": "sdk-v1.6.0",
@@ -4679,87 +4755,6 @@
         "haiku"
       ],
       "uid": "f7ac2a75afe1abc7"
-    },
-    {
-      "title": "vertex-sdk: v0.20.3",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.3",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-07T17:57:07+00:00",
-      "body": "## 0.20.3 (2026-10-07)\n\nFull Changelog: [vertex-sdk-v0.20.2...vertex-sdk-v0.20.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.2...vertex-sdk-v0.20.3)",
-      "summary": "## 0.20.3 (2026-10-07) Full Changelog: [vertex-sdk-v0.20.2...vertex-sdk-v0.20.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/vertex-sdk-v0.20.2...vertex-sdk-v0.20.3)",
-      "version": "ertex-sdk-v0.20.3",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "18260c2bd007a4b9"
-    },
-    {
-      "title": "sdk: v0.132.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.132.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-07T17:57:01+00:00",
-      "body": "## 0.132.0 (2026-10-07)\n\nFull Changelog: [sdk-v0.131.0...sdk-v0.132.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.131.0...sdk-v0.132.0)\n\n### Features\n\n* **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([1fd8261](https://github.com/anthropics/anthropic-sdk-typescript/commit/1fd826175b5742df1dc9fd69db708be1434fdc15))\n* **api:** add disabled to thinking types in model capabilities ([2b75b49](https://github.com/anthropics/anthropic-sdk-typescript/commit/2b75b497792ab23c7cac350829354a0027a93246))\n* **api:** add display_name to RBAC roles and deprecate name ([7735ac3](https://github.com/anthropics/anthropic-sdk-typescript/commit/7735ac3d2823c6d74377269772a5ae2b1ed939dc))\n* **api:** add include_default parameter to list workspaces ([c4019df](https://github.com/anthropics/anthropic-sdk-typescript/commit/c4019df3ad38e1ce985c1d8177c815ae36528d61))\n* **api:** add lifecycle stage fields and filter to /v1/models ([fe8a762](https://github.com/anthropics/anthropic-sdk-typescript/commit/fe8a762e0cdbc01aa2b4161865f44cdab70f502c))\n* **api:** add line to model objects ([018aed4](https://github.com/anthropics/anthropic-sdk-typescript/commit/018aed463f7125ef7c8ee6eec2fd3610be585cc4))\n* **api:** add url_sources to the Managed Agents web_fetch tool config ([2b75b49](https://github.com/anthropics/anthropic-sdk-typescript/commit/2b75b497792ab23c7cac350829354a0027a93246))\n* **api:** add web search and code execution support to model capabilities ([2b75b49](https://github.com/anthropics/anthropic-sdk-typescript/commit/2b75b497792ab23c7cac350829354a0027a93246))\n\n\n### Bug Fixes\n\n* **api:** send the beta header by default when listing spend limits ([8f58ca4](https://github.com/anthropics/anthropic-sdk-typescript/commit/8f58ca41ae4097e82fe0efccfae94e0b7c5719b1))\n* **client:** throw when a JSONL stream is iterated twice ([a34266c](https://github.com/anthropics/anthropic-sdk-typescript/commit/a34266cf1ed3483eae7d44d275f761ab29d79748))\n* **tools:** keep a local edit made after a memory upload whose response was lost ([#893](https://github.com/anthropics/anthropic-sdk-typescript/issues/893)) ([2b75b49](https://github.com/anthropics/anthropic-sdk-typescript/commit/2b75b497792ab23c7cac350829354a0027a93246))\n\n\n### Chores\n\n* **api:** mark the Text Completions API as deprecated ([2b75b49](https://github.com/anthropics/anthropic-sdk-typescript/commit/2b75b497792ab23c7cac350829354a0027a93246))\n* **docs:** correct example groups in rate limit list description ([f0e6394](https://github.com/anthropics/anthropic-sdk-typescript/commit/f0e63949cf58aeb877a9d695af519f29245522ef))\n* **docs:** correct when usage and cost report data becomes final ([2b75b49](https://github.com/anthropics/anthropic-sdk-typescript/commit/2b75b497792ab23c7cac350829354a0027a93246))\n* **docs:** describe a federation rule's target by its type ([2b75b49](https://github.com/anthropics/anthropic-sdk-typescript/commit/2b75b497792ab23c7cac350829354a0027a93246))\n* **docs:** fix example IDs in sessions, agents and vault credentials ([2b75b49](https://github.com/anthropics/anthropic-sdk-typescript/commit/2b75b497792ab23c7cac350829354a0027a93246))\n* **docs:** update Managed Agents multiagent and thread descriptions ([2b75b49](https://github.com/anthropics/anthropic-sdk-typescript/commit/2b75b497792ab23c7cac350829354a0027a93246))\n* **docs:** update the activity summaries endpoint description ([24f13f2](https://github.com/anthropics/anthropic-sdk-typescript/commit/24f13f20aa606415f0906ce3d3331dcb80fc2247))\n* **docs:** update the description of the Model line field ([e3bfc76](https://github.com/anthropics/anthropic-sdk-typescript/commit/e3bfc76831144a52d6b2dfa7153ae98bd2f849c9))\n* **internal:** add REVIEW.md with review instructions ([2b75b49](https://github.com/anthropics/anthropic-sdk-typescript/commit/2b75b497792ab23c7cac350829354a0027a93246))\n* **internal:** refactor deprecated models ([5927033](https://github.com/anthropics/anthropic-sdk-typescript/commit/59270330d1a1d68e469b06ece5e0819263e17877))\n* **tests:** run tests skipped for a query param bug that is now fixed ([4c74721](https://github.com/anthropics/anthropic-sdk-typescript/commit/4c74721d93ea751758fb5eac987ea6541e8c64fa))\n* **tests:** run tests that an older mock server could not serve ([8100a49](https://github.com/anthropics/anthropic-sdk-typescript/commit/8100a490769086b56775f3e4f8f1bff9ea678a02))\n* **tests:** run the skipped MCP resource upload test ([#888](https://github.com/anthropics/anthropic-sdk-typescript/issues/888)) ([2b75b49](https://github.com/anthropics/anthropic-sdk-typescript/commit/2b75b497792ab23c7cac350829354a0027a93246))\n\n\n### Documentation\n\n* **api:** state the agent tools limit as 256 ([7d2a9ef](https://github.com/anthropics/anthropic-sdk-typescript/commit/7d2a9ef98f39602eaf8cef12ad3f9dfc20c7c839))\n* **examples:** show initial_events when creating a Managed Agents session ([2b75b49](https://github.com/anthropics/anthropic-sdk-typescript/commit/2b75b497792ab23c7cac350829354a0027a93246))",
-      "summary": "## 0.132.0 (2026-10-07) Full Changelog: [sdk-v0.131.0...sdk-v0.132.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.131.0...sdk-v0.132.0) ### Features * **api:** add claude-haiku-5-5 and typed computer and browser toolset tool calls ([1fd8261](https://gith\u2026",
-      "version": "sdk-v0.132.0",
-      "category": "deprecation",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript",
-        "haiku",
-        "mcp"
-      ],
-      "uid": "200da78416158d3e"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.293 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.293",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-07T17:18:04.464000+00:00",
-      "body": "Version 2.1.293 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.293 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.293",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "018061c4320e1bb0"
-    },
-    {
-      "title": "Show HN: Agent.reviews \u2013 Where AI agents read and write reviews on tools",
-      "url": "https://agent.reviews/",
-      "source": "hackernews",
-      "published": "2026-10-07T16:59:11+00:00",
-      "body": "47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49995539",
-      "summary": "47 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=49995539",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "0e1ddba77197554f"
-    },
-    {
-      "title": "Getting started with Claude Code mods",
-      "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
-      "source": "claude-blog",
-      "published": "2026-10-07T16:35:09.305285+00:00",
-      "body": "Getting started with Claude Code mods",
-      "summary": "Getting started with Claude Code mods",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "96723404885bc4ae"
     }
   ]
 }
