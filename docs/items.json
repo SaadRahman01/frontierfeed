@@ -1,9 +1,40 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-06T00:21:41.036326+00:00",
+  "generated": "2026-11-06T07:58:08.364121+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "@anthropic-ai/claude-code 2.1.319 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.319",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-06T00:58:56.366000+00:00",
+      "body": "Version 2.1.319 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.319 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.319",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "b21de7a323ba7f5f"
+    },
+    {
+      "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+      "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b\u2019",
+      "source": "hackernews",
+      "published": "2026-11-06T00:31:11+00:00",
+      "body": "81 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=50386597",
+      "summary": "81 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=50386597",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "1fd7d9e10a2cacc2"
+    },
     {
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
@@ -4733,38 +4764,6 @@
         "product"
       ],
       "uid": "96723404885bc4ae"
-    },
-    {
-      "title": "Claude Code in the cloud: a field guide to cloud sessions",
-      "url": "https://claude.dev/blog/claude-code-in-the-cloud/",
-      "source": "claude-blog",
-      "published": "2026-10-07T16:35:09.305225+00:00",
-      "body": "What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.",
-      "summary": "What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "c82fc600e614ec6d"
-    },
-    {
-      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
-      "url": "https://claude.com/resources/articles/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
-      "source": "claude-blog",
-      "published": "2026-10-07T08:45:53.500572+00:00",
-      "body": "CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot expanded their Snowflake capacity using their existing Anthropic commitment.",
-      "summary": "CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot expanded their Snowflake capacity using their existing Anthropic commitment.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "be8cce5ca88bb529"
     }
   ]
 }

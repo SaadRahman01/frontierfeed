@@ -9,6 +9,33 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:b21de7a323ba7f5f",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.319",
+      "title": "@anthropic-ai/claude-code 2.1.319 published",
+      "summary": "Version 2.1.319 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.319 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-11-06T00:58:56.366000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:1fd7d9e10a2cacc2",
+      "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+      "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+      "summary": "81 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=50386597",
+      "content_text": "81 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=50386597",
+      "date_published": "2026-11-06T00:31:11+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:3cecccc92a729ca3",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "title": "Claude Code sends your email address to websites",
@@ -1360,35 +1387,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:f5692ec0caafec4e",
-      "url": "https://claude.com/resources/articles/unified-claude-enterprise",
-      "title": "Claude Cowork and chat come together for Enterprise",
-      "summary": "Claude Cowork and chat come together for Enterprise",
-      "content_text": "Claude Cowork and chat come together for Enterprise",
-      "date_published": "2026-10-23T22:15:42.224843+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "official",
-        "product",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "frontierfeed:131cae9d86f222f5",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.310",
-      "title": "@anthropic-ai/claude-code 2.1.310 published",
-      "summary": "Version 2.1.310 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.310 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-23T21:20:46.540000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
