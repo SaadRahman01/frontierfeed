@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:262deb3960cb90ba",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "title": "The components of agent memory",
+      "summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
+      "content_text": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
+      "date_published": "2026-11-07T01:58:29.925470+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "engineering"
+      ]
+    },
+    {
       "id": "frontierfeed:4281cba191d76726",
       "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
       "title": "Anthropic IPO valuation talks drop to $1.3T",
@@ -1359,20 +1373,6 @@
       "summary": "## What's Changed * chore: bump Bun to 1.4.4 by @dylan-conway in https://github.com/anthropics/claude-code-action/pull/1916 ## New Contributors * @dylan-conway made their first contribution in https://github.com/anthropics/claude-code-action/pull/1916 **Full Changelog**: https://…",
       "content_text": "## What's Changed * chore: bump Bun to 1.4.4 by @dylan-conway in https://github.com/anthropics/claude-code-action/pull/1916 ## New Contributors * @dylan-conway made their first contribution in https://github.com/anthropics/claude-code-action/pull/1916 **Full Changelog**: https://…",
       "date_published": "2026-10-24T18:57:30+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:b1069b0805180bb8",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.261",
-      "title": "v1.0.261",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.260...v1.0.261",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.260...v1.0.261",
-      "date_published": "2026-10-23T23:48:45+00:00",
       "tags": [
         "claude-code",
         "fix",
