@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-07T20:15:57.418940+00:00",
+  "generated": "2026-11-07T23:41:23.527021+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "hackernews",
+      "published": "2026-11-07T20:45:32+00:00",
+      "body": "89 points, 70 comments. Discussion: https://news.ycombinator.com/item?id=50407882",
+      "summary": "89 points, 70 comments. Discussion: https://news.ycombinator.com/item?id=50407882",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "16384167bb2ba32a"
+    },
     {
       "title": "The components of agent memory",
       "url": "https://www.anthropic.com/research/components-of-agent-memory",
@@ -4742,22 +4757,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "82bc1ef85f2085e2"
-    },
-    {
-      "title": "bedrock-sdk: v0.34.3",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.3",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-07T17:57:13+00:00",
-      "body": "## 0.34.3 (2026-10-07)\n\nFull Changelog: [bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3)",
-      "summary": "## 0.34.3 (2026-10-07) Full Changelog: [bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.34.2...bedrock-sdk-v0.34.3)",
-      "version": "bedrock-sdk-v0.34.3",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "5a45537518082778"
     }
   ]
 }
