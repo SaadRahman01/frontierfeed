@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:124cd61ef23de589",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "summary": "60 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50415628",
+      "content_text": "60 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50415628",
+      "date_published": "2026-11-08T18:16:07+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:16384167bb2ba32a",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
@@ -1363,20 +1376,6 @@
         "servers",
         "mcp",
         "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:51e05538e6adf23d",
-      "url": "https://arxiv.org/abs/2610.33949v1",
-      "title": "Why Does Structured Output Fail? An Empirical Study of Prompt-Enforced Pydantic Schemas Across Nine LLMs",
-      "summary": "Pipelines that require structured outputs from hosted language models often specify a Pydantic schema in the prompt, validate the response, and retry when validation fails.",
-      "content_text": "Pipelines that require structured outputs from hosted language models often specify a Pydantic schema in the prompt, validate the response, and retry when validation fails.",
-      "date_published": "2026-10-24T23:30:38+00:00",
-      "tags": [
-        "research",
-        "feature",
-        "research",
-        "paper"
       ]
     }
   ]

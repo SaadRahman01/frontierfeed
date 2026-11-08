@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "hackernews",
+      "published": "2026-11-08T18:16:07+00:00",
+      "body": "60 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50415628",
+      "summary": "60 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50415628",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "124cd61ef23de589"
+    },
+    {
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "source": "hackernews",
@@ -4737,22 +4752,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "eb0dd321108f2d0b"
-    },
-    {
-      "title": "foundry-sdk: v0.5.3",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.3",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-07T17:57:19+00:00",
-      "body": "## 0.5.3 (2026-10-07)\n\nFull Changelog: [foundry-sdk-v0.5.2...foundry-sdk-v0.5.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.2...foundry-sdk-v0.5.3)",
-      "summary": "## 0.5.3 (2026-10-07) Full Changelog: [foundry-sdk-v0.5.2...foundry-sdk-v0.5.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.5.2...foundry-sdk-v0.5.3)",
-      "version": "foundry-sdk-v0.5.3",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "82bc1ef85f2085e2"
     }
   ]
 }
