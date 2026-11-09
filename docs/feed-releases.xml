@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, model releases only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 11:42:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 22:26:57 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-releases.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed — model releases</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
+<link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+<guid isPermaLink="false">frontierfeed:e6608e83977b381d</guid>
+<pubDate>Mon, 09 Nov 2026 22:26:43 +0000</pubDate>
+<category>model-release</category>
+<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
+</item>
+<item>
+<title>Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far</title>
+<link>https://artificialanalysis.ai/models/claude-fable-5-2</link>
+<guid isPermaLink="false">frontierfeed:cb26527cd7b74d6b</guid>
+<pubDate>Mon, 09 Nov 2026 20:04:55 +0000</pubDate>
+<category>model-release</category>
+<description>160 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50431144</description>
+</item>
+<item>
+<title>Claude Fable 5.2 and Mythos 5.2</title>
+<link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+<guid isPermaLink="false">frontierfeed:129e9309870cb696</guid>
+<pubDate>Mon, 09 Nov 2026 18:56:29 +0000</pubDate>
+<category>model-release</category>
+<description>777 points, 455 comments. Discussion: https://news.ycombinator.com/item?id=50429906</description>
+</item>
 <item>
 <title>Introducing Personal Finance in Claude</title>
 <link>https://claude.com/resources/articles/introducing-personal-finance-in-claude</link>
@@ -110,14 +134,6 @@
 <pubDate>Thu, 08 Oct 2026 22:08:17 +0000</pubDate>
 <category>launch</category>
 <description>Introducing the Anthropic Cyber Mission</description>
-</item>
-<item>
-<title>Claude Haiku 5.5</title>
-<link>https://www.anthropic.com/claude-haiku-5-5</link>
-<guid isPermaLink="false">frontierfeed:6e690d1ef54743c3</guid>
-<pubDate>Wed, 07 Oct 2026 22:02:16 +0000</pubDate>
-<category>model-release</category>
-<description>Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.</description>
 </item>
 </channel>
 </rss>

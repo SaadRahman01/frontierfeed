@@ -1,9 +1,186 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-09T11:42:13.161746+00:00",
+  "generated": "2026-11-09T22:26:57.239368+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "source": "anthropic-news",
+      "published": "2026-11-09T22:26:43.990322+00:00",
+      "body": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news",
+        "enterprise"
+      ],
+      "uid": "d811cc8071495c64"
+    },
+    {
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "source": "anthropic-news",
+      "published": "2026-11-09T22:26:43.990306+00:00",
+      "body": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.",
+      "summary": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news",
+        "enterprise"
+      ],
+      "uid": "4692dab6f141f9c0"
+    },
+    {
+      "title": "Expanding the Cyber Verification Program",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "source": "anthropic-news",
+      "published": "2026-11-09T22:26:43.990289+00:00",
+      "body": "We\u2019re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "summary": "We\u2019re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "e310eaf6de303cba"
+    },
+    {
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "anthropic-news",
+      "published": "2026-11-09T22:26:43.989963+00:00",
+      "body": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+      "summary": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+      "version": "",
+      "category": "model-release",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "e6608e83977b381d"
+    },
+    {
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "source": "hackernews",
+      "published": "2026-11-09T20:04:55+00:00",
+      "body": "160 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50431144",
+      "summary": "160 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50431144",
+      "version": "",
+      "category": "model-release",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "cb26527cd7b74d6b"
+    },
+    {
+      "title": "v1.0.270",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.270",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-09T19:25:00+00:00",
+      "body": "## What's Changed\n* release: push tags with the release deploy key (enables tag-ruleset enforcement) by @chrnorm in https://github.com/anthropics/claude-code-action/pull/1650\n\n## New Contributors\n* @chrnorm made their first contribution in https://github.com/anthropics/claude-code-action/pull/1650\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.269...v1.0.270",
+      "summary": "## What's Changed * release: push tags with the release deploy key (enables tag-ruleset enforcement) by @chrnorm in https://github.com/anthropics/claude-code-action/pull/1650 ## New Contributors * @chrnorm made their first contribution in https://github.com/anthropics/claude-code\u2026",
+      "version": "1.0.270",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "0f7d19beee14d06f"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.321 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.321",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-09T19:02:47.641000+00:00",
+      "body": "Version 2.1.321 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.321 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.321",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "ad25a351f6254127"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "hackernews",
+      "published": "2026-11-09T18:56:29+00:00",
+      "body": "777 points, 455 comments. Discussion: https://news.ycombinator.com/item?id=50429906",
+      "summary": "777 points, 455 comments. Discussion: https://news.ycombinator.com/item?id=50429906",
+      "version": "",
+      "category": "model-release",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "129e9309870cb696"
+    },
+    {
+      "title": "sdk-v1.7.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.7.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-09T18:52:24+00:00",
+      "body": "### Features\n\n* **api:** accept user_profile.program_status_updated on organization webhook endpoints\n* **api:** add claude-fable-5-2 and claude-mythos-5-2\n* **api:** add parent organization filtering and grouping to the usage and cost reports\n* **api:** add the sandbox_egress_restricted error to Admin API write methods\n* **api:** add the user_profile.program_status_updated webhook event\n\n\n### Bug Fixes\n\n* **client:** include the body of a failed response in debug logs\n* **helpers:** keep const and enum in structured output schemas\n\n\n### Chores\n\n* **api:** remove some error detail types and update descriptions\n* **docs:** say when a work heartbeat does not compare its value\n* **internal:** add this repository's review rules\n\n\n### Documentation\n\n* **client:** list error code types in api.md\n* **client:** say where the default logger writes and how to log to stderr\n* **helpers:** import from zod/v4 in the examples, for Zod 3.25 users\n\n\n### Refactors\n\n* **client:** declare the name of every AnthropicError subclass the same way",
+      "summary": "### Features * **api:** accept user_profile.program_status_updated on organization webhook endpoints * **api:** add claude-fable-5-2 and claude-mythos-5-2 * **api:** add parent organization filtering and grouping to the usage and cost reports * **api:** add the sandbox_egress_res\u2026",
+      "version": "sdk-v1.7.0",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "enterprise"
+      ],
+      "uid": "f259c136f6649edf"
+    },
+    {
+      "title": "v2.7.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.7.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-11-09T18:52:17+00:00",
+      "body": "### Features\n\n* **api:** accept user_profile.program_status_updated on organization webhook endpoints\n* **api:** add claude-fable-5-2 and claude-mythos-5-2\n* **api:** add parent organization filtering and grouping to the usage and cost reports\n* **api:** add the sandbox_egress_restricted error to Admin API write methods\n* **api:** add the user_profile.program_status_updated webhook event\n\n\n### Bug Fixes\n\n* **bedrock,vertex:** add the parse and count_tokens methods missing from beta.messages.with_raw_response and with_streaming_response\n* **bedrock,vertex:** send the X-Stainless-Async header and stream raw requests that name no stream class\n* **bedrock:** sign requests that have no Connection header instead of raising KeyError\n* **bedrock:** write a list in a query as a[]=1&a[]=2 on the Bedrock Mantle clients, as Anthropic does\n* **client:** allow API errors to be unpickled and copied\n* **client:** read ANTHROPIC_CUSTOM_HEADERS on the Bedrock, Bedrock Mantle and Vertex clients\n* **foundry:** stop copy, with_options and with_middleware from raising when ANTHROPIC_FOUNDRY_RESOURCE is set\n* **parse:** keep const in structured output schemas, and drop type beside const and enum\n\n\n### Chores\n\n* **api:** remove some error detail types and update descriptions\n* **docs:** say when a work heartbeat does not compare its value\n* **internal:** add this repository's review rules\n* **internal:** remove two comments from the error classes",
+      "summary": "### Features * **api:** accept user_profile.program_status_updated on organization webhook endpoints * **api:** add claude-fable-5-2 and claude-mythos-5-2 * **api:** add parent organization filtering and grouping to the usage and cost reports * **api:** add the sandbox_egress_res\u2026",
+      "version": "2.7.0",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "enterprise"
+      ],
+      "uid": "9bccade0da065210"
+    },
+    {
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "source": "hackernews",
+      "published": "2026-11-09T14:31:39+00:00",
+      "body": "231 points, 134 comments. Discussion: https://news.ycombinator.com/item?id=50426175",
+      "summary": "231 points, 134 comments. Discussion: https://news.ycombinator.com/item?id=50426175",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "40bc59d7edf5d193"
+    },
     {
       "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
       "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
@@ -4578,182 +4755,6 @@
         "news"
       ],
       "uid": "e45ff35d76d66b2e"
-    },
-    {
-      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-      "source": "hackernews",
-      "published": "2026-10-08T07:07:34+00:00",
-      "body": "66 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50002665",
-      "summary": "66 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50002665",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "3863e9bba948b217"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.294 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.294",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-08T03:42:57.084000+00:00",
-      "body": "Version 2.1.294 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.294 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.294",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "36a9c1e2d35bfb81"
-    },
-    {
-      "title": "v1.12.1",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.12.1",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-10-08T03:41:38+00:00",
-      "body": "### Chores\n\n* **ci:** check that pull requests update the changelog\n* **docs:** note that listing Claude Console spend limits is in early access\n* **internal:** match the package version in uv.lock",
-      "summary": "### Chores * **ci:** check that pull requests update the changelog * **docs:** note that listing Claude Console spend limits is in early access * **internal:** match the package version in uv.lock",
-      "version": "1.12.1",
-      "category": "note",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-python"
-      ],
-      "uid": "371580e1ae9df76d"
-    },
-    {
-      "title": "google-cloud-sdk-v0.0.19",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.19",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-08T03:07:11+00:00",
-      "body": "### Chores\n\n* **ci:** check that pull requests update the changelog",
-      "summary": "### Chores * **ci:** check that pull requests update the changelog",
-      "version": "google-cloud-sdk-v0.0.19",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "7bc3bea660015250"
-    },
-    {
-      "title": "aws-sdk-v0.7.9",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.9",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-08T03:07:09+00:00",
-      "body": "### Chores\n\n* **ci:** check that pull requests update the changelog",
-      "summary": "### Chores * **ci:** check that pull requests update the changelog",
-      "version": "aws-sdk-v0.7.9",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "a0ac146d6c30907b"
-    },
-    {
-      "title": "foundry-sdk-v0.5.4",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.5.4",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-08T03:07:07+00:00",
-      "body": "### Chores\n\n* **ci:** check that pull requests update the changelog",
-      "summary": "### Chores * **ci:** check that pull requests update the changelog",
-      "version": "foundry-sdk-v0.5.4",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "cc75d11fd505b6aa"
-    },
-    {
-      "title": "bedrock-sdk-v0.34.4",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.34.4",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-08T03:07:05+00:00",
-      "body": "### Chores\n\n* **ci:** check that pull requests update the changelog",
-      "summary": "### Chores * **ci:** check that pull requests update the changelog",
-      "version": "bedrock-sdk-v0.34.4",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "65c71e4869fc3467"
-    },
-    {
-      "title": "vertex-sdk-v0.20.4",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.20.4",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-08T03:07:03+00:00",
-      "body": "### Chores\n\n* **ci:** check that pull requests update the changelog",
-      "summary": "### Chores * **ci:** check that pull requests update the changelog",
-      "version": "ertex-sdk-v0.20.4",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "31ba3236c94d731f"
-    },
-    {
-      "title": "sdk-v0.132.1",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.132.1",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-08T03:07:00+00:00",
-      "body": "### Bug Fixes\n\n* **client:** throw before sending a request with an empty path parameter\n\n\n### Chores\n\n* **ci:** check that pull requests update the changelog\n* **ci:** publish every package from the publish workflow\n* **docs:** note that listing Claude Console spend limits is in early access\n\n\n### Documentation\n\n* split CLAUDE.md into shared, TypeScript, and repository rules",
-      "summary": "### Bug Fixes * **client:** throw before sending a request with an empty path parameter ### Chores * **ci:** check that pull requests update the changelog * **ci:** publish every package from the publish workflow * **docs:** note that listing Claude Console spend limits is in ear\u2026",
-      "version": "sdk-v0.132.1",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "f1b3a1ed2f6d4ce5"
-    },
-    {
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "source": "claude-blog",
-      "published": "2026-10-07T22:02:16.126053+00:00",
-      "body": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we\u2019ve ever released.",
-      "summary": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we\u2019ve ever released.",
-      "version": "",
-      "category": "model-release",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "product",
-        "haiku"
-      ],
-      "uid": "6e690d1ef54743c3"
-    },
-    {
-      "title": "v1.0.245",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.245",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-07T18:15:47+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.244...v1.0.245",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.244...v1.0.245",
-      "version": "1.0.245",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "c5f5b036080e8149"
     }
   ]
 }

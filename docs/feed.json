@@ -9,6 +9,161 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:d811cc8071495c64",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+      "content_text": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+      "date_published": "2026-11-09T22:26:43.990322+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "frontierfeed:4692dab6f141f9c0",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "summary": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.",
+      "content_text": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.",
+      "date_published": "2026-11-09T22:26:43.990306+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "frontierfeed:e310eaf6de303cba",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "title": "Expanding the Cyber Verification Program",
+      "summary": "We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "content_text": "We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "date_published": "2026-11-09T22:26:43.990289+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:e6608e83977b381d",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "summary": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+      "content_text": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+      "date_published": "2026-11-09T22:26:43.989963+00:00",
+      "tags": [
+        "model-release",
+        "feature",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:cb26527cd7b74d6b",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "summary": "160 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50431144",
+      "content_text": "160 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50431144",
+      "date_published": "2026-11-09T20:04:55+00:00",
+      "tags": [
+        "model-release",
+        "feature",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:0f7d19beee14d06f",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.270",
+      "title": "v1.0.270",
+      "summary": "## What's Changed * release: push tags with the release deploy key (enables tag-ruleset enforcement) by @chrnorm in https://github.com/anthropics/claude-code-action/pull/1650 ## New Contributors * @chrnorm made their first contribution in https://github.com/anthropics/claude-code…",
+      "content_text": "## What's Changed * release: push tags with the release deploy key (enables tag-ruleset enforcement) by @chrnorm in https://github.com/anthropics/claude-code-action/pull/1650 ## New Contributors * @chrnorm made their first contribution in https://github.com/anthropics/claude-code…",
+      "date_published": "2026-11-09T19:25:00+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:ad25a351f6254127",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.321",
+      "title": "@anthropic-ai/claude-code 2.1.321 published",
+      "summary": "Version 2.1.321 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.321 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-11-09T19:02:47.641000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:129e9309870cb696",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "summary": "777 points, 455 comments. Discussion: https://news.ycombinator.com/item?id=50429906",
+      "content_text": "777 points, 455 comments. Discussion: https://news.ycombinator.com/item?id=50429906",
+      "date_published": "2026-11-09T18:56:29+00:00",
+      "tags": [
+        "model-release",
+        "feature",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:f259c136f6649edf",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.7.0",
+      "title": "sdk-v1.7.0",
+      "summary": "### Features * **api:** accept user_profile.program_status_updated on organization webhook endpoints * **api:** add claude-fable-5-2 and claude-mythos-5-2 * **api:** add parent organization filtering and grouping to the usage and cost reports * **api:** add the sandbox_egress_res…",
+      "content_text": "### Features * **api:** accept user_profile.program_status_updated on organization webhook endpoints * **api:** add claude-fable-5-2 and claude-mythos-5-2 * **api:** add parent organization filtering and grouping to the usage and cost reports * **api:** add the sandbox_egress_res…",
+      "date_published": "2026-11-09T18:52:24+00:00",
+      "tags": [
+        "pricing",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "frontierfeed:9bccade0da065210",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.7.0",
+      "title": "v2.7.0",
+      "summary": "### Features * **api:** accept user_profile.program_status_updated on organization webhook endpoints * **api:** add claude-fable-5-2 and claude-mythos-5-2 * **api:** add parent organization filtering and grouping to the usage and cost reports * **api:** add the sandbox_egress_res…",
+      "content_text": "### Features * **api:** accept user_profile.program_status_updated on organization webhook endpoints * **api:** add claude-fable-5-2 and claude-mythos-5-2 * **api:** add parent organization filtering and grouping to the usage and cost reports * **api:** add the sandbox_egress_res…",
+      "date_published": "2026-11-09T18:52:17+00:00",
+      "tags": [
+        "pricing",
+        "feature",
+        "release",
+        "anthropic-sdk-python",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "frontierfeed:40bc59d7edf5d193",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "summary": "231 points, 134 comments. Discussion: https://news.ycombinator.com/item?id=50426175",
+      "content_text": "231 points, 134 comments. Discussion: https://news.ycombinator.com/item?id=50426175",
+      "date_published": "2026-11-09T14:31:39+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:124cd61ef23de589",
       "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
@@ -1224,155 +1379,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:1f810d3c7f9f04f4",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.312",
-      "title": "@anthropic-ai/claude-code 2.1.312 published",
-      "summary": "Version 2.1.312 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.312 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-27T18:36:10.160000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:ef1e2758b703a64f",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "summary": "229 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50260814",
-      "content_text": "229 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50260814",
-      "date_published": "2026-10-27T15:28:26+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:8157ae7960d31ae7",
-      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-      "title": "Is my data used for model training?",
-      "summary": "192 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=50259406",
-      "content_text": "192 points, 81 comments. Discussion: https://news.ycombinator.com/item?id=50259406",
-      "date_published": "2026-10-27T13:56:15+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:d3323382388722eb",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.263",
-      "title": "v1.0.263",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.262...v1.0.263",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.262...v1.0.263",
-      "date_published": "2026-10-26T21:55:05+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:2b7c4c69ac5830e4",
-      "url": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
-      "title": "Expanding Claude for Nonprofits",
-      "summary": "Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.",
-      "content_text": "Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.",
-      "date_published": "2026-10-26T20:33:26.499498+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:feb5e901901cfb1f",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.311",
-      "title": "@anthropic-ai/claude-code 2.1.311 published",
-      "summary": "Version 2.1.311 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.311 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-26T19:47:57.395000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:41876b63e6bbae7c",
-      "url": "https://github.com/FrigadeHQ/hob",
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "summary": "105 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50246238",
-      "content_text": "105 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50246238",
-      "date_published": "2026-10-26T16:12:29+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:28711e2b7dea3d56",
-      "url": "https://www.anthropic.com/news/s1-sec",
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "summary": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "content_text": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "date_published": "2026-10-26T14:20:34.290608+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:264779e795ca4808",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "title": "Anthropic S-1",
-      "summary": "425 points, 335 comments. Discussion: https://news.ycombinator.com/item?id=50242939",
-      "content_text": "425 points, 335 comments. Discussion: https://news.ycombinator.com/item?id=50242939",
-      "date_published": "2026-10-26T13:04:50+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:1ee4459ed65d39e1",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "summary": "99 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50236102",
-      "content_text": "99 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50236102",
-      "date_published": "2026-10-25T21:11:31+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:9ba096dc98ce5995",
-      "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
-      "title": "What Adobe v ArtCraft teaches us",
-      "summary": "75 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50232682",
-      "content_text": "75 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50232682",
-      "date_published": "2026-10-25T15:34:44+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
