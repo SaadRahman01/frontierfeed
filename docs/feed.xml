@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 02:42:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 11:42:13 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -24,12 +24,28 @@
 <description>60 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50415628</description>
 </item>
 <item>
+<title>Anthropic strikes $3.4B deal to generate gas-fired power for data centres</title>
+<link>https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0</link>
+<guid isPermaLink="false">frontierfeed:3684f88f860278e4</guid>
+<pubDate>Sun, 08 Nov 2026 12:41:25 +0000</pubDate>
+<category>note</category>
+<description>41 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=50412760</description>
+</item>
+<item>
 <title>Claude Code&#x27;s &quot;Don&#x27;t Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
 <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
 <guid isPermaLink="false">frontierfeed:16384167bb2ba32a</guid>
 <pubDate>Sat, 07 Nov 2026 20:45:32 +0000</pubDate>
 <category>claude-code</category>
 <description>89 points, 70 comments. Discussion: https://news.ycombinator.com/item?id=50407882</description>
+</item>
+<item>
+<title>Ask HN: How do you manage your AI agents&#x27; context across clients and projects?</title>
+<link>https://news.ycombinator.com/item?id=50403153</link>
+<guid isPermaLink="false">frontierfeed:a3b0ddfc2f08aac1</guid>
+<pubDate>Sat, 07 Nov 2026 10:01:48 +0000</pubDate>
+<category>note</category>
+<description>68 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50403153</description>
 </item>
 <item>
 <title>The components of agent memory</title>
@@ -798,22 +814,6 @@
 <pubDate>Sun, 25 Oct 2026 15:34:44 +0000</pubDate>
 <category>note</category>
 <description>75 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50232682</description>
-</item>
-<item>
-<title>Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git</title>
-<link>https://adrs.systems</link>
-<guid isPermaLink="false">frontierfeed:84fcbb9d4c7eea78</guid>
-<pubDate>Sun, 25 Oct 2026 00:43:47 +0000</pubDate>
-<category>note</category>
-<description>59 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=50227041</description>
-</item>
-<item>
-<title>v2.1.0</title>
-<link>https://github.com/modelcontextprotocol/servers/releases/tag/v2.1.0</link>
-<guid isPermaLink="false">frontierfeed:cb55270237a2f8b7</guid>
-<pubDate>Sun, 25 Oct 2026 00:03:20 +0000</pubDate>
-<category>api</category>
-<description>## Security fixes v2.1.0 fixes eight vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` and `@modelcontextprotocol/server-everything` to 2.0.1, and `mcp-server-fetch` to 2026.10.24.</description>
 </item>
 </channel>
 </rss>

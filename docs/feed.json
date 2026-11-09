@@ -22,6 +22,19 @@
       ]
     },
     {
+      "id": "frontierfeed:3684f88f860278e4",
+      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+      "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+      "summary": "41 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=50412760",
+      "content_text": "41 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=50412760",
+      "date_published": "2026-11-08T12:41:25+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:16384167bb2ba32a",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
@@ -30,6 +43,19 @@
       "date_published": "2026-11-07T20:45:32+00:00",
       "tags": [
         "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:a3b0ddfc2f08aac1",
+      "url": "https://news.ycombinator.com/item?id=50403153",
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "summary": "68 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50403153",
+      "content_text": "68 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50403153",
+      "date_published": "2026-11-07T10:01:48+00:00",
+      "tags": [
+        "note",
         "info",
         "community"
       ]
@@ -1347,35 +1373,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:84fcbb9d4c7eea78",
-      "url": "https://adrs.systems",
-      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-      "summary": "59 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=50227041",
-      "content_text": "59 points, 33 comments. Discussion: https://news.ycombinator.com/item?id=50227041",
-      "date_published": "2026-10-25T00:43:47+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:cb55270237a2f8b7",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.1.0",
-      "title": "v2.1.0",
-      "summary": "## Security fixes v2.1.0 fixes eight vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` and `@modelcontextprotocol/server-everything` to 2.0.1, and `mcp-server-fetch` to 2026.10.24.",
-      "content_text": "## Security fixes v2.1.0 fixes eight vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` and `@modelcontextprotocol/server-everything` to 2.0.1, and `mcp-server-fetch` to 2026.10.24.",
-      "date_published": "2026-10-25T00:03:20+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "servers",
-        "mcp",
-        "skills"
       ]
     }
   ]

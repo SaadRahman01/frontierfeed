@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-09T02:42:32.462155+00:00",
+  "generated": "2026-11-09T11:42:13.161746+00:00",
   "count": 300,
   "items": [
     {
@@ -20,6 +20,21 @@
       "uid": "124cd61ef23de589"
     },
     {
+      "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+      "source": "hackernews",
+      "published": "2026-11-08T12:41:25+00:00",
+      "body": "41 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=50412760",
+      "summary": "41 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=50412760",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "3684f88f860278e4"
+    },
+    {
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "source": "hackernews",
@@ -33,6 +48,21 @@
         "community"
       ],
       "uid": "16384167bb2ba32a"
+    },
+    {
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "url": "https://news.ycombinator.com/item?id=50403153",
+      "source": "hackernews",
+      "published": "2026-11-07T10:01:48+00:00",
+      "body": "68 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50403153",
+      "summary": "68 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50403153",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "a3b0ddfc2f08aac1"
     },
     {
       "title": "The components of agent memory",
@@ -4724,38 +4754,6 @@
         "claude-code-action"
       ],
       "uid": "c5f5b036080e8149"
-    },
-    {
-      "title": "google-cloud-sdk: v0.0.18",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.0.18",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-07T17:57:35+00:00",
-      "body": "## 0.0.18 (2026-10-07)\n\nFull Changelog: [google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18)",
-      "summary": "## 0.0.18 (2026-10-07) Full Changelog: [google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.17...google-cloud-sdk-v0.0.18)",
-      "version": "google-cloud-sdk-v0.0.18",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "e8da96721e59ecd4"
-    },
-    {
-      "title": "aws-sdk: v0.7.8",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.7.8",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-07T17:57:25+00:00",
-      "body": "## 0.7.8 (2026-10-07)\n\nFull Changelog: [aws-sdk-v0.7.7...aws-sdk-v0.7.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.7...aws-sdk-v0.7.8)",
-      "summary": "## 0.7.8 (2026-10-07) Full Changelog: [aws-sdk-v0.7.7...aws-sdk-v0.7.8](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.7.7...aws-sdk-v0.7.8)",
-      "version": "aws-sdk-v0.7.8",
-      "category": "api",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "eb0dd321108f2d0b"
     }
   ]
 }
