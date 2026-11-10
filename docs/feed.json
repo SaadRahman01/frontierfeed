@@ -9,6 +9,48 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:f3cce56885ad0f5c",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "summary": "We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.",
+      "content_text": "We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.",
+      "date_published": "2026-11-10T13:31:30.747274+00:00",
+      "tags": [
+        "launch",
+        "feature",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:e45ff35d76d66b2e",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "title": "Building on our commitment to American scientific discovery",
+      "summary": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+      "content_text": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+      "date_published": "2026-11-10T13:31:30.747261+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:b86054c135082f11",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+      "content_text": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+      "date_published": "2026-11-10T13:31:30.747022+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "official",
+        "news"
+      ]
+    },
+    {
       "id": "frontierfeed:624d11cb47b9fac7",
       "url": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
       "title": "JPMorganChase expands Claude Code to more employees across the firm",
@@ -1333,49 +1375,6 @@
         "claude-code",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:dfa9f639ce209cd0",
-      "url": "https://arxiv.org/abs/2610.39062v1",
-      "title": "HEARSAYBENCH: Can AI Navigate from Abstract Human Rights to Lived Lives?",
-      "summary": "As large language models (LLMs) reach users worldwide, personal counseling has emerged as one of their most consequential applications, sometimes in life-critical situations. Yet broader access does not mean equal support.",
-      "content_text": "As large language models (LLMs) reach users worldwide, personal counseling has emerged as one of their most consequential applications, sometimes in life-critical situations. Yet broader access does not mean equal support.",
-      "date_published": "2026-10-28T23:49:28+00:00",
-      "tags": [
-        "research",
-        "feature",
-        "research",
-        "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:07933cd124cd3bd2",
-      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "title": "AI for Science expands to foundations and research institutions",
-      "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
-      "content_text": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
-      "date_published": "2026-10-28T23:15:49.499502+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:2c4c4692fbfce983",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.2.0",
-      "title": "v2.2.0",
-      "summary": "## Security: Node.js runtime and CA certificate updates (October 2026) On October 20, 2026, eMudhra disclosed that the private keys for eight of its intermediate CA certificates could be recovered from the public certificates.",
-      "content_text": "## Security: Node.js runtime and CA certificate updates (October 2026) On October 20, 2026, eMudhra disclosed that the private keys for eight of its intermediate CA certificates could be recovered from the public certificates.",
-      "date_published": "2026-10-28T20:57:13+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "servers",
-        "mcp"
       ]
     }
   ]

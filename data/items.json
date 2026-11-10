@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Introducing the Anthropic Cyber Mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "source": "anthropic-news",
+      "published": "2026-11-10T13:31:30.747274+00:00",
+      "body": "We\u2019re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.",
+      "summary": "We\u2019re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "f3cce56885ad0f5c"
+    },
+    {
+      "title": "Building on our commitment to American scientific discovery",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "source": "anthropic-news",
+      "published": "2026-11-10T13:31:30.747261+00:00",
+      "body": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+      "summary": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "e45ff35d76d66b2e"
+    },
+    {
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "source": "anthropic-news",
+      "published": "2026-11-10T13:31:30.747022+00:00",
+      "body": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+      "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "b86054c135082f11"
+    },
+    {
       "title": "JPMorganChase expands Claude Code to more employees across the firm",
       "url": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
       "source": "claude-blog",
@@ -1536,6 +1584,22 @@
         "paper"
       ],
       "uid": "dfa9f639ce209cd0"
+    },
+    {
+      "title": "HEARSAYBENCH: Can AI Navigate from Abstract Human Rights to Lived Lives?",
+      "url": "https://arxiv.org/abs/2610.39062v2",
+      "source": "arxiv",
+      "published": "2026-10-28T23:49:28+00:00",
+      "body": "As large language models (LLMs) reach users worldwide, personal counseling has emerged as one of their most consequential applications, sometimes in life-critical situations. Yet broader access does not mean equal support. The text these models learn from disproportionately reflects people with the freedom to act, embedding an implicit assumption that users can leave, report, seek help, or appeal. Existing benchmarks largely inherit this assumption, overlooking users whose agency is constrained by structural conditions such as war, statelessness, and displacement. Meanwhile, models are increasingly shaped by normative frameworks such as Constitutional AI, often grounded in ideals like human rights, even as many users live where those rights offer little protection or recourse.\n  We introduce HEARSAYBENCH, a human-authored dataset of 400 test cases with in-region human verification grounded in scenarios where structural barriers stand between a person and the exercise of their rights. Built from United Nations and other human rights reports, the scenarios span over 80 regions and cover social, environmental, and personal constraints. Drawing on Nobel laureate Amartya Sen's Capabilities Approach, HEARSAYBENCH tests whether models can distinguish what a person is formally entitled to do from what they are actually able to do. Across 14 proprietary and open-weight models, every model infers a user's situation more accurately than it advises on it. Stronger models narrow this gap, but their recommendations remain unsafe to follow. Models may understand lives shaped by constraint, yet that knowledge remains hearsay if it cannot translate into advice people can act on. Those people are not alignment's long tail; they are among the users for whom good guidance matters most. HEARSAYBENCH makes this failure measurable, a step toward systems that serve the world as it is rather than as assumed.",
+      "summary": "As large language models (LLMs) reach users worldwide, personal counseling has emerged as one of their most consequential applications, sometimes in life-critical situations. Yet broader access does not mean equal support.",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "97eade1fabff9ff0"
     },
     {
       "title": "AI for Science expands to foundations and research institutions",
@@ -4688,70 +4752,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "e4ddfb2f4784fc38"
-    },
-    {
-      "title": "v1.13.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.13.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-10-09T15:28:52+00:00",
-      "body": "### Features\n\n* **api:** add types for the Chat and Cowork unified analytics metrics\n* **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents\n\n\n### Chores\n\n* **internal:** name the default API version header value",
-      "summary": "### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** name the default API version header value",
-      "version": "1.13.0",
-      "category": "claude-code",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-python"
-      ],
-      "uid": "3873d7acfa8f6973"
-    },
-    {
-      "title": "How Block orchestrates Claude Fable across thousands of pull requests",
-      "url": "https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests",
-      "source": "claude-blog",
-      "published": "2026-10-09T02:14:18.153475+00:00",
-      "body": "Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale.",
-      "summary": "Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "b25ea30d5d386a41"
-    },
-    {
-      "title": "Build live dashboards and animate explainers with Claude",
-      "url": "https://claude.com/resources/articles/dashboards-and-motion",
-      "source": "claude-blog",
-      "published": "2026-10-08T22:08:19.274439+00:00",
-      "body": "Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.",
-      "summary": "Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "8565151eaea642b6"
-    },
-    {
-      "title": "2026 Usage Policy update",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "source": "anthropic-news",
-      "published": "2026-10-08T22:08:17.173231+00:00",
-      "body": "2026 Usage Policy update",
-      "summary": "2026 Usage Policy update",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "557766939d369f17"
     }
   ]
 }

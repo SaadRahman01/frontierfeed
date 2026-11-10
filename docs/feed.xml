@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 04:39:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 13:32:10 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing the Anthropic Cyber Mission</title>
+<link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
+<guid isPermaLink="false">frontierfeed:f3cce56885ad0f5c</guid>
+<pubDate>Tue, 10 Nov 2026 13:31:30 +0000</pubDate>
+<category>launch</category>
+<description>We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.</description>
+</item>
+<item>
+<title>Building on our commitment to American scientific discovery</title>
+<link>https://www.anthropic.com/news/genesis-mission-commitment</link>
+<guid isPermaLink="false">frontierfeed:e45ff35d76d66b2e</guid>
+<pubDate>Tue, 10 Nov 2026 13:31:30 +0000</pubDate>
+<category>note</category>
+<description>Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.</description>
+</item>
+<item>
+<title>Anthropic launches roadshow for proposed initial public offering</title>
+<link>https://www.anthropic.com/news/roadshow-launch</link>
+<guid isPermaLink="false">frontierfeed:b86054c135082f11</guid>
+<pubDate>Tue, 10 Nov 2026 13:31:30 +0000</pubDate>
+<category>note</category>
+<description>Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.</description>
+</item>
 <item>
 <title>JPMorganChase expands Claude Code to more employees across the firm</title>
 <link>https://claude.com/resources/articles/jpmorganchase-expands-claude-code</link>
@@ -790,30 +814,6 @@
 <pubDate>Thu, 29 Oct 2026 03:33:42 +0000</pubDate>
 <category>claude-code</category>
 <description>372 points, 125 comments. Discussion: https://news.ycombinator.com/item?id=50284255</description>
-</item>
-<item>
-<title>HEARSAYBENCH: Can AI Navigate from Abstract Human Rights to Lived Lives?</title>
-<link>https://arxiv.org/abs/2610.39062v1</link>
-<guid isPermaLink="false">frontierfeed:dfa9f639ce209cd0</guid>
-<pubDate>Wed, 28 Oct 2026 23:49:28 +0000</pubDate>
-<category>research</category>
-<description>As large language models (LLMs) reach users worldwide, personal counseling has emerged as one of their most consequential applications, sometimes in life-critical situations. Yet broader access does not mean equal support.</description>
-</item>
-<item>
-<title>AI for Science expands to foundations and research institutions</title>
-<link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
-<guid isPermaLink="false">frontierfeed:07933cd124cd3bd2</guid>
-<pubDate>Wed, 28 Oct 2026 23:15:49 +0000</pubDate>
-<category>note</category>
-<description>We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.</description>
-</item>
-<item>
-<title>v2.2.0</title>
-<link>https://github.com/modelcontextprotocol/servers/releases/tag/v2.2.0</link>
-<guid isPermaLink="false">frontierfeed:2c4c4692fbfce983</guid>
-<pubDate>Wed, 28 Oct 2026 20:57:13 +0000</pubDate>
-<category>api</category>
-<description>## Security: Node.js runtime and CA certificate updates (October 2026) On October 20, 2026, eMudhra disclosed that the private keys for eight of its intermediate CA certificates could be recovered from the public certificates.</description>
 </item>
 </channel>
 </rss>

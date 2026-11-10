@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 04:39:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 13:32:10 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -550,14 +550,6 @@
 <pubDate>Fri, 09 Oct 2026 15:35:41 +0000</pubDate>
 <category>claude-code</category>
 <description>### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** remove the next branch rule from CLAUDE.md</description>
-</item>
-<item>
-<title>v1.13.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.13.0</link>
-<guid isPermaLink="false">frontierfeed:3873d7acfa8f6973</guid>
-<pubDate>Fri, 09 Oct 2026 15:28:52 +0000</pubDate>
-<category>claude-code</category>
-<description>### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** name the default API version header value</description>
 </item>
 </channel>
 </rss>
