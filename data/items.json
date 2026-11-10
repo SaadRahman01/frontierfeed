@@ -1,6 +1,167 @@
 {
   "items": [
     {
+      "title": "How Curative is building a national provider network with agents on Claude",
+      "url": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+      "source": "claude-blog",
+      "published": "2026-11-10T20:51:50.948240+00:00",
+      "body": "Curative\u2019s deal-making agent negotiates 2,000+ provider contracts a week.",
+      "summary": "Curative\u2019s deal-making agent negotiates 2,000+ provider contracts a week.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "010ad6feeea6633c"
+    },
+    {
+      "title": "Your apps can now open in Claude, and Claude can work in them",
+      "url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+      "source": "claude-blog",
+      "published": "2026-11-10T20:51:50.948215+00:00",
+      "body": "Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs.",
+      "summary": "Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "3564ee9f6a36316f"
+    },
+    {
+      "title": "More ways to work with Claude: Sheets, Whiteboards, and Interactive Connectors",
+      "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+      "source": "claude-blog",
+      "published": "2026-11-10T20:51:50.948185+00:00",
+      "body": "Work at the speed of thought",
+      "summary": "Work at the speed of thought",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "0a0eaf5b41558fa7"
+    },
+    {
+      "title": "Introducing Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "source": "claude-blog",
+      "published": "2026-11-10T20:51:50.948135+00:00",
+      "body": "Now you can brainstorm on whiteboards, build sheets, and share data directly in Claude.",
+      "summary": "Now you can brainstorm on whiteboards, build sheets, and share data directly in Claude.",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "ea4105b0561fd254"
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "source": "hackernews",
+      "published": "2026-11-10T18:01:15+00:00",
+      "body": "139 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=50443812",
+      "summary": "139 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=50443812",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "fb31fadf9837c805"
+    },
+    {
+      "title": "google-cloud-sdk-v1.1.4",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.4",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-10T16:33:40+00:00",
+      "body": "### Bug Fixes\n\n* **google-cloud:** throw an `AnthropicError` for a project, location or workspace ID such as `;x`, `.;x` or `..;x`",
+      "summary": "### Bug Fixes * **google-cloud:** throw an `AnthropicError` for a project, location or workspace ID such as `;x`, `.;x` or `..;x`",
+      "version": "google-cloud-sdk-v1.1.4",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "da3160e618747fcb"
+    },
+    {
+      "title": "bedrock-sdk-v1.1.2",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.2",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-10T16:33:38+00:00",
+      "body": "### Bug Fixes\n\n* **bedrock:** throw an `AnthropicError` for a model such as `;x`, `.;x` or `..;x`",
+      "summary": "### Bug Fixes * **bedrock:** throw an `AnthropicError` for a model such as `;x`, `.;x` or `..;x`",
+      "version": "bedrock-sdk-v1.1.2",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "a3e3890c611f7d88"
+    },
+    {
+      "title": "vertex-sdk-v1.1.3",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.3",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-10T16:33:35+00:00",
+      "body": "### Bug Fixes\n\n* **vertex:** send a `;` in the model as `%3B`\n* **vertex:** throw an `AnthropicError` for a project ID, region or model such as `;x`, `.;x` or `..;x`",
+      "summary": "### Bug Fixes * **vertex:** send a `;` in the model as `%3B` * **vertex:** throw an `AnthropicError` for a project ID, region or model such as `;x`, `.;x` or `..;x`",
+      "version": "ertex-sdk-v1.1.3",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "072e60b1077d5af0"
+    },
+    {
+      "title": "sdk-v1.8.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.8.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-10T16:33:32+00:00",
+      "body": "### Features\n\n* **api:** add Claude Tag metrics to the analytics summaries and users reports\n* **api:** add reply_mode to Claude Tag Slack channel settings\n\n\n### Chores\n\n* **docs:** clarify display_name for RBAC Roles created by Anthropic\n* **docs:** clarify plugin delete and skill name conflict descriptions\n* **docs:** clarify when to omit user_profile_id on external keys\n* **docs:** note that Claude Tag settings accept self-hosted runner pools\n\n\n### Documentation\n\n* **examples:** show multiagent when creating a Managed Agents agent",
+      "summary": "### Features * **api:** add Claude Tag metrics to the analytics summaries and users reports * **api:** add reply_mode to Claude Tag Slack channel settings ### Chores * **docs:** clarify display_name for RBAC Roles created by Anthropic * **docs:** clarify plugin delete and skill n\u2026",
+      "version": "sdk-v1.8.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "skills"
+      ],
+      "uid": "57b9dfdcec6a5dce"
+    },
+    {
+      "title": "v2.8.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.8.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-11-10T16:32:58+00:00",
+      "body": "### Features\n\n* **api:** add Claude Tag metrics to the analytics summaries and users reports\n* **api:** add reply_mode to Claude Tag Slack channel settings\n\n\n### Bug Fixes\n\n* **bedrock:** send \";\" in a model ID as is, and refuse a model ID whose part before the first \";\" is empty, \".\" or \"..\"\n* **google-cloud:** percent-encode the project, location and workspace ID in the workspace and organization base URL paths\n* **google-cloud:** refuse an empty project, location or workspace ID that would be written into a derived base URL\n* **vertex:** refuse an empty model, project ID or region instead of writing it into the request path\n* **vertex:** send \";\" in the model as %3B in the request path\n\n\n### Chores\n\n* **docs:** clarify display_name for RBAC Roles created by Anthropic\n* **docs:** clarify plugin delete and skill name conflict descriptions\n* **docs:** clarify when to omit user_profile_id on external keys\n* **docs:** note that Claude Tag settings accept self-hosted runner pools\n* **internal:** make three timing tests tolerate slow test machines\n* **internal:** remove a redundant import from the message types\n\n\n### Documentation\n\n* **examples:** show multiagent when creating a Managed Agents agent",
+      "summary": "### Features * **api:** add Claude Tag metrics to the analytics summaries and users reports * **api:** add reply_mode to Claude Tag Slack channel settings ### Bug Fixes * **bedrock:** send \";\" in a model ID as is, and refuse a model ID whose part before the first \";\" is empty, \".\u2026",
+      "version": "2.8.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "skills"
+      ],
+      "uid": "5b9f43ace5b32aeb"
+    },
+    {
       "title": "Introducing the Anthropic Cyber Mission",
       "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
       "source": "anthropic-news",
@@ -47,6 +208,21 @@
         "news"
       ],
       "uid": "b86054c135082f11"
+    },
+    {
+      "title": "Anthropic to Seek $1.3T Valuation in IPO",
+      "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
+      "source": "hackernews",
+      "published": "2026-11-10T12:49:32+00:00",
+      "body": "56 points, 77 comments. Discussion: https://news.ycombinator.com/item?id=50439616",
+      "summary": "56 points, 77 comments. Discussion: https://news.ycombinator.com/item?id=50439616",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "95755d3934b85a58"
     },
     {
       "title": "JPMorganChase expands Claude Code to more employees across the firm",
@@ -4581,177 +4757,6 @@
         "community"
       ],
       "uid": "a0e45fbc757e52b7"
-    },
-    {
-      "title": "v1.0.0",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v1.0.0",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2026-10-11T02:40:29+00:00",
-      "body": "## Packages\r\n\r\n| Package | Version | Registry | In this release |\r\n| --- | --- | --- | --- |\r\n| `@modelcontextprotocol/server-everything` | `1.0.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-filesystem` | `1.0.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-memory` | `1.0.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-sequential-thinking` | `1.0.0` | npm | **published** |\r\n| `mcp-server-fetch` | `2026.10.10` | PyPI | **published** |\r\n| `mcp-server-git` | `2026.10.10` | PyPI | **published** |\r\n| `mcp-server-time` | `2026.10.10` | PyPI | **published** |\r\n\r\nRelease ledger: [v2/chore/5080-release-v1.0.0-sdk1](https://claude.ai/artifact/GP9jycCFtcYBaikubx3xwc)\r\n\r\n## @modelcontextprotocol/server-everything 1.0.0\r\n\r\n### What's Changed\r\n\r\n* fix(everything): clean up subscriptions on session disconnect by @arimu1 in https://github.com/modelcontextprotocol/servers/pull/4712\r\n* Agentic software factory Part 2: AGENTS.md, the absolute rules; delete CLAUDE.md by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4894\r\n* Agentic software factory Part 4: TypeScript workspace gate (Prettier, ESLint, root validate, CI) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4896\r\n* feat: changesets for the TypeScript servers, GitHub-Release-triggered publishing by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4927\r\n* fix(everything): SSE reports a port already in use instead of \"Server is running\" by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4936\r\n* test(everything): protocol-level characterization suite and per-file 90% coverage gate by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4978\r\n* fix(everything): label dynamic blob resources application/octet-stream by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5005\r\n* fix(everything): answer unknown and duplicate HTTP+SSE sessions (#4981) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5020\r\n* fix(everything): scope session resources to their server (#4808) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5032\r\n* fix(everything): instructions qualify capability-gated tools; gate trigger-elicitation-request on form mode by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5034\r\n* fix(everything): keep async task tools within their client task (#4986, #4987) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5014\r\n* fix(everything): Streamable HTTP 404 for unknown sessions, per-stream replay, shutdown closes sessions by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5006\r\n* chore(everything): keep compiled tests and vitest config out of the published package by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5053\r\n* v1.0.0: release audit for the SDK 1.x release branch by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5087\r\n* v1.0.0: fold pending changesets into a 1.0.0 CHANGELOG (release branch) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5088\r\n* Release v1.0.0: merge v2/release/1.0.0 into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5090\r\n\r\n## @modelcontextprotocol/server-filesystem 1.0.0\r\n\r\n### What's Changed\r\n\r\n* fix: declare zod runtime dependencies by @he-yufeng in https://github.com/modelcontextprotocol/servers/pull/4289\r\n* Agentic software factory Part 4: TypeScript workspace gate (Prettier, ESLint, root validate, CI) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4896\r\n* filesystem: fix unicode-paths tests on macOS by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4901\r\n* feat: changesets for the TypeScript servers, GitHub-Release-triggered publishing by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4927\r\n* test(filesystem): in-process characterization suite and per-file 90% coverage gate by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4977\r\n* fix(filesystem): resolve paths that differ from disk only in Unicode form (#1970) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5009\r\n* fix(filesystem): admit paths under a UNC share root allowed directory by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5010\r\n* fix(filesystem): wait for initial roots before tool calls; fail visibly with no directories by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5025\r\n* fix(filesystem): declare JSON Schema 2020-12 on every tool schema by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5030\r\n* fix(filesystem): overwrite existing files in place (#4512, #3199) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5022\r\n* fix(filesystem): keep line endings and indentation in edit_file by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5011\r\n* chore(ci): run the test suites on Windows runners by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5047\r\n* v1.0.0: release audit for the SDK 1.x release branch by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5087\r\n* v1.0.0: fold pending changesets into a 1.0.0 CHANGELOG (release branch) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5088\r\n* v1.0.0: cherry-pick the #5094 roots revocation fix onto the release branch by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5096\r\n* v1.0.0: cherry-pick the #5097 roots refresh ordering fix onto the release branch by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5099\r\n* v1.0.0: cherry-pick the #5101 roots refresh barrier onto the release branch by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5103\r\n* Release v1.0.0: merge v2/release/1.0.0 into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5090\r\n\r\n## @modelcontextprotocol/server-memory 1.0.0\r\n\r\n### What's Changed\r\n\r\n* fix(memory): resolve Vitest false positive for expected rejection by @JosephDoUrden in https://github.com/modelcontextprotocol/servers/pull/3893\r\n* fix(memory): read serverInfo.version from package.json by @syf2211 in https://github.com/modelcontextprotocol/servers/pull/4407\r\n* fix(memory): reject dangling relations by @jstar0 in https://github.com/modelcontextprotocol/servers/pull/4477\r\n* fix: declare zod runtime dependencies by @he-yufeng in https://github.com/modelcontextprotocol/servers/pull/4289\r\n* fix(memory): add trailing newline to JSONL output by @nickveenhof in https://github.com/modelcontextprotocol/servers/pull/3653\r\n* fix(memory): expand leading ~ in MEMORY_FILE_PATH to the home directory by @ameyypawar in https://github.com/modelcontextprotocol/servers/pull/4447\r\n* fix(memory): stop reporting deletions that did not happen by @ConnorMoss02 in https://github.com/modelcontextprotocol/servers/pull/4738\r\n* fix(memory): validate knowledge graph entries when loading from disk by @Ethanz11-creat in https://github.com/modelcontextprotocol/servers/pull/4717\r\n* fix(memory): constrain search_nodes query length by @feiiiiii5 in https://github.com/modelcontextprotocol/servers/pull/4662\r\n* fix(memory): skip duplicate entities and relations within a single batch by @JSap0914 in https://github.com/modelcontextprotocol/servers/pull/4383\r\n* fix(memory): serialize graph mutations to prevent concurrent write race by @Nandini-Inuguru in https://github.com/modelcontextprotocol/servers/pull/4555\r\n* Agentic software factory Part 4: TypeScript workspace gate (Prettier, ESLint, root validate, CI) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4896\r\n* feat: changesets for the TypeScript servers, GitHub-Release-triggered publishing by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/4927\r\n* fix(memory): run the file-path tests in a temporary directory by @cliffhall in https:",
-      "summary": "## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `1.0.0` | npm | **published** | | `@modelcontextprotocol/server-mem\u2026",
-      "version": "1.0.0",
-      "category": "api",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "servers",
-        "mcp"
-      ],
-      "uid": "78946aaf73f6d3c3"
-    },
-    {
-      "title": "Anthropic asks users to stop being mean to Claude",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
-      "source": "hackernews",
-      "published": "2026-10-11T01:17:22+00:00",
-      "body": "46 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50038865",
-      "summary": "46 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50038865",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "bb494fe4f96af8d6"
-    },
-    {
-      "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-      "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-      "source": "hackernews",
-      "published": "2026-10-11T00:08:31+00:00",
-      "body": "54 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=50038383",
-      "summary": "54 points, 110 comments. Discussion: https://news.ycombinator.com/item?id=50038383",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "b7baa36ebf66e09a"
-    },
-    {
-      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-      "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-      "source": "hackernews",
-      "published": "2026-10-10T18:10:54+00:00",
-      "body": "40 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50035550",
-      "summary": "40 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50035550",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "2787d2f321fbf028"
-    },
-    {
-      "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
-      "url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
-      "source": "hackernews",
-      "published": "2026-10-10T15:04:38+00:00",
-      "body": "104 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50033678",
-      "summary": "104 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50033678",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "f232227e4790b9bb"
-    },
-    {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "source": "hackernews",
-      "published": "2026-10-09T22:00:35+00:00",
-      "body": "41 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50027118",
-      "summary": "41 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50027118",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "9dac9b5032c50508"
-    },
-    {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "source": "hackernews",
-      "published": "2026-10-09T22:00:35+00:00",
-      "body": "155 points, 120 comments. Discussion: https://news.ycombinator.com/item?id=50027118",
-      "summary": "155 points, 120 comments. Discussion: https://news.ycombinator.com/item?id=50027118",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "e91bc0f610a9e5c0"
-    },
-    {
-      "title": "v1.0.248",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.248",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-09T19:37:39+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.247...v1.0.248",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.247...v1.0.248",
-      "version": "1.0.248",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "0dd67f89d503a4e4"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.296 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.296",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-09T16:58:10.924000+00:00",
-      "body": "Version 2.1.296 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.296 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.296",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "65b5380897cd782e"
-    },
-    {
-      "title": "Building effective agent automations",
-      "url": "https://claude.dev/blog/building-effective-agent-automations/",
-      "source": "claude-blog",
-      "published": "2026-10-09T16:19:27.278297+00:00",
-      "body": "A reference implementation walkthrough for a scheduled Claude Managed Agents automation, with the config files and six rules for avoiding common failure modes.",
-      "summary": "A reference implementation walkthrough for a scheduled Claude Managed Agents automation, with the config files and six rules for avoiding common failure modes.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "2fa8b1c174341251"
-    },
-    {
-      "title": "sdk-v0.133.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.133.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-09T15:35:41+00:00",
-      "body": "### Features\n\n* **api:** add types for the Chat and Cowork unified analytics metrics\n* **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents\n\n\n### Chores\n\n* **internal:** remove the next branch rule from CLAUDE.md",
-      "summary": "### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** remove the next branch rule from CLAUDE.md",
-      "version": "sdk-v0.133.0",
-      "category": "claude-code",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "e4ddfb2f4784fc38"
     }
   ]
 }

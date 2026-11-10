@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, model releases only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 13:32:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 20:52:01 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-releases.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — model releases</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing Claude Whiteboards, Claude Sheets, and Claude Data</title>
+<link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
+<guid isPermaLink="false">frontierfeed:ea4105b0561fd254</guid>
+<pubDate>Tue, 10 Nov 2026 20:51:50 +0000</pubDate>
+<category>launch</category>
+<description>Now you can brainstorm on whiteboards, build sheets, and share data directly in Claude.</description>
+</item>
 <item>
 <title>Introducing the Anthropic Cyber Mission</title>
 <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
