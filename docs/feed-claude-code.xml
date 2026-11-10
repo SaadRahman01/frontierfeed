@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 22:26:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 04:39:19 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>JPMorganChase expands Claude Code to more employees across the firm</title>
+<link>https://claude.com/resources/articles/jpmorganchase-expands-claude-code</link>
+<guid isPermaLink="false">frontierfeed:624d11cb47b9fac7</guid>
+<pubDate>Tue, 10 Nov 2026 04:39:03 +0000</pubDate>
+<category>claude-code</category>
+<description>JPMorganChase expands Claude Code to more employees across the firm</description>
+</item>
+<item>
+<title>v1.0.271</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.271</link>
+<guid isPermaLink="false">frontierfeed:b7a0cb4f411f7df7</guid>
+<pubDate>Tue, 10 Nov 2026 02:32:58 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.270...v1.0.271</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.322 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.322</link>
+<guid isPermaLink="false">frontierfeed:8effbfca24e592ff</guid>
+<pubDate>Tue, 10 Nov 2026 01:58:41 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.322 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>v1.0.270</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.270</link>
@@ -534,30 +558,6 @@
 <pubDate>Fri, 09 Oct 2026 15:28:52 +0000</pubDate>
 <category>claude-code</category>
 <description>### Features * **api:** add types for the Chat and Cowork unified analytics metrics * **api:** add workflows, multiagent configuration and thread status filtering to Managed Agents ### Chores * **internal:** name the default API version header value</description>
-</item>
-<item>
-<title>v1.0.247</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.247</link>
-<guid isPermaLink="false">frontierfeed:0acc4358c0772ac6</guid>
-<pubDate>Thu, 08 Oct 2026 19:54:20 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.246...v1.0.247</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.295 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.295</link>
-<guid isPermaLink="false">frontierfeed:a94769f1070fcf23</guid>
-<pubDate>Thu, 08 Oct 2026 18:22:58 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.295 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.0.246</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.246</link>
-<guid isPermaLink="false">frontierfeed:df6aebca4e7eeae7</guid>
-<pubDate>Thu, 08 Oct 2026 17:29:32 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.245...v1.0.246</description>
 </item>
 </channel>
 </rss>

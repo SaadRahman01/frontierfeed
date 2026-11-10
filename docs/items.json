@@ -1,9 +1,108 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-09T22:26:57.239368+00:00",
+  "generated": "2026-11-10T04:39:19.079393+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "JPMorganChase expands Claude Code to more employees across the firm",
+      "url": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
+      "source": "claude-blog",
+      "published": "2026-11-10T04:39:03.933190+00:00",
+      "body": "JPMorganChase expands Claude Code to more employees across the firm",
+      "summary": "JPMorganChase expands Claude Code to more employees across the firm",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "624d11cb47b9fac7"
+    },
+    {
+      "title": "Safely scaling multi-agent teams with Claude Fable 5.2",
+      "url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+      "source": "claude-blog",
+      "published": "2026-11-10T04:39:03.933178+00:00",
+      "body": "How a team of 1,000 agents running an early version of Claude Fable 5.2 reproduced a formal proof of Fermat's Last Theorem with general tools, a shared database, and layered safety controls.",
+      "summary": "How a team of 1,000 agents running an early version of Claude Fable 5.2 reproduced a formal proof of Fermat's Last Theorem with general tools, a shared database, and layered safety controls.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "48eb1031afe99dbd"
+    },
+    {
+      "title": "Which Claude model should you build with?",
+      "url": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+      "source": "claude-blog",
+      "published": "2026-11-10T04:39:03.933165+00:00",
+      "body": "How to choose between Claude Fable 5.2, Opus 5.5, Sonnet 5.5, and Haiku 5.5 by task, cost, and effort level.",
+      "summary": "How to choose between Claude Fable 5.2, Opus 5.5, Sonnet 5.5, and Haiku 5.5 by task, cost, and effort level.",
+      "version": "",
+      "category": "pricing",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "opus",
+        "sonnet",
+        "haiku"
+      ],
+      "uid": "23fa2649b89e980c"
+    },
+    {
+      "title": "Claude can design electronic prototypes from start to finish",
+      "url": "https://www.anthropic.com/research/claude-electronics-design",
+      "source": "claude-blog",
+      "published": "2026-11-10T04:39:03.933117+00:00",
+      "body": "We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry.",
+      "summary": "We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "2a19bf57afe2a2f5"
+    },
+    {
+      "title": "v1.0.271",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.271",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-10T02:32:58+00:00",
+      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.270...v1.0.271",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.270...v1.0.271",
+      "version": "1.0.271",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "b7a0cb4f411f7df7"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.322 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.322",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-10T01:58:41.811000+00:00",
+      "body": "Version 2.1.322 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.322 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.322",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "8effbfca24e592ff"
+    },
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
       "url": "https://www.anthropic.com/news/barclays-scales-claude",
@@ -69,6 +168,21 @@
         "news"
       ],
       "uid": "e6608e83977b381d"
+    },
+    {
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "source": "hackernews",
+      "published": "2026-11-09T22:19:12+00:00",
+      "body": "116 points, 144 comments. Discussion: https://news.ycombinator.com/item?id=50433079",
+      "summary": "116 points, 144 comments. Discussion: https://news.ycombinator.com/item?id=50433079",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "e8d841d2949fceb6"
     },
     {
       "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
@@ -180,6 +294,21 @@
         "community"
       ],
       "uid": "40bc59d7edf5d193"
+    },
+    {
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "source": "hackernews",
+      "published": "2026-11-09T14:31:39+00:00",
+      "body": "291 points, 190 comments. Discussion: https://news.ycombinator.com/item?id=50426175",
+      "summary": "291 points, 190 comments. Discussion: https://news.ycombinator.com/item?id=50426175",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "fc7a957ed32f63a0"
     },
     {
       "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
@@ -4627,134 +4756,6 @@
         "news"
       ],
       "uid": "557766939d369f17"
-    },
-    {
-      "title": "Introducing the Anthropic Cyber Mission",
-      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "source": "anthropic-news",
-      "published": "2026-10-08T22:08:17.173204+00:00",
-      "body": "Introducing the Anthropic Cyber Mission",
-      "summary": "Introducing the Anthropic Cyber Mission",
-      "version": "",
-      "category": "launch",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "f3cce56885ad0f5c"
-    },
-    {
-      "title": "v1.0.247",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.247",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-08T19:54:20+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.246...v1.0.247",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.246...v1.0.247",
-      "version": "1.0.247",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "0acc4358c0772ac6"
-    },
-    {
-      "title": "LGTM (Looks Good to Me) \u2013 Claude Opus 5.5 Music Video",
-      "url": "https://www.youtube.com/watch?v=3TNpOD6bov8",
-      "source": "hackernews",
-      "published": "2026-10-08T18:55:18+00:00",
-      "body": "42 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50010330",
-      "summary": "42 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50010330",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "8716d340624e1604"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.295 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.295",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-08T18:22:58.621000+00:00",
-      "body": "Version 2.1.295 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.295 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.295",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "a94769f1070fcf23"
-    },
-    {
-      "title": "v1.0.246",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.246",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-08T17:29:32+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.245...v1.0.246",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.245...v1.0.246",
-      "version": "1.0.246",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "df6aebca4e7eeae7"
-    },
-    {
-      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "source": "hackernews",
-      "published": "2026-10-08T17:08:02+00:00",
-      "body": "60 points, 126 comments. Discussion: https://news.ycombinator.com/item?id=50008565",
-      "summary": "60 points, 126 comments. Discussion: https://news.ycombinator.com/item?id=50008565",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "eb5d28c18496a5c6"
-    },
-    {
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "source": "anthropic-news",
-      "published": "2026-10-08T16:33:31.251025+00:00",
-      "body": "Developing Enterprise Frontier Safeguards with our customers",
-      "summary": "Developing Enterprise Frontier Safeguards with our customers",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news",
-        "enterprise"
-      ],
-      "uid": "abd8d79a176a9a73"
-    },
-    {
-      "title": "Building on our commitment to American scientific discovery",
-      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-      "source": "anthropic-news",
-      "published": "2026-10-08T16:33:31.250865+00:00",
-      "body": "Building on our commitment to American scientific discovery",
-      "summary": "Building on our commitment to American scientific discovery",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "e45ff35d76d66b2e"
     }
   ]
 }
