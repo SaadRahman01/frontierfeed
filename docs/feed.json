@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:9ada84a1fc3ca691",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "summary": "174 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=50447074",
+      "content_text": "174 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=50447074",
+      "date_published": "2026-11-10T22:17:56+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:010ad6feeea6633c",
       "url": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
       "title": "How Curative is building a national provider network with agents on Claude",
@@ -1370,20 +1383,6 @@
         "pricing",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:1e4a17441c5841f0",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.315",
-      "title": "@anthropic-ai/claude-code 2.1.315 published",
-      "summary": "Version 2.1.315 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.315 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-30T21:05:24.080000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
