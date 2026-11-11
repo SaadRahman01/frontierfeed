@@ -1,9 +1,26 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-11T01:16:43.907442+00:00",
+  "generated": "2026-11-11T07:49:18.512409+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v2.4.0",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2026-11-11T07:07:16+00:00",
+      "body": "## Security fixes\n\nv2.4.0 fixes six vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` to 2.3.0,\nand `mcp-server-git` and `mcp-server-fetch` to 2026.11.11.\n\n| Package | Affected | Fixed in |\n| --- | --- | --- |\n| `@modelcontextprotocol/server-filesystem` | all versions before 2.3.0, and date versions 2025.1.14 through 2026.8.31 | 2.3.0 |\n| `mcp-server-git` | through 2026.11.4 | 2026.11.11 |\n| `mcp-server-fetch` | through 2026.11.4 | 2026.11.11 |\n\n### `@modelcontextprotocol/server-filesystem` 2.3.0\n\n* **Reads stay with the file that was checked** (Linux and macOS). The read tools and file resources now open a file relative to the directory that was checked, as writes already did, so a directory swapped for a symlink between the access check and the read can no longer return a file from outside the allowed directories. A FIFO, socket or device is refused rather than read. **On Windows this narrows the race without closing it**, as for writes (#5260) ([GHSA-p9cv-8g75-4xcg](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-p9cv-8g75-4xcg))\n* **`move_file` moves only the source it checked.** A move within one device first takes the source out of its own checked directory under a fresh name, so a source directory swapped for a symlink can no longer bring an outside file into the allowed directories, where it would become readable ([GHSA-7m4x-rv66-mxhh](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-7m4x-rv66-mxhh))\n\n### `mcp-server-git` 2026.11.11\n\n* **A repository's own Git configuration can no longer make the server run a program.** A read-only call such as `git_status` on an untrusted repository used to run a command named in its `.git/config` (`core.fsmonitor`, `diff.external`, hooks, filter and merge drivers, signing) with the server's privileges. Every Git command now overrides those settings, and a Git older than 2.31, which would ignore the overrides, is refused ([GHSA-6hqx-gqrx-c5r2](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-6hqx-gqrx-c5r2))\n* **`--repository` confinement covers alternate object stores, linked worktrees and links in the Git directory.** A repository inside the allowed one could read another repository's objects through `objects/info/alternates`, or pass a linked worktree's Git directory off as the allowed repository's. Both are refused, as is a symlink in a Git directory that leads outside the allowed repository. **On Windows a directory junction is not yet covered** (#5520) ([GHSA-q74p-4wrc-q7w6](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-q74p-4wrc-q7w6))\n\n### `mcp-server-fetch` 2026.11.11\n\n* **IPv6 site-local addresses are private.** The private-address guard read `fec0::/10` as public. It is now refused, and so is any IPv6 address outside global unicast (`2000::/3`) that does not carry an IPv4 address ([GHSA-3rxj-6jhw-qfv7](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-3rxj-6jhw-qfv7))\n* **robots.txt is matched against the path the site will resolve**, as well as the path as written, so `//private` or `/x/../private` can no longer get past `Disallow: /private` ([GHSA-f9hh-cmx9-2f23](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-f9hh-cmx9-2f23))\n\n### Upgrading from a date-versioned npm release\n\nThe TypeScript servers moved from date versions (2025.x, 2026.x) to semantic versions in 1.0.0. Package managers rank 2.3.0 below every 2025.x and 2026.x version, so they won't offer it as an upgrade. If you are on a date version of `@modelcontextprotocol/server-filesystem`, install 2.3.0 explicitly: `npm install @modelcontextprotocol/server-filesystem@2.3.0`.\n\n## Packages\r\n\r\n| Package | Version | Registry | In this release |\r\n| --- | --- | --- | --- |\r\n| `@modelcontextprotocol/server-everything` | `2.3.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-filesystem` | `2.3.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-memory` | `2.1.1` | npm | **published** |\r\n| `@modelcontextprotocol/server-sequential-thinking` | `2.1.1` | npm | unchanged |\r\n| `mcp-server-fetch` | `2026.11.11` | PyPI | **published** |\r\n| `mcp-server-git` | `2026.11.11` | PyPI | **published** |\r\n| `mcp-server-time` | `2026.11.11` | PyPI | **published** |\r\n\r\nRelease ledger: [v2/chore/5509-release-v2.4.0](https://claude.ai/artifact/Wdm6VAnQ7tXoNmVKZPQsDf)\r\n\r\n## @modelcontextprotocol/server-everything 2.3.0\r\n\r\n### What's Changed\r\n\r\n* fix(everything): count tasks/update answers in UTF-8 bytes by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5449\r\n* everything: bind the HTTP transports to loopback by default, with HOST to widen by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5452\r\n* feat: describe every tool input property (#3669) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5475\r\n* chore(deps): monthly dependency refresh (November 2026) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5476\r\n* fix(docker): run every server image as its non-root user by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5473\r\n* chore(everything): drop the unused jszip dependency by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5478\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5470\r\n* Release v2.4.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5518\r\n\r\n## @modelcontextprotocol/server-filesystem 2.3.0\r\n\r\n### What's Changed\r\n\r\n* chore(docker): build filesystem, memory and sequentialthinking from the workspace lockfile by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5469\r\n* feat: describe every tool input property (#3669) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5475\r\n* feat(filesystem, memory): say when to use each list and delete tool by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5460\r\n* fix(docker): run every server image as its non-root user by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5473\r\n* fix(filesystem): read search_files excludePatterns like directory_tree by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5446\r\n* fix(filesystem): an excludePatterns glob ending in \"/**\" prunes the directory it names by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5456\r\n* fix(filesystem): match edit_file oldText that ends with a newline by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5447\r\n* fix(filesystem): report a missing parent directory, not a raw chdir error by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5448\r\n* feat(filesystem): refuse NTFS alternate-data-stream paths on Windows by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5450\r\n* feat(filesystem): refuse Windows device names and trailing dots/spaces in paths by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5458\r\n* filesystem: per-directory read-only access with --read-only-dir by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5451\r\n* fix(filesystem): GHSA-p9cv-8g75-4xcg by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5516\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5470\r\n* Release v2.4.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5518\r\n\r\n## @modelcontextprotocol/server-memory 2.1.1\r\n\r\n### What's Changed\r\n\r\n* chore(docker): build filesystem, memory and sequentialthinking from the workspace lockfile by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5469\r\n* feat: describe every tool input property (#3669) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5475\r\n* feat(filesystem, m",
+      "summary": "## Security fixes v2.4.0 fixes six vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` to 2.3.0, and `mcp-server-git` and `mcp-server-fetch` to 2026.11.11.",
+      "version": "2.4.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "3db837a6b7c3f5e4"
+    },
     {
       "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
       "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
@@ -18,6 +35,21 @@
         "community"
       ],
       "uid": "9ada84a1fc3ca691"
+    },
+    {
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "source": "hackernews",
+      "published": "2026-11-10T22:17:56+00:00",
+      "body": "390 points, 180 comments. Discussion: https://news.ycombinator.com/item?id=50447074",
+      "summary": "390 points, 180 comments. Discussion: https://news.ycombinator.com/item?id=50447074",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "dc92c6bf09174766"
     },
     {
       "title": "How Curative is building a national provider network with agents on Claude",
@@ -341,6 +373,38 @@
         "npm"
       ],
       "uid": "8effbfca24e592ff"
+    },
+    {
+      "title": "Living constitutions: Participatory alignment for sovereign foundation models",
+      "url": "https://arxiv.org/abs/2611.13402v1",
+      "source": "arxiv",
+      "published": "2026-11-10T00:32:24+00:00",
+      "body": "In Constitutional AI, a plain-text \"constitution\" encodes values and gets incorporated into a model via post-training. However, the procedure for creating such a constitution poses significant challenges: who contributes, who decides which norms are included, and to what extent must the process be participatory or democratic? These challenges can be paralyzing. Yet, we argue that taking action is essential: without a deliberate constitution, sovereign models would risk misalignment or default to norms set by frontier model providers. We propose treating the development of a constitution as an evolving, participatory process akin to citizen science, iteratively drafted, tested, and refined. We therefore formulate five desirable principles: iterative, modular, justifiable, positional, and legitimate. We further argue that such a document must remain responsive not only over time but across the people it governs, and propose that provisions be marked as settled, contested, or underdetermined, so that durable disagreement is recorded in the constitution rather than resolved away. Empirically, we show via agent-based modelling that proposed process for maintaining living constitutions is robust against 50% bad actors among citizens - assuming a share of 75% participants with good intent in the deliberative body. This indicates that the proposed process tolerates a substantial share of adversarial participants.",
+      "summary": "In Constitutional AI, a plain-text \"constitution\" encodes values and gets incorporated into a model via post-training.",
+      "version": "",
+      "category": "research",
+      "impact": "fix",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "ca407302fccf1505"
+    },
+    {
+      "title": "Enforcing Axioms for AI Alignment under Loss-Based Rules",
+      "url": "https://arxiv.org/abs/2611.13369v1",
+      "source": "arxiv",
+      "published": "2026-11-09T23:44:36+00:00",
+      "body": "Many alignment methods, most notably reinforcement learning from human feedback (RLHF), train reward models by minimizing a loss on pairwise comparisons of model responses. Inspired by principle-guided methods such as Constitutional AI, we treat each principle as a voter that compares responses according to that principle, for example, preferring the more helpful or less toxic response. We represent these voters as linear directions in a fixed embedding space, a simplifying assumption motivated by the Linear Representation Hypothesis. In this linear social choice model, Ge et al. (2024) showed that an optimal linear reward model can violate Pareto optimality (PO): From the principles-as-voters lens, this means a response A can be less helpful and more toxic than B, yet still receive a higher reward. We ask whether richer reward models or changes to comparison data can recover PO within loss-based training. We show that PO can still fail for polynomials of any fixed degree and one-hidden-layer ReLU multilayer perceptrons (MLPs) of any fixed width $ d\\ge 2 $ with suitable finite parameter bounds. We then recover PO for loss-based training of linear rewards under suitable assumptions in an idealized setting with uniform comparison directions and equal comparison lengths. These results motivate dataset design as an approach to recovering PO in constitutional-style alignment while retaining loss-based training.",
+      "summary": "Many alignment methods, most notably reinforcement learning from human feedback (RLHF), train reward models by minimizing a loss on pairwise comparisons of model responses.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "08da365591c10bdc"
     },
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -4701,66 +4765,6 @@
         "community"
       ],
       "uid": "6bb8ba286ef288b2"
-    },
-    {
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "url": "https://www.anthropic.com/research/self-replicating-ai",
-      "source": "hackernews",
-      "published": "2026-10-12T19:25:29+00:00",
-      "body": "77 points, 95 comments. Discussion: https://news.ycombinator.com/item?id=50061603",
-      "summary": "77 points, 95 comments. Discussion: https://news.ycombinator.com/item?id=50061603",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "60af9b60cb8c7ac3"
-    },
-    {
-      "title": "Just say no to OpenAI and Anthropic",
-      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
-      "source": "hackernews",
-      "published": "2026-10-12T18:17:29+00:00",
-      "body": "140 points, 117 comments. Discussion: https://news.ycombinator.com/item?id=50060500",
-      "summary": "140 points, 117 comments. Discussion: https://news.ycombinator.com/item?id=50060500",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "3ed6587042d5e918"
-    },
-    {
-      "title": "Launch HN: Agent37 (YC F26) \u2013 Low-cost agent sandboxes for running agents",
-      "url": "https://news.ycombinator.com/item?id=50059096",
-      "source": "hackernews",
-      "published": "2026-10-12T16:46:34+00:00",
-      "body": "55 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50059096",
-      "summary": "55 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50059096",
-      "version": "",
-      "category": "pricing",
-      "impact": "feature",
-      "tags": [
-        "community"
-      ],
-      "uid": "31bc502f444fe1ab"
-    },
-    {
-      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-      "source": "hackernews",
-      "published": "2026-10-12T05:03:47+00:00",
-      "body": "53 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50051583",
-      "summary": "53 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50051583",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "7899e8cbe697d552"
     }
   ]
 }

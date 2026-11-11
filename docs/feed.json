@@ -9,11 +9,39 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:3db837a6b7c3f5e4",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0",
+      "title": "v2.4.0",
+      "summary": "## Security fixes v2.4.0 fixes six vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` to 2.3.0, and `mcp-server-git` and `mcp-server-fetch` to 2026.11.11.",
+      "content_text": "## Security fixes v2.4.0 fixes six vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` to 2.3.0, and `mcp-server-git` and `mcp-server-fetch` to 2026.11.11.",
+      "date_published": "2026-11-11T07:07:16+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "servers",
+        "mcp"
+      ]
+    },
+    {
       "id": "frontierfeed:9ada84a1fc3ca691",
       "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
       "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
       "summary": "174 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=50447074",
       "content_text": "174 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=50447074",
+      "date_published": "2026-11-10T22:17:56+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:dc92c6bf09174766",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "summary": "390 points, 180 comments. Discussion: https://news.ycombinator.com/item?id=50447074",
+      "content_text": "390 points, 180 comments. Discussion: https://news.ycombinator.com/item?id=50447074",
       "date_published": "2026-11-10T22:17:56+00:00",
       "tags": [
         "note",
@@ -302,6 +330,34 @@
         "fix",
         "release",
         "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:ca407302fccf1505",
+      "url": "https://arxiv.org/abs/2611.13402v1",
+      "title": "Living constitutions: Participatory alignment for sovereign foundation models",
+      "summary": "In Constitutional AI, a plain-text \"constitution\" encodes values and gets incorporated into a model via post-training.",
+      "content_text": "In Constitutional AI, a plain-text \"constitution\" encodes values and gets incorporated into a model via post-training.",
+      "date_published": "2026-11-10T00:32:24+00:00",
+      "tags": [
+        "research",
+        "fix",
+        "research",
+        "paper"
+      ]
+    },
+    {
+      "id": "frontierfeed:08da365591c10bdc",
+      "url": "https://arxiv.org/abs/2611.13369v1",
+      "title": "Enforcing Axioms for AI Alignment under Loss-Based Rules",
+      "summary": "Many alignment methods, most notably reinforcement learning from human feedback (RLHF), train reward models by minimizing a loss on pairwise comparisons of model responses.",
+      "content_text": "Many alignment methods, most notably reinforcement learning from human feedback (RLHF), train reward models by minimizing a loss on pairwise comparisons of model responses.",
+      "date_published": "2026-11-09T23:44:36+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper"
       ]
     },
     {
@@ -1327,60 +1383,6 @@
       "date_published": "2026-10-31T13:25:00+00:00",
       "tags": [
         "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:00a7c670b7e88ecf",
-      "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-      "title": "Why Anthropic's filing crushed tech stocks",
-      "summary": "49 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=50315574",
-      "content_text": "49 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=50315574",
-      "date_published": "2026-10-31T12:32:10+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:a5b9d19691f52350",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.266",
-      "title": "v1.0.266",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.265...v1.0.266",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.265...v1.0.266",
-      "date_published": "2026-10-31T01:05:37+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:6fa563b2c4fa3593",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.316",
-      "title": "@anthropic-ai/claude-code 2.1.316 published",
-      "summary": "Version 2.1.316 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.316 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-10-31T00:42:05.743000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:78445fc6ba447779",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-      "summary": "45 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50311311",
-      "content_text": "45 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50311311",
-      "date_published": "2026-10-30T23:08:12+00:00",
-      "tags": [
-        "pricing",
         "info",
         "community"
       ]
