@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 16:14:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 22:47:53 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Show HN: Klad, a paint app your coding agent can drive (source-available)</title>
+<link>https://github.com/klad-app/klad</link>
+<guid isPermaLink="false">frontierfeed:83be31095076e215</guid>
+<pubDate>Wed, 11 Nov 2026 16:00:50 +0000</pubDate>
+<category>note</category>
+<description>67 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50454951</description>
+</item>
+<item>
+<title>Show HN: Yogurt – Free, private, open-source alternative to Granola</title>
+<link>https://github.com/FrigadeHQ/yogurt</link>
+<guid isPermaLink="false">frontierfeed:ab87b30e0032c54a</guid>
+<pubDate>Wed, 11 Nov 2026 15:33:06 +0000</pubDate>
+<category>note</category>
+<description>139 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50454625</description>
+</item>
 <item>
 <title>v2.4.0</title>
 <link>https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0</link>
@@ -798,22 +814,6 @@
 <pubDate>Sat, 31 Oct 2026 21:07:58 +0000</pubDate>
 <category>note</category>
 <description>67 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50320255</description>
-</item>
-<item>
-<title>Anthropic blocks users for anything touching training larger models</title>
-<link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
-<guid isPermaLink="false">frontierfeed:3adde024795e45ed</guid>
-<pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
-<category>note</category>
-<description>87 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50319358</description>
-</item>
-<item>
-<title>AI startup hacks Anthropic, gains access to employee details, internal messages</title>
-<link>https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</link>
-<guid isPermaLink="false">frontierfeed:8619266fe964118b</guid>
-<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
-<category>note</category>
-<description>74 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50315990</description>
 </item>
 </channel>
 </rss>

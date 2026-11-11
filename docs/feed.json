@@ -9,6 +9,32 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:83be31095076e215",
+      "url": "https://github.com/klad-app/klad",
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "summary": "67 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50454951",
+      "content_text": "67 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50454951",
+      "date_published": "2026-11-11T16:00:50+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:ab87b30e0032c54a",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "summary": "139 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50454625",
+      "content_text": "139 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50454625",
+      "date_published": "2026-11-11T15:33:06+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:3db837a6b7c3f5e4",
       "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0",
       "title": "v2.4.0",
@@ -1355,32 +1381,6 @@
       "summary": "67 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50320255",
       "content_text": "67 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50320255",
       "date_published": "2026-10-31T21:07:58+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:3adde024795e45ed",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "summary": "87 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50319358",
-      "content_text": "87 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50319358",
-      "date_published": "2026-10-31T19:39:19+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:8619266fe964118b",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-      "summary": "74 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50315990",
-      "content_text": "74 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50315990",
-      "date_published": "2026-10-31T13:25:10+00:00",
       "tags": [
         "note",
         "info",

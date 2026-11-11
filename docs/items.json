@@ -1,9 +1,39 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-11T16:14:43.650221+00:00",
+  "generated": "2026-11-11T22:47:53.724558+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "url": "https://github.com/klad-app/klad",
+      "source": "hackernews",
+      "published": "2026-11-11T16:00:50+00:00",
+      "body": "67 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50454951",
+      "summary": "67 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50454951",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "83be31095076e215"
+    },
+    {
+      "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "source": "hackernews",
+      "published": "2026-11-11T15:33:06+00:00",
+      "body": "139 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50454625",
+      "summary": "139 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50454625",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ab87b30e0032c54a"
+    },
     {
       "title": "v2.4.0",
       "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0",
@@ -4735,36 +4765,6 @@
         "community"
       ],
       "uid": "e720c265a2c1a2a3"
-    },
-    {
-      "title": "AI models may soon self-replicate without access to data centers",
-      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
-      "source": "hackernews",
-      "published": "2026-10-13T10:08:18+00:00",
-      "body": "40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333",
-      "summary": "40 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50069333",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "026195d6cb35827a"
-    },
-    {
-      "title": "Strengthening our defenses against distillation attacks",
-      "url": "https://www.anthropic.com/research/distillation-defenses",
-      "source": "hackernews",
-      "published": "2026-10-13T01:46:47+00:00",
-      "body": "42 points, 92 comments. Discussion: https://news.ycombinator.com/item?id=50065553",
-      "summary": "42 points, 92 comments. Discussion: https://news.ycombinator.com/item?id=50065553",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "188593f761fca1db"
     }
   ]
 }
