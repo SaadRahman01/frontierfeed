@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-11T07:49:18.512409+00:00",
+  "generated": "2026-11-11T16:14:43.650221+00:00",
   "count": 300,
   "items": [
     {
@@ -20,6 +20,21 @@
         "mcp"
       ],
       "uid": "3db837a6b7c3f5e4"
+    },
+    {
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "source": "hackernews",
+      "published": "2026-11-11T04:56:47+00:00",
+      "body": "100 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50449891",
+      "summary": "100 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50449891",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "8331b94d07541176"
     },
     {
       "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
@@ -4750,21 +4765,6 @@
         "community"
       ],
       "uid": "188593f761fca1db"
-    },
-    {
-      "title": "Show HN: Indigene \u2013 Native plants for where you stand",
-      "url": "https://indigene.app/",
-      "source": "hackernews",
-      "published": "2026-10-12T23:25:20+00:00",
-      "body": "62 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50064470",
-      "summary": "62 points, 12 comments. Discussion: https://news.ycombinator.com/item?id=50064470",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "6bb8ba286ef288b2"
     }
   ]
 }

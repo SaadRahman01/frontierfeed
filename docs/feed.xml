@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 07:49:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 16:14:43 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -22,6 +22,14 @@
 <pubDate>Wed, 11 Nov 2026 07:07:16 +0000</pubDate>
 <category>api</category>
 <description>## Security fixes v2.4.0 fixes six vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` to 2.3.0, and `mcp-server-git` and `mcp-server-fetch` to 2026.11.11.</description>
+</item>
+<item>
+<title>Show HN: Black Ops II statically recompiled to native ARM64 macOS</title>
+<link>https://github.com/adrbn/bo2-mac</link>
+<guid isPermaLink="false">frontierfeed:8331b94d07541176</guid>
+<pubDate>Wed, 11 Nov 2026 04:56:47 +0000</pubDate>
+<category>note</category>
+<description>100 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50449891</description>
 </item>
 <item>
 <title>After 7 months, Glasswing overwelms maintainers with underwhelming findings</title>
@@ -806,14 +814,6 @@
 <pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
 <category>note</category>
 <description>74 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50315990</description>
-</item>
-<item>
-<title>Anthropic&#x27;s Claude AI blocks video game cloning and reverse-engineering</title>
-<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked</link>
-<guid isPermaLink="false">frontierfeed:0a4cdc3d03bc5d27</guid>
-<pubDate>Sat, 31 Oct 2026 13:25:00 +0000</pubDate>
-<category>note</category>
-<description>43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50315987</description>
 </item>
 </channel>
 </rss>

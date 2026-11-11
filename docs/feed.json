@@ -24,6 +24,19 @@
       ]
     },
     {
+      "id": "frontierfeed:8331b94d07541176",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "summary": "100 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50449891",
+      "content_text": "100 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50449891",
+      "date_published": "2026-11-11T04:56:47+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:9ada84a1fc3ca691",
       "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
       "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
@@ -1368,19 +1381,6 @@
       "summary": "74 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50315990",
       "content_text": "74 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50315990",
       "date_published": "2026-10-31T13:25:10+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:0a4cdc3d03bc5d27",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-      "summary": "43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50315987",
-      "content_text": "43 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50315987",
-      "date_published": "2026-10-31T13:25:00+00:00",
       "tags": [
         "note",
         "info",
