@@ -9,6 +9,118 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:09e1544c981add7d",
+      "url": "https://claude.com/resources/articles/claude-for-manufacturing",
+      "title": "Introducing Claude for Manufacturing",
+      "summary": "A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.",
+      "content_text": "A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.",
+      "date_published": "2026-11-12T20:52:26.295452+00:00",
+      "tags": [
+        "launch",
+        "feature",
+        "official",
+        "product",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:c2eed48552767e9d",
+      "url": "https://claude.com/resources/articles/claude-tag-guide-for-startups",
+      "title": "The Claude Tag guide for startups",
+      "summary": "How leading startups use Claude Tag to ship faster and scale operations",
+      "content_text": "How leading startups use Claude Tag to ship faster and scale operations",
+      "date_published": "2026-11-12T20:52:26.295435+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:385287c52b4a6b7d",
+      "url": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude",
+      "title": "J. Crew brings its signature approach to styling to life with Claude",
+      "summary": "J.Crew's new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.",
+      "content_text": "J.Crew's new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.",
+      "date_published": "2026-11-12T20:52:26.295415+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:408356026979f707",
+      "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+      "title": "Operate Claude Managed Agents inside your security perimeter",
+      "summary": "Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.",
+      "content_text": "Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.",
+      "date_published": "2026-11-12T20:52:26.295373+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:c35e1e8657c3a3a7",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.323",
+      "title": "@anthropic-ai/claude-code 2.1.323 published",
+      "summary": "Version 2.1.323 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.323 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-11-12T20:29:28.626000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:f629ec1492bbd99b",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.273",
+      "title": "v1.0.273 (breaking changes)",
+      "summary": "## What's Changed ### ⚠️ Breaking changes * Deny code-running commands on PRs from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2001 * Run sessions in auto mode by default by @mhegazy in https://github.com/anthropics/claude-cod…",
+      "content_text": "## What's Changed ### ⚠️ Breaking changes * Deny code-running commands on PRs from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2001 * Run sessions in auto mode by default by @mhegazy in https://github.com/anthropics/claude-cod…",
+      "date_published": "2026-11-12T19:05:05+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:ee4e541e0dd56eed",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "summary": "48 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50471650",
+      "content_text": "48 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50471650",
+      "date_published": "2026-11-12T18:15:48+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:b67ed9554b65ca56",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.272",
+      "title": "v1.0.272",
+      "summary": "## What's Changed * Pass structured output to shell steps through env by @bogini in https://github.com/anthropics/claude-code-action/pull/1963 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.271...v1.0.272",
+      "content_text": "## What's Changed * Pass structured output to shell steps through env by @bogini in https://github.com/anthropics/claude-code-action/pull/1963 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.271...v1.0.272",
+      "date_published": "2026-11-12T17:13:23+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:ce0b747cb609dd19",
       "url": "https://ipo.anthropic.com/us/",
       "title": "Anthropic IPO",
@@ -1273,114 +1385,6 @@
       "summary": "115 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=50339494",
       "content_text": "115 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=50339494",
       "date_published": "2026-11-02T16:40:29+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:0ff0a108a33cd83a",
-      "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
-      "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
-      "summary": "82 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50339224",
-      "content_text": "82 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50339224",
-      "date_published": "2026-11-02T16:25:33+00:00",
-      "tags": [
-        "model-release",
-        "feature",
-        "community",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:52b8e838720bbe75",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "summary": "85 points, 98 comments. Discussion: https://news.ycombinator.com/item?id=50337454",
-      "content_text": "85 points, 98 comments. Discussion: https://news.ycombinator.com/item?id=50337454",
-      "date_published": "2026-11-02T14:40:05+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:9d29973ea47446f5",
-      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-      "summary": "197 points, 209 comments. Discussion: https://news.ycombinator.com/item?id=50337439",
-      "content_text": "197 points, 209 comments. Discussion: https://news.ycombinator.com/item?id=50337439",
-      "date_published": "2026-11-02T14:38:45+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:b59b65e9d0eb2109",
-      "url": "https://hackerbooks.org",
-      "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
-      "summary": "98 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=50326821",
-      "content_text": "98 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=50326821",
-      "date_published": "2026-11-01T15:58:28+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:ec6ebb23581c4b23",
-      "url": "https://hackerbooks.org",
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "summary": "590 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=50326821",
-      "content_text": "590 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=50326821",
-      "date_published": "2026-11-01T15:58:28+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:2628aee2a1a9c65d",
-      "url": "https://news.ycombinator.com/item?id=50326727",
-      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
-      "summary": "44 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=50326727",
-      "content_text": "44 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=50326727",
-      "date_published": "2026-11-01T15:45:10+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:14a57581a45bbe2f",
-      "url": "https://arxiv.org/abs/2611.01386v1",
-      "title": "Learning by Doing: Autonomously Compiling and Curating Agent Skills from Verified Traces",
-      "summary": "Memory systems for production LLM agents mostly store semantic memory (facts about users and domains) or episodic memory (earlier interactions).",
-      "content_text": "Memory systems for production LLM agents mostly store semantic memory (facts about users and domains) or episodic memory (earlier interactions).",
-      "date_published": "2026-11-01T00:47:54+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper",
-        "mcp",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:ef077cc39c0849f0",
-      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
-      "summary": "43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50321522",
-      "content_text": "43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50321522",
-      "date_published": "2026-11-01T00:10:30+00:00",
       "tags": [
         "note",
         "info",

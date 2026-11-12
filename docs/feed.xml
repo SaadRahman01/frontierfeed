@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 12:50:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 20:52:38 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,70 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing Claude for Manufacturing</title>
+<link>https://claude.com/resources/articles/claude-for-manufacturing</link>
+<guid isPermaLink="false">frontierfeed:09e1544c981add7d</guid>
+<pubDate>Thu, 12 Nov 2026 20:52:26 +0000</pubDate>
+<category>launch</category>
+<description>A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.</description>
+</item>
+<item>
+<title>The Claude Tag guide for startups</title>
+<link>https://claude.com/resources/articles/claude-tag-guide-for-startups</link>
+<guid isPermaLink="false">frontierfeed:c2eed48552767e9d</guid>
+<pubDate>Thu, 12 Nov 2026 20:52:26 +0000</pubDate>
+<category>note</category>
+<description>How leading startups use Claude Tag to ship faster and scale operations</description>
+</item>
+<item>
+<title>J. Crew brings its signature approach to styling to life with Claude</title>
+<link>https://claude.com/resources/articles/j-crew-style-advisor-with-claude</link>
+<guid isPermaLink="false">frontierfeed:385287c52b4a6b7d</guid>
+<pubDate>Thu, 12 Nov 2026 20:52:26 +0000</pubDate>
+<category>note</category>
+<description>J.Crew&#x27;s new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.</description>
+</item>
+<item>
+<title>Operate Claude Managed Agents inside your security perimeter</title>
+<link>https://claude.com/resources/articles/self-hosted-claude-managed-agents</link>
+<guid isPermaLink="false">frontierfeed:408356026979f707</guid>
+<pubDate>Thu, 12 Nov 2026 20:52:26 +0000</pubDate>
+<category>note</category>
+<description>Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.323 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.323</link>
+<guid isPermaLink="false">frontierfeed:c35e1e8657c3a3a7</guid>
+<pubDate>Thu, 12 Nov 2026 20:29:28 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.323 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>v1.0.273 (breaking changes)</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.273</link>
+<guid isPermaLink="false">frontierfeed:f629ec1492bbd99b</guid>
+<pubDate>Thu, 12 Nov 2026 19:05:05 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### ⚠️ Breaking changes * Deny code-running commands on PRs from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2001 * Run sessions in auto mode by default by @mhegazy in https://github.com/anthropics/claude-cod…</description>
+</item>
+<item>
+<title>Show HN: AgentRun – open-source, Self-improving Managed Agents</title>
+<link>https://github.com/Parcha-ai/agentrun/blob/main/README.md</link>
+<guid isPermaLink="false">frontierfeed:ee4e541e0dd56eed</guid>
+<pubDate>Thu, 12 Nov 2026 18:15:48 +0000</pubDate>
+<category>note</category>
+<description>48 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50471650</description>
+</item>
+<item>
+<title>v1.0.272</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.272</link>
+<guid isPermaLink="false">frontierfeed:b67ed9554b65ca56</guid>
+<pubDate>Thu, 12 Nov 2026 17:13:23 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed * Pass structured output to shell steps through env by @bogini in https://github.com/anthropics/claude-code-action/pull/1963 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.271...v1.0.272</description>
+</item>
 <item>
 <title>Anthropic IPO</title>
 <link>https://ipo.anthropic.com/us/</link>
@@ -750,70 +814,6 @@
 <pubDate>Mon, 02 Nov 2026 16:40:29 +0000</pubDate>
 <category>note</category>
 <description>115 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=50339494</description>
-</item>
-<item>
-<title>Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings</title>
-<link>https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now</link>
-<guid isPermaLink="false">frontierfeed:0ff0a108a33cd83a</guid>
-<pubDate>Mon, 02 Nov 2026 16:25:33 +0000</pubDate>
-<category>model-release</category>
-<description>82 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50339224</description>
-</item>
-<item>
-<title>Jobless tech workers are being left out of San Francisco&#x27;s AI boom</title>
-<link>https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near</link>
-<guid isPermaLink="false">frontierfeed:52b8e838720bbe75</guid>
-<pubDate>Mon, 02 Nov 2026 14:40:05 +0000</pubDate>
-<category>note</category>
-<description>85 points, 98 comments. Discussion: https://news.ycombinator.com/item?id=50337454</description>
-</item>
-<item>
-<title>Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1</title>
-<link>https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</link>
-<guid isPermaLink="false">frontierfeed:9d29973ea47446f5</guid>
-<pubDate>Mon, 02 Nov 2026 14:38:45 +0000</pubDate>
-<category>note</category>
-<description>197 points, 209 comments. Discussion: https://news.ycombinator.com/item?id=50337439</description>
-</item>
-<item>
-<title>Show HN: HackerBooks – HackerTube, but for books recommended on HN</title>
-<link>https://hackerbooks.org</link>
-<guid isPermaLink="false">frontierfeed:b59b65e9d0eb2109</guid>
-<pubDate>Sun, 01 Nov 2026 15:58:28 +0000</pubDate>
-<category>note</category>
-<description>98 points, 31 comments. Discussion: https://news.ycombinator.com/item?id=50326821</description>
-</item>
-<item>
-<title>Show HN: HackerBooks – HackerTube, but for books mentioned on HN</title>
-<link>https://hackerbooks.org</link>
-<guid isPermaLink="false">frontierfeed:ec6ebb23581c4b23</guid>
-<pubDate>Sun, 01 Nov 2026 15:58:28 +0000</pubDate>
-<category>note</category>
-<description>590 points, 140 comments. Discussion: https://news.ycombinator.com/item?id=50326821</description>
-</item>
-<item>
-<title>Anthropic&#x27;s Mythos-class model allegedly leaked on Hugging Face</title>
-<link>https://news.ycombinator.com/item?id=50326727</link>
-<guid isPermaLink="false">frontierfeed:2628aee2a1a9c65d</guid>
-<pubDate>Sun, 01 Nov 2026 15:45:10 +0000</pubDate>
-<category>note</category>
-<description>44 points, 46 comments. Discussion: https://news.ycombinator.com/item?id=50326727</description>
-</item>
-<item>
-<title>Learning by Doing: Autonomously Compiling and Curating Agent Skills from Verified Traces</title>
-<link>https://arxiv.org/abs/2611.01386v1</link>
-<guid isPermaLink="false">frontierfeed:14a57581a45bbe2f</guid>
-<pubDate>Sun, 01 Nov 2026 00:47:54 +0000</pubDate>
-<category>research</category>
-<description>Memory systems for production LLM agents mostly store semantic memory (facts about users and domains) or episodic memory (earlier interactions).</description>
-</item>
-<item>
-<title>Show HN: BBRouter – Ben Eater&#x27;s 8-bit computer, simulated on 3D breadboards</title>
-<link>https://bbrouter.com/bbrouter/ben-eater-sap-1</link>
-<guid isPermaLink="false">frontierfeed:ef077cc39c0849f0</guid>
-<pubDate>Sun, 01 Nov 2026 00:10:30 +0000</pubDate>
-<category>note</category>
-<description>43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50321522</description>
 </item>
 </channel>
 </rss>

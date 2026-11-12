@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, model releases only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 12:50:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 20:52:38 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-releases.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — model releases</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing Claude for Manufacturing</title>
+<link>https://claude.com/resources/articles/claude-for-manufacturing</link>
+<guid isPermaLink="false">frontierfeed:09e1544c981add7d</guid>
+<pubDate>Thu, 12 Nov 2026 20:52:26 +0000</pubDate>
+<category>launch</category>
+<description>A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.</description>
+</item>
 <item>
 <title>Introducing Claude Whiteboards, Claude Sheets, and Claude Data</title>
 <link>https://claude.com/resources/articles/sheets-whiteboards-data</link>

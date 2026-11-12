@@ -1,9 +1,137 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-12T12:50:04.702239+00:00",
+  "generated": "2026-11-12T20:52:38.465699+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Introducing Claude for Manufacturing",
+      "url": "https://claude.com/resources/articles/claude-for-manufacturing",
+      "source": "claude-blog",
+      "published": "2026-11-12T20:52:26.295452+00:00",
+      "body": "A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.",
+      "summary": "A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product",
+        "skills"
+      ],
+      "uid": "09e1544c981add7d"
+    },
+    {
+      "title": "The Claude Tag guide for startups",
+      "url": "https://claude.com/resources/articles/claude-tag-guide-for-startups",
+      "source": "claude-blog",
+      "published": "2026-11-12T20:52:26.295435+00:00",
+      "body": "How leading startups use Claude Tag to ship faster and scale operations",
+      "summary": "How leading startups use Claude Tag to ship faster and scale operations",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "c2eed48552767e9d"
+    },
+    {
+      "title": "J. Crew brings its signature approach to styling to life with Claude",
+      "url": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude",
+      "source": "claude-blog",
+      "published": "2026-11-12T20:52:26.295415+00:00",
+      "body": "J.Crew's new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.",
+      "summary": "J.Crew's new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "385287c52b4a6b7d"
+    },
+    {
+      "title": "Operate Claude Managed Agents inside your security perimeter",
+      "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+      "source": "claude-blog",
+      "published": "2026-11-12T20:52:26.295373+00:00",
+      "body": "Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that\u2019s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.",
+      "summary": "Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that\u2019s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "408356026979f707"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.323 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.323",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-12T20:29:28.626000+00:00",
+      "body": "Version 2.1.323 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.323 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.323",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "c35e1e8657c3a3a7"
+    },
+    {
+      "title": "v1.0.273 (breaking changes)",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.273",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-12T19:05:05+00:00",
+      "body": "## What's Changed\n### \u26a0\ufe0f Breaking changes\n* Deny code-running commands on PRs from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2001\n* Run sessions in auto mode by default by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2004\n* Keep the token out of .git/config when bots are allowed by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2005\n* Stop a session from leaving programs for later steps to run by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2003\n* Keep fork branch names away from this repository's branches by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2007\n* Stop forced pushes and file reads through the git allow rules by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2006\n* Only trust text and runs from the person who passed the write check by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2002\n### Other changes\n* Call out breaking changes in release notes and titles by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2013\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.272...v1.0.273\n\n## \u26a0\ufe0f Upgrade notes: new security defaults\n\nThis release tightens what a Claude session can do, especially on content from people without write access. Workflows on `@v1` get these changes automatically. Most keep working as they are, but check the items below if yours runs tests on outside pull requests, uses later steps after the action, or relies on `--allowedTools` as a strict list.\n\n### Sessions start in auto mode\nA safety review now decides tool calls that no allow rule covers. Calls that used to be denied can run if the review passes, so `--allowedTools` is no longer a strict list. Workflows with a `prompt` can also edit workspace files without an allow rule.\n\n**Opt out:** set the earlier mode in `claude_args`: `--permission-mode acceptEdits` for `@claude` mentions, or `--permission-mode default` for workflows with a `prompt`.\n\nSessions keep the earlier defaults if you set `allowed_non_write_users`, `allowed_bots`, a custom `ANTHROPIC_BASE_URL` or `path_to_claude_code_executable`. The same applies if your `settings` input is a file path, or sets a base URL or another permission mode.\n\n### Code-running commands are denied on outside pull requests\nIf a pull request's author doesn't have write access, common commands such as `npm test` and `bun install` are denied, even if `claude_args` allows them. The run still succeeds, so check the log for a warning.\n\n**Opt out:** `restrict_untrusted_prs: false`. This lets code from that pull request run in a job that holds your workflow's tokens.\n\n### Only trusted text and runs start a session\n- Slash commands and the trusted request come only from text the person who triggered the run wrote. Claude still reads a labeled or assigned issue's body for context.\n- Editing or deleting someone else's comment or review no longer starts a run.\n- With `prompt` and `track_progress`, `label_trigger` and `assignee_trigger` now apply.\n- `workflow_run` also checks the owner of the fork the run came from.\n- A run started by a bot's activity on a pull request also needs that pull request's author to have write access or be an allowed bot.\n\n**Adjust:**\n- If your workflow filters labels itself, set `label_trigger` to your label, or to `\"\"` to accept any label.\n- For `workflow_run` on outside contributions, add those users to `allowed_non_write_users` and pass `github_token`.\n\nThere's no opt-out for the rest.\n\n### A session can't leave anything behind for later steps\n`GITHUB_ENV`, `GITHUB_PATH` and git config are restored when the session ends, so a session's changes to them no longer reach later steps. Token revocation also ignores `~/.curlrc`, including a proxy set there.\n\nGit hooks are also off from before the checkout on pull requests covered by `restrict_untrusted_prs`, so a push Claude makes on one of those won't upload Git LFS objects.\n\n**Adjust:** pass values to later steps with `GITHUB_OUTPUT` or `--json-schema`. There's no opt-out.\n\n### No token in `.git/config` when `allowed_bots` is set\nThese workflows now use the same credential helper as `allowed_non_write_users`, and it only answers for your GitHub server.\n\n**Adjust:** a later step that pushes through `origin`, or fetches from it on a private repository, needs its own credentials: `GH_TOKEN`, `GIT_ASKPASS`, a credential saved for the username `x-access-token`, or its own remote URL. There's no opt-out.\n\n### Stricter git commands in `@claude` runs\n- Commits go through a wrapper that rejects flags outside a short list, including `--amend`, `--no-verify`, `--author` and flags that read a file.\n- Pushes can't be forced and only update the branch the session was set up on: a new branch, or the open pull request's branch.\n- A deny rule for `git commit` or `git push` must be in `claude_args` to cover these wrappers. One in a settings file doesn't.\n\n**Opt out:** add your own rule in `claude_args`, such as `Bash(git commit:*)` or `Bash(git push:*)`. This brings back what the wrappers block for that workflow.\n\n### Signed commits from `prompt` runs go to their own branch\nWith `use_commit_signing`, a run on an issue now commits to `issue-N`. A run on a pull request commits to its branch, or to `pr-N` if that branch isn't known to be in this repository. They used to reach the default branch or a branch named by a fork.\n\n**Opt out:** set `CLAUDE_BRANCH` in the step's `env` to choose the branch.\n",
+      "summary": "## What's Changed ### \u26a0\ufe0f Breaking changes * Deny code-running commands on PRs from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2001 * Run sessions in auto mode by default by @mhegazy in https://github.com/anthropics/claude-cod\u2026",
+      "version": "1.0.273",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "f629ec1492bbd99b"
+    },
+    {
+      "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "source": "hackernews",
+      "published": "2026-11-12T18:15:48+00:00",
+      "body": "48 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50471650",
+      "summary": "48 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50471650",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ee4e541e0dd56eed"
+    },
+    {
+      "title": "v1.0.272",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.272",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-12T17:13:23+00:00",
+      "body": "## What's Changed\n* Pass structured output to shell steps through env by @bogini in https://github.com/anthropics/claude-code-action/pull/1963\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.271...v1.0.272",
+      "summary": "## What's Changed * Pass structured output to shell steps through env by @bogini in https://github.com/anthropics/claude-code-action/pull/1963 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.271...v1.0.272",
+      "version": "1.0.272",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "b67ed9554b65ca56"
+    },
     {
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us/",
@@ -4640,131 +4768,6 @@
         "news"
       ],
       "uid": "67a4d3c1b57d9cd3"
-    },
-    {
-      "title": "Ask HN: What is the current trajectory of a senior engineer?",
-      "url": "https://news.ycombinator.com/item?id=50084969",
-      "source": "hackernews",
-      "published": "2026-10-14T09:54:23+00:00",
-      "body": "40 points, 78 comments. Discussion: https://news.ycombinator.com/item?id=50084969",
-      "summary": "40 points, 78 comments. Discussion: https://news.ycombinator.com/item?id=50084969",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "b5a42bb81c36cab8"
-    },
-    {
-      "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
-      "source": "hackernews",
-      "published": "2026-10-14T05:53:36+00:00",
-      "body": "62 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50082962",
-      "summary": "62 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50082962",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "2a2fbdbbff7d8e3f"
-    },
-    {
-      "title": "v1.0.249",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.249",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-14T02:57:56+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.248...v1.0.249",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.248...v1.0.249",
-      "version": "1.0.249",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "4b50c9fb51e66f88"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.299 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.299",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-14T00:23:19.588000+00:00",
-      "body": "Version 2.1.299 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.299 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.299",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "5fd29179c195bfa2"
-    },
-    {
-      "title": "Uber's CISO on building an insider threat program for AI",
-      "url": "https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai",
-      "source": "claude-blog",
-      "published": "2026-10-13T22:50:08.475619+00:00",
-      "body": "Uber's CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber's open-source tooling works alongside Enterprise Frontier Safeguards.",
-      "summary": "Uber's CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber's open-source tooling works alongside Enterprise Frontier Safeguards.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product",
-        "enterprise"
-      ],
-      "uid": "6342af68165503b4"
-    },
-    {
-      "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
-      "url": "https://parsimony.lasu.dev/",
-      "source": "hackernews",
-      "published": "2026-10-13T19:50:31+00:00",
-      "body": "50 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50077619",
-      "summary": "50 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50077619",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "2840611b3635b38c"
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "source": "anthropic-engineering",
-      "published": "2026-10-13T17:37:37.705063+00:00",
-      "body": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
-      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "0cece0787f003053"
-    },
-    {
-      "title": "How to engineer an AI harness for game development",
-      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "source": "hackernews",
-      "published": "2026-10-13T14:14:23+00:00",
-      "body": "109 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50072120",
-      "summary": "109 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50072120",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "0b964f1b3ecd4d8e"
     }
   ]
 }

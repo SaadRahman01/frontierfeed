@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 12:50:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 20:52:38 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>@anthropic-ai/claude-code 2.1.323 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.323</link>
+<guid isPermaLink="false">frontierfeed:c35e1e8657c3a3a7</guid>
+<pubDate>Thu, 12 Nov 2026 20:29:28 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.323 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>v1.0.273 (breaking changes)</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.273</link>
+<guid isPermaLink="false">frontierfeed:f629ec1492bbd99b</guid>
+<pubDate>Thu, 12 Nov 2026 19:05:05 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### ⚠️ Breaking changes * Deny code-running commands on PRs from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2001 * Run sessions in auto mode by default by @mhegazy in https://github.com/anthropics/claude-cod…</description>
+</item>
+<item>
+<title>v1.0.272</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.272</link>
+<guid isPermaLink="false">frontierfeed:b67ed9554b65ca56</guid>
+<pubDate>Thu, 12 Nov 2026 17:13:23 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed * Pass structured output to shell steps through env by @bogini in https://github.com/anthropics/claude-code-action/pull/1963 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.271...v1.0.272</description>
+</item>
 <item>
 <title>JPMorganChase expands Claude Code to more employees across the firm</title>
 <link>https://claude.com/resources/articles/jpmorganchase-expands-claude-code</link>
@@ -510,22 +534,6 @@
 <pubDate>Wed, 14 Oct 2026 14:27:26 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.300 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.0.249</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.249</link>
-<guid isPermaLink="false">frontierfeed:4b50c9fb51e66f88</guid>
-<pubDate>Wed, 14 Oct 2026 02:57:56 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.248...v1.0.249</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.299 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.299</link>
-<guid isPermaLink="false">frontierfeed:5fd29179c195bfa2</guid>
-<pubDate>Wed, 14 Oct 2026 00:23:19 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.299 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>
