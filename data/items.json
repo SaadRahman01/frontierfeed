@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "source": "hackernews",
+      "published": "2026-11-12T11:46:41+00:00",
+      "body": "112 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=50465829",
+      "summary": "112 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=50465829",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "ce0b747cb609dd19"
+    },
+    {
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
       "url": "https://github.com/klad-app/klad",
       "source": "hackernews",
@@ -4746,21 +4761,6 @@
         "community"
       ],
       "uid": "0b964f1b3ecd4d8e"
-    },
-    {
-      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-      "url": "https://github.com/LargeModGames/spotatui",
-      "source": "hackernews",
-      "published": "2026-10-13T11:32:00+00:00",
-      "body": "50 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50070010",
-      "summary": "50 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50070010",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "e720c265a2c1a2a3"
     }
   ]
 }

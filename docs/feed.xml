@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 03:51:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 12:50:04 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Anthropic IPO</title>
+<link>https://ipo.anthropic.com/us/</link>
+<guid isPermaLink="false">frontierfeed:ce0b747cb609dd19</guid>
+<pubDate>Thu, 12 Nov 2026 11:46:41 +0000</pubDate>
+<category>note</category>
+<description>112 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=50465829</description>
+</item>
 <item>
 <title>Show HN: Klad, a paint app your coding agent can drive (source-available)</title>
 <link>https://github.com/klad-app/klad</link>
@@ -806,14 +814,6 @@
 <pubDate>Sun, 01 Nov 2026 00:10:30 +0000</pubDate>
 <category>note</category>
 <description>43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50321522</description>
-</item>
-<item>
-<title>Anthropic takes steps to block Claude from reverse-engineering video games</title>
-<link>https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</link>
-<guid isPermaLink="false">frontierfeed:60cb2377bb5cda92</guid>
-<pubDate>Sat, 31 Oct 2026 21:07:58 +0000</pubDate>
-<category>note</category>
-<description>67 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50320255</description>
 </item>
 </channel>
 </rss>

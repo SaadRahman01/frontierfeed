@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:ce0b747cb609dd19",
+      "url": "https://ipo.anthropic.com/us/",
+      "title": "Anthropic IPO",
+      "summary": "112 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=50465829",
+      "content_text": "112 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=50465829",
+      "date_published": "2026-11-12T11:46:41+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:83be31095076e215",
       "url": "https://github.com/klad-app/klad",
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
@@ -1368,19 +1381,6 @@
       "summary": "43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50321522",
       "content_text": "43 points, 8 comments. Discussion: https://news.ycombinator.com/item?id=50321522",
       "date_published": "2026-11-01T00:10:30+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:60cb2377bb5cda92",
-      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
-      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-      "summary": "67 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50320255",
-      "content_text": "67 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50320255",
-      "date_published": "2026-10-31T21:07:58+00:00",
       "tags": [
         "note",
         "info",
