@@ -245,6 +245,21 @@
       ]
     },
     {
+      "id": "frontierfeed:8203470605ce5b76",
+      "url": "https://arxiv.org/abs/2611.14935v1",
+      "title": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
+      "summary": "Racial and ethnic minority patients receive less pain treatment than non-Hispanic White patients, and large language models (LLMs) used as medical AI could reproduce that bias.",
+      "content_text": "Racial and ethnic minority patients receive less pain treatment than non-Hispanic White patients, and large language models (LLMs) used as medical AI could reproduce that bias.",
+      "date_published": "2026-11-11T02:35:53+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper",
+        "haiku"
+      ]
+    },
+    {
       "id": "frontierfeed:9ada84a1fc3ca691",
       "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
       "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
@@ -1369,20 +1384,6 @@
       "summary": "### Chores * **internal:** type-check the published declarations of every subpackage",
       "content_text": "### Chores * **internal:** type-check the published declarations of every subpackage",
       "date_published": "2026-11-02T19:17:18+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:2a921e5bf9078f9c",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.1",
-      "title": "vertex-sdk-v1.1.1",
-      "summary": "### Chores * **internal:** type-check the published declarations of every subpackage",
-      "content_text": "### Chores * **internal:** type-check the published declarations of every subpackage",
-      "date_published": "2026-11-02T19:17:16+00:00",
       "tags": [
         "api",
         "fix",

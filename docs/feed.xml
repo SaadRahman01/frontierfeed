@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 01:53:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 09:38:27 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -150,6 +150,14 @@
 <pubDate>Wed, 11 Nov 2026 04:56:47 +0000</pubDate>
 <category>note</category>
 <description>100 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50449891</description>
+</item>
+<item>
+<title>Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen</title>
+<link>https://arxiv.org/abs/2611.14935v1</link>
+<guid isPermaLink="false">frontierfeed:8203470605ce5b76</guid>
+<pubDate>Wed, 11 Nov 2026 02:35:53 +0000</pubDate>
+<category>research</category>
+<description>Racial and ethnic minority patients receive less pain treatment than non-Hispanic White patients, and large language models (LLMs) used as medical AI could reproduce that bias.</description>
 </item>
 <item>
 <title>After 7 months, Glasswing overwelms maintainers with underwhelming findings</title>
@@ -804,14 +812,6 @@
 <link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.1</link>
 <guid isPermaLink="false">frontierfeed:77145e84b80fa5f3</guid>
 <pubDate>Mon, 02 Nov 2026 19:17:18 +0000</pubDate>
-<category>api</category>
-<description>### Chores * **internal:** type-check the published declarations of every subpackage</description>
-</item>
-<item>
-<title>vertex-sdk-v1.1.1</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.1</link>
-<guid isPermaLink="false">frontierfeed:2a921e5bf9078f9c</guid>
-<pubDate>Mon, 02 Nov 2026 19:17:16 +0000</pubDate>
 <category>api</category>
 <description>### Chores * **internal:** type-check the published declarations of every subpackage</description>
 </item>

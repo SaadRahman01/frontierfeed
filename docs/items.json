@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-13T01:53:05.911861+00:00",
+  "generated": "2026-11-13T09:38:27.408811+00:00",
   "count": 300,
   "items": [
     {
@@ -273,6 +273,23 @@
         "community"
       ],
       "uid": "8331b94d07541176"
+    },
+    {
+      "title": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
+      "url": "https://arxiv.org/abs/2611.14935v1",
+      "source": "arxiv",
+      "published": "2026-11-11T02:35:53+00:00",
+      "body": "Racial and ethnic minority patients receive less pain treatment than non-Hispanic White patients, and large language models (LLMs) used as medical AI could reproduce that bias. Prior audits tested a few proprietary models, stated race explicitly and rarely measured the models' own response instability. In exploratory, non-preregistered analyses, Study 1 had four open-weight LLMs assess six acute-pain vignettes in every combination of four races and two sexes, with identity stated or cued only by a name (two names per group), comparing each identity with a White male reference on the same case and sampling seed. In Study 2, 24 configurations of 17 models, including OpenAI's GPT-4.1 mini and gpt-oss, Anthropic's Claude Haiku 4.5, Google's Gemini 2.5 Flash, Meta's Llama, DeepSeek and Qwen, with reasoning on and off and at two precisions, answered the same vignettes and the 50 clinician-written Q-Pain cases. In this single-prompt, JSON-constrained task, no difference survived correction in Study 1, none of 1,386 comparisons survived the false discovery rate in Study 2, and every pain-severity difference was equivalent to zero within one point on a 0-10 scale (within a quarter point for 237 of 238 Q-Pain comparisons). Opioid decisions were bounded less precisely (Study 1 could not exclude differences of about 20 percentage points), so they show no detected difference, not proof of none. The few differences surviving correction within a model favoured Black patients. Models differed far more from one another and across their own settings than between patients (the reference patient received the high opioid dose in 6% to 93% of responses), although serving software, provider and prompt format also differed. Fairness audits of clinical AI should use several names per group, pair comparisons on the seed, report the noise floor and test each deployed configuration.",
+      "summary": "Racial and ethnic minority patients receive less pain treatment than non-Hispanic White patients, and large language models (LLMs) used as medical AI could reproduce that bias.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper",
+        "haiku"
+      ],
+      "uid": "8203470605ce5b76"
     },
     {
       "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
@@ -4752,23 +4769,6 @@
         "opus"
       ],
       "uid": "cb3d7ccb220b7d1b"
-    },
-    {
-      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "url": "https://www.anthropic.com/news/cognizant-anthropic",
-      "source": "anthropic-news",
-      "published": "2026-10-14T13:47:04.197526+00:00",
-      "body": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news",
-        "enterprise"
-      ],
-      "uid": "f4b18b12b32ef53c"
     }
   ]
 }
