@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Building always-on agents",
+      "url": "https://claude.com/resources/articles/building-always-on-agents",
+      "source": "claude-blog",
+      "published": "2026-11-13T23:37:58.119282+00:00",
+      "body": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together.",
+      "summary": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "022806f74fc92769"
+    },
+    {
+      "title": "Building strong safety evaluations",
+      "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+      "source": "anthropic-engineering",
+      "published": "2026-11-13T23:37:56.999496+00:00",
+      "body": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
+      "summary": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "d2c2cd55f5ba4b37"
+    },
+    {
+      "title": "v1.0.276",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.276",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-13T20:47:21+00:00",
+      "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.276 -->\n\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.275...v1.0.276\n",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.275...v1.0.276",
+      "version": "1.0.276",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "8761c2f861671379"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.325 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.325",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-13T20:07:25.823000+00:00",
+      "body": "Version 2.1.325 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.325 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.325",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "2530404692abfaf3"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.324 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.324",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-13T18:42:36.300000+00:00",
+      "body": "Version 2.1.324 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.324 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.324",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "9bf882507dc3b1c0"
+    },
+    {
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "source": "hackernews",
@@ -4681,88 +4761,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "2c305a60738040c3"
-    },
-    {
-      "title": "vertex-sdk-v0.21.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v0.21.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-14T17:13:14+00:00",
-      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **client:** add OpenTelemetry spans for API calls\n\n\n### Chores\n\n* include the license files in the published packages\n* **internal:** strip `@internal` declarations from published types",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "version": "ertex-sdk-v0.21.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "8040790851a5ec96"
-    },
-    {
-      "title": "sdk-v0.134.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.134.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-14T17:13:11+00:00",
-      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **api:** add organization_type_not_supported error to spend limit lists\n* **api:** add telemetry destination test endpoint\n* **api:** add telemetry destinations to the Admin API\n* **client:** emit OpenTelemetry spans for API calls, streams and tool runs. They are on by default and need no setup in the SDK: the spans appear once the application has registered a tracer provider with the OpenTelemetry API, and there are none without one. Requests carry the trace context in `traceparent`, and in the other headers that the registered propagator writes. This adds a dependency on `@opentelemetry/api` (`^1.4.1`). `openTelemetry: false` or `ANTHROPIC_OPEN_TELEMETRY=false` turns all of it off; `openTelemetry: { propagation: false }` or `ANTHROPIC_OPEN_TELEMETRY_PROPAGATION=false` keeps the spans and sends no trace headers; the variables apply only to a client that is given no `openTelemetry` option\n\n\n### Bug Fixes\n\n* **api:** rename telemetry destination test response model\n* **client:** close an unread stream that was dropped while tracing is on\n* **client:** don't follow redirects on token requests\n* **client:** treat proxy-authorization as a sensitive header\n\n\n### Bug Fixes\n\n* **streaming:** tolerate unknown event types in MessageStream and BetaMessageStream\n* **streaming:** stop throwing \"Unexpected event order\" for an event before message_start\n* **streaming:** yield events that arrive before message_start when iterating MessageStream and BetaMessageStream\n\n\n### Chores\n\n* **docs:** correct prefill, thinking, fallback and model descriptions\n* **docs:** document the scope required to assign the managed role\n* **docs:** update model examples\n* include the license files in the published packages\n* **internal:** narrow the tripwire test rule in the contributor guides\n* **internal:** remove `@internal` tag from a type that public types reference\n* **internal:** remove file-level `@internal` tags from toolset modules\n* **internal:** strip `@internal` declarations from published types\n* **internal:** type-check the built declarations in lint\n\n\n### Documentation\n\n* **api:** clarify when custom tool results can be sent\n* **api:** say is_enabled is always true for user spend limits\n* move more shared rules into the shared part of CLAUDE.md\n* show examples of streaming-only methods iterating the stream",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** emit OpenTelem\u2026",
-      "version": "sdk-v0.134.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript",
-        "enterprise"
-      ],
-      "uid": "63502ed7f155d606"
-    },
-    {
-      "title": "v1.14.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.14.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-10-14T17:13:08+00:00",
-      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **api:** add organization_type_not_supported error to spend limit lists\n* **api:** add telemetry destination test endpoint\n* **api:** add telemetry destinations to the Admin API\n* **client:** add OpenTelemetry tracing for API calls, streaming and tool runs\n\n\n### Bug Fixes\n\n* **api:** rename telemetry destination test response model\n* **client:** close dropped streams without waiting for the collector\n* **streaming:** pass unknown event types through the message stream helpers\n* **streaming:** stop raising \"Unexpected event order\" for an event before message_start\n\n\n### Chores\n\n* **docs:** correct prefill, thinking, fallback and model descriptions\n* **docs:** document the scope required to assign the managed role\n* **docs:** update model examples\n* **internal:** narrow the tripwire test rule in the contributor guides\n\n\n### Documentation\n\n* **api:** clarify when custom tool results can be sent\n* **api:** say is_enabled is always true for user spend limits",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** add OpenTeleme\u2026",
-      "version": "1.14.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-python",
-        "enterprise"
-      ],
-      "uid": "2a657ad9ca7d5ad2"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.300 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.300",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-14T14:27:26.554000+00:00",
-      "body": "Version 2.1.300 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.300 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.300",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "ecc84831383f7e91"
-    },
-    {
-      "title": "Ask Claude about the Anthropic Economic Index",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "source": "anthropic-news",
-      "published": "2026-10-14T13:47:04.197572+00:00",
-      "body": "Ask Claude about the Anthropic Economic Index",
-      "summary": "Ask Claude about the Anthropic Economic Index",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "823e8100cfe93440"
     }
   ]
 }

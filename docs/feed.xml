@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 17:48:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 23:38:09 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,46 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Building always-on agents</title>
+<link>https://claude.com/resources/articles/building-always-on-agents</link>
+<guid isPermaLink="false">frontierfeed:022806f74fc92769</guid>
+<pubDate>Fri, 13 Nov 2026 23:37:58 +0000</pubDate>
+<category>note</category>
+<description>Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together.</description>
+</item>
+<item>
+<title>Building strong safety evaluations</title>
+<link>https://www.anthropic.com/research/building-strong-safety-evaluations</link>
+<guid isPermaLink="false">frontierfeed:d2c2cd55f5ba4b37</guid>
+<pubDate>Fri, 13 Nov 2026 23:37:56 +0000</pubDate>
+<category>note</category>
+<description>Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.</description>
+</item>
+<item>
+<title>v1.0.276</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.276</link>
+<guid isPermaLink="false">frontierfeed:8761c2f861671379</guid>
+<pubDate>Fri, 13 Nov 2026 20:47:21 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.275...v1.0.276</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.325 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.325</link>
+<guid isPermaLink="false">frontierfeed:2530404692abfaf3</guid>
+<pubDate>Fri, 13 Nov 2026 20:07:25 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.325 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.324 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.324</link>
+<guid isPermaLink="false">frontierfeed:9bf882507dc3b1c0</guid>
+<pubDate>Fri, 13 Nov 2026 18:42:36 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.324 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
 <link>https://status.claude.com/incidents/nn11wk485zfn</link>
@@ -774,46 +814,6 @@
 <pubDate>Mon, 02 Nov 2026 22:33:20 +0000</pubDate>
 <category>note</category>
 <description>155 points, 187 comments. Discussion: https://news.ycombinator.com/item?id=50344958</description>
-</item>
-<item>
-<title>The SEC Should Block Anthropic&#x27;s IPO to Protect the Public</title>
-<link>https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/</link>
-<guid isPermaLink="false">frontierfeed:97bc974877fac1ab</guid>
-<pubDate>Mon, 02 Nov 2026 22:30:47 +0000</pubDate>
-<category>note</category>
-<description>187 points, 114 comments. Discussion: https://news.ycombinator.com/item?id=50344919</description>
-</item>
-<item>
-<title>Anthropic reveals $900B AI spending commitments ahead of IPO</title>
-<link>https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f</link>
-<guid isPermaLink="false">frontierfeed:8c16d86386d76fd8</guid>
-<pubDate>Mon, 02 Nov 2026 19:36:37 +0000</pubDate>
-<category>note</category>
-<description>71 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50342424</description>
-</item>
-<item>
-<title>google-cloud-sdk-v1.1.2</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.2</link>
-<guid isPermaLink="false">frontierfeed:de97a5c4097b8bfb</guid>
-<pubDate>Mon, 02 Nov 2026 19:17:27 +0000</pubDate>
-<category>api</category>
-<description>### Chores * **internal:** type-check the published declarations of every subpackage ### Documentation * **examples:** use current model IDs</description>
-</item>
-<item>
-<title>aws-sdk-v1.1.2</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.1.2</link>
-<guid isPermaLink="false">frontierfeed:029142bf27b959eb</guid>
-<pubDate>Mon, 02 Nov 2026 19:17:24 +0000</pubDate>
-<category>api</category>
-<description>### Chores * **internal:** type-check the published declarations of every subpackage</description>
-</item>
-<item>
-<title>foundry-sdk-v1.1.1</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.1.1</link>
-<guid isPermaLink="false">frontierfeed:5b19640f394bffbf</guid>
-<pubDate>Mon, 02 Nov 2026 19:17:21 +0000</pubDate>
-<category>api</category>
-<description>### Bug Fixes * **foundry:** make client.d.ts type-check with skipLibCheck off ### Chores * **internal:** type-check the published declarations of every subpackage</description>
 </item>
 </channel>
 </rss>

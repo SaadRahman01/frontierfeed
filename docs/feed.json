@@ -9,6 +9,76 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:022806f74fc92769",
+      "url": "https://claude.com/resources/articles/building-always-on-agents",
+      "title": "Building always-on agents",
+      "summary": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together.",
+      "content_text": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together.",
+      "date_published": "2026-11-13T23:37:58.119282+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:d2c2cd55f5ba4b37",
+      "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+      "title": "Building strong safety evaluations",
+      "summary": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
+      "content_text": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
+      "date_published": "2026-11-13T23:37:56.999496+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "engineering"
+      ]
+    },
+    {
+      "id": "frontierfeed:8761c2f861671379",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.276",
+      "title": "v1.0.276",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.275...v1.0.276",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.275...v1.0.276",
+      "date_published": "2026-11-13T20:47:21+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:2530404692abfaf3",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.325",
+      "title": "@anthropic-ai/claude-code 2.1.325 published",
+      "summary": "Version 2.1.325 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.325 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-11-13T20:07:25.823000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:9bf882507dc3b1c0",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.324",
+      "title": "@anthropic-ai/claude-code 2.1.324 published",
+      "summary": "Version 2.1.324 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.324 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-11-13T18:42:36.300000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:89c4d55a83126d9f",
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
@@ -1320,74 +1390,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:97bc974877fac1ab",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "summary": "187 points, 114 comments. Discussion: https://news.ycombinator.com/item?id=50344919",
-      "content_text": "187 points, 114 comments. Discussion: https://news.ycombinator.com/item?id=50344919",
-      "date_published": "2026-11-02T22:30:47+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:8c16d86386d76fd8",
-      "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
-      "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-      "summary": "71 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50342424",
-      "content_text": "71 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50342424",
-      "date_published": "2026-11-02T19:36:37+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:de97a5c4097b8bfb",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.2",
-      "title": "google-cloud-sdk-v1.1.2",
-      "summary": "### Chores * **internal:** type-check the published declarations of every subpackage ### Documentation * **examples:** use current model IDs",
-      "content_text": "### Chores * **internal:** type-check the published declarations of every subpackage ### Documentation * **examples:** use current model IDs",
-      "date_published": "2026-11-02T19:17:27+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:029142bf27b959eb",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.1.2",
-      "title": "aws-sdk-v1.1.2",
-      "summary": "### Chores * **internal:** type-check the published declarations of every subpackage",
-      "content_text": "### Chores * **internal:** type-check the published declarations of every subpackage",
-      "date_published": "2026-11-02T19:17:24+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:5b19640f394bffbf",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.1.1",
-      "title": "foundry-sdk-v1.1.1",
-      "summary": "### Bug Fixes * **foundry:** make client.d.ts type-check with skipLibCheck off ### Chores * **internal:** type-check the published declarations of every subpackage",
-      "content_text": "### Bug Fixes * **foundry:** make client.d.ts type-check with skipLibCheck off ### Chores * **internal:** type-check the published declarations of every subpackage",
-      "date_published": "2026-11-02T19:17:21+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
       ]
     }
   ]
