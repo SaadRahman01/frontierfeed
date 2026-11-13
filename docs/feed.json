@@ -9,6 +9,63 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:a58c6fc4dc497e9f",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "title": "Introducing Claude Meetings",
+      "summary": "Add Claude to your video call and get the work started while you talk",
+      "content_text": "Add Claude to your video call and get the work started while you talk",
+      "date_published": "2026-11-13T01:52:54.999262+00:00",
+      "tags": [
+        "launch",
+        "feature",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:7695cb6b9d29f5c4",
+      "url": "https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work",
+      "title": "Using Claude Opus 5.5 as your daily driver for knowledge work",
+      "summary": "Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here's how it compares with our other models, and how to get the most from it for knowledge work.",
+      "content_text": "Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here's how it compares with our other models, and how to get the most from it for knowledge work.",
+      "date_published": "2026-11-13T01:52:54.999167+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product",
+        "opus"
+      ]
+    },
+    {
+      "id": "frontierfeed:fc43c3b01663e77e",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.275",
+      "title": "v1.0.275",
+      "summary": "## What's Changed ### Other changes * Make the git wrappers independent of the session's environment by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2018 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.274...v1.0.275",
+      "content_text": "## What's Changed ### Other changes * Make the git wrappers independent of the session's environment by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2018 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.274...v1.0.275",
+      "date_published": "2026-11-12T23:14:27+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:5a13820b1840158c",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.274",
+      "title": "v1.0.274",
+      "summary": "## What's Changed ### Other changes * Let Claude read CI results on outside pull requests by @qing-ant in https://github.com/anthropics/claude-code-action/pull/2009 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.273...v1.0.274",
+      "content_text": "## What's Changed ### Other changes * Let Claude read CI results on outside pull requests by @qing-ant in https://github.com/anthropics/claude-code-action/pull/2009 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.273...v1.0.274",
+      "date_published": "2026-11-12T22:15:12+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:09e1544c981add7d",
       "url": "https://claude.com/resources/articles/claude-for-manufacturing",
       "title": "Introducing Claude for Manufacturing",
@@ -1331,64 +1388,6 @@
         "fix",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:9284e4b9edd91e44",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.4.0",
-      "title": "sdk-v1.4.0",
-      "summary": "### Features * **api:** add GA methods for analytics, spend limits and RBAC * **api:** add named beta types for unified metrics and RBAC delete responses * **api:** add shared analytics order and increase request actor types * **api:** add tool_use_limit_reached_error and compact…",
-      "content_text": "### Features * **api:** add GA methods for analytics, spend limits and RBAC * **api:** add named beta types for unified metrics and RBAC delete responses * **api:** add shared analytics order and increase request actor types * **api:** add tool_use_limit_reached_error and compact…",
-      "date_published": "2026-11-02T19:17:13+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "sonnet",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "frontierfeed:20b79cb70dd0fe94",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.4.0",
-      "title": "v2.4.0",
-      "summary": "### Features * **api:** add GA methods for analytics, spend limits and RBAC * **api:** add named beta types for unified metrics and RBAC delete responses * **api:** add shared analytics order and increase request actor types * **api:** add tool_use_limit_reached_error and compact…",
-      "content_text": "### Features * **api:** add GA methods for analytics, spend limits and RBAC * **api:** add named beta types for unified metrics and RBAC delete responses * **api:** add shared analytics order and increase request actor types * **api:** add tool_use_limit_reached_error and compact…",
-      "date_published": "2026-11-02T19:07:19+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-python",
-        "sonnet",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "frontierfeed:0f6c0569ab0269cf",
-      "url": "https://momentic.ai/",
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "summary": "50 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=50339913",
-      "content_text": "50 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=50339913",
-      "date_published": "2026-11-02T17:05:25+00:00",
-      "tags": [
-        "note",
-        "feature",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:4a275c49cd892440",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "summary": "115 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=50339494",
-      "content_text": "115 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=50339494",
-      "date_published": "2026-11-02T16:40:29+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 20:52:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 01:53:05 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing Claude Meetings</title>
+<link>https://claude.com/resources/articles/claude-meetings</link>
+<guid isPermaLink="false">frontierfeed:a58c6fc4dc497e9f</guid>
+<pubDate>Fri, 13 Nov 2026 01:52:54 +0000</pubDate>
+<category>launch</category>
+<description>Add Claude to your video call and get the work started while you talk</description>
+</item>
+<item>
+<title>Using Claude Opus 5.5 as your daily driver for knowledge work</title>
+<link>https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work</link>
+<guid isPermaLink="false">frontierfeed:7695cb6b9d29f5c4</guid>
+<pubDate>Fri, 13 Nov 2026 01:52:54 +0000</pubDate>
+<category>note</category>
+<description>Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here&#x27;s how it compares with our other models, and how to get the most from it for knowledge work.</description>
+</item>
+<item>
+<title>v1.0.275</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.275</link>
+<guid isPermaLink="false">frontierfeed:fc43c3b01663e77e</guid>
+<pubDate>Thu, 12 Nov 2026 23:14:27 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Make the git wrappers independent of the session&#x27;s environment by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2018 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.274...v1.0.275</description>
+</item>
+<item>
+<title>v1.0.274</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.274</link>
+<guid isPermaLink="false">frontierfeed:5a13820b1840158c</guid>
+<pubDate>Thu, 12 Nov 2026 22:15:12 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Let Claude read CI results on outside pull requests by @qing-ant in https://github.com/anthropics/claude-code-action/pull/2009 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.273...v1.0.274</description>
+</item>
 <item>
 <title>Introducing Claude for Manufacturing</title>
 <link>https://claude.com/resources/articles/claude-for-manufacturing</link>
@@ -782,38 +814,6 @@
 <pubDate>Mon, 02 Nov 2026 19:17:16 +0000</pubDate>
 <category>api</category>
 <description>### Chores * **internal:** type-check the published declarations of every subpackage</description>
-</item>
-<item>
-<title>sdk-v1.4.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.4.0</link>
-<guid isPermaLink="false">frontierfeed:9284e4b9edd91e44</guid>
-<pubDate>Mon, 02 Nov 2026 19:17:13 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add GA methods for analytics, spend limits and RBAC * **api:** add named beta types for unified metrics and RBAC delete responses * **api:** add shared analytics order and increase request actor types * **api:** add tool_use_limit_reached_error and compact…</description>
-</item>
-<item>
-<title>v2.4.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.4.0</link>
-<guid isPermaLink="false">frontierfeed:20b79cb70dd0fe94</guid>
-<pubDate>Mon, 02 Nov 2026 19:07:19 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add GA methods for analytics, spend limits and RBAC * **api:** add named beta types for unified metrics and RBAC delete responses * **api:** add shared analytics order and increase request actor types * **api:** add tool_use_limit_reached_error and compact…</description>
-</item>
-<item>
-<title>Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app</title>
-<link>https://momentic.ai/</link>
-<guid isPermaLink="false">frontierfeed:0f6c0569ab0269cf</guid>
-<pubDate>Mon, 02 Nov 2026 17:05:25 +0000</pubDate>
-<category>note</category>
-<description>50 points, 30 comments. Discussion: https://news.ycombinator.com/item?id=50339913</description>
-</item>
-<item>
-<title>Anthropic&#x27;s internal AI use, at retail prices, now exceeds its employee pay</title>
-<link>https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</link>
-<guid isPermaLink="false">frontierfeed:4a275c49cd892440</guid>
-<pubDate>Mon, 02 Nov 2026 16:40:29 +0000</pubDate>
-<category>note</category>
-<description>115 points, 80 comments. Discussion: https://news.ycombinator.com/item?id=50339494</description>
 </item>
 </channel>
 </rss>

@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "title": "Introducing Claude Meetings",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "source": "claude-blog",
+      "published": "2026-11-13T01:52:54.999262+00:00",
+      "body": "Add Claude to your video call and get the work started while you talk",
+      "summary": "Add Claude to your video call and get the work started while you talk",
+      "version": "",
+      "category": "launch",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "a58c6fc4dc497e9f"
+    },
+    {
+      "title": "Using Claude Opus 5.5 as your daily driver for knowledge work",
+      "url": "https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work",
+      "source": "claude-blog",
+      "published": "2026-11-13T01:52:54.999167+00:00",
+      "body": "Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here's how it compares with our other models, and how to get the most from it for knowledge work.",
+      "summary": "Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here's how it compares with our other models, and how to get the most from it for knowledge work.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "opus"
+      ],
+      "uid": "7695cb6b9d29f5c4"
+    },
+    {
+      "title": "v1.0.275",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.275",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-12T23:14:27+00:00",
+      "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.275 -->\n\n## What's Changed\n### Other changes\n* Make the git wrappers independent of the session's environment by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2018\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.274...v1.0.275\n",
+      "summary": "## What's Changed ### Other changes * Make the git wrappers independent of the session's environment by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2018 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.274...v1.0.275",
+      "version": "1.0.275",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "fc43c3b01663e77e"
+    },
+    {
+      "title": "v1.0.274",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.274",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-12T22:15:12+00:00",
+      "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.274 -->\n\n## What's Changed\n### Other changes\n* Let Claude read CI results on outside pull requests by @qing-ant in https://github.com/anthropics/claude-code-action/pull/2009\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.273...v1.0.274\n",
+      "summary": "## What's Changed ### Other changes * Let Claude read CI results on outside pull requests by @qing-ant in https://github.com/anthropics/claude-code-action/pull/2009 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.273...v1.0.274",
+      "version": "1.0.274",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "5a13820b1840158c"
+    },
+    {
       "title": "Introducing Claude for Manufacturing",
       "url": "https://claude.com/resources/articles/claude-for-manufacturing",
       "source": "claude-blog",
@@ -4700,70 +4765,6 @@
         "enterprise"
       ],
       "uid": "f4b18b12b32ef53c"
-    },
-    {
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "source": "anthropic-news",
-      "published": "2026-10-14T13:47:04.197510+00:00",
-      "body": "Our position on open-weights models",
-      "summary": "Our position on open-weights models",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "9a13f34e2ecc4eb4"
-    },
-    {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "source": "anthropic-news",
-      "published": "2026-10-14T13:47:04.197495+00:00",
-      "body": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "37147b115f3e1032"
-    },
-    {
-      "title": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
-      "url": "https://www.anthropic.com/news/tino-cuellar",
-      "source": "anthropic-news",
-      "published": "2026-10-14T13:47:04.197479+00:00",
-      "body": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
-      "summary": "Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "778a0265f5854c98"
-    },
-    {
-      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "url": "https://www.anthropic.com/news/singapore-office-opening",
-      "source": "anthropic-news",
-      "published": "2026-10-14T13:47:04.197162+00:00",
-      "body": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "summary": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "67a4d3c1b57d9cd3"
     }
   ]
 }

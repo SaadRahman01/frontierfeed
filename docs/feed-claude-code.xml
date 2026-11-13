@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 20:52:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 01:53:05 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.275</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.275</link>
+<guid isPermaLink="false">frontierfeed:fc43c3b01663e77e</guid>
+<pubDate>Thu, 12 Nov 2026 23:14:27 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Make the git wrappers independent of the session&#x27;s environment by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2018 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.274...v1.0.275</description>
+</item>
+<item>
+<title>v1.0.274</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.274</link>
+<guid isPermaLink="false">frontierfeed:5a13820b1840158c</guid>
+<pubDate>Thu, 12 Nov 2026 22:15:12 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Let Claude read CI results on outside pull requests by @qing-ant in https://github.com/anthropics/claude-code-action/pull/2009 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.273...v1.0.274</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.323 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.323</link>
