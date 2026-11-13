@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-13T09:38:27.408811+00:00",
+  "generated": "2026-11-13T17:48:34.033937+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "source": "hackernews",
+      "published": "2026-11-13T10:18:13+00:00",
+      "body": "437 points, 355 comments. Discussion: https://news.ycombinator.com/item?id=50481187",
+      "summary": "437 points, 355 comments. Discussion: https://news.ycombinator.com/item?id=50481187",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "89c4d55a83126d9f"
+    },
     {
       "title": "Introducing Claude Meetings",
       "url": "https://claude.com/resources/articles/claude-meetings",
@@ -4752,23 +4767,6 @@
         "news"
       ],
       "uid": "823e8100cfe93440"
-    },
-    {
-      "title": "Introducing Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "source": "anthropic-news",
-      "published": "2026-10-14T13:47:04.197541+00:00",
-      "body": "Introducing Claude Opus 5",
-      "summary": "Introducing Claude Opus 5",
-      "version": "",
-      "category": "model-release",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "news",
-        "opus"
-      ],
-      "uid": "cb3d7ccb220b7d1b"
     }
   ]
 }

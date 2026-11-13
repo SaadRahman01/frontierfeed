@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, model releases only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 09:38:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 17:48:34 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-releases.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -150,14 +150,6 @@
 <pubDate>Tue, 20 Oct 2026 18:29:39 +0000</pubDate>
 <category>model-release</category>
 <description>Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</description>
-</item>
-<item>
-<title>Introducing Claude Opus 5</title>
-<link>https://www.anthropic.com/news/claude-opus-5</link>
-<guid isPermaLink="false">frontierfeed:cb3d7ccb220b7d1b</guid>
-<pubDate>Wed, 14 Oct 2026 13:47:04 +0000</pubDate>
-<category>model-release</category>
-<description>Introducing Claude Opus 5</description>
 </item>
 </channel>
 </rss>

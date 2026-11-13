@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 09:38:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 17:48:34 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
+<link>https://status.claude.com/incidents/nn11wk485zfn</link>
+<guid isPermaLink="false">frontierfeed:89c4d55a83126d9f</guid>
+<pubDate>Fri, 13 Nov 2026 10:18:13 +0000</pubDate>
+<category>claude-code</category>
+<description>437 points, 355 comments. Discussion: https://news.ycombinator.com/item?id=50481187</description>
+</item>
 <item>
 <title>Introducing Claude Meetings</title>
 <link>https://claude.com/resources/articles/claude-meetings</link>
@@ -806,14 +814,6 @@
 <pubDate>Mon, 02 Nov 2026 19:17:21 +0000</pubDate>
 <category>api</category>
 <description>### Bug Fixes * **foundry:** make client.d.ts type-check with skipLibCheck off ### Chores * **internal:** type-check the published declarations of every subpackage</description>
-</item>
-<item>
-<title>bedrock-sdk-v1.1.1</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.1</link>
-<guid isPermaLink="false">frontierfeed:77145e84b80fa5f3</guid>
-<pubDate>Mon, 02 Nov 2026 19:17:18 +0000</pubDate>
-<category>api</category>
-<description>### Chores * **internal:** type-check the published declarations of every subpackage</description>
 </item>
 </channel>
 </rss>

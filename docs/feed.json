@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:89c4d55a83126d9f",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "summary": "437 points, 355 comments. Discussion: https://news.ycombinator.com/item?id=50481187",
+      "content_text": "437 points, 355 comments. Discussion: https://news.ycombinator.com/item?id=50481187",
+      "date_published": "2026-11-13T10:18:13+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:a58c6fc4dc497e9f",
       "url": "https://claude.com/resources/articles/claude-meetings",
       "title": "Introducing Claude Meetings",
@@ -1370,20 +1383,6 @@
       "summary": "### Bug Fixes * **foundry:** make client.d.ts type-check with skipLibCheck off ### Chores * **internal:** type-check the published declarations of every subpackage",
       "content_text": "### Bug Fixes * **foundry:** make client.d.ts type-check with skipLibCheck off ### Chores * **internal:** type-check the published declarations of every subpackage",
       "date_published": "2026-11-02T19:17:21+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:77145e84b80fa5f3",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.1",
-      "title": "bedrock-sdk-v1.1.1",
-      "summary": "### Chores * **internal:** type-check the published declarations of every subpackage",
-      "content_text": "### Chores * **internal:** type-check the published declarations of every subpackage",
-      "date_published": "2026-11-02T19:17:18+00:00",
       "tags": [
         "api",
         "fix",
