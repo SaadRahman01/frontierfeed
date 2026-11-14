@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+      "url": "https://claude.com/resources/articles/projects-redesigned",
+      "source": "hackernews",
+      "published": "2026-11-14T00:28:11+00:00",
+      "body": "76 points, 73 comments. Discussion: https://news.ycombinator.com/item?id=50492141",
+      "summary": "76 points, 73 comments. Discussion: https://news.ycombinator.com/item?id=50492141",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "34b30555727e97ec"
+    },
+    {
       "title": "Building always-on agents",
       "url": "https://claude.com/resources/articles/building-always-on-agents",
       "source": "claude-blog",
@@ -4745,22 +4760,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "b77486b4b8f09da8"
-    },
-    {
-      "title": "bedrock-sdk-v0.35.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.35.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-14T17:13:16+00:00",
-      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **client:** add OpenTelemetry spans for API calls\n\n\n### Chores\n\n* include the license files in the published packages\n* **internal:** strip `@internal` declarations from published types",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "version": "bedrock-sdk-v0.35.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "2c305a60738040c3"
     }
   ]
 }

@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:34b30555727e97ec",
+      "url": "https://claude.com/resources/articles/projects-redesigned",
+      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+      "summary": "76 points, 73 comments. Discussion: https://news.ycombinator.com/item?id=50492141",
+      "content_text": "76 points, 73 comments. Discussion: https://news.ycombinator.com/item?id=50492141",
+      "date_published": "2026-11-14T00:28:11+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:022806f74fc92769",
       "url": "https://claude.com/resources/articles/building-always-on-agents",
       "title": "Building always-on agents",
@@ -1377,19 +1390,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:6040dfcec9454bc9",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "title": "Anthropic's growth just flattened",
-      "summary": "155 points, 187 comments. Discussion: https://news.ycombinator.com/item?id=50344958",
-      "content_text": "155 points, 187 comments. Discussion: https://news.ycombinator.com/item?id=50344958",
-      "date_published": "2026-11-02T22:33:20+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
