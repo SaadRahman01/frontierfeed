@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "source": "hackernews",
+      "published": "2026-11-14T14:05:54+00:00",
+      "body": "99 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50497132",
+      "summary": "99 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50497132",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b2d60dc5c842a354"
+    },
+    {
       "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
       "url": "https://claude.com/resources/articles/projects-redesigned",
       "source": "hackernews",
@@ -4744,22 +4759,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "1c6f5924c02e8bc4"
-    },
-    {
-      "title": "foundry-sdk-v0.6.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v0.6.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-14T17:13:19+00:00",
-      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **client:** add OpenTelemetry spans for API calls\n\n\n### Chores\n\n* include the license files in the published packages\n* **internal:** strip `@internal` declarations from published types",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "version": "foundry-sdk-v0.6.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "b77486b4b8f09da8"
     }
   ]
 }

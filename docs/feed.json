@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:b2d60dc5c842a354",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "summary": "99 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50497132",
+      "content_text": "99 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50497132",
+      "date_published": "2026-11-14T14:05:54+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:34b30555727e97ec",
       "url": "https://claude.com/resources/articles/projects-redesigned",
       "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
@@ -1376,20 +1389,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:95474272909eee97",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.317",
-      "title": "@anthropic-ai/claude-code 2.1.317 published",
-      "summary": "Version 2.1.317 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.317 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-11-02T23:57:53.069000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
