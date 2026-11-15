@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 11:04:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 17:47:27 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -182,6 +182,14 @@
 <pubDate>Thu, 12 Nov 2026 11:46:41 +0000</pubDate>
 <category>note</category>
 <description>112 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=50465829</description>
+</item>
+<item>
+<title>Claude Code and Codex reverse engineered my 1994 Jeep&#x27;s ECU over a $3 Arduino [video]</title>
+<link>https://www.youtube.com/watch?v=WPj3aQ-xxpI</link>
+<guid isPermaLink="false">frontierfeed:246469d1ce7c3da6</guid>
+<pubDate>Thu, 12 Nov 2026 05:29:24 +0000</pubDate>
+<category>claude-code</category>
+<description>82 points, 37 comments. Discussion: https://news.ycombinator.com/item?id=50463399</description>
 </item>
 <item>
 <title>Show HN: Klad, a paint app your coding agent can drive (source-available)</title>
@@ -806,14 +814,6 @@
 <pubDate>Tue, 03 Nov 2026 01:33:23 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.266...v1.0.267</description>
-</item>
-<item>
-<title>Show HN: HackerTV – HN&#x27;s most-recommended Youtube videos as 24/7 TV channels</title>
-<link>https://hackertv.org</link>
-<guid isPermaLink="false">frontierfeed:44a15221ec26ce5d</guid>
-<pubDate>Tue, 03 Nov 2026 01:18:09 +0000</pubDate>
-<category>note</category>
-<description>108 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50346755</description>
 </item>
 </channel>
 </rss>

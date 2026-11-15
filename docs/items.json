@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-15T11:04:52.721046+00:00",
+  "generated": "2026-11-15T17:47:27.422374+00:00",
   "count": 300,
   "items": [
     {
@@ -336,6 +336,21 @@
         "community"
       ],
       "uid": "ce0b747cb609dd19"
+    },
+    {
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "source": "hackernews",
+      "published": "2026-11-12T05:29:24+00:00",
+      "body": "82 points, 37 comments. Discussion: https://news.ycombinator.com/item?id=50463399",
+      "summary": "82 points, 37 comments. Discussion: https://news.ycombinator.com/item?id=50463399",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "246469d1ce7c3da6"
     },
     {
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
@@ -4747,22 +4762,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "21dc55d5b68fdf0e"
-    },
-    {
-      "title": "aws-sdk-v0.8.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.8.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-14T17:13:22+00:00",
-      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **client:** add OpenTelemetry spans for API calls\n\n\n### Chores\n\n* include the license files in the published packages\n* **internal:** strip `@internal` declarations from published types",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "version": "aws-sdk-v0.8.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "1c6f5924c02e8bc4"
     }
   ]
 }

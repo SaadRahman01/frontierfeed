@@ -300,6 +300,19 @@
       ]
     },
     {
+      "id": "frontierfeed:246469d1ce7c3da6",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "summary": "82 points, 37 comments. Discussion: https://news.ycombinator.com/item?id=50463399",
+      "content_text": "82 points, 37 comments. Discussion: https://news.ycombinator.com/item?id=50463399",
+      "date_published": "2026-11-12T05:29:24+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:83be31095076e215",
       "url": "https://github.com/klad-app/klad",
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
@@ -1376,19 +1389,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:44a15221ec26ce5d",
-      "url": "https://hackertv.org",
-      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-      "summary": "108 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50346755",
-      "content_text": "108 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50346755",
-      "date_published": "2026-11-03T01:18:09+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
