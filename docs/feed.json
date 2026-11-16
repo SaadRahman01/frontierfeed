@@ -9,6 +9,64 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:e8cffd4f65e7de3c",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.277",
+      "title": "v1.0.277 (breaking changes)",
+      "summary": "## What's Changed ### ⚠️ Breaking changes * Use the base branch's AGENTS.md on pull requests by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2059 ### Other changes * Use the base branch's npm and Bun config on outside pull requests by @mhegazy in https://gith…",
+      "content_text": "## What's Changed ### ⚠️ Breaking changes * Use the base branch's AGENTS.md on pull requests by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2059 ### Other changes * Use the base branch's npm and Bun config on outside pull requests by @mhegazy in https://gith…",
+      "date_published": "2026-11-16T19:05:07+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:8a05034080368e8b",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.326",
+      "title": "@anthropic-ai/claude-code 2.1.326 published",
+      "summary": "Version 2.1.326 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.326 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-11-16T18:43:39.005000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:bf752554ffd2cb10",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.9.0",
+      "title": "v2.9.0",
+      "summary": "### Features * **api:** add source and error codes to the RBAC Role read endpoints * **api:** add Update Bundle, which sets a Claude Tag Bundle's instructions, and return instructions on Bundle ### Bug Fixes * **credentials:** write the credentials file on Windows with Python 3.1…",
+      "content_text": "### Features * **api:** add source and error codes to the RBAC Role read endpoints * **api:** add Update Bundle, which sets a Claude Tag Bundle's instructions, and return instructions on Bundle ### Bug Fixes * **credentials:** write the credentials file on Windows with Python 3.1…",
+      "date_published": "2026-11-16T16:47:17+00:00",
+      "tags": [
+        "deprecation",
+        "breaking",
+        "release",
+        "anthropic-sdk-python",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:b1ceef13109a799a",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.9.0",
+      "title": "sdk-v1.9.0",
+      "summary": "### Features * **api:** add source and error codes to the RBAC Role read endpoints * **api:** add Update Bundle, which sets a Claude Tag Bundle's instructions, and return instructions on Bundle ### Bug Fixes * **helpers:** keep $schema out of the transformed schema description *…",
+      "content_text": "### Features * **api:** add source and error codes to the RBAC Role read endpoints * **api:** add Update Bundle, which sets a Claude Tag Bundle's instructions, and return instructions on Bundle ### Bug Fixes * **helpers:** keep $schema out of the transformed schema description *…",
+      "date_published": "2026-11-16T16:47:01+00:00",
+      "tags": [
+        "deprecation",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript",
+        "skills"
+      ]
+    },
+    {
       "id": "frontierfeed:b2d60dc5c842a354",
       "url": "https://gitlab.com/snipedbywifi/terminactory",
       "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
@@ -1333,62 +1391,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:90064f289477bea5",
-      "url": "https://arxiv.org/abs/2611.05548v1",
-      "title": "Iterated creation, grading, and revision of data science projects by language models",
-      "summary": "We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with feedback.",
-      "content_text": "We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with feedback.",
-      "date_published": "2026-11-03T19:39:03+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper",
-        "opus",
-        "haiku"
-      ]
-    },
-    {
-      "id": "frontierfeed:0751547fb6f33c66",
-      "url": "https://news.ycombinator.com/item?id=50352757",
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "summary": "145 points, 50 comments. Discussion: https://news.ycombinator.com/item?id=50352757",
-      "content_text": "145 points, 50 comments. Discussion: https://news.ycombinator.com/item?id=50352757",
-      "date_published": "2026-11-03T14:53:41+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:6a15038e4192867e",
-      "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
-      "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
-      "summary": "72 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50350560",
-      "content_text": "72 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50350560",
-      "date_published": "2026-11-03T11:16:07+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:272df11deda55ca1",
-      "url": "https://claude.com/resources/articles/message-threads",
-      "title": "Make long-running agents faster with message threads",
-      "summary": "New in the Messages API, send your conversation once, and the API receives only what’s new with every turn.",
-      "content_text": "New in the Messages API, send your conversation once, and the API receives only what’s new with every turn.",
-      "date_published": "2026-11-03T01:37:43.485246+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "official",
-        "product"
       ]
     }
   ]

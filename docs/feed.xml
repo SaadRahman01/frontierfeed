@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 11:33:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 22:13:18 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,38 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.277 (breaking changes)</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.277</link>
+<guid isPermaLink="false">frontierfeed:e8cffd4f65e7de3c</guid>
+<pubDate>Mon, 16 Nov 2026 19:05:07 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### ⚠️ Breaking changes * Use the base branch&#x27;s AGENTS.md on pull requests by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2059 ### Other changes * Use the base branch&#x27;s npm and Bun config on outside pull requests by @mhegazy in https://gith…</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.326 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.326</link>
+<guid isPermaLink="false">frontierfeed:8a05034080368e8b</guid>
+<pubDate>Mon, 16 Nov 2026 18:43:39 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.326 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>[breaking] v2.9.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.9.0</link>
+<guid isPermaLink="false">frontierfeed:bf752554ffd2cb10</guid>
+<pubDate>Mon, 16 Nov 2026 16:47:17 +0000</pubDate>
+<category>deprecation</category>
+<description>### Features * **api:** add source and error codes to the RBAC Role read endpoints * **api:** add Update Bundle, which sets a Claude Tag Bundle&#x27;s instructions, and return instructions on Bundle ### Bug Fixes * **credentials:** write the credentials file on Windows with Python 3.1…</description>
+</item>
+<item>
+<title>[breaking] sdk-v1.9.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.9.0</link>
+<guid isPermaLink="false">frontierfeed:b1ceef13109a799a</guid>
+<pubDate>Mon, 16 Nov 2026 16:47:01 +0000</pubDate>
+<category>deprecation</category>
+<description>### Features * **api:** add source and error codes to the RBAC Role read endpoints * **api:** add Update Bundle, which sets a Claude Tag Bundle&#x27;s instructions, and return instructions on Bundle ### Bug Fixes * **helpers:** keep $schema out of the transformed schema description *…</description>
+</item>
 <item>
 <title>Show HN: A terminal-native idle factory game, written in Rust with ratatui</title>
 <link>https://gitlab.com/snipedbywifi/terminactory</link>
@@ -782,38 +814,6 @@
 <pubDate>Tue, 03 Nov 2026 21:16:48 +0000</pubDate>
 <category>note</category>
 <description>83 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50358314</description>
-</item>
-<item>
-<title>Iterated creation, grading, and revision of data science projects by language models</title>
-<link>https://arxiv.org/abs/2611.05548v1</link>
-<guid isPermaLink="false">frontierfeed:90064f289477bea5</guid>
-<pubDate>Tue, 03 Nov 2026 19:39:03 +0000</pubDate>
-<category>research</category>
-<description>We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with feedback.</description>
-</item>
-<item>
-<title>OpenAI seems to be silently re-enabling model training on Codex chats</title>
-<link>https://news.ycombinator.com/item?id=50352757</link>
-<guid isPermaLink="false">frontierfeed:0751547fb6f33c66</guid>
-<pubDate>Tue, 03 Nov 2026 14:53:41 +0000</pubDate>
-<category>note</category>
-<description>145 points, 50 comments. Discussion: https://news.ycombinator.com/item?id=50352757</description>
-</item>
-<item>
-<title>Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly</title>
-<link>https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html</link>
-<guid isPermaLink="false">frontierfeed:6a15038e4192867e</guid>
-<pubDate>Tue, 03 Nov 2026 11:16:07 +0000</pubDate>
-<category>note</category>
-<description>72 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50350560</description>
-</item>
-<item>
-<title>Make long-running agents faster with message threads</title>
-<link>https://claude.com/resources/articles/message-threads</link>
-<guid isPermaLink="false">frontierfeed:272df11deda55ca1</guid>
-<pubDate>Tue, 03 Nov 2026 01:37:43 +0000</pubDate>
-<category>api</category>
-<description>New in the Messages API, send your conversation once, and the API receives only what’s new with every turn.</description>
 </item>
 </channel>
 </rss>

@@ -1,9 +1,75 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-16T11:33:47.898560+00:00",
+  "generated": "2026-11-16T22:13:18.852788+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.277 (breaking changes)",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.277",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-16T19:05:07+00:00",
+      "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.277 -->\n\n## What's Changed\n### \u26a0\ufe0f Breaking changes\n* Use the base branch's AGENTS.md on pull requests by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2059\n### Other changes\n* Use the base branch's npm and Bun config on outside pull requests by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2020\n* Start Bun with the action's own tsconfig again by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2058\n* Close gaps in using the base branch's npm and Bun config by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2026\n* Keep deny rules that hold commas or parentheses by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2033\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.276...v1.0.277\n",
+      "summary": "## What's Changed ### \u26a0\ufe0f Breaking changes * Use the base branch's AGENTS.md on pull requests by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2059 ### Other changes * Use the base branch's npm and Bun config on outside pull requests by @mhegazy in https://gith\u2026",
+      "version": "1.0.277",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "e8cffd4f65e7de3c"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.326 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.326",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-16T18:43:39.005000+00:00",
+      "body": "Version 2.1.326 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.326 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.326",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "8a05034080368e8b"
+    },
+    {
+      "title": "v2.9.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.9.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-11-16T16:47:17+00:00",
+      "body": "### Features\n\n* **api:** add source and error codes to the RBAC Role read endpoints\n* **api:** add Update Bundle, which sets a Claude Tag Bundle's instructions, and return instructions on Bundle\n\n\n### Bug Fixes\n\n* **credentials:** write the credentials file on Windows with Python 3.12 and earlier\n* **tools:** compare directory names exactly when confining file tool and upload paths on Windows\n* **tools:** fully resolve file tool paths that pass through a dangling symlink\n* **tools:** ignore ripgrep config files in the agent toolset's grep tool\n* **tools:** keep an existing skill directory when the download or extraction that would replace it fails\n* **tools:** keep the session tool runner's max_idle countdown running when a session thread terminates\n\n  If the runner fails to read the session's event history after a reconnect, a termination that then arrives on the event stream still cancels the countdown, until the next idle or successful read.\n\n* **tools:** leave symlinks that point outside /memories out of listings\n* **tools:** look for ripgrep only in absolute `PATH` entries in the agent toolset's grep tool\n\n  The tool no longer runs an `rg` from a relative or empty `PATH` entry or, on Windows, from the current directory. On Windows it looks for `rg.exe`, so an `rg.cmd`, `rg.bat` or `rg.com` is no longer used. With no other `rg` on `PATH`, the tool uses its built-in search.\n\n* **tools:** pass over an rg inside the directories the agent toolset's file tools can write\n\n  `grep` passes over an `rg` that resolves to somewhere inside `workdir` or `allowed_roots`, whatever the letter case of the names. It uses the next `rg` on `PATH`, or the built-in search when there is none. With a `workdir` that holds every `rg` on the host, such as `/`, every search is a built-in search. `rg` no longer gets the `ANTHROPIC_*` variables of the process, like the shell of `bash`.\n\n* **tools:** read memory files only through the path that was validated\n* **tools:** read only regular files in the grep tool's built-in search\n\n  The built-in search of `grep` passes over a FIFO or a device in the directory it walks, as ripgrep does. Reading one could block the search, and the event loop with it, forever.\n\n* **tools:** stop EnvironmentWorker from running tools for a terminated session\n\n  For a terminated session, the worker now force-stops the work item right after it retrieves the session, before it downloads skills or memory stores. It no longer raises `SessionMemoryError` for such a session. The API reports an archived session as `terminated`.\n\n* **tools:** stop the grep tool after 30 seconds of CPU time when ripgrep is not installed\n* **tools:** stop the session tool runner from running the tool calls of a terminated session thread\n\n  The runner also no longer yields these calls, including a denied call (`confirmation=\"deny\"`) and a call to a tool that it does not own. The one exception is a call whose tool is already running when the thread terminates: the runner yields it with `posted=False` and posts no result.\n\n\n### Chores\n\n* **api:** deprecate old beta header values\n\n  The API still accepts these values, but a later release removes them from the SDKs. Delete `prompt-caching-2024-07-31`, `pdfs-2024-09-25`, `token-counting-2024-11-01`, `token-efficient-tools-2025-02-19`, `extended-cache-ttl-2025-04-11`, `cache-diagnosis-2026-04-07` and `ce-user-management-2026-07-13` from your requests. `files-api-2025-04-14` and `skills-2025-10-02` select the beta response shapes, so follow the Files API and Skills migration guides before you delete them.\n\n  In C#, the `AnthropicBeta` enum's members have new numbers, so code compiled against an earlier SDK version sends a different beta value, with no error, until you rebuild it.\n\n* **api:** stop sending an old beta header on batch requests\n\n  `beta.messages.batches` no longer sends `message-batches-2024-09-24`, which the API doesn't need. If your client sets a default `anthropic-beta` header, these requests now send it, where in some SDKs the old value replaced it. The API still accepts the old value. If you set it yourself, delete it: a later release removes it from the SDKs.\n\n* **docs:** add an example value for the workspace name\n* **docs:** clarify when the auto permission policy denies a tool call\n* **docs:** clarify which workspaces an external key can be attached to\n* **docs:** recommend multiagent_20261001 over the coordinator type\n* **docs:** say when organization_id is required on plugin reads\n* **tests:** let idle test workers take queued tests",
+      "summary": "### Features * **api:** add source and error codes to the RBAC Role read endpoints * **api:** add Update Bundle, which sets a Claude Tag Bundle's instructions, and return instructions on Bundle ### Bug Fixes * **credentials:** write the credentials file on Windows with Python 3.1\u2026",
+      "version": "2.9.0",
+      "category": "deprecation",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "skills"
+      ],
+      "uid": "bf752554ffd2cb10"
+    },
+    {
+      "title": "sdk-v1.9.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.9.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-16T16:47:01+00:00",
+      "body": "### Features\n\n* **api:** add source and error codes to the RBAC Role read endpoints\n* **api:** add Update Bundle, which sets a Claude Tag Bundle's instructions, and return instructions on Bundle\n\n\n### Bug Fixes\n\n* **helpers:** keep $schema out of the transformed schema description\n* **streaming:** reject characters that aren't JSON in streamed tool input\n\n  The lenient parser for streamed tool input used to skip characters and words that aren't JSON, such as a comment, and to join numbers such as `12 3`, so it could return a value that the text doesn't contain. It now rejects such text, and a stream with such tool input fails with an error, as it already did for a bad escape or a missing comma. Valid and truncated JSON parse as before.\n\n* **tools:** bound the grep tool's search at 60s where ripgrep is missing, and keep its regex off the main thread\n* **tools:** compare directory names exactly when confining file paths on Windows\n* **tools:** fully resolve file tool paths that pass through a dangling symlink\n* **tools:** ignore ripgrep config files in the agent toolset grep tool\n* **tools:** leave symlinks that point outside /memories out of listings\n* **tools:** normalize file modes of extracted skill files\n\n  Extracted files now get `0644`, or `0755` if any execute bit is set, in `0700` directories, whatever the archive recorded. The system `tar` must accept `--no-same-owner` and `--no-same-permissions`.\n\n* **tools:** pass over a tar or unzip inside the directories the agent toolset's file tools can write\n\n  `setupSkills` takes `tar`, `unzip` and a helper that `tar` starts, such as `gzip`, only from the `PATH` entries outside `workdir` and `allowedRoots`, and passes over a link that leads inside them. A host whose only `tar` or `unzip` is inside those directories can no longer download skills until one is installed outside. Only when no `PATH` entry is outside them, as with a `workdir` of `/`, is all of `PATH` still searched. A `tar` or `unzip` that fails now rejects with an `AnthropicError`.\n\n* **tools:** pass over an rg inside the directories the agent toolset's file tools can write\n\n  `grep` passes over an `rg` that resolves to somewhere inside `workdir` or `allowedRoots`. It uses the next `rg` on `PATH`, or the built-in search when there is none. With a `workdir` that holds every `rg` on the host, such as `/`, every search is a built-in search. `rg`, and the `tar` and `unzip` that extract skills, no longer get the `ANTHROPIC_*` variables of the process, like the shell of `bash`.\n\n* **tools:** read memory files only through the path that was validated\n* **tools:** stop looking for rg, tar and unzip in the current directory\n* **tools:** stop the grep tool's built-in search at a NUL byte in a file\n\n  The built-in search of `grep` reads no further into a file once it meets a NUL byte, much as ripgrep does. A very large binary file with no line break used to end the process with an uncaught `RangeError`.\n\n\n### Chores\n\n* **api:** deprecate old beta header values\n\n  The API still accepts these values, but a later release removes them from the SDKs. Delete `prompt-caching-2024-07-31`, `pdfs-2024-09-25`, `token-counting-2024-11-01`, `token-efficient-tools-2025-02-19`, `extended-cache-ttl-2025-04-11`, `cache-diagnosis-2026-04-07` and `ce-user-management-2026-07-13` from your requests. `files-api-2025-04-14` and `skills-2025-10-02` select the beta response shapes, so follow the Files API and Skills migration guides before you delete them.\n\n  In C#, the `AnthropicBeta` enum's members have new numbers, so code compiled against an earlier SDK version sends a different beta value, with no error, until you rebuild it.\n\n* **api:** stop sending an old beta header on batch requests\n\n  `beta.messages.batches` no longer sends `message-batches-2024-09-24`, which the API doesn't need. If your client sets a default `anthropic-beta` header, these requests now send it, where in some SDKs the old value replaced it. The API still accepts the old value. If you set it yourself, delete it: a later release removes it from the SDKs.\n\n* **docs:** add an example value for the workspace name\n* **docs:** clarify when the auto permission policy denies a tool call\n* **docs:** clarify which workspaces an external key can be attached to\n* **docs:** recommend multiagent_20261001 over the coordinator type\n* **docs:** say when organization_id is required on plugin reads",
+      "summary": "### Features * **api:** add source and error codes to the RBAC Role read endpoints * **api:** add Update Bundle, which sets a Claude Tag Bundle's instructions, and return instructions on Bundle ### Bug Fixes * **helpers:** keep $schema out of the transformed schema description *\u2026",
+      "version": "sdk-v1.9.0",
+      "category": "deprecation",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "skills"
+      ],
+      "uid": "b1ceef13109a799a"
+    },
     {
       "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
       "url": "https://gitlab.com/snipedbywifi/terminactory",
@@ -4699,69 +4765,6 @@
         "news"
       ],
       "uid": "0ea1743424c3f00b"
-    },
-    {
-      "title": "Preparing for the 2026 US midterms",
-      "url": "https://www.anthropic.com/news/2026-us-midterms",
-      "source": "anthropic-news",
-      "published": "2026-10-14T22:19:51.238785+00:00",
-      "body": "Preparing for the 2026 US midterms",
-      "summary": "Preparing for the 2026 US midterms",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "804e2c5ac69d9884"
-    },
-    {
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "source": "hackernews",
-      "published": "2026-10-14T20:30:54+00:00",
-      "body": "164 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50094694",
-      "summary": "164 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50094694",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "af7ec3dee446ed0e"
-    },
-    {
-      "title": "Agent observability on the Claude Platform",
-      "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
-      "source": "claude-blog",
-      "published": "2026-10-14T18:40:31.867842+00:00",
-      "body": "Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.",
-      "summary": "Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "8431345bd0690d0b"
-    },
-    {
-      "title": "v1.0.250",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.250",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-14T18:38:52+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.249...v1.0.250",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.249...v1.0.250",
-      "version": "1.0.250",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "0c9413fdbd1e4ca2"
     }
   ]
 }
