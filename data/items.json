@@ -126,6 +126,22 @@
       "uid": "89c4d55a83126d9f"
     },
     {
+      "title": "GDP.xlsx: Benchmarking Frontier Models on Professional Workbooks",
+      "url": "https://arxiv.org/abs/2611.17766v1",
+      "source": "arxiv",
+      "published": "2026-11-13T05:24:50+00:00",
+      "body": "We introduce GDP_xlsx, a benchmark of 70 realistic workplace requests written by professionals in 13 domains, each paired with an expert rubric of binary criteria and with the complete workbook or CSV file it refers to. Together the files hold 2.18 million populated cells, and the rubrics 791 criteria. Agents work in a container with spreadsheet tools, and an agentic judge that can open the file applies the rubric. Completeness and exclusivity criteria require set-valued answers to be found in full and with nothing extra. We rank models by strict pass@1, the share of attempts that meet every criterion. Across 20 model configurations, including frontier models from Google, Anthropic, and OpenAI, the top-scoring one, Gemini 4 Argon, passes only 38.3% of attempts, and the median score is 19.3%, leaving wide headroom. We release the evaluation harness and three public tasks; the other 67 are held out to protect the leaderboard from contamination.",
+      "summary": "We introduce GDP_xlsx, a benchmark of 70 realistic workplace requests written by professionals in 13 domains, each paired with an expert rubric of binary criteria and with the complete workbook or CSV file it refers to.",
+      "version": "",
+      "category": "research",
+      "impact": "feature",
+      "tags": [
+        "research",
+        "paper"
+      ],
+      "uid": "8a2ca7e30685ad0a"
+    },
+    {
       "title": "Introducing Claude Meetings",
       "url": "https://claude.com/resources/articles/claude-meetings",
       "source": "claude-blog",
@@ -4742,22 +4758,6 @@
         "claude-code-action"
       ],
       "uid": "0c9413fdbd1e4ca2"
-    },
-    {
-      "title": "google-cloud-sdk-v0.1.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.1.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-14T17:13:24+00:00",
-      "body": "### Features\n\n* **api:** add execution_identity to Managed Agents agents\n* **client:** add OpenTelemetry spans for API calls\n\n\n### Chores\n\n* include the license files in the published packages\n* **internal:** strip `@internal` declarations from published types",
-      "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **client:** add OpenTelemetry spans for API calls ### Chores * include the license files in the published packages * **internal:** strip `@internal` declarations from published types",
-      "version": "google-cloud-sdk-v0.1.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "21dc55d5b68fdf0e"
     }
   ]
 }

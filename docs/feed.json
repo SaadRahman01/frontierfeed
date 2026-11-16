@@ -118,6 +118,20 @@
       ]
     },
     {
+      "id": "frontierfeed:8a2ca7e30685ad0a",
+      "url": "https://arxiv.org/abs/2611.17766v1",
+      "title": "GDP.xlsx: Benchmarking Frontier Models on Professional Workbooks",
+      "summary": "We introduce GDP_xlsx, a benchmark of 70 realistic workplace requests written by professionals in 13 domains, each paired with an expert rubric of binary criteria and with the complete workbook or CSV file it refers to.",
+      "content_text": "We introduce GDP_xlsx, a benchmark of 70 realistic workplace requests written by professionals in 13 domains, each paired with an expert rubric of binary criteria and with the complete workbook or CSV file it refers to.",
+      "date_published": "2026-11-13T05:24:50+00:00",
+      "tags": [
+        "research",
+        "feature",
+        "research",
+        "paper"
+      ]
+    },
+    {
       "id": "frontierfeed:a58c6fc4dc497e9f",
       "url": "https://claude.com/resources/articles/claude-meetings",
       "title": "Introducing Claude Meetings",
@@ -1375,20 +1389,6 @@
         "feature",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:0ca36d450b8f3363",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.267",
-      "title": "v1.0.267",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.266...v1.0.267",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.266...v1.0.267",
-      "date_published": "2026-11-03T01:33:23+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
       ]
     }
   ]
