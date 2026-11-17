@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:e3ed5c263b6b5d6c",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.278",
+      "title": "v1.0.278",
+      "summary": "## What's Changed ### Other changes * Read the run step's script whole and turn off Bun's transpiler cache by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2060 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.277...v1.0.278",
+      "content_text": "## What's Changed ### Other changes * Read the run step's script whole and turn off Bun's transpiler cache by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2060 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.277...v1.0.278",
+      "date_published": "2026-11-16T22:14:53+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:e8cffd4f65e7de3c",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.277",
       "title": "v1.0.277 (breaking changes)",
@@ -34,6 +48,19 @@
         "fix",
         "release",
         "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:c2bb01afd756441d",
+      "url": "https://fakemetrics.com/",
+      "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+      "summary": "43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50520741",
+      "content_text": "43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50520741",
+      "date_published": "2026-11-16T18:08:04+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1365,32 +1392,6 @@
         "fix",
         "release",
         "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:b4c9d8927cb6f911",
-      "url": "https://uncracked.city",
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "summary": "100 points, 51 comments. Discussion: https://news.ycombinator.com/item?id=50358352",
-      "content_text": "100 points, 51 comments. Discussion: https://news.ycombinator.com/item?id=50358352",
-      "date_published": "2026-11-03T21:20:03+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:1e7e650acad371d5",
-      "url": "https://github.com/finic-ai/kairos",
-      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-      "summary": "83 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50358314",
-      "content_text": "83 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50358314",
-      "date_published": "2026-11-03T21:16:48+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]

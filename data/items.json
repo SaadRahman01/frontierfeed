@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "v1.0.278",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.278",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-16T22:14:53+00:00",
+      "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.278 -->\n\n## What's Changed\n### Other changes\n* Read the run step's script whole and turn off Bun's transpiler cache by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2060\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.277...v1.0.278\n",
+      "summary": "## What's Changed ### Other changes * Read the run step's script whole and turn off Bun's transpiler cache by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2060 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.277...v1.0.278",
+      "version": "1.0.278",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "e3ed5c263b6b5d6c"
+    },
+    {
       "title": "v1.0.277 (breaking changes)",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.277",
       "source": "github:anthropics/claude-code-action",
@@ -31,6 +47,21 @@
         "npm"
       ],
       "uid": "8a05034080368e8b"
+    },
+    {
+      "title": "Show HN: Fakemetrics.com \u2013 \"build in public\" like a superstar",
+      "url": "https://fakemetrics.com/",
+      "source": "hackernews",
+      "published": "2026-11-16T18:08:04+00:00",
+      "body": "43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50520741",
+      "summary": "43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50520741",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "c2bb01afd756441d"
     },
     {
       "title": "v2.9.0",
@@ -4729,38 +4760,6 @@
         "community"
       ],
       "uid": "ee4428f7cc2c4781"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.301 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.301",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-15T14:34:23.330000+00:00",
-      "body": "Version 2.1.301 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.301 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.301",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "bae8b3882c1b05d8"
-    },
-    {
-      "title": "A research agenda for the Economic Futures Research Fund",
-      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "source": "anthropic-news",
-      "published": "2026-10-14T22:19:51.239146+00:00",
-      "body": "A research agenda for the Economic Futures Research Fund",
-      "summary": "A research agenda for the Economic Futures Research Fund",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "0ea1743424c3f00b"
     }
   ]
 }

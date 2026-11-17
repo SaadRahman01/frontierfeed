@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 22:13:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 04:34:12 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.278</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.278</link>
+<guid isPermaLink="false">frontierfeed:e3ed5c263b6b5d6c</guid>
+<pubDate>Mon, 16 Nov 2026 22:14:53 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Read the run step&#x27;s script whole and turn off Bun&#x27;s transpiler cache by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2060 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.277...v1.0.278</description>
+</item>
 <item>
 <title>v1.0.277 (breaking changes)</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.277</link>
@@ -30,6 +38,14 @@
 <pubDate>Mon, 16 Nov 2026 18:43:39 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.326 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>Show HN: Fakemetrics.com – &quot;build in public&quot; like a superstar</title>
+<link>https://fakemetrics.com/</link>
+<guid isPermaLink="false">frontierfeed:c2bb01afd756441d</guid>
+<pubDate>Mon, 16 Nov 2026 18:08:04 +0000</pubDate>
+<category>note</category>
+<description>43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50520741</description>
 </item>
 <item>
 <title>[breaking] v2.9.0</title>
@@ -798,22 +814,6 @@
 <pubDate>Tue, 03 Nov 2026 21:55:17 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.318 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Show HN: Uncracked City, detective game where you question LLM suspects that lie</title>
-<link>https://uncracked.city</link>
-<guid isPermaLink="false">frontierfeed:b4c9d8927cb6f911</guid>
-<pubDate>Tue, 03 Nov 2026 21:20:03 +0000</pubDate>
-<category>note</category>
-<description>100 points, 51 comments. Discussion: https://news.ycombinator.com/item?id=50358352</description>
-</item>
-<item>
-<title>Show HN: Kairos – Open-source risk and fraud decisioning platform</title>
-<link>https://github.com/finic-ai/kairos</link>
-<guid isPermaLink="false">frontierfeed:1e7e650acad371d5</guid>
-<pubDate>Tue, 03 Nov 2026 21:16:48 +0000</pubDate>
-<category>note</category>
-<description>83 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50358314</description>
 </item>
 </channel>
 </rss>
