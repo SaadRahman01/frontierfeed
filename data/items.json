@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Regulatory Capture by Anthropic Through METR",
+      "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+      "source": "hackernews",
+      "published": "2026-11-17T12:21:57+00:00",
+      "body": "123 points, 56 comments. Discussion: https://news.ycombinator.com/item?id=50530450",
+      "summary": "123 points, 56 comments. Discussion: https://news.ycombinator.com/item?id=50530450",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b685bce7cd294872"
+    },
+    {
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "source": "hackernews",
+      "published": "2026-11-17T10:20:40+00:00",
+      "body": "85 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50529612",
+      "summary": "85 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50529612",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "8c4dfeaa7974dc3c"
+    },
+    {
+      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+      "source": "hackernews",
+      "published": "2026-11-17T01:35:16+00:00",
+      "body": "49 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50526264",
+      "summary": "49 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50526264",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "fc12a1a6d9d9b167"
+    },
+    {
       "title": "v1.0.278",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.278",
       "source": "github:anthropics/claude-code-action",
@@ -98,6 +143,23 @@
       "uid": "b1ceef13109a799a"
     },
     {
+      "title": "Same Papers, Different Verdicts: Tracing Version Drift in LLM Peer Review",
+      "url": "https://arxiv.org/abs/2611.20608v1",
+      "source": "arxiv",
+      "published": "2026-11-16T06:32:42+00:00",
+      "body": "Venues and benchmarks read LLM review scores as measurements of a paper, while providers replace their models within months. We audit twenty frontier models from OpenAI, Google and Anthropic on ICLR 2027 submissions while they were under review, with tests registered before the decisions. Between an earlier and a later version of Claude Opus and of Gemini, the share of papers placed on the accept side falls by 52 and 53 percentage points on 183 and 60 randomly drawn submissions, and by 43 to 79 points in six further paired comparisons, with no paper moving up in any of them. Stating a 30% acceptance rate in the prompt leaves a gap of 79 points between the two Opus versions. When score-stripped critiques are swapped between versions, the later critiques alone lower the accept share by 35 points for Opus and 51 for Gemini; for Opus the drop is 35 points under a third-party scorer and 24 after a rewrite that keeps each technical point and removes evaluative wording. On 57 papers, the percentiles of Opus 4.6 and 5.5 correlate at 0.73 while their accept shares differ by 44 points. On 99 to 119 submissions, the self-estimated percentiles of three models correlate with two human reviewers more strongly than a third reviewer does (point estimates 0.17 to 0.21, 95% intervals between -0.04 and +0.42). All twenty models give a 2 or a 3 in 473 of their 475 reviews, against 60 of 72 human reviews. Retrospective tests on decided papers can draw on memory. Claude Opus 5.5 names the true first author of 27 decided ICLR 2026 papers from their titles alone, with no wrong name, and Claude Opus 4.6 accepted all 11 decided papers it said it recognized, against 5 expected. Thresholds on LLM-reviewer scores therefore have to be validated against human decisions for each model version; our tests against the ICLR 2027 decisions follow on 16 December 2026.",
+      "summary": "Venues and benchmarks read LLM review scores as measurements of a paper, while providers replace their models within months.",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper",
+        "opus"
+      ],
+      "uid": "a91a677d5e7141e5"
+    },
+    {
       "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
       "url": "https://gitlab.com/snipedbywifi/terminactory",
       "source": "hackernews",
@@ -111,6 +173,21 @@
         "community"
       ],
       "uid": "b2d60dc5c842a354"
+    },
+    {
+      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+      "url": "https://github.com/ZigaoWang/zigzag",
+      "source": "hackernews",
+      "published": "2026-11-14T13:17:10+00:00",
+      "body": "85 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50496787",
+      "summary": "85 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50496787",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "4248006dec44e5e5"
     },
     {
       "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
@@ -4681,85 +4758,6 @@
         "product"
       ],
       "uid": "9272483df81fefb4"
-    },
-    {
-      "title": "v1.15.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.15.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-10-15T19:45:15+00:00",
-      "body": "### Features\n\n* **api:** add between_tools to thinking types in model capabilities\n* **api:** add the speed parameter and usage.speed to Messages\n* **api:** return a Console organization's usage-tier spend cap as a read-only spend limit\n\n\n### Chores\n\n* **ci:** speed up breaking change detection\n* **docs:** describe headers on Managed Agents and telemetry endpoints\n* **internal:** simplify the script that formats code blocks in docs\n* **tests:** cover OpenTelemetry options and method default timeouts\n\n\n### Documentation\n\n* **api:** note that some models need a beta header to use speed",
-      "summary": "### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization's usage-tier spend cap as a read-only spend limit ### Chores * **ci:** speed up breaking chang\u2026",
-      "version": "1.15.0",
-      "category": "api",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-python"
-      ],
-      "uid": "4ca5aceb512b2829"
-    },
-    {
-      "title": "sdk-v0.135.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.135.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-15T19:42:46+00:00",
-      "body": "### Features\n\n* **api:** add between_tools to thinking types in model capabilities\n* **api:** add the speed parameter and usage.speed to Messages\n* **api:** return a Console organization's usage-tier spend cap as a read-only spend limit\n\n\n### Bug Fixes\n\n* **client:** close streams dropped without being read to the end\n* **client:** keep an unread JSONL response open while it is held\n\n\n### Chores\n\n* **ci:** speed up breaking change detection\n* **docs:** describe headers on Managed Agents and telemetry endpoints\n\n\n### Documentation\n\n* **api:** note that some models need a beta header to use speed",
-      "summary": "### Features * **api:** add between_tools to thinking types in model capabilities * **api:** add the speed parameter and usage.speed to Messages * **api:** return a Console organization's usage-tier spend cap as a read-only spend limit ### Bug Fixes * **client:** close streams dr\u2026",
-      "version": "sdk-v0.135.0",
-      "category": "api",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "f96454ed60123945"
-    },
-    {
-      "title": "v1.0.251",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.251",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-15T19:32:16+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.250...v1.0.251",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.250...v1.0.251",
-      "version": "1.0.251",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "10fe280b29425d96"
-    },
-    {
-      "title": "An update on independent evaluators",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "source": "anthropic-news",
-      "published": "2026-10-15T18:20:39.557345+00:00",
-      "body": "An update on independent evaluators",
-      "summary": "An update on independent evaluators",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "86090baa782068b5"
-    },
-    {
-      "title": "More on Anthropic's Scion ripping off Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
-      "source": "hackernews",
-      "published": "2026-10-15T17:05:19+00:00",
-      "body": "107 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=50106738",
-      "summary": "107 points, 22 comments. Discussion: https://news.ycombinator.com/item?id=50106738",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "ee4428f7cc2c4781"
     }
   ]
 }

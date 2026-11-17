@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 04:34:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 14:32:06 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Regulatory Capture by Anthropic Through METR</title>
+<link>https://nitter.cf/kevinnbass/status/2099621874279817638</link>
+<guid isPermaLink="false">frontierfeed:b685bce7cd294872</guid>
+<pubDate>Tue, 17 Nov 2026 12:21:57 +0000</pubDate>
+<category>note</category>
+<description>123 points, 56 comments. Discussion: https://news.ycombinator.com/item?id=50530450</description>
+</item>
+<item>
+<title>How the Claude Code team thinks about verification</title>
+<link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</link>
+<guid isPermaLink="false">frontierfeed:8c4dfeaa7974dc3c</guid>
+<pubDate>Tue, 17 Nov 2026 10:20:40 +0000</pubDate>
+<category>claude-code</category>
+<description>85 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50529612</description>
+</item>
+<item>
+<title>Claude Mythos slashed software work to onboard AMD GPUs to around three days</title>
+<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat</link>
+<guid isPermaLink="false">frontierfeed:fc12a1a6d9d9b167</guid>
+<pubDate>Tue, 17 Nov 2026 01:35:16 +0000</pubDate>
+<category>note</category>
+<description>49 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50526264</description>
+</item>
 <item>
 <title>v1.0.278</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.278</link>
@@ -64,12 +88,28 @@
 <description>### Features * **api:** add source and error codes to the RBAC Role read endpoints * **api:** add Update Bundle, which sets a Claude Tag Bundle&#x27;s instructions, and return instructions on Bundle ### Bug Fixes * **helpers:** keep $schema out of the transformed schema description *…</description>
 </item>
 <item>
+<title>Same Papers, Different Verdicts: Tracing Version Drift in LLM Peer Review</title>
+<link>https://arxiv.org/abs/2611.20608v1</link>
+<guid isPermaLink="false">frontierfeed:a91a677d5e7141e5</guid>
+<pubDate>Mon, 16 Nov 2026 06:32:42 +0000</pubDate>
+<category>research</category>
+<description>Venues and benchmarks read LLM review scores as measurements of a paper, while providers replace their models within months.</description>
+</item>
+<item>
 <title>Show HN: A terminal-native idle factory game, written in Rust with ratatui</title>
 <link>https://gitlab.com/snipedbywifi/terminactory</link>
 <guid isPermaLink="false">frontierfeed:b2d60dc5c842a354</guid>
 <pubDate>Sat, 14 Nov 2026 14:05:54 +0000</pubDate>
 <category>note</category>
 <description>99 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50497132</description>
+</item>
+<item>
+<title>Show HN: Zigzag, a native Mac browser for people leaving Arc</title>
+<link>https://github.com/ZigaoWang/zigzag</link>
+<guid isPermaLink="false">frontierfeed:4248006dec44e5e5</guid>
+<pubDate>Sat, 14 Nov 2026 13:17:10 +0000</pubDate>
+<category>note</category>
+<description>85 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50496787</description>
 </item>
 <item>
 <title>Anthropic upgrades Claude Code Projects to run parallel AI workers</title>
@@ -774,46 +814,6 @@
 <pubDate>Wed, 04 Nov 2026 20:25:11 +0000</pubDate>
 <category>api</category>
 <description>### Features * **api:** add error details types and new error type values * **api:** add ids filter to list workspaces * **client:** add error classes for HTTP statuses and API error codes, and apiMessage, errorCode and details on APIError ### Bug Fixes * **api:** capitalize CMEK…</description>
-</item>
-<item>
-<title>Launch HN: Kino AI (YC S23) – AI media manager and video editor</title>
-<link>https://news.ycombinator.com/item?id=50368804</link>
-<guid isPermaLink="false">frontierfeed:d77a4e6ed5eb36e9</guid>
-<pubDate>Wed, 04 Nov 2026 17:31:53 +0000</pubDate>
-<category>note</category>
-<description>52 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50368804</description>
-</item>
-<item>
-<title>Progress on provable inference for large language models</title>
-<link>https://www.anthropic.com/research/provable-inference</link>
-<guid isPermaLink="false">frontierfeed:f33d5c8f98f3255d</guid>
-<pubDate>Wed, 04 Nov 2026 17:17:46 +0000</pubDate>
-<category>note</category>
-<description>146 points, 74 comments. Discussion: https://news.ycombinator.com/item?id=50368626</description>
-</item>
-<item>
-<title>Ask HN: What&#x27;s your current AI agentic setup?</title>
-<link>https://news.ycombinator.com/item?id=50366117</link>
-<guid isPermaLink="false">frontierfeed:a1405471db8ed057</guid>
-<pubDate>Wed, 04 Nov 2026 14:37:22 +0000</pubDate>
-<category>note</category>
-<description>64 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=50366117</description>
-</item>
-<item>
-<title>v1.0.268</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.268</link>
-<guid isPermaLink="false">frontierfeed:80c203dc4b0201a5</guid>
-<pubDate>Wed, 04 Nov 2026 00:05:32 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.267...v1.0.268</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.318 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.318</link>
-<guid isPermaLink="false">frontierfeed:e1d6bb662c3fc6f4</guid>
-<pubDate>Tue, 03 Nov 2026 21:55:17 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.318 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

@@ -9,6 +9,45 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:b685bce7cd294872",
+      "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+      "title": "Regulatory Capture by Anthropic Through METR",
+      "summary": "123 points, 56 comments. Discussion: https://news.ycombinator.com/item?id=50530450",
+      "content_text": "123 points, 56 comments. Discussion: https://news.ycombinator.com/item?id=50530450",
+      "date_published": "2026-11-17T12:21:57+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:8c4dfeaa7974dc3c",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "title": "How the Claude Code team thinks about verification",
+      "summary": "85 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50529612",
+      "content_text": "85 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50529612",
+      "date_published": "2026-11-17T10:20:40+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:fc12a1a6d9d9b167",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+      "summary": "49 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50526264",
+      "content_text": "49 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50526264",
+      "date_published": "2026-11-17T01:35:16+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:e3ed5c263b6b5d6c",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.278",
       "title": "v1.0.278",
@@ -94,12 +133,40 @@
       ]
     },
     {
+      "id": "frontierfeed:a91a677d5e7141e5",
+      "url": "https://arxiv.org/abs/2611.20608v1",
+      "title": "Same Papers, Different Verdicts: Tracing Version Drift in LLM Peer Review",
+      "summary": "Venues and benchmarks read LLM review scores as measurements of a paper, while providers replace their models within months.",
+      "content_text": "Venues and benchmarks read LLM review scores as measurements of a paper, while providers replace their models within months.",
+      "date_published": "2026-11-16T06:32:42+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper",
+        "opus"
+      ]
+    },
+    {
       "id": "frontierfeed:b2d60dc5c842a354",
       "url": "https://gitlab.com/snipedbywifi/terminactory",
       "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
       "summary": "99 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50497132",
       "content_text": "99 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50497132",
       "date_published": "2026-11-14T14:05:54+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:4248006dec44e5e5",
+      "url": "https://github.com/ZigaoWang/zigzag",
+      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+      "summary": "85 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50496787",
+      "content_text": "85 points, 57 comments. Discussion: https://news.ycombinator.com/item?id=50496787",
+      "date_published": "2026-11-14T13:17:10+00:00",
       "tags": [
         "note",
         "info",
@@ -1325,73 +1392,6 @@
         "release",
         "anthropic-sdk-typescript",
         "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:d77a4e6ed5eb36e9",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "summary": "52 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50368804",
-      "content_text": "52 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50368804",
-      "date_published": "2026-11-04T17:31:53+00:00",
-      "tags": [
-        "note",
-        "feature",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:f33d5c8f98f3255d",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "title": "Progress on provable inference for large language models",
-      "summary": "146 points, 74 comments. Discussion: https://news.ycombinator.com/item?id=50368626",
-      "content_text": "146 points, 74 comments. Discussion: https://news.ycombinator.com/item?id=50368626",
-      "date_published": "2026-11-04T17:17:46+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:a1405471db8ed057",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "summary": "64 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=50366117",
-      "content_text": "64 points, 75 comments. Discussion: https://news.ycombinator.com/item?id=50366117",
-      "date_published": "2026-11-04T14:37:22+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:80c203dc4b0201a5",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.268",
-      "title": "v1.0.268",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.267...v1.0.268",
-      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.267...v1.0.268",
-      "date_published": "2026-11-04T00:05:32+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:e1d6bb662c3fc6f4",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.318",
-      "title": "@anthropic-ai/claude-code 2.1.318 published",
-      "summary": "Version 2.1.318 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.318 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-11-03T21:55:17.247000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
