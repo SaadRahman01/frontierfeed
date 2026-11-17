@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 14:32:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 22:56:29 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.279</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.279</link>
+<guid isPermaLink="false">frontierfeed:cccd2ab76b0ea677</guid>
+<pubDate>Tue, 17 Nov 2026 20:51:26 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Use the default branch&#x27;s config on pull requests from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2088 * Skip images when a description or comment has been edited by @mhegazy in https://gi…</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.327 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.327</link>
+<guid isPermaLink="false">frontierfeed:149f3c525b0e65b9</guid>
+<pubDate>Tue, 17 Nov 2026 20:33:19 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.327 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>How the Claude Code team thinks about verification</title>
 <link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</link>
@@ -582,22 +598,6 @@
 <pubDate>Fri, 16 Oct 2026 21:01:08 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.251...v1.0.252</description>
-</item>
-<item>
-<title>How the Claude Code team does code review</title>
-<link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
-<guid isPermaLink="false">frontierfeed:0beedb40f75c6d40</guid>
-<pubDate>Fri, 16 Oct 2026 17:28:59 +0000</pubDate>
-<category>claude-code</category>
-<description>How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.302 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.302</link>
-<guid isPermaLink="false">frontierfeed:9eb61591a411174a</guid>
-<pubDate>Fri, 16 Oct 2026 16:48:28 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.302 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

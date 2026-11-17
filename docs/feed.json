@@ -9,6 +9,91 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:a0708cd58cb60fa9",
+      "url": "https://claude.com/resources/articles/linked-billing-on-claude-platform",
+      "title": "Linked billing on the Claude Platform",
+      "summary": "Linked billing on the Claude Platform",
+      "content_text": "Linked billing on the Claude Platform",
+      "date_published": "2026-11-17T22:56:18.937413+00:00",
+      "tags": [
+        "pricing",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:cccd2ab76b0ea677",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.279",
+      "title": "v1.0.279",
+      "summary": "## What's Changed ### Other changes * Use the default branch's config on pull requests from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2088 * Skip images when a description or comment has been edited by @mhegazy in https://gi…",
+      "content_text": "## What's Changed ### Other changes * Use the default branch's config on pull requests from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2088 * Skip images when a description or comment has been edited by @mhegazy in https://gi…",
+      "date_published": "2026-11-17T20:51:26+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:149f3c525b0e65b9",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.327",
+      "title": "@anthropic-ai/claude-code 2.1.327 published",
+      "summary": "Version 2.1.327 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.327 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-11-17T20:33:19.976000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:2d9c8beb818be0d2",
+      "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
+      "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
+      "summary": "45 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=50536565",
+      "content_text": "45 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=50536565",
+      "date_published": "2026-11-17T19:08:45+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:8f4cd422574b63fc",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.10.0",
+      "title": "v2.10.0",
+      "summary": "### Features * **api:** add beta support for the billing_policy request parameter * **api:** add contract_spend_limit_reached error code to messages * **api:** add error codes for linked billing refusals * **api:** add the user_profile_billing_not_authorized error code * **api:**…",
+      "content_text": "### Features * **api:** add beta support for the billing_policy request parameter * **api:** add contract_spend_limit_reached error code to messages * **api:** add error codes for linked billing refusals * **api:** add the user_profile_billing_not_authorized error code * **api:**…",
+      "date_published": "2026-11-17T18:28:13+00:00",
+      "tags": [
+        "deprecation",
+        "breaking",
+        "release",
+        "anthropic-sdk-python",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:166b912d5d48b8bd",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.10.0",
+      "title": "sdk-v1.10.0",
+      "summary": "### Features * **api:** add beta support for the billing_policy request parameter * **api:** add contract_spend_limit_reached error code to messages * **api:** add error codes for linked billing refusals * **api:** add the user_profile_billing_not_authorized error code * **api:**…",
+      "content_text": "### Features * **api:** add beta support for the billing_policy request parameter * **api:** add contract_spend_limit_reached error code to messages * **api:** add error codes for linked billing refusals * **api:** add the user_profile_billing_not_authorized error code * **api:**…",
+      "date_published": "2026-11-17T18:28:05+00:00",
+      "tags": [
+        "deprecation",
+        "breaking",
+        "release",
+        "anthropic-sdk-typescript",
+        "skills"
+      ]
+    },
+    {
       "id": "frontierfeed:b685bce7cd294872",
       "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
       "title": "Regulatory Capture by Anthropic Through METR",
@@ -1306,92 +1391,6 @@
         "feature",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:aa2ddf9df8e1e7ee",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.3.0",
-      "title": "v2.3.0",
-      "summary": "## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `2.2.1` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `2.2.0` | npm | **published** | | `@modelcontextprotocol/server-mem…",
-      "content_text": "## Packages | Package | Version | Registry | In this release | | --- | --- | --- | --- | | `@modelcontextprotocol/server-everything` | `2.2.1` | npm | **published** | | `@modelcontextprotocol/server-filesystem` | `2.2.0` | npm | **published** | | `@modelcontextprotocol/server-mem…",
-      "date_published": "2026-11-04T21:28:41+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "servers",
-        "mcp"
-      ]
-    },
-    {
-      "id": "frontierfeed:9fb8d0dfa45a5851",
-      "url": "https://github.com/gauge-sh/gauge-cli",
-      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-      "summary": "40 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=50371090",
-      "content_text": "40 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=50371090",
-      "date_published": "2026-11-04T20:31:30+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:312743c20d875dde",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.5.0",
-      "title": "v2.5.0",
-      "summary": "### Features * **api:** add error details types and new error type values * **api:** add ids filter to list workspaces * **client:** add error classes for HTTP statuses and API error codes, and error_code, details and api_message on APIStatusError ### Bug Fixes * **api:** capital…",
-      "content_text": "### Features * **api:** add error details types and new error type values * **api:** add ids filter to list workspaces * **client:** add error classes for HTTP statuses and API error codes, and error_code, details and api_message on APIStatusError ### Bug Fixes * **api:** capital…",
-      "date_published": "2026-11-04T20:27:20+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-python",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:5d71cd34ffc6a9b2",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.3",
-      "title": "google-cloud-sdk-v1.1.3",
-      "summary": "### Bug Fixes * **google-cloud:** percent-encode the project, location and workspace ID in the derived base URL, and throw an `AnthropicError` for a value of `.` or `..`",
-      "content_text": "### Bug Fixes * **google-cloud:** percent-encode the project, location and workspace ID in the derived base URL, and throw an `AnthropicError` for a value of `.` or `..`",
-      "date_published": "2026-11-04T20:25:17+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:41cf4f1096c1bbc4",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.2",
-      "title": "vertex-sdk-v1.1.2",
-      "summary": "### Bug Fixes * **vertex:** percent-encode the project ID, region and model in the request path, so a `/` in the model can't move the request outside `/publishers/anthropic/models/`, and throw an `AnthropicError` for an empty `model` or a project ID or region of `.` or `..`",
-      "content_text": "### Bug Fixes * **vertex:** percent-encode the project ID, region and model in the request path, so a `/` in the model can't move the request outside `/publishers/anthropic/models/`, and throw an `AnthropicError` for an empty `model` or a project ID or region of `.` or `..`",
-      "date_published": "2026-11-04T20:25:14+00:00",
-      "tags": [
-        "api",
-        "fix",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:faa2877a1d27ef27",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.5.0",
-      "title": "sdk-v1.5.0",
-      "summary": "### Features * **api:** add error details types and new error type values * **api:** add ids filter to list workspaces * **client:** add error classes for HTTP statuses and API error codes, and apiMessage, errorCode and details on APIError ### Bug Fixes * **api:** capitalize CMEK…",
-      "content_text": "### Features * **api:** add error details types and new error type values * **api:** add ids filter to list workspaces * **client:** add error classes for HTTP statuses and API error codes, and apiMessage, errorCode and details on APIError ### Bug Fixes * **api:** capitalize CMEK…",
-      "date_published": "2026-11-04T20:25:11+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "skills"
       ]
     }
   ]

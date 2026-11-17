@@ -1,6 +1,103 @@
 {
   "items": [
     {
+      "title": "Linked billing on the Claude Platform",
+      "url": "https://claude.com/resources/articles/linked-billing-on-claude-platform",
+      "source": "claude-blog",
+      "published": "2026-11-17T22:56:18.937413+00:00",
+      "body": "Linked billing on the Claude Platform",
+      "summary": "Linked billing on the Claude Platform",
+      "version": "",
+      "category": "pricing",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "a0708cd58cb60fa9"
+    },
+    {
+      "title": "v1.0.279",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.279",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-17T20:51:26+00:00",
+      "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.279 -->\n\n## What's Changed\n### Other changes\n* Use the default branch's config on pull requests from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2088\n* Skip images when a description or comment has been edited by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2091\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.278...v1.0.279\n",
+      "summary": "## What's Changed ### Other changes * Use the default branch's config on pull requests from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2088 * Skip images when a description or comment has been edited by @mhegazy in https://gi\u2026",
+      "version": "1.0.279",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "cccd2ab76b0ea677"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.327 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.327",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-17T20:33:19.976000+00:00",
+      "body": "Version 2.1.327 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.327 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.327",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "149f3c525b0e65b9"
+    },
+    {
+      "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
+      "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
+      "source": "hackernews",
+      "published": "2026-11-17T19:08:45+00:00",
+      "body": "45 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=50536565",
+      "summary": "45 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=50536565",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "2d9c8beb818be0d2"
+    },
+    {
+      "title": "v2.10.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.10.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-11-17T18:28:13+00:00",
+      "body": "### Features\n\n* **api:** add beta support for the billing_policy request parameter\n* **api:** add contract_spend_limit_reached error code to messages\n* **api:** add error codes for linked billing refusals\n* **api:** add the user_profile_billing_not_authorized error code\n* **api:** add webhook events for external key failure and recovery\n\n\n### Bug Fixes\n\n* **client:** stop reporting failed aiohttp connections as timeouts\n* **types:** keep deprecated model aliases and the types nested under them working\n\n\n### Chores\n\n* **api:** rename error data models, deprecating the old names\n* **docs:** clarify which AWS KMS keys a workspace can use on Claude Platform on AWS\n* **docs:** clarify which credential work get, update and list accept\n* **docs:** clarify which uploads a plugin pin holds back\n* **docs:** note that a plugin scan's reason also covers errored scans\n\n  `content_scan.reason` on an errored scan now says why there is no verdict. It is not a security finding, so code that treats any `reason` as a concern should also check `status`.\n\n* **internal:** don't report moved classes as breaking changes\n\n\n### Documentation\n\n* name each SDK's own types in rename deprecations",
+      "summary": "### Features * **api:** add beta support for the billing_policy request parameter * **api:** add contract_spend_limit_reached error code to messages * **api:** add error codes for linked billing refusals * **api:** add the user_profile_billing_not_authorized error code * **api:**\u2026",
+      "version": "2.10.0",
+      "category": "deprecation",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "skills"
+      ],
+      "uid": "8f4cd422574b63fc"
+    },
+    {
+      "title": "sdk-v1.10.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.10.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-17T18:28:05+00:00",
+      "body": "### Features\n\n* **api:** add beta support for the billing_policy request parameter\n* **api:** add contract_spend_limit_reached error code to messages\n* **api:** add error codes for linked billing refusals\n* **api:** add the user_profile_billing_not_authorized error code\n* **api:** add webhook events for external key failure and recovery\n\n\n### Bug Fixes\n\n* **tools:** keep the session tool runner's maxIdleMs countdown running when a session thread terminates\n\n  If the runner fails to read the session's event history after a reconnect, a termination that then arrives on the event stream still cancels the countdown, until the next idle or successful read.\n\n* **tools:** stop EnvironmentWorker from running tools for a terminated session\n\n  For a terminated session, the worker now force-stops the work item right after it retrieves the session, before it downloads skills or memory stores. It no longer throws `SessionMemoryError` for such a session. The API reports an archived session as `terminated`.\n\n* **tools:** stop the session tool runner from running the tool calls of a terminated session thread\n\n  The runner also stops waiting for a confirmation of these calls and no longer yields them, including a denied call (`confirmation: 'deny'`) and a call to a tool that it does not own. A call that the runner starts before it reads the session thread's `session.thread_status_terminated` event still runs to the end, and the runner yields it with `posted: false` when the API refuses the result.\n\n\n### Chores\n\n* **api:** rename error data models, deprecating the old names\n* **docs:** clarify which AWS KMS keys a workspace can use on Claude Platform on AWS\n* **docs:** clarify which credential work get, update and list accept\n* **docs:** clarify which uploads a plugin pin holds back\n* **docs:** note that a plugin scan's reason also covers errored scans\n\n  `content_scan.reason` on an errored scan now says why there is no verdict. It is not a security finding, so code that treats any `reason` as a concern should also check `status`.",
+      "summary": "### Features * **api:** add beta support for the billing_policy request parameter * **api:** add contract_spend_limit_reached error code to messages * **api:** add error codes for linked billing refusals * **api:** add the user_profile_billing_not_authorized error code * **api:**\u2026",
+      "version": "sdk-v1.10.0",
+      "category": "deprecation",
+      "impact": "breaking",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "skills"
+      ],
+      "uid": "166b912d5d48b8bd"
+    },
+    {
       "title": "Regulatory Capture by Anthropic Through METR",
       "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
       "source": "hackernews",
@@ -4664,100 +4761,6 @@
         "community"
       ],
       "uid": "bae0c8571549ec69"
-    },
-    {
-      "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
-      "url": "https://news.ycombinator.com/item?id=50121562",
-      "source": "hackernews",
-      "published": "2026-10-16T17:31:42+00:00",
-      "body": "73 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50121562",
-      "summary": "73 points, 26 comments. Discussion: https://news.ycombinator.com/item?id=50121562",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "e596d6a26b34264b"
-    },
-    {
-      "title": "How an Anthropic Japan BDR runs his day with a fleet of Claude agents",
-      "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
-      "source": "claude-blog",
-      "published": "2026-10-16T17:28:59.554088+00:00",
-      "body": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
-      "summary": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "8af0989f92522a60"
-    },
-    {
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "source": "claude-blog",
-      "published": "2026-10-16T17:28:59.554038+00:00",
-      "body": "How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.",
-      "summary": "How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "0beedb40f75c6d40"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.302 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.302",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-16T16:48:28.057000+00:00",
-      "body": "Version 2.1.302 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.302 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.302",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "9eb61591a411174a"
-    },
-    {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "source": "hackernews",
-      "published": "2026-10-16T14:18:44+00:00",
-      "body": "85 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50118688",
-      "summary": "85 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50118688",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "65ed39adb6008041"
-    },
-    {
-      "title": "Code Review is now generally available",
-      "url": "https://claude.com/resources/articles/code-review-is-now-generally-available",
-      "source": "claude-blog",
-      "published": "2026-10-15T22:24:12.040126+00:00",
-      "body": "Catch more bugs before they reach production.",
-      "summary": "Catch more bugs before they reach production.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "9272483df81fefb4"
     }
   ]
 }

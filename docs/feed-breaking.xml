@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, breaking changes only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 14:32:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 22:56:29 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-breaking.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — breaking changes</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>[breaking] v2.10.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.10.0</link>
+<guid isPermaLink="false">frontierfeed:8f4cd422574b63fc</guid>
+<pubDate>Tue, 17 Nov 2026 18:28:13 +0000</pubDate>
+<category>deprecation</category>
+<description>### Features * **api:** add beta support for the billing_policy request parameter * **api:** add contract_spend_limit_reached error code to messages * **api:** add error codes for linked billing refusals * **api:** add the user_profile_billing_not_authorized error code * **api:**…</description>
+</item>
+<item>
+<title>[breaking] sdk-v1.10.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.10.0</link>
+<guid isPermaLink="false">frontierfeed:166b912d5d48b8bd</guid>
+<pubDate>Tue, 17 Nov 2026 18:28:05 +0000</pubDate>
+<category>deprecation</category>
+<description>### Features * **api:** add beta support for the billing_policy request parameter * **api:** add contract_spend_limit_reached error code to messages * **api:** add error codes for linked billing refusals * **api:** add the user_profile_billing_not_authorized error code * **api:**…</description>
+</item>
 <item>
 <title>[breaking] v2.9.0</title>
 <link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.9.0</link>
