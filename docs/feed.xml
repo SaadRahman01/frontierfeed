@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 22:56:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 04:28:57 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.280</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.280</link>
+<guid isPermaLink="false">frontierfeed:40a6c25439fc024c</guid>
+<pubDate>Tue, 17 Nov 2026 23:20:15 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.279...v1.0.280</description>
+</item>
 <item>
 <title>Linked billing on the Claude Platform</title>
 <link>https://claude.com/resources/articles/linked-billing-on-claude-platform</link>
@@ -46,6 +54,14 @@
 <pubDate>Tue, 17 Nov 2026 19:08:45 +0000</pubDate>
 <category>note</category>
 <description>45 points, 9 comments. Discussion: https://news.ycombinator.com/item?id=50536565</description>
+</item>
+<item>
+<title>Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos</title>
+<link>https://starsling.dev</link>
+<guid isPermaLink="false">frontierfeed:146247a71f9eb6bb</guid>
+<pubDate>Tue, 17 Nov 2026 19:01:43 +0000</pubDate>
+<category>note</category>
+<description>62 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50536468</description>
 </item>
 <item>
 <title>[breaking] v2.10.0</title>
@@ -86,6 +102,14 @@
 <pubDate>Tue, 17 Nov 2026 01:35:16 +0000</pubDate>
 <category>note</category>
 <description>49 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50526264</description>
+</item>
+<item>
+<title>SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory</title>
+<link>https://arxiv.org/abs/2611.22017v1</link>
+<guid isPermaLink="false">frontierfeed:8aca54bd6b2fe7c7</guid>
+<pubDate>Tue, 17 Nov 2026 00:12:40 +0000</pubDate>
+<category>research</category>
+<description>Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…</description>
 </item>
 <item>
 <title>v1.0.278</title>
@@ -790,30 +814,6 @@
 <pubDate>Thu, 05 Nov 2026 18:58:47 +0000</pubDate>
 <category>api</category>
 <description>### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **bedrock,vertex:** raise error-code and status exception classes on…</description>
-</item>
-<item>
-<title>More visibility and control over Claude Enterprise for security teams</title>
-<link>https://claude.com/resources/articles/claude-enterprise-security-updates</link>
-<guid isPermaLink="false">frontierfeed:7f969121c3bd5bf3</guid>
-<pubDate>Thu, 05 Nov 2026 18:47:52 +0000</pubDate>
-<category>note</category>
-<description>Claude Enterprise has new security and admin features, including a security center, generally available inference hooks, centralized management, and additional access controls.</description>
-</item>
-<item>
-<title>Introducing Personal Finance in Claude</title>
-<link>https://claude.com/resources/articles/introducing-personal-finance-in-claude</link>
-<guid isPermaLink="false">frontierfeed:8bb6e44c56c39a4d</guid>
-<pubDate>Thu, 05 Nov 2026 18:47:52 +0000</pubDate>
-<category>launch</category>
-<description>Ask Claude about your money and get straight answers from the accounts you connect.</description>
-</item>
-<item>
-<title>New agents and products for security, productivity, and creative work on Claude Marketplace</title>
-<link>https://claude.com/resources/articles/new-agents-and-products-claude-marketplace</link>
-<guid isPermaLink="false">frontierfeed:ee55211ffc7d32f3</guid>
-<pubDate>Wed, 04 Nov 2026 21:55:36 +0000</pubDate>
-<category>note</category>
-<description>New agents and products for security, productivity, and creative work on Claude Marketplace</description>
 </item>
 </channel>
 </rss>

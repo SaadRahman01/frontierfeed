@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-17T22:56:29.290826+00:00",
+  "generated": "2026-11-18T04:28:57.819216+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.280",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.280",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-17T23:20:15+00:00",
+      "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.280 -->\n\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.279...v1.0.280\n",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.279...v1.0.280",
+      "version": "1.0.280",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "40a6c25439fc024c"
+    },
     {
       "title": "Linked billing on the Claude Platform",
       "url": "https://claude.com/resources/articles/linked-billing-on-claude-platform",
@@ -66,6 +82,21 @@
         "community"
       ],
       "uid": "2d9c8beb818be0d2"
+    },
+    {
+      "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
+      "url": "https://starsling.dev",
+      "source": "hackernews",
+      "published": "2026-11-17T19:01:43+00:00",
+      "body": "62 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50536468",
+      "summary": "62 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50536468",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "146247a71f9eb6bb"
     },
     {
       "title": "v2.10.0",
@@ -145,6 +176,23 @@
         "community"
       ],
       "uid": "fc12a1a6d9d9b167"
+    },
+    {
+      "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
+      "url": "https://arxiv.org/abs/2611.22017v1",
+      "source": "arxiv",
+      "published": "2026-11-17T00:12:40+00:00",
+      "body": "Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the task and the agent starts from a blank slate. Neither holds in deployment, where an agent chooses from whatever library happens to be installed and frequently carries memory from earlier work. We present SkillBuffBench, a benchmark and paired evaluation protocol that treats Skill access as a three-level factor (no Skill, a curated Skill, and automatic invocation from an installed library), crosses it with memory (off and on), with four agent harnesses and with multiple models (the state-of-the-art proprietary models from Anthropic, Google and OpenAI, and the state-of-the-art open-weight models from Chinese providers), every model being run under every harness, and evaluates the result on research tasks contributed by domain experts together with the Skills they use, currently in materials science and biology, with the suite extended on a rolling basis. Every run is marked by a deterministic verifier; uncertainty is reported with a paired, task-level bootstrap; and cost, agent rounds and wall-clock time are reported alongside the score rather than folded into it. This version of the paper describes the design of the benchmark, its evaluation protocol and its current tasks and Skills. The evaluation is in progress: results will be added once the runs are complete, and the task suite, results and analysis will continue to be updated on a rolling basis.",
+      "summary": "Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the\u2026",
+      "version": "",
+      "category": "research",
+      "impact": "info",
+      "tags": [
+        "research",
+        "paper",
+        "skills"
+      ],
+      "uid": "8aca54bd6b2fe7c7"
     },
     {
       "title": "v1.0.278",
@@ -4720,51 +4768,6 @@
         "claude-code-action"
       ],
       "uid": "fbf0a1a58bf4b204"
-    },
-    {
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "source": "hackernews",
-      "published": "2026-10-16T18:55:59+00:00",
-      "body": "392 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50122800",
-      "summary": "392 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50122800",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "d82cbddfbf35a897"
-    },
-    {
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "source": "hackernews",
-      "published": "2026-10-16T18:11:42+00:00",
-      "body": "136 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50122112",
-      "summary": "136 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50122112",
-      "version": "",
-      "category": "pricing",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "1a336200e8fd910c"
-    },
-    {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "source": "hackernews",
-      "published": "2026-10-16T18:00:18+00:00",
-      "body": "60 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=50121939",
-      "summary": "60 points, 11 comments. Discussion: https://news.ycombinator.com/item?id=50121939",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "bae0c8571549ec69"
     }
   ]
 }

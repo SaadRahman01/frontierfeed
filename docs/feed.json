@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:40a6c25439fc024c",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.280",
+      "title": "v1.0.280",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.279...v1.0.280",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.279...v1.0.280",
+      "date_published": "2026-11-17T23:20:15+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
       "id": "frontierfeed:a0708cd58cb60fa9",
       "url": "https://claude.com/resources/articles/linked-billing-on-claude-platform",
       "title": "Linked billing on the Claude Platform",
@@ -60,6 +74,19 @@
       "tags": [
         "note",
         "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:146247a71f9eb6bb",
+      "url": "https://starsling.dev",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "summary": "62 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50536468",
+      "content_text": "62 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50536468",
+      "date_published": "2026-11-17T19:01:43+00:00",
+      "tags": [
+        "note",
+        "feature",
         "community"
       ]
     },
@@ -130,6 +157,21 @@
         "note",
         "info",
         "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:8aca54bd6b2fe7c7",
+      "url": "https://arxiv.org/abs/2611.22017v1",
+      "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
+      "summary": "Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…",
+      "content_text": "Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…",
+      "date_published": "2026-11-17T00:12:40+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper",
+        "skills"
       ]
     },
     {
@@ -1348,49 +1390,6 @@
         "feature",
         "release",
         "anthropic-sdk-python"
-      ]
-    },
-    {
-      "id": "frontierfeed:7f969121c3bd5bf3",
-      "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
-      "title": "More visibility and control over Claude Enterprise for security teams",
-      "summary": "Claude Enterprise has new security and admin features, including a security center, generally available inference hooks, centralized management, and additional access controls.",
-      "content_text": "Claude Enterprise has new security and admin features, including a security center, generally available inference hooks, centralized management, and additional access controls.",
-      "date_published": "2026-11-05T18:47:52.446424+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "frontierfeed:8bb6e44c56c39a4d",
-      "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
-      "title": "Introducing Personal Finance in Claude",
-      "summary": "Ask Claude about your money and get straight answers from the accounts you connect.",
-      "content_text": "Ask Claude about your money and get straight answers from the accounts you connect.",
-      "date_published": "2026-11-05T18:47:52.446352+00:00",
-      "tags": [
-        "launch",
-        "feature",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:ee55211ffc7d32f3",
-      "url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
-      "title": "New agents and products for security, productivity, and creative work on Claude Marketplace",
-      "summary": "New agents and products for security, productivity, and creative work on Claude Marketplace",
-      "content_text": "New agents and products for security, productivity, and creative work on Claude Marketplace",
-      "date_published": "2026-11-04T21:55:36.607039+00:00",
-      "tags": [
-        "note",
-        "feature",
-        "official",
-        "product"
       ]
     }
   ]
