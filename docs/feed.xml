@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 04:28:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 14:08:03 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v2.5.0</title>
+<link>https://github.com/modelcontextprotocol/servers/releases/tag/v2.5.0</link>
+<guid isPermaLink="false">frontierfeed:fc6194e042409206</guid>
+<pubDate>Wed, 18 Nov 2026 09:13:14 +0000</pubDate>
+<category>api</category>
+<description>## Security fixes v2.5.0 fixes eight vulnerabilities in three servers. Upgrade `mcp-server-git` to 2026.11.18, `@modelcontextprotocol/server-filesystem` to 2.4.0 and `@modelcontextprotocol/server-everything` to 2.3.1.</description>
+</item>
+<item>
+<title>v1.0.281</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.281</link>
+<guid isPermaLink="false">frontierfeed:454bb9aac6842e1e</guid>
+<pubDate>Wed, 18 Nov 2026 05:13:31 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Apply the session&#x27;s git settings to the action&#x27;s own commands by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2093 * Skip fork pull requests in claude.yml by @mhegazy in https://github.com/anthropics/claude-code-action/pu…</description>
+</item>
+<item>
+<title>Claude was trained on protein sequences at scale</title>
+<link>http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</link>
+<guid isPermaLink="false">frontierfeed:bfa51e80b4e651ff</guid>
+<pubDate>Wed, 18 Nov 2026 03:47:43 +0000</pubDate>
+<category>note</category>
+<description>107 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50541619</description>
+</item>
 <item>
 <title>v1.0.280</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.280</link>
@@ -62,6 +86,14 @@
 <pubDate>Tue, 17 Nov 2026 19:01:43 +0000</pubDate>
 <category>note</category>
 <description>62 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50536468</description>
+</item>
+<item>
+<title>Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos</title>
+<link>https://news.ycombinator.com/item?id=50536468</link>
+<guid isPermaLink="false">frontierfeed:5c072c0f0bc9865e</guid>
+<pubDate>Tue, 17 Nov 2026 19:01:43 +0000</pubDate>
+<category>note</category>
+<description>84 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=50536468</description>
 </item>
 <item>
 <title>[breaking] v2.10.0</title>
@@ -782,38 +814,6 @@
 <pubDate>Fri, 06 Nov 2026 00:31:11 +0000</pubDate>
 <category>note</category>
 <description>81 points, 93 comments. Discussion: https://news.ycombinator.com/item?id=50386597</description>
-</item>
-<item>
-<title>Claude Code sends your email address to websites</title>
-<link>https://github.com/anthropics/claude-code/issues/107757</link>
-<guid isPermaLink="false">frontierfeed:3cecccc92a729ca3</guid>
-<pubDate>Thu, 05 Nov 2026 22:17:15 +0000</pubDate>
-<category>claude-code</category>
-<description>340 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50385272</description>
-</item>
-<item>
-<title>Independent Assessment of AI R&amp;D Acceleration at Anthropic in October 2026</title>
-<link>https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/</link>
-<guid isPermaLink="false">frontierfeed:89a8510083fdc0ef</guid>
-<pubDate>Thu, 05 Nov 2026 20:16:19 +0000</pubDate>
-<category>note</category>
-<description>44 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50383902</description>
-</item>
-<item>
-<title>sdk-v1.6.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.6.0</link>
-<guid isPermaLink="false">frontierfeed:a5ad334108deaa12</guid>
-<pubDate>Thu, 05 Nov 2026 19:00:33 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **client:** set the name of each error to its class name * **client:…</description>
-</item>
-<item>
-<title>v2.6.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.6.0</link>
-<guid isPermaLink="false">frontierfeed:41f0d0eab971d074</guid>
-<pubDate>Thu, 05 Nov 2026 18:58:47 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **bedrock,vertex:** raise error-code and status exception classes on…</description>
 </item>
 </channel>
 </rss>

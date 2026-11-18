@@ -9,6 +9,48 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:fc6194e042409206",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.5.0",
+      "title": "v2.5.0",
+      "summary": "## Security fixes v2.5.0 fixes eight vulnerabilities in three servers. Upgrade `mcp-server-git` to 2026.11.18, `@modelcontextprotocol/server-filesystem` to 2.4.0 and `@modelcontextprotocol/server-everything` to 2.3.1.",
+      "content_text": "## Security fixes v2.5.0 fixes eight vulnerabilities in three servers. Upgrade `mcp-server-git` to 2026.11.18, `@modelcontextprotocol/server-filesystem` to 2.4.0 and `@modelcontextprotocol/server-everything` to 2.3.1.",
+      "date_published": "2026-11-18T09:13:14+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "servers",
+        "mcp"
+      ]
+    },
+    {
+      "id": "frontierfeed:454bb9aac6842e1e",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.281",
+      "title": "v1.0.281",
+      "summary": "## What's Changed ### Other changes * Apply the session's git settings to the action's own commands by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2093 * Skip fork pull requests in claude.yml by @mhegazy in https://github.com/anthropics/claude-code-action/pu…",
+      "content_text": "## What's Changed ### Other changes * Apply the session's git settings to the action's own commands by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2093 * Skip fork pull requests in claude.yml by @mhegazy in https://github.com/anthropics/claude-code-action/pu…",
+      "date_published": "2026-11-18T05:13:31+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:bfa51e80b4e651ff",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "title": "Claude was trained on protein sequences at scale",
+      "summary": "107 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50541619",
+      "content_text": "107 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50541619",
+      "date_published": "2026-11-18T03:47:43+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:40a6c25439fc024c",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.280",
       "title": "v1.0.280",
@@ -83,6 +125,19 @@
       "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
       "summary": "62 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50536468",
       "content_text": "62 points, 35 comments. Discussion: https://news.ycombinator.com/item?id=50536468",
+      "date_published": "2026-11-17T19:01:43+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:5c072c0f0bc9865e",
+      "url": "https://news.ycombinator.com/item?id=50536468",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "summary": "84 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=50536468",
+      "content_text": "84 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=50536468",
       "date_published": "2026-11-17T19:01:43+00:00",
       "tags": [
         "note",
@@ -1336,60 +1391,6 @@
         "note",
         "info",
         "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:3cecccc92a729ca3",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "title": "Claude Code sends your email address to websites",
-      "summary": "340 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50385272",
-      "content_text": "340 points, 102 comments. Discussion: https://news.ycombinator.com/item?id=50385272",
-      "date_published": "2026-11-05T22:17:15+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:89a8510083fdc0ef",
-      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
-      "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-      "summary": "44 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50383902",
-      "content_text": "44 points, 6 comments. Discussion: https://news.ycombinator.com/item?id=50383902",
-      "date_published": "2026-11-05T20:16:19+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:a5ad334108deaa12",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.6.0",
-      "title": "sdk-v1.6.0",
-      "summary": "### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **client:** set the name of each error to its class name * **client:…",
-      "content_text": "### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **client:** set the name of each error to its class name * **client:…",
-      "date_published": "2026-11-05T19:00:33+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:41f0d0eab971d074",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.6.0",
-      "title": "v2.6.0",
-      "summary": "### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **bedrock,vertex:** raise error-code and status exception classes on…",
-      "content_text": "### Features * **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere ### Bug Fixes * **bedrock,vertex:** raise error-code and status exception classes on…",
-      "date_published": "2026-11-05T18:58:47+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-python"
       ]
     }
   ]

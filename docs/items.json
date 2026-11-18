@@ -1,9 +1,57 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-18T04:28:57.819216+00:00",
+  "generated": "2026-11-18T14:08:04.003994+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v2.5.0",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.5.0",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2026-11-18T09:13:14+00:00",
+      "body": "## Security fixes\n\nv2.5.0 fixes eight vulnerabilities in three servers. Upgrade `mcp-server-git` to 2026.11.18,\n`@modelcontextprotocol/server-filesystem` to 2.4.0 and `@modelcontextprotocol/server-everything` to 2.3.1.\n\n| Package | Affected | Fixed in |\n| --- | --- | --- |\n| `mcp-server-git` | through 2026.11.11 | 2026.11.18 |\n| `@modelcontextprotocol/server-filesystem` | all versions before 2.4.0, and date versions 2025.1.14 through 2026.8.31 | 2.4.0 |\n| `@modelcontextprotocol/server-everything` | through 2.3.0 | 2.3.1 |\n\n### `mcp-server-git` 2026.11.18\n\n* **A merge no longer starts Git's automatic maintenance.** A successful `git_merge`, a fast-forward included, ended in `git maintenance run --auto`, whose garbage collection runs the commands a repository's own `gc.recentObjectsHook` names, with the server's privileges. `maintenance.auto` is now `false` and `gc.auto` is `0` for every Git command the server runs ([GHSA-h2g3-rwxm-xfm3](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-h2g3-rwxm-xfm3))\n* **Git never fetches a missing object by itself.** A repository's configuration could declare a promisor remote and name the program Git runs to fetch from it (`remote.<name>.uploadpack`, `core.sshCommand`), which a read-only tool then started when it needed an object that was not on disk. Lazy fetching is turned off (`GIT_NO_LAZY_FETCH=1`), and a Git too old to honor that refuses a repository that declares a promisor remote ([GHSA-87qg-cmw8-jc5m](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-87qg-cmw8-jc5m))\n* **Drivers are read again after a tool writes the working tree.** A repository's configuration can include a file that a merge or checkout creates, so a filter or merge driver could appear after the server had emptied the ones it found, and run during the `git merge --abort` that follows a conflict. `git_checkout`, `git_merge` and that abort now read the drivers again before any other Git command runs. **The `--repository` confinement check is not yet repeated after such a write** (#5599) ([GHSA-9vjp-x34c-xg6v](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-9vjp-x34c-xg6v))\n* **A filter or merge driver with an empty name is emptied too.** Git accepts `[filter \"\"]`, selected by `filter=` in `.gitattributes`, and the server's list of a repository's drivers missed it, so its command ran ([GHSA-pm7p-vphh-2cg7](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-pm7p-vphh-2cg7))\n* **Index entries that point outside the working tree are refused.** With `--repository`, a crafted `.git/index` naming a path such as `../outside/secret` made `git_diff_unstaged` and `git_diff` return that file's content, and `git_status` report whether it exists. The index is now checked from its top before any tool reads it, and the untracked cache, which can name a directory outside the working tree, is turned off ([GHSA-r2q8-f657-4r56](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-r2q8-f657-4r56))\n* **A submodule's own configuration no longer runs programs.** With `diff.submodule=diff` in the repository's configuration, `git_diff` ran a nested diff inside each changed submodule under the submodule's own `diff.external` and textconv drivers, and `git_checkout` and `git_add` ran Git inside a submodule under its own configuration too. `diff.submodule` is now `short`, the drivers a checked-out submodule defines are overridden, and a Git older than 2.33, which would not pass the overrides into a submodule, is refused for a repository that has one checked out ([GHSA-8wv7-r664-7594](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-8wv7-r664-7594))\n\n### `@modelcontextprotocol/server-filesystem` 2.4.0\n\n* **Directory listings stay with the directory that was checked** (Linux and macOS). `list_directory`, `list_directory_with_sizes`, `directory_tree` and `search_files` now list a directory in place after checking it, so a directory swapped for a symlink between the check and the listing can no longer return the names of entries outside the allowed directories. **On Windows a listing is not yet anchored** (#5600) ([GHSA-rq2p-q7c4-6g27](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-rq2p-q7c4-6g27))\n\n### `@modelcontextprotocol/server-everything` 2.3.1\n\n* **`gzip-file-as-resource` treats a NAT64 address as the IPv4 address it carries.** The tool's private-address guard read addresses in `64:ff9b::/96` as public, so on a network with a NAT64 gateway a URL could reach a private IPv4 address through one. The embedded IPv4 address is now checked ([GHSA-38j4-j742-j7r3](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-38j4-j742-j7r3))\n\n### Upgrading from a date-versioned npm release\n\nThe TypeScript servers moved from date versions (2025.x, 2026.x) to semantic versions in 1.0.0. Package managers rank 2.4.0 below every 2025.x and 2026.x version, so they won't offer it as an upgrade. If you are on a date version of `@modelcontextprotocol/server-filesystem`, install 2.4.0 explicitly: `npm install @modelcontextprotocol/server-filesystem@2.4.0`.\n\n## Packages\n\n| Package | Version | Registry | In this release |\n| --- | --- | --- | --- |\n| `@modelcontextprotocol/server-everything` | `2.3.1` | npm | **published** |\n| `@modelcontextprotocol/server-filesystem` | `2.4.0` | npm | **published** |\n| `@modelcontextprotocol/server-memory` | `2.2.1` | npm | **published** |\n| `@modelcontextprotocol/server-sequential-thinking` | `2.2.0` | npm | **published** |\n| `mcp-server-fetch` | `2026.11.18` | PyPI | **published** |\n| `mcp-server-git` | `2026.11.18` | PyPI | **published** |\n| `mcp-server-time` | `2026.11.18` | PyPI | **published** |\n\nRelease ledger: [v2/chore/5572-release-v2.5.0](https://claude.ai/artifact/6NfAyBwAhMkyWcmGW8ELg9)\n\n## @modelcontextprotocol/server-everything 2.3.1\n\n### What's Changed\n\n* docs(everything): state the whole-segment rule for get-env masking by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5532\n* fix(everything): GHSA-38j4-j742-j7r3 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5583\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5537\n* Release v2.5.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5592\n\n## @modelcontextprotocol/server-filesystem 2.4.0\n\n### What's Changed\n\n* Serve Streamable HTTP from every reference server by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5536\n* docs(filesystem): document the Windows parent-directory swap as a limit of the implementation by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5568\n* fix(filesystem): GHSA-rq2p-q7c4-6g27 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5584\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5537\n* Release v2.5.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5592\n\n## @modelcontextprotocol/server-memory 2.2.1\n\n### What's Changed\n\n* fix(memory): release held lock files on exit and SIGINT/SIGTERM by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5530\n* Serve Streamable HTTP from every reference server by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5536\n* feat(memory): opt-in write limits on graph size by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5534\n* fix(memory): never delete a successor's live lock when breaking a stale one by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5563\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5537\n* fix(memory): release held locks when the Streamable HTTP server stops by @cliffhall in https://github.com/modelcontextprotocol/se",
+      "summary": "## Security fixes v2.5.0 fixes eight vulnerabilities in three servers. Upgrade `mcp-server-git` to 2026.11.18, `@modelcontextprotocol/server-filesystem` to 2.4.0 and `@modelcontextprotocol/server-everything` to 2.3.1.",
+      "version": "2.5.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "fc6194e042409206"
+    },
+    {
+      "title": "v1.0.281",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.281",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-18T05:13:31+00:00",
+      "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.281 -->\n\n## What's Changed\n### Other changes\n* Apply the session's git settings to the action's own commands by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2093\n* Skip fork pull requests in claude.yml by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2092\n* Add an allow_fork_prs input to skip pull requests from forks by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2094\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.280...v1.0.281\n",
+      "summary": "## What's Changed ### Other changes * Apply the session's git settings to the action's own commands by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2093 * Skip fork pull requests in claude.yml by @mhegazy in https://github.com/anthropics/claude-code-action/pu\u2026",
+      "version": "1.0.281",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "454bb9aac6842e1e"
+    },
+    {
+      "title": "Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "source": "hackernews",
+      "published": "2026-11-18T03:47:43+00:00",
+      "body": "107 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50541619",
+      "summary": "107 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50541619",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "bfa51e80b4e651ff"
+    },
     {
       "title": "v1.0.280",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.280",
@@ -97,6 +145,21 @@
         "community"
       ],
       "uid": "146247a71f9eb6bb"
+    },
+    {
+      "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
+      "url": "https://news.ycombinator.com/item?id=50536468",
+      "source": "hackernews",
+      "published": "2026-11-17T19:01:43+00:00",
+      "body": "84 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=50536468",
+      "summary": "84 points, 40 comments. Discussion: https://news.ycombinator.com/item?id=50536468",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "5c072c0f0bc9865e"
     },
     {
       "title": "v2.10.0",
@@ -4705,69 +4768,6 @@
         "community"
       ],
       "uid": "7c9f07db18fda6d9"
-    },
-    {
-      "title": "How an Anthropic BDR in Japan runs his day with Claude Managed Agents",
-      "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
-      "source": "claude-blog",
-      "published": "2026-10-18T05:59:07.523352+00:00",
-      "body": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
-      "summary": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "68bce686739bff91"
-    },
-    {
-      "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-      "url": "https://tkgally.github.io/500-clocks/",
-      "source": "hackernews",
-      "published": "2026-10-18T04:04:58+00:00",
-      "body": "53 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50137820",
-      "summary": "53 points, 19 comments. Discussion: https://news.ycombinator.com/item?id=50137820",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community",
-        "opus"
-      ],
-      "uid": "5c98c7266e2917cb"
-    },
-    {
-      "title": "Show HN: Things to Do API",
-      "url": "https://thingstodoapi.com/",
-      "source": "hackernews",
-      "published": "2026-10-16T23:58:34+00:00",
-      "body": "41 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50126384",
-      "summary": "41 points, 24 comments. Discussion: https://news.ycombinator.com/item?id=50126384",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "fa9058c3a4a6585d"
-    },
-    {
-      "title": "v1.0.252",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.252",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-16T21:01:08+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.251...v1.0.252",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.251...v1.0.252",
-      "version": "1.0.252",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "fbf0a1a58bf4b204"
     }
   ]
 }
