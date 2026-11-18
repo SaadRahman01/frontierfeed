@@ -1,9 +1,101 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-18T14:08:04.003994+00:00",
+  "generated": "2026-11-18T22:01:51.831355+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Using a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests",
+      "url": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+      "source": "claude-blog",
+      "published": "2026-11-18T22:01:37.761057+00:00",
+      "body": "How Claude spent two weeks load testing a staging cluster, breaking the Claude Docs service on purpose and fixing what fell over before launch, and what made the service legible enough for Claude to close the loop.",
+      "summary": "How Claude spent two weeks load testing a staging cluster, breaking the Claude Docs service on purpose and fixing what fell over before launch, and what made the service legible enough for Claude to close the loop.",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "36ec4a8b14bc4f6d"
+    },
+    {
+      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "url": "https://news.ycombinator.com/item?id=50548660",
+      "source": "hackernews",
+      "published": "2026-11-18T16:53:42+00:00",
+      "body": "69 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50548660",
+      "summary": "69 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50548660",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d34f609259610be0"
+    },
+    {
+      "title": "v1.0.282",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.282",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-18T16:50:35+00:00",
+      "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.282 -->\n\n## What's Changed\n### Other changes\n* Send Bun commands in claude.yml to the safety review by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2096\n* Remove the unused prepare entrypoint by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2097\n* Keep prompt runs to the actor's own comments and the step's output files in place by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2098\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.281...v1.0.282\n",
+      "summary": "## What's Changed ### Other changes * Send Bun commands in claude.yml to the safety review by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2096 * Remove the unused prepare entrypoint by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2097 *\u2026",
+      "version": "1.0.282",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "6bfdb51715af1391"
+    },
+    {
+      "title": "\"Anthropic Is Not a Safe AI Company\" \u2013 Coalition Challenges Anthropic Safety",
+      "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+      "source": "hackernews",
+      "published": "2026-11-18T16:41:22+00:00",
+      "body": "121 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=50548485",
+      "summary": "121 points, 76 comments. Discussion: https://news.ycombinator.com/item?id=50548485",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "23619f8644ef1a42"
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "source": "hackernews",
+      "published": "2026-11-18T15:59:04+00:00",
+      "body": "40 points, 0 comments. Discussion: https://news.ycombinator.com/item?id=50547901",
+      "summary": "40 points, 0 comments. Discussion: https://news.ycombinator.com/item?id=50547901",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d4fa6c4a5f7f1504"
+    },
+    {
+      "title": "Jensen Huang's fall hits 'open' models in boost to Anthropic and OpenAI",
+      "url": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5",
+      "source": "hackernews",
+      "published": "2026-11-18T15:08:21+00:00",
+      "body": "40 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50547223",
+      "summary": "40 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50547223",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "03bf88aea70a1255"
+    },
     {
       "title": "v2.5.0",
       "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.5.0",
@@ -4675,99 +4767,6 @@
         "claude-code-action"
       ],
       "uid": "3ec7e24ac0a40783"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.303 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.303",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-18T21:15:23.178000+00:00",
-      "body": "Version 2.1.303 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.303 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.303",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "ae0828e31a4f3488"
-    },
-    {
-      "title": "Investing in the public benefit",
-      "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "source": "anthropic-news",
-      "published": "2026-10-18T20:49:51.471064+00:00",
-      "body": "Investing in the public benefit",
-      "summary": "Investing in the public benefit",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "2ebf6910c50c0e44"
-    },
-    {
-      "title": "Aligning Language Models with Indigenous Community Cosmovision through Constitutional AI",
-      "url": "https://arxiv.org/abs/2610.25298v1",
-      "source": "arxiv",
-      "published": "2026-10-18T14:31:59+00:00",
-      "body": "Large language models (LLMs) are predominantly trained on corpora that reflect Western, anglophone worldviews. This asymmetry is not neutral: when a model answers questions about territory, community authority, or the relationship with nature, it does so from assumptions that may be alien to the communities using the system. This paper presents a system for aligning language models with the ethical principles of Indigenous communities in Latin America. Drawing on interviews with five Indigenous leaders and defenders, we built an operational cultural constitution grounded in an Indigenous cosmovision, with 12 principles. On this basis, we implemented a Constitutional AI (CAI) pipeline in two phases: supervised fine-tuning (SFT) and direct preference optimization (DPO). The base models were Qwen2.5-7B-Instruct and Qwen2.5-1.5B-Instruct. With only 24 preference pairs, improvements were modest but detectable in intergenerational transmission, linguistic caution, and consultation and consent. Qualitative analysis reveals that the SFT phase was responsible for the primary shift in alignment, while DPO refined specific categories. The system was deployed in a conversational interface with retrieval-augmented generation (RAG) that allows communities to feed the knowledge base, turning alignment into a participatory cycle. We argue the architecture is functional and will scale qualitatively once the corpus is expanded and computing constraints are resolved. The work constitutes a first iteration of an epistemic justice mechanism for value alignment in the Global South.",
-      "summary": "Large language models (LLMs) are predominantly trained on corpora that reflect Western, anglophone worldviews.",
-      "version": "",
-      "category": "research",
-      "impact": "fix",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "ce98b02caf1de0ef"
-    },
-    {
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "source": "hackernews",
-      "published": "2026-10-18T14:30:27+00:00",
-      "body": "127 points, 144 comments. Discussion: https://news.ycombinator.com/item?id=50141429",
-      "summary": "127 points, 144 comments. Discussion: https://news.ycombinator.com/item?id=50141429",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "4b16c22ec9ea1317"
-    },
-    {
-      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-      "url": "https://legendofhyrule.com/",
-      "source": "hackernews",
-      "published": "2026-10-18T13:06:54+00:00",
-      "body": "92 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50140769",
-      "summary": "92 points, 42 comments. Discussion: https://news.ycombinator.com/item?id=50140769",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "3470ae1466a8c367"
-    },
-    {
-      "title": "How employment is changing at Anthropic",
-      "url": "https://www.anthropic.com/research/employment-at-anthropic",
-      "source": "hackernews",
-      "published": "2026-10-18T10:49:26+00:00",
-      "body": "82 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50139873",
-      "summary": "82 points, 160 comments. Discussion: https://news.ycombinator.com/item?id=50139873",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "7c9f07db18fda6d9"
     }
   ]
 }
