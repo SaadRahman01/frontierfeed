@@ -9,6 +9,91 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:fc0304fce21bacd9",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.11.0",
+      "title": "sdk-v1.11.0",
+      "summary": "### Features * **api:** add Claude Code managed settings to the Admin API * **api:** add the sandbox_egress_restricted error to Admin API plugin methods ### Performance Improvements * **client:** speed up streaming of large events ### Chores * **docs:** explain how the input-toke…",
+      "content_text": "### Features * **api:** add Claude Code managed settings to the Admin API * **api:** add the sandbox_egress_restricted error to Admin API plugin methods ### Performance Improvements * **client:** speed up streaming of large events ### Chores * **docs:** explain how the input-toke…",
+      "date_published": "2026-11-19T19:23:16+00:00",
+      "tags": [
+        "pricing",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript",
+        "enterprise",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:b34e4eef21003ef3",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.11.0",
+      "title": "v2.11.0",
+      "summary": "### Features * **api:** add Claude Code managed settings to the Admin API * **api:** add the sandbox_egress_restricted error to Admin API plugin methods ### Bug Fixes * **client:** encode spaces in query strings as %20 The AWS SigV4 signature of a request now matches its query st…",
+      "content_text": "### Features * **api:** add Claude Code managed settings to the Admin API * **api:** add the sandbox_egress_restricted error to Admin API plugin methods ### Bug Fixes * **client:** encode spaces in query strings as %20 The AWS SigV4 signature of a request now matches its query st…",
+      "date_published": "2026-11-19T19:14:21+00:00",
+      "tags": [
+        "pricing",
+        "feature",
+        "release",
+        "anthropic-sdk-python",
+        "enterprise",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:a98ce7ccab0f8114",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.329",
+      "title": "@anthropic-ai/claude-code 2.1.329 published",
+      "summary": "Version 2.1.329 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.329 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-11-19T18:40:25.219000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
+      "id": "frontierfeed:66909ed7802c0b1e",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "summary": "297 points, 126 comments. Discussion: https://news.ycombinator.com/item?id=50563148",
+      "content_text": "297 points, 126 comments. Discussion: https://news.ycombinator.com/item?id=50563148",
+      "date_published": "2026-11-19T17:30:44+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:fd4e8b45e04be068",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "summary": "695 points, 1246 comments. Discussion: https://news.ycombinator.com/item?id=50562754",
+      "content_text": "695 points, 1246 comments. Discussion: https://news.ycombinator.com/item?id=50562754",
+      "date_published": "2026-11-19T17:02:40+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:d4a1702dd635e21e",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "summary": "69 points, 61 comments. Discussion: https://news.ycombinator.com/item?id=50562320",
+      "content_text": "69 points, 61 comments. Discussion: https://news.ycombinator.com/item?id=50562320",
+      "date_published": "2026-11-19T16:34:04+00:00",
+      "tags": [
+        "note",
+        "feature",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:557766939d369f17",
       "url": "https://www.anthropic.com/news/2026-usage-policy-update",
       "title": "2026 Usage Policy update",
@@ -1314,88 +1399,6 @@
         "feature",
         "official",
         "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:e8d841d2949fceb6",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-      "title": "A year after the 100% AI mandate nobody understands our code",
-      "summary": "116 points, 144 comments. Discussion: https://news.ycombinator.com/item?id=50433079",
-      "content_text": "116 points, 144 comments. Discussion: https://news.ycombinator.com/item?id=50433079",
-      "date_published": "2026-11-09T22:19:12+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:cb26527cd7b74d6b",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-      "summary": "160 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50431144",
-      "content_text": "160 points, 90 comments. Discussion: https://news.ycombinator.com/item?id=50431144",
-      "date_published": "2026-11-09T20:04:55+00:00",
-      "tags": [
-        "model-release",
-        "feature",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:0f7d19beee14d06f",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.270",
-      "title": "v1.0.270",
-      "summary": "## What's Changed * release: push tags with the release deploy key (enables tag-ruleset enforcement) by @chrnorm in https://github.com/anthropics/claude-code-action/pull/1650 ## New Contributors * @chrnorm made their first contribution in https://github.com/anthropics/claude-code…",
-      "content_text": "## What's Changed * release: push tags with the release deploy key (enables tag-ruleset enforcement) by @chrnorm in https://github.com/anthropics/claude-code-action/pull/1650 ## New Contributors * @chrnorm made their first contribution in https://github.com/anthropics/claude-code…",
-      "date_published": "2026-11-09T19:25:00+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:ad25a351f6254127",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.321",
-      "title": "@anthropic-ai/claude-code 2.1.321 published",
-      "summary": "Version 2.1.321 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.321 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-11-09T19:02:47.641000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:129e9309870cb696",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "summary": "777 points, 455 comments. Discussion: https://news.ycombinator.com/item?id=50429906",
-      "content_text": "777 points, 455 comments. Discussion: https://news.ycombinator.com/item?id=50429906",
-      "date_published": "2026-11-09T18:56:29+00:00",
-      "tags": [
-        "model-release",
-        "feature",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:f259c136f6649edf",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.7.0",
-      "title": "sdk-v1.7.0",
-      "summary": "### Features * **api:** accept user_profile.program_status_updated on organization webhook endpoints * **api:** add claude-fable-5-2 and claude-mythos-5-2 * **api:** add parent organization filtering and grouping to the usage and cost reports * **api:** add the sandbox_egress_res…",
-      "content_text": "### Features * **api:** accept user_profile.program_status_updated on organization webhook endpoints * **api:** add claude-fable-5-2 and claude-mythos-5-2 * **api:** add parent organization filtering and grouping to the usage and cost reports * **api:** add the sandbox_egress_res…",
-      "date_published": "2026-11-09T18:52:24+00:00",
-      "tags": [
-        "pricing",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "enterprise"
       ]
     }
   ]

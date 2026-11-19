@@ -1,6 +1,103 @@
 {
   "items": [
     {
+      "title": "sdk-v1.11.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.11.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-19T19:23:16+00:00",
+      "body": "### Features\n\n* **api:** add Claude Code managed settings to the Admin API\n* **api:** add the sandbox_egress_restricted error to Admin API plugin methods\n\n\n### Performance Improvements\n\n* **client:** speed up streaming of large events\n\n\n### Chores\n\n* **docs:** explain how the input-token rate limit types differ\n* **docs:** name Claude Security in the usage and cost report descriptions\n* **docs:** note that a Google Cloud external key's provider and key_name can't be changed",
+      "summary": "### Features * **api:** add Claude Code managed settings to the Admin API * **api:** add the sandbox_egress_restricted error to Admin API plugin methods ### Performance Improvements * **client:** speed up streaming of large events ### Chores * **docs:** explain how the input-toke\u2026",
+      "version": "sdk-v1.11.0",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript",
+        "enterprise",
+        "skills"
+      ],
+      "uid": "fc0304fce21bacd9"
+    },
+    {
+      "title": "v2.11.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.11.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-11-19T19:14:21+00:00",
+      "body": "### Features\n\n* **api:** add Claude Code managed settings to the Admin API\n* **api:** add the sandbox_egress_restricted error to Admin API plugin methods\n\n\n### Bug Fixes\n\n* **client:** encode spaces in query strings as %20\n\n  The AWS SigV4 signature of a request now matches its query string when a parameter contains a space.\n\n\n### Performance Improvements\n\n* **structured outputs:** build each call's output schema from a cached raw schema\n\n\n### Chores\n\n* **docs:** explain how the input-token rate limit types differ\n* **docs:** name Claude Security in the usage and cost report descriptions\n* **docs:** note that a Google Cloud external key's provider and key_name can't be changed",
+      "summary": "### Features * **api:** add Claude Code managed settings to the Admin API * **api:** add the sandbox_egress_restricted error to Admin API plugin methods ### Bug Fixes * **client:** encode spaces in query strings as %20 The AWS SigV4 signature of a request now matches its query st\u2026",
+      "version": "2.11.0",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python",
+        "enterprise",
+        "skills"
+      ],
+      "uid": "b34e4eef21003ef3"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.329 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.329",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-19T18:40:25.219000+00:00",
+      "body": "Version 2.1.329 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.329 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.329",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "a98ce7ccab0f8114"
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "source": "hackernews",
+      "published": "2026-11-19T17:30:44+00:00",
+      "body": "297 points, 126 comments. Discussion: https://news.ycombinator.com/item?id=50563148",
+      "summary": "297 points, 126 comments. Discussion: https://news.ycombinator.com/item?id=50563148",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "66909ed7802c0b1e"
+    },
+    {
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "source": "hackernews",
+      "published": "2026-11-19T17:02:40+00:00",
+      "body": "695 points, 1246 comments. Discussion: https://news.ycombinator.com/item?id=50562754",
+      "summary": "695 points, 1246 comments. Discussion: https://news.ycombinator.com/item?id=50562754",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "fd4e8b45e04be068"
+    },
+    {
+      "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "source": "hackernews",
+      "published": "2026-11-19T16:34:04+00:00",
+      "body": "69 points, 61 comments. Discussion: https://news.ycombinator.com/item?id=50562320",
+      "summary": "69 points, 61 comments. Discussion: https://news.ycombinator.com/item?id=50562320",
+      "version": "",
+      "category": "note",
+      "impact": "feature",
+      "tags": [
+        "community"
+      ],
+      "uid": "d4a1702dd635e21e"
+    },
+    {
       "title": "2026 Usage Policy update",
       "url": "https://www.anthropic.com/news/2026-usage-policy-update",
       "source": "anthropic-news",
@@ -4675,98 +4772,6 @@
         "skills"
       ],
       "uid": "2257fb40f336b7dc"
-    },
-    {
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "source": "hackernews",
-      "published": "2026-10-20T17:48:29+00:00",
-      "body": "67 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=50170021",
-      "summary": "67 points, 34 comments. Discussion: https://news.ycombinator.com/item?id=50170021",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "a4e478ace43b746c"
-    },
-    {
-      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-      "url": "https://jevcards.com",
-      "source": "hackernews",
-      "published": "2026-10-20T15:11:56+00:00",
-      "body": "47 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=50167617",
-      "summary": "47 points, 25 comments. Discussion: https://news.ycombinator.com/item?id=50167617",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "e8938d0aebf71303"
-    },
-    {
-      "title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
-      "url": "https://news.ycombinator.com/item?id=50167583",
-      "source": "hackernews",
-      "published": "2026-10-20T15:09:29+00:00",
-      "body": "45 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50167583",
-      "summary": "45 points, 18 comments. Discussion: https://news.ycombinator.com/item?id=50167583",
-      "version": "",
-      "category": "note",
-      "impact": "feature",
-      "tags": [
-        "community",
-        "skills"
-      ],
-      "uid": "f61dcdbcccfa3bb0"
-    },
-    {
-      "title": "NixOS is making me less afraid",
-      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-      "source": "hackernews",
-      "published": "2026-10-20T12:43:05+00:00",
-      "body": "124 points, 82 comments. Discussion: https://news.ycombinator.com/item?id=50165484",
-      "summary": "124 points, 82 comments. Discussion: https://news.ycombinator.com/item?id=50165484",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "2f111908a58c6676"
-    },
-    {
-      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-      "url": "https://deathplanswitch.com/",
-      "source": "hackernews",
-      "published": "2026-10-20T04:37:43+00:00",
-      "body": "49 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50161408",
-      "summary": "49 points, 43 comments. Discussion: https://news.ycombinator.com/item?id=50161408",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "82850e338d233fb4"
-    },
-    {
-      "title": "v1.0.254",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.254",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-19T21:43:04+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.253...v1.0.254",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.253...v1.0.254",
-      "version": "1.0.254",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "e881737413bcf389"
     }
   ]
 }
