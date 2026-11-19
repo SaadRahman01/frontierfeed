@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 22:01:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 03:35:44 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,70 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>2026 Usage Policy update</title>
+<link>https://www.anthropic.com/news/2026-usage-policy-update</link>
+<guid isPermaLink="false">frontierfeed:557766939d369f17</guid>
+<pubDate>Thu, 19 Nov 2026 03:35:31 +0000</pubDate>
+<category>note</category>
+<description>We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.</description>
+</item>
+<item>
+<title>Preparing for the 2026 US midterms</title>
+<link>https://www.anthropic.com/news/2026-us-midterms</link>
+<guid isPermaLink="false">frontierfeed:804e2c5ac69d9884</guid>
+<pubDate>Thu, 19 Nov 2026 03:35:31 +0000</pubDate>
+<category>note</category>
+<description>Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.</description>
+</item>
+<item>
+<title>Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
+<link>https://www.anthropic.com/news/singapore-office-opening</link>
+<guid isPermaLink="false">frontierfeed:67a4d3c1b57d9cd3</guid>
+<pubDate>Thu, 19 Nov 2026 03:35:31 +0000</pubDate>
+<category>note</category>
+<description>Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.</description>
+</item>
+<item>
+<title>An update on independent evaluators</title>
+<link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+<guid isPermaLink="false">frontierfeed:86090baa782068b5</guid>
+<pubDate>Thu, 19 Nov 2026 03:35:31 +0000</pubDate>
+<category>note</category>
+<description>To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we&#x27;re in early discussions with several other organizations, including Hugging Face.</description>
+</item>
+<item>
+<title>Investing in the public benefit</title>
+<link>https://www.anthropic.com/news/public-benefit-fund</link>
+<guid isPermaLink="false">frontierfeed:2ebf6910c50c0e44</guid>
+<pubDate>Thu, 19 Nov 2026 03:35:31 +0000</pubDate>
+<category>note</category>
+<description>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</description>
+</item>
+<item>
+<title>Anthropic prices initial public offering</title>
+<link>https://www.anthropic.com/news/anthropic-prices-initial-public-offering</link>
+<guid isPermaLink="false">frontierfeed:93679581bf89124f</guid>
+<pubDate>Thu, 19 Nov 2026 03:35:31 +0000</pubDate>
+<category>note</category>
+<description>Anthropic prices initial public offering</description>
+</item>
+<item>
+<title>v1.0.283</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.283</link>
+<guid isPermaLink="false">frontierfeed:744b17da4b140563</guid>
+<pubDate>Thu, 19 Nov 2026 01:17:29 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.282...v1.0.283</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.328 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.328</link>
+<guid isPermaLink="false">frontierfeed:64cccaf746ccfcc7</guid>
+<pubDate>Wed, 18 Nov 2026 23:09:39 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.328 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Using a &quot;chaos loop&quot; to harden the Claude Docs launch: 60 server errors across billions of requests</title>
 <link>https://claude.dev/blog/chaos-loop-claude-docs-launch/</link>
@@ -750,70 +814,6 @@
 <pubDate>Mon, 09 Nov 2026 18:52:24 +0000</pubDate>
 <category>pricing</category>
 <description>### Features * **api:** accept user_profile.program_status_updated on organization webhook endpoints * **api:** add claude-fable-5-2 and claude-mythos-5-2 * **api:** add parent organization filtering and grouping to the usage and cost reports * **api:** add the sandbox_egress_res…</description>
-</item>
-<item>
-<title>v2.7.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.7.0</link>
-<guid isPermaLink="false">frontierfeed:9bccade0da065210</guid>
-<pubDate>Mon, 09 Nov 2026 18:52:17 +0000</pubDate>
-<category>pricing</category>
-<description>### Features * **api:** accept user_profile.program_status_updated on organization webhook endpoints * **api:** add claude-fable-5-2 and claude-mythos-5-2 * **api:** add parent organization filtering and grouping to the usage and cost reports * **api:** add the sandbox_egress_res…</description>
-</item>
-<item>
-<title>Magenta solar panels may be agrivoltaics&#x27; cleverest trick yet</title>
-<link>https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/</link>
-<guid isPermaLink="false">frontierfeed:40bc59d7edf5d193</guid>
-<pubDate>Mon, 09 Nov 2026 14:31:39 +0000</pubDate>
-<category>note</category>
-<description>231 points, 134 comments. Discussion: https://news.ycombinator.com/item?id=50426175</description>
-</item>
-<item>
-<title>Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics</title>
-<link>https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/</link>
-<guid isPermaLink="false">frontierfeed:fc7a957ed32f63a0</guid>
-<pubDate>Mon, 09 Nov 2026 14:31:39 +0000</pubDate>
-<category>note</category>
-<description>291 points, 190 comments. Discussion: https://news.ycombinator.com/item?id=50426175</description>
-</item>
-<item>
-<title>Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders</title>
-<link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
-<guid isPermaLink="false">frontierfeed:124cd61ef23de589</guid>
-<pubDate>Sun, 08 Nov 2026 18:16:07 +0000</pubDate>
-<category>claude-code</category>
-<description>60 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50415628</description>
-</item>
-<item>
-<title>Anthropic strikes $3.4B deal to generate gas-fired power for data centres</title>
-<link>https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0</link>
-<guid isPermaLink="false">frontierfeed:3684f88f860278e4</guid>
-<pubDate>Sun, 08 Nov 2026 12:41:25 +0000</pubDate>
-<category>note</category>
-<description>41 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=50412760</description>
-</item>
-<item>
-<title>Claude Code&#x27;s &quot;Don&#x27;t Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
-<link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
-<guid isPermaLink="false">frontierfeed:16384167bb2ba32a</guid>
-<pubDate>Sat, 07 Nov 2026 20:45:32 +0000</pubDate>
-<category>claude-code</category>
-<description>89 points, 70 comments. Discussion: https://news.ycombinator.com/item?id=50407882</description>
-</item>
-<item>
-<title>Ask HN: How do you manage your AI agents&#x27; context across clients and projects?</title>
-<link>https://news.ycombinator.com/item?id=50403153</link>
-<guid isPermaLink="false">frontierfeed:a3b0ddfc2f08aac1</guid>
-<pubDate>Sat, 07 Nov 2026 10:01:48 +0000</pubDate>
-<category>note</category>
-<description>68 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50403153</description>
-</item>
-<item>
-<title>The components of agent memory</title>
-<link>https://www.anthropic.com/research/components-of-agent-memory</link>
-<guid isPermaLink="false">frontierfeed:262deb3960cb90ba</guid>
-<pubDate>Sat, 07 Nov 2026 01:58:29 +0000</pubDate>
-<category>note</category>
-<description>For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.</description>
 </item>
 </channel>
 </rss>

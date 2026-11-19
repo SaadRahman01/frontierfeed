@@ -2,52 +2,52 @@
   "http://export.arxiv.org/api/query?search_query=all%3A%22Anthropic%22+AND+cat%3Acs.CL&sortBy=submittedDate&sortOrder=descending&max_results=10": {
     "etag": null,
     "last_modified": null,
-    "seen": 1795039308.554421
+    "seen": 1795059341.0635953
   },
   "http://export.arxiv.org/api/query?search_query=all%3A%22constitutional+AI%22&sortBy=submittedDate&sortOrder=descending&max_results=10": {
     "etag": null,
     "last_modified": null,
-    "seen": 1795039311.8051972
+    "seen": 1795059344.298956
   },
   "https://api.github.com/repos/anthropics/anthropic-sdk-python/releases?per_page=10": {
-    "etag": "W/\"7b2c8387fbfae31790a368fed2c2529d0f838148ceb852449bf0f153ce5d4d01\"",
+    "etag": "W/\"5a35447ec94885fe7ff8f3d0a96f38d3e66836fe0b2db22ed5ac8ca3087b0a65\"",
     "last_modified": null,
-    "seen": 1795039289.4287398
+    "seen": 1795059325.6018934
   },
   "https://api.github.com/repos/anthropics/anthropic-sdk-typescript/releases?per_page=10": {
-    "etag": "W/\"c643ea06da188409d0ffb9013ca7d12d7f4cfad4f50e0d78f913fc8ed0bc86bd\"",
+    "etag": "W/\"a578694cd082728e45b72939bf16b48fefca2c8b10d6056b337fb45f25f0bb65\"",
     "last_modified": null,
-    "seen": 1795039290.7196038
+    "seen": 1795059326.9053035
   },
   "https://api.github.com/repos/anthropics/claude-code-action/releases?per_page=10": {
-    "etag": "W/\"7196d07f2d983db02147f831e8f4c88b5186dab0e20d86e08f133494cd7527e3\"",
+    "etag": "W/\"cccfb0667ea6434cf30d74684756ae716f66d7ac69b22a31a7d1a89f0432b610\"",
     "last_modified": null,
-    "seen": 1795039291.97849
+    "seen": 1795059328.1857579
   },
   "https://api.github.com/repos/modelcontextprotocol/servers/releases?per_page=10": {
-    "etag": "W/\"ece5bc0df06493e8743f4e2dce8ee4565a53e9c3ca40ca5fc85169e9cf5e98ae\"",
+    "etag": "W/\"c21d6be88f36c99bdc6899faa6963d2142a2933be2b796a0d5bd3148d5ef53b5\"",
     "last_modified": null,
-    "seen": 1795039293.3760097
+    "seen": 1795059329.4333906
   },
   "https://docs.claude.com/en/release-notes/claude-code.rss": {
     "etag": null,
     "last_modified": null,
-    "seen": 1795039294.617517
+    "seen": 1795059330.6411402
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Anthropic&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1795039301.0101557
+    "seen": 1795059334.9693232
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Claude+Code&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1795039303.559158
+    "seen": 1795059336.3486164
   },
   "https://hn.algolia.com/api/v1/search_by_date?query=Claude+Opus&tags=story&numericFilters=points%3E%3D40&hitsPerPage=20": {
     "etag": null,
     "last_modified": null,
-    "seen": 1795039305.1951582
+    "seen": 1795059337.7073417
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml": {
     "etag": "W/\"9141798abd39a70b177c478d6bf76996b9c2a457bb11e126ac9fe102504f1a63\"",
@@ -55,9 +55,9 @@
     "seen": 1794613076.9939764
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml": {
-    "etag": "W/\"992189d734a5b9aacb27991db77773248ec0b286b2b8b5a1851111dc2ff3cc21\"",
+    "etag": "W/\"0e13dbf1c60799cf91ccd2abca019cf51c425de4cfcd6966b42ed1dc553cd9e8\"",
     "last_modified": null,
-    "seen": 1794317490.6795902
+    "seen": 1795059331.6672676
   },
   "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml": {
     "etag": "W/\"e6cde611c3de980023352a9a80189ff20a76b75750a0169f3c917556a279ff0a\"",
@@ -65,8 +65,8 @@
     "seen": 1795039297.6782305
   },
   "https://registry.npmjs.org/@anthropic-ai%2Fclaude-code": {
-    "etag": "W/\"7057b8531f0222bc8ab28555191d7bfc\"",
-    "last_modified": "Tue, 17 Nov 2026 23:16:20 GMT",
-    "seen": 1794976117.1626766
+    "etag": "W/\"8fc37d73aec5b954e0621a35b8ca3da3\"",
+    "last_modified": "Thu, 19 Nov 2026 01:13:22 GMT",
+    "seen": 1795059324.2301013
   }
 }

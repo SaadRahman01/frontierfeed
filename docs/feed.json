@@ -9,6 +9,118 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:557766939d369f17",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "title": "2026 Usage Policy update",
+      "summary": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+      "content_text": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+      "date_published": "2026-11-19T03:35:31.720819+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:804e2c5ac69d9884",
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "title": "Preparing for the 2026 US midterms",
+      "summary": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
+      "content_text": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
+      "date_published": "2026-11-19T03:35:31.720773+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:67a4d3c1b57d9cd3",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "summary": "Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.",
+      "content_text": "Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.",
+      "date_published": "2026-11-19T03:35:31.720761+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:86090baa782068b5",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "title": "An update on independent evaluators",
+      "summary": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.",
+      "content_text": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.",
+      "date_published": "2026-11-19T03:35:31.720749+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:2ebf6910c50c0e44",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "title": "Investing in the public benefit",
+      "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+      "content_text": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+      "date_published": "2026-11-19T03:35:31.720736+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:93679581bf89124f",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "title": "Anthropic prices initial public offering",
+      "summary": "Anthropic prices initial public offering",
+      "content_text": "Anthropic prices initial public offering",
+      "date_published": "2026-11-19T03:35:31.720574+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "news"
+      ]
+    },
+    {
+      "id": "frontierfeed:744b17da4b140563",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.283",
+      "title": "v1.0.283",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.282...v1.0.283",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.282...v1.0.283",
+      "date_published": "2026-11-19T01:17:29+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:64cccaf746ccfcc7",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.328",
+      "title": "@anthropic-ai/claude-code 2.1.328 published",
+      "summary": "Version 2.1.328 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.328 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-11-18T23:09:39.159000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:36ec4a8b14bc4f6d",
       "url": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
       "title": "Using a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests",
@@ -1284,113 +1396,6 @@
         "release",
         "anthropic-sdk-typescript",
         "enterprise"
-      ]
-    },
-    {
-      "id": "frontierfeed:9bccade0da065210",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.7.0",
-      "title": "v2.7.0",
-      "summary": "### Features * **api:** accept user_profile.program_status_updated on organization webhook endpoints * **api:** add claude-fable-5-2 and claude-mythos-5-2 * **api:** add parent organization filtering and grouping to the usage and cost reports * **api:** add the sandbox_egress_res…",
-      "content_text": "### Features * **api:** accept user_profile.program_status_updated on organization webhook endpoints * **api:** add claude-fable-5-2 and claude-mythos-5-2 * **api:** add parent organization filtering and grouping to the usage and cost reports * **api:** add the sandbox_egress_res…",
-      "date_published": "2026-11-09T18:52:17+00:00",
-      "tags": [
-        "pricing",
-        "feature",
-        "release",
-        "anthropic-sdk-python",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "frontierfeed:40bc59d7edf5d193",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-      "summary": "231 points, 134 comments. Discussion: https://news.ycombinator.com/item?id=50426175",
-      "content_text": "231 points, 134 comments. Discussion: https://news.ycombinator.com/item?id=50426175",
-      "date_published": "2026-11-09T14:31:39+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:fc7a957ed32f63a0",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "summary": "291 points, 190 comments. Discussion: https://news.ycombinator.com/item?id=50426175",
-      "content_text": "291 points, 190 comments. Discussion: https://news.ycombinator.com/item?id=50426175",
-      "date_published": "2026-11-09T14:31:39+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:124cd61ef23de589",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-      "summary": "60 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50415628",
-      "content_text": "60 points, 10 comments. Discussion: https://news.ycombinator.com/item?id=50415628",
-      "date_published": "2026-11-08T18:16:07+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:3684f88f860278e4",
-      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
-      "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
-      "summary": "41 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=50412760",
-      "content_text": "41 points, 29 comments. Discussion: https://news.ycombinator.com/item?id=50412760",
-      "date_published": "2026-11-08T12:41:25+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:16384167bb2ba32a",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "summary": "89 points, 70 comments. Discussion: https://news.ycombinator.com/item?id=50407882",
-      "content_text": "89 points, 70 comments. Discussion: https://news.ycombinator.com/item?id=50407882",
-      "date_published": "2026-11-07T20:45:32+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:a3b0ddfc2f08aac1",
-      "url": "https://news.ycombinator.com/item?id=50403153",
-      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
-      "summary": "68 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50403153",
-      "content_text": "68 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50403153",
-      "date_published": "2026-11-07T10:01:48+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:262deb3960cb90ba",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "title": "The components of agent memory",
-      "summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
-      "content_text": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
-      "date_published": "2026-11-07T01:58:29.925470+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "engineering"
       ]
     }
   ]

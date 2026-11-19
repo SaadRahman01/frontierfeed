@@ -1,9 +1,137 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-18T22:01:51.831355+00:00",
+  "generated": "2026-11-19T03:35:44.319197+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "2026 Usage Policy update",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "source": "anthropic-news",
+      "published": "2026-11-19T03:35:31.720819+00:00",
+      "body": "We\u2019re publishing a new version of our Usage Policy. In this post, we summarize the changes we\u2019ve made.",
+      "summary": "We\u2019re publishing a new version of our Usage Policy. In this post, we summarize the changes we\u2019ve made.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "557766939d369f17"
+    },
+    {
+      "title": "Preparing for the 2026 US midterms",
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "source": "anthropic-news",
+      "published": "2026-11-19T03:35:31.720773+00:00",
+      "body": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we\u2019ve continued to strengthen these safeguards ahead of this year\u2019s US midterms.",
+      "summary": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we\u2019ve continued to strengthen these safeguards ahead of this year\u2019s US midterms.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "804e2c5ac69d9884"
+    },
+    {
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "source": "anthropic-news",
+      "published": "2026-11-19T03:35:31.720761+00:00",
+      "body": "Anthropic has opened an office in Singapore and signed an MOU with the country\u2019s government to advance safe, responsible AI adoption.",
+      "summary": "Anthropic has opened an office in Singapore and signed an MOU with the country\u2019s government to advance safe, responsible AI adoption.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "67a4d3c1b57d9cd3"
+    },
+    {
+      "title": "An update on independent evaluators",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "source": "anthropic-news",
+      "published": "2026-11-19T03:35:31.720749+00:00",
+      "body": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.",
+      "summary": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "86090baa782068b5"
+    },
+    {
+      "title": "Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "source": "anthropic-news",
+      "published": "2026-11-19T03:35:31.720736+00:00",
+      "body": "We\u2019re committing a portion of Anthropic\u2019s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+      "summary": "We\u2019re committing a portion of Anthropic\u2019s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "2ebf6910c50c0e44"
+    },
+    {
+      "title": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "source": "anthropic-news",
+      "published": "2026-11-19T03:35:31.720574+00:00",
+      "body": "Anthropic prices initial public offering",
+      "summary": "Anthropic prices initial public offering",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "93679581bf89124f"
+    },
+    {
+      "title": "v1.0.283",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.283",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-19T01:17:29+00:00",
+      "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.283 -->\n\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.282...v1.0.283\n",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.282...v1.0.283",
+      "version": "1.0.283",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "744b17da4b140563"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.328 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.328",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-18T23:09:39.159000+00:00",
+      "body": "Version 2.1.328 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.328 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.328",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "64cccaf746ccfcc7"
+    },
     {
       "title": "Using a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests",
       "url": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
@@ -4643,130 +4771,6 @@
         "claude-code-action"
       ],
       "uid": "e881737413bcf389"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.304 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.304",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-19T19:47:15.337000+00:00",
-      "body": "Version 2.1.304 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.304 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.304",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "0e08daf9e2324963"
-    },
-    {
-      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-      "url": "https://github.com/kividbio/kividb",
-      "source": "hackernews",
-      "published": "2026-10-19T13:53:52+00:00",
-      "body": "47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541",
-      "summary": "47 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50152541",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "213eb54163025543"
-    },
-    {
-      "title": "Maxwell: A new kind of model that sits between code and hardware",
-      "url": "https://heymaxwell.ai/",
-      "source": "hackernews",
-      "published": "2026-10-19T13:47:56+00:00",
-      "body": "43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50152466",
-      "summary": "43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50152466",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "bac9729631cd0699"
-    },
-    {
-      "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-      "url": "https://3anddoneapp.com/try",
-      "source": "hackernews",
-      "published": "2026-10-19T13:07:07+00:00",
-      "body": "43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980",
-      "summary": "43 points, 38 comments. Discussion: https://news.ycombinator.com/item?id=50151980",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "ba96fe69d41527f4"
-    },
-    {
-      "title": "The obscure trust looming over Anthropic's IPO",
-      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
-      "source": "hackernews",
-      "published": "2026-10-19T12:06:03+00:00",
-      "body": "122 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=50151376",
-      "summary": "122 points, 86 comments. Discussion: https://news.ycombinator.com/item?id=50151376",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "4e2b02e152135efc"
-    },
-    {
-      "title": "v2.0.0",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.0.0",
-      "source": "github:modelcontextprotocol/servers",
-      "published": "2026-10-19T06:46:48+00:00",
-      "body": "## Servers refactored to modern era\r\nThis release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected.\r\n\r\n## Packages\r\n\r\n| Package | Version | Registry | In this release |\r\n| --- | --- | --- | --- |\r\n| `@modelcontextprotocol/server-everything` | `2.0.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-filesystem` | `2.0.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-memory` | `2.0.0` | npm | **published** |\r\n| `@modelcontextprotocol/server-sequential-thinking` | `2.0.0` | npm | **published** |\r\n| `mcp-server-fetch` | `2026.10.19` | PyPI | **published** |\r\n| `mcp-server-git` | `2026.10.19` | PyPI | **published** |\r\n| `mcp-server-time` | `2026.10.19` | PyPI | **published** |\r\n\r\nRelease ledger: [v2/chore/5159-release-v2.0.0](https://claude.ai/artifact/G5uY8rqMeKgbr5xmpzSCfi)\r\n\r\n## @modelcontextprotocol/server-everything 2.0.0\r\n\r\n### What's Changed\r\n\r\n* chore: migrate the TypeScript servers to TS SDK v2 (codemod) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5063\r\n* chore: v1.0.0 release audit, dependency fixes by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5082\r\n* chore: fold pending changesets into a 1.0.0 CHANGELOG for each TypeScript server by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5083\r\n* Reconcile v2/main with the v1.0.0 release branch: changesets, changelogs, merge of v2/release/1.0.0 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5118\r\n* feat: modern-era TypeScript servers (2026-07-28 + 2025) and the new features in everything by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5131\r\n* ci: validate the TypeScript servers on Node 22, 24 and 26 in parallel by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5147\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5100\r\n* fix: raise the TypeScript servers' Node floor to 24 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5169\r\n* Release v2.0.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5166\r\n\r\n## @modelcontextprotocol/server-filesystem 2.0.0\r\n\r\n### What's Changed\r\n\r\n* chore: migrate the TypeScript servers to TS SDK v2 (codemod) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5063\r\n* chore: v1.0.0 release audit, dependency fixes by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5082\r\n* chore: fold pending changesets into a 1.0.0 CHANGELOG for each TypeScript server by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5083\r\n* fix(filesystem): revoke access when a roots update leaves no valid root by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5095\r\n* fix(filesystem): apply only the newest roots refresh's answer by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5098\r\n* fix(filesystem): hold tool calls while any roots refresh is pending by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5102\r\n* Reconcile v2/main with the v1.0.0 release branch: changesets, changelogs, merge of v2/release/1.0.0 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5118\r\n* feat: modern-era TypeScript servers (2026-07-28 + 2025) and the new features in everything by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5131\r\n* ci: validate the TypeScript servers on Node 22, 24 and 26 in parallel by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5147\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5100\r\n* fix: raise the TypeScript servers' Node floor to 24 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5169\r\n* Release v2.0.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5166\r\n\r\n## @modelcontextprotocol/server-memory 2.0.0\r\n\r\n### What's Changed\r\n\r\n* chore: migrate the TypeScript servers to TS SDK v2 (codemod) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5063\r\n* memory: expect Node 26's path-suffixed EISDIR message in persistence test by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5078\r\n* chore: v1.0.0 release audit, dependency fixes by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5082\r\n* chore: fold pending changesets into a 1.0.0 CHANGELOG for each TypeScript server by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5083\r\n* Reconcile v2/main with the v1.0.0 release branch: changesets, changelogs, merge of v2/release/1.0.0 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5118\r\n* feat: modern-era TypeScript servers (2026-07-28 + 2025) and the new features in everything by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5131\r\n* ci: validate the TypeScript servers on Node 22, 24 and 26 in parallel by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5147\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5100\r\n* fix: raise the TypeScript servers' Node floor to 24 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5169\r\n* Release v2.0.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5166\r\n\r\n## @modelcontextprotocol/server-sequential-thinking 2.0.0\r\n\r\n### What's Changed\r\n\r\n* chore: migrate the TypeScript servers to TS SDK v2 (codemod) by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5063\r\n* chore: v1.0.0 release audit, dependency fixes by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5082\r\n* chore: fold pending changesets into a 1.0.0 CHANGELOG for each TypeScript server by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5083\r\n* Reconcile v2/main with the v1.0.0 release branch: changesets, changelogs, merge of v2/release/1.0.0 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5118\r\n* feat: modern-era TypeScript servers (2026-07-28 + 2025) and the new features in everything by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5131\r\n* fix(sequentialthinking): pad the thought box's header row to the border by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5144\r\n* ci: validate the TypeScript servers on Node 22, 24 and 26 in parallel by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5147\r\n* chore: version packages by @github-actions[bot] in https://github.com/modelcontextprotocol/servers/pull/5100\r\n* fix: raise the TypeScript servers' Node floor to 24 by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5169\r\n* Release v2.0.0: merge v2/main into main by @cliffhall in https://github.com/modelcontextprotocol/servers/pull/5166\r\n\r\n## Python servers: changes for clients\r\n\r\n`mcp-server-fetch`, `mcp-server-git` and `mcp-server-time` have no CHANGELOG, so here is what changes for a client in `2026.10.19`. They are now built on the MCP Python SDK's high-level `MCPServer` ([#5175](https://github.com/modelcontextprotocol/servers/pull/5175)).\r\n\r\n- **Unknown tool:** a JSON-RPC `-32602` error (`Unknown tool: <name>`) in both protocol eras, as the spec requires. It used to be an `isError` result.\r\n- **Tool errors** read `Error executing tool <name>: <message>`. Argument-validation errors now use pydantic's wording. Both are still `isError` results.\r\n- **Capabilities:** each server now advertises `prompts` and `resources` capabilities (with `listChanged: false`). fetch's `fetch` prompt is the only entry in those lists.\r\n- **time:** `get_current_time` and `convert_time` declare an `outputSchema` and return `structuredContent`. The text content is unchanged.\r\n- **fetch:** a `prompts/get` result's `descrip",
-      "summary": "## Servers refactored to modern era This release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected.",
-      "version": "2.0.0",
-      "category": "api",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "servers",
-        "mcp"
-      ],
-      "uid": "2d9198ed2c99acc6"
-    },
-    {
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "source": "hackernews",
-      "published": "2026-10-19T05:55:31+00:00",
-      "body": "130 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=50148855",
-      "summary": "130 points, 91 comments. Discussion: https://news.ycombinator.com/item?id=50148855",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "3d0ba3951fa1455c"
-    },
-    {
-      "title": "v1.0.253",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.253",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-18T22:35:48+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.252...v1.0.253",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.252...v1.0.253",
-      "version": "1.0.253",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "3ec7e24ac0a40783"
     }
   ]
 }
