@@ -1,9 +1,25 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-19T22:12:20.742831+00:00",
+  "generated": "2026-11-20T03:25:34.336999+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.284",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.284",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-19T22:17:34+00:00",
+      "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.284 -->\n\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.283...v1.0.284\n",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.283...v1.0.284",
+      "version": "1.0.284",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "5bbeaabd98813676"
+    },
     {
       "title": "sdk-v1.11.0",
       "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.11.0",
@@ -39,6 +55,21 @@
         "skills"
       ],
       "uid": "b34e4eef21003ef3"
+    },
+    {
+      "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+      "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
+      "source": "hackernews",
+      "published": "2026-11-19T18:42:13+00:00",
+      "body": "42 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50564282",
+      "summary": "42 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50564282",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "86fa65b17ec1fd4d"
     },
     {
       "title": "@anthropic-ai/claude-code 2.1.329 published",
@@ -85,6 +116,21 @@
         "community"
       ],
       "uid": "fd4e8b45e04be068"
+    },
+    {
+      "title": "Anthropic\u2019s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "source": "hackernews",
+      "published": "2026-11-19T17:02:40+00:00",
+      "body": "973 points, 1899 comments. Discussion: https://news.ycombinator.com/item?id=50562754",
+      "summary": "973 points, 1899 comments. Discussion: https://news.ycombinator.com/item?id=50562754",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b0611b40f58fb52a"
     },
     {
       "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
@@ -4724,58 +4770,6 @@
         "news"
       ],
       "uid": "0b8c1f899aea05bb"
-    },
-    {
-      "title": "google-cloud-sdk-v0.2.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v0.2.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-20T17:54:01+00:00",
-      "body": "### Features\n\n* **google-cloud:** use the v1 endpoints and add the organization endpoint",
-      "summary": "### Features * **google-cloud:** use the v1 endpoints and add the organization endpoint",
-      "version": "google-cloud-sdk-v0.2.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "858e90301558d27f"
-    },
-    {
-      "title": "sdk-v0.136.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.136.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-20T17:53:59+00:00",
-      "body": "### Features\n\n* **api:** add data_refreshed_at and has_more to analytics report pages\n* **api:** add workspace rate-limit updates to the Admin API\n* **api:** make User Profiles generally available\n* **client:** yield server-sent events with unrecognized event names\n* **tools:** accept every tool definition field in the tool helpers\n\n\n### Bug Fixes\n\n* **client:** treat x-amz-security-token as a sensitive header\n* **tools:** keep $ sequences literal in memory tool str_replace\n\n\n### Chores\n\n* **ci:** skip the changelog check on draft pull requests\n* **docs:** add credential expiry descriptions to the Managed Agents API reference\n* **docs:** add Messages API request descriptions\n* **docs:** correct plugin manifest_version and reach descriptions\n* **docs:** improve Managed Agents memory store descriptions\n* **docs:** improve Managed Agents vault and credential descriptions\n* **internal:** bump playwright-core in the browser ecosystem tests\n* **tests:** cover OpenTelemetry failures, propagation and environment variables",
-      "summary": "### Features * **api:** add data_refreshed_at and has_more to analytics report pages * **api:** add workspace rate-limit updates to the Admin API * **api:** make User Profiles generally available * **client:** yield server-sent events with unrecognized event names * **tools:** ac\u2026",
-      "version": "sdk-v0.136.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript",
-        "enterprise",
-        "skills"
-      ],
-      "uid": "a19650ecc49aff76"
-    },
-    {
-      "title": "v1.16.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.16.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-10-20T17:49:46+00:00",
-      "body": "### Features\n\n* **api:** add data_refreshed_at and has_more to analytics report pages\n* **api:** add workspace rate-limit updates to the Admin API\n* **api:** make User Profiles generally available\n* **client:** yield server-sent events with unrecognized event names\n* **google-cloud:** use the v1 endpoints and add the organization endpoint\n\n\n### Chores\n\n* **ci:** skip the changelog check on draft pull requests\n* **docs:** add credential expiry descriptions to the Managed Agents API reference\n* **docs:** add Messages API request descriptions\n* **docs:** correct plugin manifest_version and reach descriptions\n* **docs:** improve Managed Agents memory store descriptions\n* **docs:** improve Managed Agents vault and credential descriptions",
-      "summary": "### Features * **api:** add data_refreshed_at and has_more to analytics report pages * **api:** add workspace rate-limit updates to the Admin API * **api:** make User Profiles generally available * **client:** yield server-sent events with unrecognized event names * **google-clou\u2026",
-      "version": "1.16.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-python",
-        "enterprise",
-        "skills"
-      ],
-      "uid": "2257fb40f336b7dc"
     }
   ]
 }

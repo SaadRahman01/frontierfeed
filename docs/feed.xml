@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 22:12:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 03:25:34 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.284</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.284</link>
+<guid isPermaLink="false">frontierfeed:5bbeaabd98813676</guid>
+<pubDate>Thu, 19 Nov 2026 22:17:34 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.283...v1.0.284</description>
+</item>
 <item>
 <title>sdk-v1.11.0</title>
 <link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.11.0</link>
@@ -30,6 +38,14 @@
 <pubDate>Thu, 19 Nov 2026 19:14:21 +0000</pubDate>
 <category>pricing</category>
 <description>### Features * **api:** add Claude Code managed settings to the Admin API * **api:** add the sandbox_egress_restricted error to Admin API plugin methods ### Bug Fixes * **client:** encode spaces in query strings as %20 The AWS SigV4 signature of a request now matches its query st…</description>
+</item>
+<item>
+<title>No Bailout for the AI Bubble, Anthropic IPO Protesters Say</title>
+<link>https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/</link>
+<guid isPermaLink="false">frontierfeed:86fa65b17ec1fd4d</guid>
+<pubDate>Thu, 19 Nov 2026 18:42:13 +0000</pubDate>
+<category>note</category>
+<description>42 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50564282</description>
 </item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.329 published</title>
@@ -54,6 +70,14 @@
 <pubDate>Thu, 19 Nov 2026 17:02:40 +0000</pubDate>
 <category>note</category>
 <description>695 points, 1246 comments. Discussion: https://news.ycombinator.com/item?id=50562754</description>
+</item>
+<item>
+<title>Anthropic’s Nasdaq debut</title>
+<link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</link>
+<guid isPermaLink="false">frontierfeed:b0611b40f58fb52a</guid>
+<pubDate>Thu, 19 Nov 2026 17:02:40 +0000</pubDate>
+<category>note</category>
+<description>973 points, 1899 comments. Discussion: https://news.ycombinator.com/item?id=50562754</description>
 </item>
 <item>
 <title>Launch HN: Onlook (YC W25) – An open-source developer tool for designers</title>
@@ -790,30 +814,6 @@
 <pubDate>Mon, 09 Nov 2026 22:26:43 +0000</pubDate>
 <category>note</category>
 <description>Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.</description>
-</item>
-<item>
-<title>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</title>
-<link>https://www.anthropic.com/news/claude-frontier-academy</link>
-<guid isPermaLink="false">frontierfeed:4692dab6f141f9c0</guid>
-<pubDate>Mon, 09 Nov 2026 22:26:43 +0000</pubDate>
-<category>note</category>
-<description>Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.</description>
-</item>
-<item>
-<title>Expanding the Cyber Verification Program</title>
-<link>https://www.anthropic.com/news/cyber-verification-program</link>
-<guid isPermaLink="false">frontierfeed:e310eaf6de303cba</guid>
-<pubDate>Mon, 09 Nov 2026 22:26:43 +0000</pubDate>
-<category>note</category>
-<description>We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.</description>
-</item>
-<item>
-<title>Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
-<link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
-<guid isPermaLink="false">frontierfeed:e6608e83977b381d</guid>
-<pubDate>Mon, 09 Nov 2026 22:26:43 +0000</pubDate>
-<category>model-release</category>
-<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
 </item>
 </channel>
 </rss>
