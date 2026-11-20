@@ -134,6 +134,21 @@
       ]
     },
     {
+      "id": "frontierfeed:163c27457bf43cbb",
+      "url": "https://arxiv.org/abs/2611.26216v1",
+      "title": "Frontier models need only one text to unmask its human or AI author",
+      "summary": "Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer \"who wrote this?\" at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, oft…",
+      "content_text": "Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer \"who wrote this?\" at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, oft…",
+      "date_published": "2026-11-19T14:56:21+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper",
+        "opus"
+      ]
+    },
+    {
       "id": "frontierfeed:557766939d369f17",
       "url": "https://www.anthropic.com/news/2026-usage-policy-update",
       "title": "2026 Usage Policy update",
@@ -1381,21 +1396,6 @@
         "info",
         "research",
         "paper"
-      ]
-    },
-    {
-      "id": "frontierfeed:d811cc8071495c64",
-      "url": "https://www.anthropic.com/news/barclays-scales-claude",
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
-      "content_text": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
-      "date_published": "2026-11-09T22:26:43.990322+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news",
-        "enterprise"
       ]
     }
   ]
