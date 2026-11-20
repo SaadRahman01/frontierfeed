@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 13:01:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 21:12:25 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>@anthropic-ai/claude-code 2.1.330 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.330</link>
+<guid isPermaLink="false">frontierfeed:dd728fa4be194582</guid>
+<pubDate>Fri, 20 Nov 2026 19:16:01 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.330 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>v1.0.284</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.284</link>
@@ -590,22 +598,6 @@
 <pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
 <category>claude-code</category>
 <description>Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here&#x27;s what it catches, and what it misses.</description>
-</item>
-<item>
-<title>An update on recent Claude Code quality reports</title>
-<link>https://www.anthropic.com/research/april-23-postmortem</link>
-<guid isPermaLink="false">frontierfeed:7cd855a9dc93a047</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
-<category>claude-code</category>
-<description>We traced recent reports of Claude Code quality issues to three separate changes. Here&#x27;s what happened and what we&#x27;re changing.</description>
-</item>
-<item>
-<title>How we contain Claude across products</title>
-<link>https://www.anthropic.com/research/how-we-contain-claude</link>
-<guid isPermaLink="false">frontierfeed:8a655ad8eac3c2fd</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
-<category>claude-code</category>
-<description>As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.</description>
 </item>
 </channel>
 </rss>

@@ -1,9 +1,135 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-20T13:01:33.797436+00:00",
+  "generated": "2026-11-20T21:12:25.805571+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Strengthening our defenses against distillation attacks",
+      "url": "https://www.anthropic.com/news/distillation-defenses",
+      "source": "anthropic-news",
+      "published": "2026-11-20T21:12:12.666310+00:00",
+      "body": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we\u2019ve reduced the rate of distillation by more than 90%.",
+      "summary": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we\u2019ve reduced the rate of distillation by more than 90%.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "0b8c1f899aea05bb"
+    },
+    {
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters\u2019 option to purchase additional shares, and closing of concurrent private placement",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "source": "anthropic-news",
+      "published": "2026-11-20T21:12:12.666088+00:00",
+      "body": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.",
+      "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional\u2026",
+      "version": "",
+      "category": "pricing",
+      "impact": "info",
+      "tags": [
+        "official",
+        "news"
+      ],
+      "uid": "2bcd14773fb26a1c"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.330 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.330",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-20T19:16:01.070000+00:00",
+      "body": "Version 2.1.330 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.330 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.330",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "dd728fa4be194582"
+    },
+    {
+      "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+      "source": "hackernews",
+      "published": "2026-11-20T17:44:01+00:00",
+      "body": "162 points, 145 comments. Discussion: https://news.ycombinator.com/item?id=50578794",
+      "summary": "162 points, 145 comments. Discussion: https://news.ycombinator.com/item?id=50578794",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "2014a7807a117204"
+    },
+    {
+      "title": "bedrock-sdk-v1.1.3",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.3",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-20T16:03:53+00:00",
+      "body": "### Bug Fixes\n\n* **bedrock:** send the user profile ID in the request body\n\n  Amazon Bedrock reads `user_profile_id` from the request body and ignores the `anthropic-user-profile-id` header, so a profile ID given to `AnthropicBedrock` was not applied. `AnthropicBedrock` now moves it into the body of Messages requests and no longer sends the header. A `user_profile_id` already in the body takes priority over the header.\n\n  Some models on Bedrock do not support user profiles. A request to one of them with a profile ID now fails with a 400 error; before, the ID was ignored. Leave the ID off requests to those models.",
+      "summary": "### Bug Fixes * **bedrock:** send the user profile ID in the request body Amazon Bedrock reads `user_profile_id` from the request body and ignores the `anthropic-user-profile-id` header, so a profile ID given to `AnthropicBedrock` was not applied.",
+      "version": "bedrock-sdk-v1.1.3",
+      "category": "api",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "84f0086b562d39eb"
+    },
+    {
+      "title": "sdk-v1.12.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.12.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-20T16:03:51+00:00",
+      "body": "### Features\n\n* **api:** add the image_dimensions_too_large error code\n\n\n### Bug Fixes\n\n* **client:** merge ANTHROPIC_CUSTOM_HEADERS with Headers or pairs in defaultHeaders\n\n\n### Chores\n\n* **docs:** clarify billing_policy in batches and two billing errors",
+      "summary": "### Features * **api:** add the image_dimensions_too_large error code ### Bug Fixes * **client:** merge ANTHROPIC_CUSTOM_HEADERS with Headers or pairs in defaultHeaders ### Chores * **docs:** clarify billing_policy in batches and two billing errors",
+      "version": "sdk-v1.12.0",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "7c7527338fd2039c"
+    },
+    {
+      "title": "v2.12.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.12.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-11-20T15:56:21+00:00",
+      "body": "### Features\n\n* **api:** add the image_dimensions_too_large error code\n\n\n### Bug Fixes\n\n* **bedrock:** send the user profile ID in the request body\n\n  Amazon Bedrock reads `user_profile_id` from the request body and ignores the `anthropic-user-profile-id` header, so a profile ID given to `AnthropicBedrock` or `AsyncAnthropicBedrock` was not applied. Both clients now move it into the body of Messages requests and no longer send the header. A `user_profile_id` already in the body takes priority over the header.\n\n  Some models on Bedrock do not support user profiles. A request to one of them with a profile ID now fails with a 400 error; before, the ID was ignored. Leave the ID off requests to those models.\n\n\n### Chores\n\n* **docs:** clarify billing_policy in batches and two billing errors",
+      "summary": "### Features * **api:** add the image_dimensions_too_large error code ### Bug Fixes * **bedrock:** send the user profile ID in the request body Amazon Bedrock reads `user_profile_id` from the request body and ignores the `anthropic-user-profile-id` header, so a profile ID given t\u2026",
+      "version": "2.12.0",
+      "category": "pricing",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "12bfb6bebdba0d34"
+    },
+    {
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "hackernews",
+      "published": "2026-11-20T13:29:59+00:00",
+      "body": "183 points, 218 comments. Discussion: https://news.ycombinator.com/item?id=50574383",
+      "summary": "183 points, 218 comments. Discussion: https://news.ycombinator.com/item?id=50574383",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "54da4c7fd0e5bdfc"
+    },
     {
       "title": "v1.0.284",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.284",
@@ -4640,137 +4766,6 @@
         "engineering"
       ],
       "uid": "e0578653f5c4fca4"
-    },
-    {
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/research/april-23-postmortem",
-      "source": "anthropic-engineering",
-      "published": "2026-10-20T18:29:40.452586+00:00",
-      "body": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened and what we're changing.",
-      "summary": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened and what we're changing.",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "7cd855a9dc93a047"
-    },
-    {
-      "title": "How we contain Claude across products",
-      "url": "https://www.anthropic.com/research/how-we-contain-claude",
-      "source": "anthropic-engineering",
-      "published": "2026-10-20T18:29:40.452560+00:00",
-      "body": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here\u2019s what we\u2019ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "summary": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here\u2019s what we\u2019ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "version": "",
-      "category": "claude-code",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "8a655ad8eac3c2fd"
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/research/redesigning-source-control",
-      "source": "anthropic-engineering",
-      "published": "2026-10-20T18:29:40.452520+00:00",
-      "body": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
-      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "9a18ada52b37c221"
-    },
-    {
-      "title": "Introducing Claude Mythos and Fable 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "source": "anthropic-news",
-      "published": "2026-10-20T18:29:39.421563+00:00",
-      "body": "They\u2019re the world\u2019s most advanced models for coding and knowledge work\u2014and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.",
-      "summary": "They\u2019re the world\u2019s most advanced models for coding and knowledge work\u2014and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.",
-      "version": "",
-      "category": "launch",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "67713036ecf2e2c4"
-    },
-    {
-      "title": "The Situation Report",
-      "url": "https://www.anthropic.com/features/ebola-response",
-      "source": "anthropic-news",
-      "published": "2026-10-20T18:29:39.421499+00:00",
-      "body": "A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.",
-      "summary": "A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "7bbded248b0a92ff"
-    },
-    {
-      "title": "Introducing Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "source": "anthropic-news",
-      "published": "2026-10-20T18:29:39.421478+00:00",
-      "body": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
-      "summary": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
-      "version": "",
-      "category": "model-release",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "news",
-        "opus"
-      ],
-      "uid": "e3c3dad186995627"
-    },
-    {
-      "title": "Introducing Claude Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "source": "anthropic-news",
-      "published": "2026-10-20T18:29:39.421435+00:00",
-      "body": "Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
-      "summary": "Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
-      "version": "",
-      "category": "model-release",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "news",
-        "sonnet"
-      ],
-      "uid": "361da431c7af83fe"
-    },
-    {
-      "title": "Introducing Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "source": "anthropic-news",
-      "published": "2026-10-20T18:29:39.421347+00:00",
-      "body": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
-      "summary": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
-      "version": "",
-      "category": "model-release",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "news",
-        "haiku"
-      ],
-      "uid": "903a41d0fe841e64"
     }
   ]
 }
