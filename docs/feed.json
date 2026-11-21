@@ -9,6 +9,47 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:0813249cdbef9c04",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.286",
+      "title": "v1.0.286",
+      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.285...v1.0.286",
+      "content_text": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.285...v1.0.286",
+      "date_published": "2026-11-20T22:41:08+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:bf6a31f1905ec4d2",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.285",
+      "title": "v1.0.285",
+      "summary": "## What's Changed ### Other changes * Use the base branch's version of files that the workflow's inputs name by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2099 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.284...v1.0.285",
+      "content_text": "## What's Changed ### Other changes * Use the base branch's version of files that the workflow's inputs name by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2099 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.284...v1.0.285",
+      "date_published": "2026-11-20T22:39:22+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:d19443e81721c680",
+      "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+      "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+      "summary": "43 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50582280",
+      "content_text": "43 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50582280",
+      "date_published": "2026-11-20T21:18:46+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:0b8c1f899aea05bb",
       "url": "https://www.anthropic.com/news/distillation-defenses",
       "title": "Strengthening our defenses against distillation attacks",
@@ -1350,47 +1391,6 @@
         "feature",
         "official",
         "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:e45ff35d76d66b2e",
-      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-      "title": "Building on our commitment to American scientific discovery",
-      "summary": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
-      "content_text": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
-      "date_published": "2026-11-10T13:31:30.747261+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:b86054c135082f11",
-      "url": "https://www.anthropic.com/news/roadshow-launch",
-      "title": "Anthropic launches roadshow for proposed initial public offering",
-      "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
-      "content_text": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
-      "date_published": "2026-11-10T13:31:30.747022+00:00",
-      "tags": [
-        "note",
-        "feature",
-        "official",
-        "news"
-      ]
-    },
-    {
-      "id": "frontierfeed:95755d3934b85a58",
-      "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
-      "title": "Anthropic to Seek $1.3T Valuation in IPO",
-      "summary": "56 points, 77 comments. Discussion: https://news.ycombinator.com/item?id=50439616",
-      "content_text": "56 points, 77 comments. Discussion: https://news.ycombinator.com/item?id=50439616",
-      "date_published": "2026-11-10T12:49:32+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]

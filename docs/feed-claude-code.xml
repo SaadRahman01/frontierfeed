@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 21:12:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 02:23:59 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.286</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.286</link>
+<guid isPermaLink="false">frontierfeed:0813249cdbef9c04</guid>
+<pubDate>Fri, 20 Nov 2026 22:41:08 +0000</pubDate>
+<category>claude-code</category>
+<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.285...v1.0.286</description>
+</item>
+<item>
+<title>v1.0.285</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.285</link>
+<guid isPermaLink="false">frontierfeed:bf6a31f1905ec4d2</guid>
+<pubDate>Fri, 20 Nov 2026 22:39:22 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Use the base branch&#x27;s version of files that the workflow&#x27;s inputs name by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2099 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.284...v1.0.285</description>
+</item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.330 published</title>
 <link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.330</link>
@@ -590,14 +606,6 @@
 <pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
 <category>claude-code</category>
 <description>Beyond permission prompts: making Claude Code more secure and autonomous</description>
-</item>
-<item>
-<title>How we built Claude Code auto mode: a safer way to skip permissions</title>
-<link>https://www.anthropic.com/research/claude-code-auto-mode</link>
-<guid isPermaLink="false">frontierfeed:e8109e646553a5b7</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
-<category>claude-code</category>
-<description>Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here&#x27;s what it catches, and what it misses.</description>
 </item>
 </channel>
 </rss>
