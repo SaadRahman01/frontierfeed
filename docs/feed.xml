@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 02:23:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 11:15:44 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -72,6 +72,14 @@
 <description>162 points, 145 comments. Discussion: https://news.ycombinator.com/item?id=50578794</description>
 </item>
 <item>
+<title>Markets plunge: Nasdaq erases 2026 gains, S&amp;P, Dow in corrections</title>
+<link>https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</link>
+<guid isPermaLink="false">frontierfeed:d908ad2e7ba342be</guid>
+<pubDate>Fri, 20 Nov 2026 17:44:01 +0000</pubDate>
+<category>note</category>
+<description>191 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=50578794</description>
+</item>
+<item>
 <title>bedrock-sdk-v1.1.3</title>
 <link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.3</link>
 <guid isPermaLink="false">frontierfeed:84f0086b562d39eb</guid>
@@ -102,6 +110,14 @@
 <pubDate>Fri, 20 Nov 2026 13:29:59 +0000</pubDate>
 <category>note</category>
 <description>183 points, 218 comments. Discussion: https://news.ycombinator.com/item?id=50574383</description>
+</item>
+<item>
+<title>Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day</title>
+<link>https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off</link>
+<guid isPermaLink="false">frontierfeed:7110a2bdb8001eaf</guid>
+<pubDate>Fri, 20 Nov 2026 13:29:59 +0000</pubDate>
+<category>note</category>
+<description>328 points, 606 comments. Discussion: https://news.ycombinator.com/item?id=50574383</description>
 </item>
 <item>
 <title>v1.0.284</title>
@@ -798,22 +814,6 @@
 <pubDate>Tue, 10 Nov 2026 16:33:32 +0000</pubDate>
 <category>api</category>
 <description>### Features * **api:** add Claude Tag metrics to the analytics summaries and users reports * **api:** add reply_mode to Claude Tag Slack channel settings ### Chores * **docs:** clarify display_name for RBAC Roles created by Anthropic * **docs:** clarify plugin delete and skill n…</description>
-</item>
-<item>
-<title>v2.8.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.8.0</link>
-<guid isPermaLink="false">frontierfeed:5b9f43ace5b32aeb</guid>
-<pubDate>Tue, 10 Nov 2026 16:32:58 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add Claude Tag metrics to the analytics summaries and users reports * **api:** add reply_mode to Claude Tag Slack channel settings ### Bug Fixes * **bedrock:** send &quot;;&quot; in a model ID as is, and refuse a model ID whose part before the first &quot;;&quot; is empty, &quot;.…</description>
-</item>
-<item>
-<title>Introducing the Anthropic Cyber Mission</title>
-<link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
-<guid isPermaLink="false">frontierfeed:f3cce56885ad0f5c</guid>
-<pubDate>Tue, 10 Nov 2026 13:31:30 +0000</pubDate>
-<category>launch</category>
-<description>We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.</description>
 </item>
 </channel>
 </rss>

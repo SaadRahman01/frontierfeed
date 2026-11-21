@@ -1,7 +1,7 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-21T02:23:59.059449+00:00",
+  "generated": "2026-11-21T11:15:44.800621+00:00",
   "count": 300,
   "items": [
     {
@@ -115,6 +115,21 @@
       "uid": "2014a7807a117204"
     },
     {
+      "title": "Markets plunge: Nasdaq erases 2026 gains, S&P, Dow in corrections",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+      "source": "hackernews",
+      "published": "2026-11-20T17:44:01+00:00",
+      "body": "191 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=50578794",
+      "summary": "191 points, 1 comments. Discussion: https://news.ycombinator.com/item?id=50578794",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d908ad2e7ba342be"
+    },
+    {
       "title": "bedrock-sdk-v1.1.3",
       "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.3",
       "source": "github:anthropics/anthropic-sdk-typescript",
@@ -176,6 +191,21 @@
         "community"
       ],
       "uid": "54da4c7fd0e5bdfc"
+    },
+    {
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "hackernews",
+      "published": "2026-11-20T13:29:59+00:00",
+      "body": "328 points, 606 comments. Discussion: https://news.ycombinator.com/item?id=50574383",
+      "summary": "328 points, 606 comments. Discussion: https://news.ycombinator.com/item?id=50574383",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "7110a2bdb8001eaf"
     },
     {
       "title": "v1.0.284",
@@ -4732,39 +4762,6 @@
         "engineering"
       ],
       "uid": "f26747cd77e40576"
-    },
-    {
-      "title": "Quantifying infrastructure noise in agentic coding evals",
-      "url": "https://www.anthropic.com/research/infrastructure-noise",
-      "source": "anthropic-engineering",
-      "published": "2026-10-20T18:29:40.452720+00:00",
-      "body": "Agentic coding benchmarks are often treated as precise measurements of relative model capability. However, we\u2019ve found that infrastructure configuration alone can produce meaningful differences in the scores.",
-      "summary": "Agentic coding benchmarks are often treated as precise measurements of relative model capability. However, we\u2019ve found that infrastructure configuration alone can produce meaningful differences in the scores.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "95ac1f7755c42dbe"
-    },
-    {
-      "title": "Eval awareness in Claude Opus 4.6\u2019s BrowseComp performance",
-      "url": "https://www.anthropic.com/research/eval-awareness-browsecomp",
-      "source": "anthropic-engineering",
-      "published": "2026-10-20T18:29:40.452699+00:00",
-      "body": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it\u2014raising questions about eval integrity in web-enabled environments.",
-      "summary": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it\u2014raising questions about eval integrity in web-enabled environments.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering",
-        "opus"
-      ],
-      "uid": "67b820295c2def45"
     }
   ]
 }
