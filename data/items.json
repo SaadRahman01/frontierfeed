@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "source": "hackernews",
+      "published": "2026-11-22T08:57:34+00:00",
+      "body": "367 points, 458 comments. Discussion: https://news.ycombinator.com/item?id=50597612",
+      "summary": "367 points, 458 comments. Discussion: https://news.ycombinator.com/item?id=50597612",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "b2049b805fd2e7dd"
+    },
+    {
       "title": "v1.0.286",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.286",
       "source": "github:anthropics/claude-code-action",
@@ -4742,22 +4757,6 @@
         "engineering"
       ],
       "uid": "e448c0186ac33d60"
-    },
-    {
-      "title": "Building a C compiler with a team of parallel Claudes",
-      "url": "https://www.anthropic.com/research/building-c-compiler",
-      "source": "anthropic-engineering",
-      "published": "2026-10-20T18:29:40.452741+00:00",
-      "body": "Nicholas Carlini, a researcher on our Safeguards team, explains how he tasked 16 agents with writing a Rust-based C compiler, from scratch, capable of compiling the Linux kernel.",
-      "summary": "Nicholas Carlini, a researcher on our Safeguards team, explains how he tasked 16 agents with writing a Rust-based C compiler, from scratch, capable of compiling the Linux kernel.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "engineering"
-      ],
-      "uid": "f26747cd77e40576"
     }
   ]
 }

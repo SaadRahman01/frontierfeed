@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:b2049b805fd2e7dd",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "summary": "367 points, 458 comments. Discussion: https://news.ycombinator.com/item?id=50597612",
+      "content_text": "367 points, 458 comments. Discussion: https://news.ycombinator.com/item?id=50597612",
+      "date_published": "2026-11-22T08:57:34+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:0813249cdbef9c04",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.286",
       "title": "v1.0.286",
@@ -1373,21 +1386,6 @@
         "fix",
         "release",
         "anthropic-sdk-typescript"
-      ]
-    },
-    {
-      "id": "frontierfeed:57b9dfdcec6a5dce",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.8.0",
-      "title": "sdk-v1.8.0",
-      "summary": "### Features * **api:** add Claude Tag metrics to the analytics summaries and users reports * **api:** add reply_mode to Claude Tag Slack channel settings ### Chores * **docs:** clarify display_name for RBAC Roles created by Anthropic * **docs:** clarify plugin delete and skill n…",
-      "content_text": "### Features * **api:** add Claude Tag metrics to the analytics summaries and users reports * **api:** add reply_mode to Claude Tag Slack channel settings ### Chores * **docs:** clarify display_name for RBAC Roles created by Anthropic * **docs:** clarify plugin delete and skill n…",
-      "date_published": "2026-11-10T16:33:32+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "anthropic-sdk-typescript",
-        "skills"
       ]
     }
   ]

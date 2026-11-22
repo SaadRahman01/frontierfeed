@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 06:58:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 15:25:19 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
+<link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</link>
+<guid isPermaLink="false">frontierfeed:b2049b805fd2e7dd</guid>
+<pubDate>Sun, 22 Nov 2026 08:57:34 +0000</pubDate>
+<category>note</category>
+<description>367 points, 458 comments. Discussion: https://news.ycombinator.com/item?id=50597612</description>
+</item>
 <item>
 <title>v1.0.286</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.286</link>
@@ -806,14 +814,6 @@
 <pubDate>Tue, 10 Nov 2026 16:33:35 +0000</pubDate>
 <category>api</category>
 <description>### Bug Fixes * **vertex:** send a `;` in the model as `%3B` * **vertex:** throw an `AnthropicError` for a project ID, region or model such as `;x`, `.;x` or `..;x`</description>
-</item>
-<item>
-<title>sdk-v1.8.0</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.8.0</link>
-<guid isPermaLink="false">frontierfeed:57b9dfdcec6a5dce</guid>
-<pubDate>Tue, 10 Nov 2026 16:33:32 +0000</pubDate>
-<category>api</category>
-<description>### Features * **api:** add Claude Tag metrics to the analytics summaries and users reports * **api:** add reply_mode to Claude Tag Slack channel settings ### Chores * **docs:** clarify display_name for RBAC Roles created by Anthropic * **docs:** clarify plugin delete and skill n…</description>
 </item>
 </channel>
 </rss>
