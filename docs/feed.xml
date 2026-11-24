@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 12:59:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 00:58:11 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,94 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>The enterprise guide to securing coding agents</title>
+<link>https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</link>
+<guid isPermaLink="false">frontierfeed:202967d65324dd59</guid>
+<pubDate>Tue, 24 Nov 2026 00:58:00 +0000</pubDate>
+<category>claude-code</category>
+<description>How security and technical leaders can understand and bound risk as they scale Claude Code</description>
+</item>
+<item>
+<title>Introducing Claude Ship</title>
+<link>https://claude.com/resources/articles/introducing-claude-ship</link>
+<guid isPermaLink="false">frontierfeed:2717f1f7d57918c2</guid>
+<pubDate>Tue, 24 Nov 2026 00:58:00 +0000</pubDate>
+<category>launch</category>
+<description>Open a pull request and get back to building. Claude can now review pull requests, fix them, and approve the ones that a team&#x27;s policy allows.</description>
+</item>
+<item>
+<title>KPMG&#x27;s Todd Lohr on AI when your data is also your clients&#x27; data</title>
+<link>https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data</link>
+<guid isPermaLink="false">frontierfeed:534b289b50acf676</guid>
+<pubDate>Tue, 24 Nov 2026 00:58:00 +0000</pubDate>
+<category>note</category>
+<description>Todd Lohr, KPMG US Vice Chair and Head of Client Technology &amp; Innovation, on adopting frontier AI and building safeguards at the same time, and what that means for a firm that holds its clients&#x27; most sensitive data.</description>
+</item>
+<item>
+<title>Zero data retention with Enterprise Frontier Safeguards is now in beta</title>
+<link>https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards</link>
+<guid isPermaLink="false">frontierfeed:e77a2924dba1fef7</guid>
+<pubDate>Tue, 24 Nov 2026 00:58:00 +0000</pubDate>
+<category>note</category>
+<description>Zero data retention with Enterprise Frontier Safeguards is now in beta</description>
+</item>
+<item>
+<title>v1.0.289</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.289</link>
+<guid isPermaLink="false">frontierfeed:757e5d0f05e45c19</guid>
+<pubDate>Mon, 23 Nov 2026 23:54:14 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Log text as plain text, and post buffered comments in the run step by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2122 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.288...v1.0.289</description>
+</item>
+<item>
+<title>v1.0.288 (breaking changes)</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.288</link>
+<guid isPermaLink="false">frontierfeed:134f7872d61f0588</guid>
+<pubDate>Mon, 23 Nov 2026 23:05:51 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### ⚠️ Breaking changes * Skip pull requests from forks by default by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2114 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.287...v1.0.288</description>
+</item>
+<item>
+<title>VP ≠ VNP over Every Field</title>
+<link>https://github.com/anthropics/formal-math/tree/main/vp-vnp</link>
+<guid isPermaLink="false">frontierfeed:9039b5b22ab92ea1</guid>
+<pubDate>Mon, 23 Nov 2026 22:09:10 +0000</pubDate>
+<category>note</category>
+<description>206 points, 175 comments. Discussion: https://news.ycombinator.com/item?id=50620102</description>
+</item>
+<item>
+<title>v1.0.287</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.287</link>
+<guid isPermaLink="false">frontierfeed:5e8ae529f0f056f3</guid>
+<pubDate>Mon, 23 Nov 2026 21:37:51 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Stop the session and revoke the app token when a run is cancelled by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2112 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.286...v1.0.287</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.331 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.331</link>
+<guid isPermaLink="false">frontierfeed:667b670a64da3ac8</guid>
+<pubDate>Mon, 23 Nov 2026 18:36:26 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.331 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
+<item>
+<title>[breaking] sdk-v1.13.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.13.0</link>
+<guid isPermaLink="false">frontierfeed:2401efdaa348adb3</guid>
+<pubDate>Mon, 23 Nov 2026 18:35:09 +0000</pubDate>
+<category>deprecation</category>
+<description>### Features * **api:** add an error code to Message Batches creation * **api:** add External Storage to the Admin API beta * **api:** add webhook events for external storage failure and recovery ### Bug Fixes * **api:** type beta batch request params as message create params ###…</description>
+</item>
+<item>
+<title>[breaking] v2.13.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.13.0</link>
+<guid isPermaLink="false">frontierfeed:e7ae0cfc81589651</guid>
+<pubDate>Mon, 23 Nov 2026 18:34:26 +0000</pubDate>
+<category>deprecation</category>
+<description>### Features * **api:** add an error code to Message Batches creation * **api:** add External Storage to the Admin API beta * **api:** add webhook events for external storage failure and recovery ### Bug Fixes * **client:** build the right class for tool results with unknown valu…</description>
+</item>
 <item>
 <title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
 <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</link>
@@ -726,94 +814,6 @@
 <pubDate>Wed, 11 Nov 2026 04:56:47 +0000</pubDate>
 <category>note</category>
 <description>100 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50449891</description>
-</item>
-<item>
-<title>Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen</title>
-<link>https://arxiv.org/abs/2611.14935v1</link>
-<guid isPermaLink="false">frontierfeed:8203470605ce5b76</guid>
-<pubDate>Wed, 11 Nov 2026 02:35:53 +0000</pubDate>
-<category>research</category>
-<description>Racial and ethnic minority patients receive less pain treatment than non-Hispanic White patients, and large language models (LLMs) used as medical AI could reproduce that bias.</description>
-</item>
-<item>
-<title>After 7 months, Glasswing overwelms maintainers with underwhelming findings</title>
-<link>https://www.vulncheck.com/blog/anthropic-glasswing-november-update</link>
-<guid isPermaLink="false">frontierfeed:9ada84a1fc3ca691</guid>
-<pubDate>Tue, 10 Nov 2026 22:17:56 +0000</pubDate>
-<category>note</category>
-<description>174 points, 68 comments. Discussion: https://news.ycombinator.com/item?id=50447074</description>
-</item>
-<item>
-<title>Tracking Anthropic-discovered vulnerabilities</title>
-<link>https://www.vulncheck.com/blog/anthropic-glasswing-november-update</link>
-<guid isPermaLink="false">frontierfeed:dc92c6bf09174766</guid>
-<pubDate>Tue, 10 Nov 2026 22:17:56 +0000</pubDate>
-<category>note</category>
-<description>390 points, 180 comments. Discussion: https://news.ycombinator.com/item?id=50447074</description>
-</item>
-<item>
-<title>How Curative is building a national provider network with agents on Claude</title>
-<link>https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude</link>
-<guid isPermaLink="false">frontierfeed:010ad6feeea6633c</guid>
-<pubDate>Tue, 10 Nov 2026 20:51:50 +0000</pubDate>
-<category>note</category>
-<description>Curative’s deal-making agent negotiates 2,000+ provider contracts a week.</description>
-</item>
-<item>
-<title>Your apps can now open in Claude, and Claude can work in them</title>
-<link>https://claude.com/resources/articles/interactive-connectors-full-tool</link>
-<guid isPermaLink="false">frontierfeed:3564ee9f6a36316f</guid>
-<pubDate>Tue, 10 Nov 2026 20:51:50 +0000</pubDate>
-<category>note</category>
-<description>Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs.</description>
-</item>
-<item>
-<title>More ways to work with Claude: Sheets, Whiteboards, and Interactive Connectors</title>
-<link>https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors</link>
-<guid isPermaLink="false">frontierfeed:0a0eaf5b41558fa7</guid>
-<pubDate>Tue, 10 Nov 2026 20:51:50 +0000</pubDate>
-<category>note</category>
-<description>Work at the speed of thought</description>
-</item>
-<item>
-<title>Introducing Claude Whiteboards, Claude Sheets, and Claude Data</title>
-<link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
-<guid isPermaLink="false">frontierfeed:ea4105b0561fd254</guid>
-<pubDate>Tue, 10 Nov 2026 20:51:50 +0000</pubDate>
-<category>launch</category>
-<description>Now you can brainstorm on whiteboards, build sheets, and share data directly in Claude.</description>
-</item>
-<item>
-<title>Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives</title>
-<link>https://github.com/GoogleChrome/modern-web-guidance</link>
-<guid isPermaLink="false">frontierfeed:fb31fadf9837c805</guid>
-<pubDate>Tue, 10 Nov 2026 18:01:15 +0000</pubDate>
-<category>note</category>
-<description>139 points, 39 comments. Discussion: https://news.ycombinator.com/item?id=50443812</description>
-</item>
-<item>
-<title>google-cloud-sdk-v1.1.4</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.1.4</link>
-<guid isPermaLink="false">frontierfeed:da3160e618747fcb</guid>
-<pubDate>Tue, 10 Nov 2026 16:33:40 +0000</pubDate>
-<category>api</category>
-<description>### Bug Fixes * **google-cloud:** throw an `AnthropicError` for a project, location or workspace ID such as `;x`, `.;x` or `..;x`</description>
-</item>
-<item>
-<title>bedrock-sdk-v1.1.2</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.2</link>
-<guid isPermaLink="false">frontierfeed:a3e3890c611f7d88</guid>
-<pubDate>Tue, 10 Nov 2026 16:33:38 +0000</pubDate>
-<category>api</category>
-<description>### Bug Fixes * **bedrock:** throw an `AnthropicError` for a model such as `;x`, `.;x` or `..;x`</description>
-</item>
-<item>
-<title>vertex-sdk-v1.1.3</title>
-<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.1.3</link>
-<guid isPermaLink="false">frontierfeed:072e60b1077d5af0</guid>
-<pubDate>Tue, 10 Nov 2026 16:33:35 +0000</pubDate>
-<category>api</category>
-<description>### Bug Fixes * **vertex:** send a `;` in the model as `%3B` * **vertex:** throw an `AnthropicError` for a project ID, region or model such as `;x`, `.;x` or `..;x`</description>
 </item>
 </channel>
 </rss>

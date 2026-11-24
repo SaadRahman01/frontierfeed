@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, model releases only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 12:59:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 00:58:11 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-releases.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — model releases</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Introducing Claude Ship</title>
+<link>https://claude.com/resources/articles/introducing-claude-ship</link>
+<guid isPermaLink="false">frontierfeed:2717f1f7d57918c2</guid>
+<pubDate>Tue, 24 Nov 2026 00:58:00 +0000</pubDate>
+<category>launch</category>
+<description>Open a pull request and get back to building. Claude can now review pull requests, fix them, and approve the ones that a team&#x27;s policy allows.</description>
+</item>
 <item>
 <title>Introducing Claude Meetings</title>
 <link>https://claude.com/resources/articles/claude-meetings</link>
@@ -110,14 +118,6 @@
 <pubDate>Wed, 21 Oct 2026 18:41:55 +0000</pubDate>
 <category>launch</category>
 <description>The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.</description>
-</item>
-<item>
-<title>Introducing advanced tool use on the Claude Developer Platform</title>
-<link>https://www.anthropic.com/research/advanced-tool-use</link>
-<guid isPermaLink="false">frontierfeed:eea90782d2b30405</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
-<category>launch</category>
-<description>We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.</description>
 </item>
 </channel>
 </rss>

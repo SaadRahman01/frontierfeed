@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 12:59:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 00:58:11 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,46 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>The enterprise guide to securing coding agents</title>
+<link>https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</link>
+<guid isPermaLink="false">frontierfeed:202967d65324dd59</guid>
+<pubDate>Tue, 24 Nov 2026 00:58:00 +0000</pubDate>
+<category>claude-code</category>
+<description>How security and technical leaders can understand and bound risk as they scale Claude Code</description>
+</item>
+<item>
+<title>v1.0.289</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.289</link>
+<guid isPermaLink="false">frontierfeed:757e5d0f05e45c19</guid>
+<pubDate>Mon, 23 Nov 2026 23:54:14 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Log text as plain text, and post buffered comments in the run step by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2122 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.288...v1.0.289</description>
+</item>
+<item>
+<title>v1.0.288 (breaking changes)</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.288</link>
+<guid isPermaLink="false">frontierfeed:134f7872d61f0588</guid>
+<pubDate>Mon, 23 Nov 2026 23:05:51 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### ⚠️ Breaking changes * Skip pull requests from forks by default by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2114 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.287...v1.0.288</description>
+</item>
+<item>
+<title>v1.0.287</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.287</link>
+<guid isPermaLink="false">frontierfeed:5e8ae529f0f056f3</guid>
+<pubDate>Mon, 23 Nov 2026 21:37:51 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Stop the session and revoke the app token when a run is cancelled by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2112 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.286...v1.0.287</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.331 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.331</link>
+<guid isPermaLink="false">frontierfeed:667b670a64da3ac8</guid>
+<pubDate>Mon, 23 Nov 2026 18:36:26 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.331 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>v1.0.286</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.286</link>
@@ -590,22 +630,6 @@
 <pubDate>Tue, 20 Oct 2026 20:52:57 +0000</pubDate>
 <category>claude-code</category>
 <description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.254...v1.0.255</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.305 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.305</link>
-<guid isPermaLink="false">frontierfeed:fdf28474db720877</guid>
-<pubDate>Tue, 20 Oct 2026 19:29:36 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.305 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Beyond permission prompts: making Claude Code more secure and autonomous</title>
-<link>https://www.anthropic.com/research/claude-code-sandboxing</link>
-<guid isPermaLink="false">frontierfeed:6cebd0312f47400e</guid>
-<pubDate>Tue, 20 Oct 2026 18:29:40 +0000</pubDate>
-<category>claude-code</category>
-<description>Beyond permission prompts: making Claude Code more secure and autonomous</description>
 </item>
 </channel>
 </rss>

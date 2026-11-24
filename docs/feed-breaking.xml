@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, breaking changes only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 12:59:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 00:58:11 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-breaking.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed — breaking changes</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>[breaking] sdk-v1.13.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.13.0</link>
+<guid isPermaLink="false">frontierfeed:2401efdaa348adb3</guid>
+<pubDate>Mon, 23 Nov 2026 18:35:09 +0000</pubDate>
+<category>deprecation</category>
+<description>### Features * **api:** add an error code to Message Batches creation * **api:** add External Storage to the Admin API beta * **api:** add webhook events for external storage failure and recovery ### Bug Fixes * **api:** type beta batch request params as message create params ###…</description>
+</item>
+<item>
+<title>[breaking] v2.13.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.13.0</link>
+<guid isPermaLink="false">frontierfeed:e7ae0cfc81589651</guid>
+<pubDate>Mon, 23 Nov 2026 18:34:26 +0000</pubDate>
+<category>deprecation</category>
+<description>### Features * **api:** add an error code to Message Batches creation * **api:** add External Storage to the Admin API beta * **api:** add webhook events for external storage failure and recovery ### Bug Fixes * **client:** build the right class for tool results with unknown valu…</description>
+</item>
 <item>
 <title>[breaking] v2.10.0</title>
 <link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.10.0</link>
