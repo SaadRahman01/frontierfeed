@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 00:58:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 11:01:49 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -296,6 +296,14 @@
 <description>Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer &quot;who wrote this?&quot; at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, oft…</description>
 </item>
 <item>
+<title>Frontier models need only one text to unmask its human or AI author</title>
+<link>https://arxiv.org/abs/2611.26216v2</link>
+<guid isPermaLink="false">frontierfeed:ca8c106177906541</guid>
+<pubDate>Thu, 19 Nov 2026 14:56:21 +0000</pubDate>
+<category>research</category>
+<description>Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer &quot;who wrote this?&quot; at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, oft…</description>
+</item>
+<item>
 <title>2026 Usage Policy update</title>
 <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
 <guid isPermaLink="false">frontierfeed:557766939d369f17</guid>
@@ -531,6 +539,14 @@
 <title>SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory</title>
 <link>https://arxiv.org/abs/2611.22017v1</link>
 <guid isPermaLink="false">frontierfeed:8aca54bd6b2fe7c7</guid>
+<pubDate>Tue, 17 Nov 2026 00:12:40 +0000</pubDate>
+<category>research</category>
+<description>Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…</description>
+</item>
+<item>
+<title>SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory</title>
+<link>https://arxiv.org/abs/2611.22017v2</link>
+<guid isPermaLink="false">frontierfeed:ec58cfc9458fe424</guid>
 <pubDate>Tue, 17 Nov 2026 00:12:40 +0000</pubDate>
 <category>research</category>
 <description>Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…</description>
@@ -798,22 +814,6 @@
 <pubDate>Wed, 11 Nov 2026 15:33:06 +0000</pubDate>
 <category>note</category>
 <description>139 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50454625</description>
-</item>
-<item>
-<title>v2.4.0</title>
-<link>https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0</link>
-<guid isPermaLink="false">frontierfeed:3db837a6b7c3f5e4</guid>
-<pubDate>Wed, 11 Nov 2026 07:07:16 +0000</pubDate>
-<category>api</category>
-<description>## Security fixes v2.4.0 fixes six vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` to 2.3.0, and `mcp-server-git` and `mcp-server-fetch` to 2026.11.11.</description>
-</item>
-<item>
-<title>Show HN: Black Ops II statically recompiled to native ARM64 macOS</title>
-<link>https://github.com/adrbn/bo2-mac</link>
-<guid isPermaLink="false">frontierfeed:8331b94d07541176</guid>
-<pubDate>Wed, 11 Nov 2026 04:56:47 +0000</pubDate>
-<category>note</category>
-<description>100 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50449891</description>
 </item>
 </channel>
 </rss>

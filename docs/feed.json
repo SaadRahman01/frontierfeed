@@ -500,6 +500,21 @@
       ]
     },
     {
+      "id": "frontierfeed:ca8c106177906541",
+      "url": "https://arxiv.org/abs/2611.26216v2",
+      "title": "Frontier models need only one text to unmask its human or AI author",
+      "summary": "Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer \"who wrote this?\" at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, oft…",
+      "content_text": "Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer \"who wrote this?\" at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, oft…",
+      "date_published": "2026-11-19T14:56:21+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper",
+        "opus"
+      ]
+    },
+    {
       "id": "frontierfeed:557766939d369f17",
       "url": "https://www.anthropic.com/news/2026-usage-policy-update",
       "title": "2026 Usage Policy update",
@@ -900,6 +915,21 @@
     {
       "id": "frontierfeed:8aca54bd6b2fe7c7",
       "url": "https://arxiv.org/abs/2611.22017v1",
+      "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
+      "summary": "Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…",
+      "content_text": "Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…",
+      "date_published": "2026-11-17T00:12:40+00:00",
+      "tags": [
+        "research",
+        "info",
+        "research",
+        "paper",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:ec58cfc9458fe424",
+      "url": "https://arxiv.org/abs/2611.22017v2",
       "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
       "summary": "Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…",
       "content_text": "Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…",
@@ -1363,34 +1393,6 @@
       "summary": "139 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50454625",
       "content_text": "139 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50454625",
       "date_published": "2026-11-11T15:33:06+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:3db837a6b7c3f5e4",
-      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0",
-      "title": "v2.4.0",
-      "summary": "## Security fixes v2.4.0 fixes six vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` to 2.3.0, and `mcp-server-git` and `mcp-server-fetch` to 2026.11.11.",
-      "content_text": "## Security fixes v2.4.0 fixes six vulnerabilities in three servers. Upgrade `@modelcontextprotocol/server-filesystem` to 2.3.0, and `mcp-server-git` and `mcp-server-fetch` to 2026.11.11.",
-      "date_published": "2026-11-11T07:07:16+00:00",
-      "tags": [
-        "api",
-        "feature",
-        "release",
-        "servers",
-        "mcp"
-      ]
-    },
-    {
-      "id": "frontierfeed:8331b94d07541176",
-      "url": "https://github.com/adrbn/bo2-mac",
-      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-      "summary": "100 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50449891",
-      "content_text": "100 points, 45 comments. Discussion: https://news.ycombinator.com/item?id=50449891",
-      "date_published": "2026-11-11T04:56:47+00:00",
       "tags": [
         "note",
         "info",
