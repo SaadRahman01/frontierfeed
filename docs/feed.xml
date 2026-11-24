@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 11:01:49 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 21:18:41 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,78 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Turn artifacts into Mac and Windows apps</title>
+<link>https://claude.com/resources/articles/install-as-app</link>
+<guid isPermaLink="false">frontierfeed:933b5f68450ff617</guid>
+<pubDate>Tue, 24 Nov 2026 21:18:31 +0000</pubDate>
+<category>note</category>
+<description>Open the artifacts you use every day like any other app, and let them do more on your computer</description>
+</item>
+<item>
+<title>MCP servers can now ship skills, run tasks, and more with Claude</title>
+<link>https://claude.com/resources/articles/skills-over-mcp-tasks-and-more</link>
+<guid isPermaLink="false">frontierfeed:6d648d256eabe58c</guid>
+<pubDate>Tue, 24 Nov 2026 21:18:31 +0000</pubDate>
+<category>api</category>
+<description>MCP servers can now ship skills, run tasks, and more with Claude</description>
+</item>
+<item>
+<title>sdk-v1.14.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.14.0</link>
+<guid isPermaLink="false">frontierfeed:f720bd97668c34ec</guid>
+<pubDate>Tue, 24 Nov 2026 21:01:02 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add Google-managed data controls for Google Cloud projects * **api:** add Google-managed data controls for user profiles * **api:** add support for compliance review cases, notices, and items ### Chores * **docs:** name both causes of the tool use limit er…</description>
+</item>
+<item>
+<title>v2.14.0</title>
+<link>https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.14.0</link>
+<guid isPermaLink="false">frontierfeed:f61597ce8eca778e</guid>
+<pubDate>Tue, 24 Nov 2026 21:00:57 +0000</pubDate>
+<category>api</category>
+<description>### Features * **api:** add Google-managed data controls for Google Cloud projects * **api:** add Google-managed data controls for user profiles * **api:** add support for compliance review cases, notices, and items ### Bug Fixes * **client:** honor proxy and trust_env when proxy…</description>
+</item>
+<item>
+<title>OpenAI reveals they solved VP ≠ VNP before Anthropic</title>
+<link>https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026</link>
+<guid isPermaLink="false">frontierfeed:f9fd709ada19cdef</guid>
+<pubDate>Tue, 24 Nov 2026 18:55:12 +0000</pubDate>
+<category>note</category>
+<description>81 points, 85 comments. Discussion: https://news.ycombinator.com/item?id=50632756</description>
+</item>
+<item>
+<title>Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark</title>
+<link>https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/</link>
+<guid isPermaLink="false">frontierfeed:97a926fabaa135b2</guid>
+<pubDate>Tue, 24 Nov 2026 17:10:45 +0000</pubDate>
+<category>note</category>
+<description>182 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=50631210</description>
+</item>
+<item>
+<title>Ask HN: Anthropic is accusing my company of distilling. How can I prove I&#x27;m not?</title>
+<link>https://news.ycombinator.com/item?id=50630809</link>
+<guid isPermaLink="false">frontierfeed:6bdae556686c5fa8</guid>
+<pubDate>Tue, 24 Nov 2026 16:45:44 +0000</pubDate>
+<category>note</category>
+<description>175 points, 133 comments. Discussion: https://news.ycombinator.com/item?id=50630809</description>
+</item>
+<item>
+<title>Anthropic is below its IPO price</title>
+<link>https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa</link>
+<guid isPermaLink="false">frontierfeed:a9b7a78b7470dd31</guid>
+<pubDate>Tue, 24 Nov 2026 14:41:15 +0000</pubDate>
+<category>pricing</category>
+<description>128 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50628932</description>
+</item>
+<item>
+<title>Anthropic breaks below $83 IPO price</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading</link>
+<guid isPermaLink="false">frontierfeed:0e0d05eb4d4e2fe4</guid>
+<pubDate>Tue, 24 Nov 2026 13:23:47 +0000</pubDate>
+<category>pricing</category>
+<description>243 points, 502 comments. Discussion: https://news.ycombinator.com/item?id=50627836</description>
+</item>
 <item>
 <title>The enterprise guide to securing coding agents</title>
 <link>https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</link>
@@ -742,78 +814,6 @@
 <pubDate>Thu, 12 Nov 2026 20:52:26 +0000</pubDate>
 <category>note</category>
 <description>J.Crew&#x27;s new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.</description>
-</item>
-<item>
-<title>Operate Claude Managed Agents inside your security perimeter</title>
-<link>https://claude.com/resources/articles/self-hosted-claude-managed-agents</link>
-<guid isPermaLink="false">frontierfeed:408356026979f707</guid>
-<pubDate>Thu, 12 Nov 2026 20:52:26 +0000</pubDate>
-<category>note</category>
-<description>Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.323 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.323</link>
-<guid isPermaLink="false">frontierfeed:c35e1e8657c3a3a7</guid>
-<pubDate>Thu, 12 Nov 2026 20:29:28 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.323 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.0.273 (breaking changes)</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.273</link>
-<guid isPermaLink="false">frontierfeed:f629ec1492bbd99b</guid>
-<pubDate>Thu, 12 Nov 2026 19:05:05 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed ### ⚠️ Breaking changes * Deny code-running commands on PRs from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2001 * Run sessions in auto mode by default by @mhegazy in https://github.com/anthropics/claude-cod…</description>
-</item>
-<item>
-<title>Show HN: AgentRun – open-source, Self-improving Managed Agents</title>
-<link>https://github.com/Parcha-ai/agentrun/blob/main/README.md</link>
-<guid isPermaLink="false">frontierfeed:ee4e541e0dd56eed</guid>
-<pubDate>Thu, 12 Nov 2026 18:15:48 +0000</pubDate>
-<category>note</category>
-<description>48 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50471650</description>
-</item>
-<item>
-<title>v1.0.272</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.272</link>
-<guid isPermaLink="false">frontierfeed:b67ed9554b65ca56</guid>
-<pubDate>Thu, 12 Nov 2026 17:13:23 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed * Pass structured output to shell steps through env by @bogini in https://github.com/anthropics/claude-code-action/pull/1963 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.271...v1.0.272</description>
-</item>
-<item>
-<title>Anthropic IPO</title>
-<link>https://ipo.anthropic.com/us/</link>
-<guid isPermaLink="false">frontierfeed:ce0b747cb609dd19</guid>
-<pubDate>Thu, 12 Nov 2026 11:46:41 +0000</pubDate>
-<category>note</category>
-<description>112 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=50465829</description>
-</item>
-<item>
-<title>Claude Code and Codex reverse engineered my 1994 Jeep&#x27;s ECU over a $3 Arduino [video]</title>
-<link>https://www.youtube.com/watch?v=WPj3aQ-xxpI</link>
-<guid isPermaLink="false">frontierfeed:246469d1ce7c3da6</guid>
-<pubDate>Thu, 12 Nov 2026 05:29:24 +0000</pubDate>
-<category>claude-code</category>
-<description>82 points, 37 comments. Discussion: https://news.ycombinator.com/item?id=50463399</description>
-</item>
-<item>
-<title>Show HN: Klad, a paint app your coding agent can drive (source-available)</title>
-<link>https://github.com/klad-app/klad</link>
-<guid isPermaLink="false">frontierfeed:83be31095076e215</guid>
-<pubDate>Wed, 11 Nov 2026 16:00:50 +0000</pubDate>
-<category>note</category>
-<description>67 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50454951</description>
-</item>
-<item>
-<title>Show HN: Yogurt – Free, private, open-source alternative to Granola</title>
-<link>https://github.com/FrigadeHQ/yogurt</link>
-<guid isPermaLink="false">frontierfeed:ab87b30e0032c54a</guid>
-<pubDate>Wed, 11 Nov 2026 15:33:06 +0000</pubDate>
-<category>note</category>
-<description>139 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50454625</description>
 </item>
 </channel>
 </rss>

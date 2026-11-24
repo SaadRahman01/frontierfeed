@@ -1,6 +1,147 @@
 {
   "items": [
     {
+      "title": "Turn artifacts into Mac and Windows apps",
+      "url": "https://claude.com/resources/articles/install-as-app",
+      "source": "claude-blog",
+      "published": "2026-11-24T21:18:31.150724+00:00",
+      "body": "Open the artifacts you use every day like any other app, and let them do more on your computer",
+      "summary": "Open the artifacts you use every day like any other app, and let them do more on your computer",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product"
+      ],
+      "uid": "933b5f68450ff617"
+    },
+    {
+      "title": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "source": "claude-blog",
+      "published": "2026-11-24T21:18:31.150666+00:00",
+      "body": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "summary": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "official",
+        "product",
+        "mcp",
+        "skills"
+      ],
+      "uid": "6d648d256eabe58c"
+    },
+    {
+      "title": "sdk-v1.14.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.14.0",
+      "source": "github:anthropics/anthropic-sdk-typescript",
+      "published": "2026-11-24T21:01:02+00:00",
+      "body": "### Features\n\n* **api:** add Google-managed data controls for Google Cloud projects\n* **api:** add Google-managed data controls for user profiles\n* **api:** add support for compliance review cases, notices, and items\n\n\n### Chores\n\n* **docs:** name both causes of the tool use limit error\n* **docs:** update example workspace and API key IDs",
+      "summary": "### Features * **api:** add Google-managed data controls for Google Cloud projects * **api:** add Google-managed data controls for user profiles * **api:** add support for compliance review cases, notices, and items ### Chores * **docs:** name both causes of the tool use limit er\u2026",
+      "version": "sdk-v1.14.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-typescript"
+      ],
+      "uid": "f720bd97668c34ec"
+    },
+    {
+      "title": "v2.14.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.14.0",
+      "source": "github:anthropics/anthropic-sdk-python",
+      "published": "2026-11-24T21:00:57+00:00",
+      "body": "### Features\n\n* **api:** add Google-managed data controls for Google Cloud projects\n* **api:** add Google-managed data controls for user profiles\n* **api:** add support for compliance review cases, notices, and items\n\n\n### Bug Fixes\n\n* **client:** honor proxy and trust_env when proxy variables are set\n\n  `DefaultHttpxClient` and `DefaultAsyncHttpxClient` read `HTTP_PROXY`, `HTTPS_PROXY`, `ALL_PROXY` and `NO_PROXY` even when the caller passed `proxy=` or `trust_env=False`, and the variables won. Now `proxy=` is used for every request and the variables are not read, and `trust_env=False` ignores them, as in plain `httpx2`.\n\n  What you may notice: with `proxy=` set, a host listed in `NO_PROXY` used to be reached directly and now goes through your proxy. To keep a host off the proxy, pass `mounts={\"all://that.host\": None}`.\n\n\n### Chores\n\n* **docs:** drop the provisional naming note from the Google Cloud client README\n* **docs:** name both causes of the tool use limit error\n* **docs:** update example workspace and API key IDs\n\n\n### Documentation\n\n* show what enum values mean",
+      "summary": "### Features * **api:** add Google-managed data controls for Google Cloud projects * **api:** add Google-managed data controls for user profiles * **api:** add support for compliance review cases, notices, and items ### Bug Fixes * **client:** honor proxy and trust_env when proxy\u2026",
+      "version": "2.14.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "anthropic-sdk-python"
+      ],
+      "uid": "f61597ce8eca778e"
+    },
+    {
+      "title": "OpenAI reveals they solved VP \u2260 VNP before Anthropic",
+      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "source": "hackernews",
+      "published": "2026-11-24T18:55:12+00:00",
+      "body": "81 points, 85 comments. Discussion: https://news.ycombinator.com/item?id=50632756",
+      "summary": "81 points, 85 comments. Discussion: https://news.ycombinator.com/item?id=50632756",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "f9fd709ada19cdef"
+    },
+    {
+      "title": "Anthropic Staff Openly Talk About \u2018Taking Over the World\u2019, Claims Max Tegmark",
+      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+      "source": "hackernews",
+      "published": "2026-11-24T17:10:45+00:00",
+      "body": "182 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=50631210",
+      "summary": "182 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=50631210",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "97a926fabaa135b2"
+    },
+    {
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "source": "hackernews",
+      "published": "2026-11-24T16:45:44+00:00",
+      "body": "175 points, 133 comments. Discussion: https://news.ycombinator.com/item?id=50630809",
+      "summary": "175 points, 133 comments. Discussion: https://news.ycombinator.com/item?id=50630809",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "6bdae556686c5fa8"
+    },
+    {
+      "title": "Anthropic is below its IPO price",
+      "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+      "source": "hackernews",
+      "published": "2026-11-24T14:41:15+00:00",
+      "body": "128 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50628932",
+      "summary": "128 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50628932",
+      "version": "",
+      "category": "pricing",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "a9b7a78b7470dd31"
+    },
+    {
+      "title": "Anthropic breaks below $83 IPO price",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "source": "hackernews",
+      "published": "2026-11-24T13:23:47+00:00",
+      "body": "243 points, 502 comments. Discussion: https://news.ycombinator.com/item?id=50627836",
+      "summary": "243 points, 502 comments. Discussion: https://news.ycombinator.com/item?id=50627836",
+      "version": "",
+      "category": "pricing",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "0e0d05eb4d4e2fe4"
+    },
+    {
       "title": "The enterprise guide to securing coding agents",
       "url": "https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents",
       "source": "claude-blog",
@@ -4622,148 +4763,6 @@
         "anthropic-sdk-typescript"
       ],
       "uid": "78e6490fa7c6a32a"
-    },
-    {
-      "title": "bedrock-sdk-v1.0.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.0.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-21T15:52:43+00:00",
-      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add support for new API version 2026-10-21",
-      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
-      "version": "bedrock-sdk-v1.0.0",
-      "category": "api",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "878b56071e2f54d5"
-    },
-    {
-      "title": "vertex-sdk-v1.0.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/vertex-sdk-v1.0.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-21T15:52:40+00:00",
-      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add support for new API version 2026-10-21",
-      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
-      "version": "ertex-sdk-v1.0.0",
-      "category": "api",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "910bd7e3d823ea57"
-    },
-    {
-      "title": "sdk-v1.0.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.0.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-21T15:52:38+00:00",
-      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add a workspace_id filter and the usage_tier scope type to list spend limits\n* **api:** add support for new API version 2026-10-21\n\n\n### Chores\n\n* **ci:** check the changelog of each package a pull request changes\n* **internal:** specify which changelog a pull request updates\n\n\n### Documentation\n\n* **api:** remove outdated system role note from messages description",
-      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Chores * **ci:** check the changelog of each\u2026",
-      "version": "sdk-v1.0.0",
-      "category": "api",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "6245e7091c0f60ad"
-    },
-    {
-      "title": "v2.0.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.0.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-10-21T15:51:32+00:00",
-      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add a workspace_id filter and the usage_tier scope type to list spend limits\n* **api:** add support for new API version 2026-10-21\n\n\n### Documentation\n\n* **api:** remove outdated system role note from messages description",
-      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add a workspace_id filter and the usage_tier scope type to list spend limits * **api:** add support for new API version 2026-10-21 ### Documentation * **api:** remove outdated sys\u2026",
-      "version": "2.0.0",
-      "category": "api",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-python"
-      ],
-      "uid": "1c62619906394987"
-    },
-    {
-      "title": "Using Claude to reduce the attack surface of code",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "source": "hackernews",
-      "published": "2026-10-21T03:36:43+00:00",
-      "body": "92 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50175779",
-      "summary": "92 points, 55 comments. Discussion: https://news.ycombinator.com/item?id=50175779",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "b2bdcbdc1b05fce1"
-    },
-    {
-      "title": "v1.0.256",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.256",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-21T03:19:41+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.255...v1.0.256",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.255...v1.0.256",
-      "version": "1.0.256",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "2c5fe96bcce02f6b"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.306 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.306",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-21T02:28:47.495000+00:00",
-      "body": "Version 2.1.306 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.306 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.306",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "57367f0244211caf"
-    },
-    {
-      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
-      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
-      "source": "hackernews",
-      "published": "2026-10-20T22:27:07+00:00",
-      "body": "40 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50173557",
-      "summary": "40 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50173557",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "7f41b3a492202082"
-    },
-    {
-      "title": "sdk-v0.137.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.137.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-20T22:16:13+00:00",
-      "body": "### Features\n\n* **api:** add org webhook endpoints and user profile enforcement events\n\n\n### Chores\n\n* **ci:** run the changelog check on a standard runner\n* **tests:** make credential tests independent of the caller's environment",
-      "summary": "### Features * **api:** add org webhook endpoints and user profile enforcement events ### Chores * **ci:** run the changelog check on a standard runner * **tests:** make credential tests independent of the caller's environment",
-      "version": "sdk-v0.137.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "23f8935054bd2bf0"
     }
   ]
 }

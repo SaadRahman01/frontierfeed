@@ -9,6 +9,129 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:933b5f68450ff617",
+      "url": "https://claude.com/resources/articles/install-as-app",
+      "title": "Turn artifacts into Mac and Windows apps",
+      "summary": "Open the artifacts you use every day like any other app, and let them do more on your computer",
+      "content_text": "Open the artifacts you use every day like any other app, and let them do more on your computer",
+      "date_published": "2026-11-24T21:18:31.150724+00:00",
+      "tags": [
+        "note",
+        "info",
+        "official",
+        "product"
+      ]
+    },
+    {
+      "id": "frontierfeed:6d648d256eabe58c",
+      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "title": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "summary": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "content_text": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "date_published": "2026-11-24T21:18:31.150666+00:00",
+      "tags": [
+        "api",
+        "info",
+        "official",
+        "product",
+        "mcp",
+        "skills"
+      ]
+    },
+    {
+      "id": "frontierfeed:f720bd97668c34ec",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.14.0",
+      "title": "sdk-v1.14.0",
+      "summary": "### Features * **api:** add Google-managed data controls for Google Cloud projects * **api:** add Google-managed data controls for user profiles * **api:** add support for compliance review cases, notices, and items ### Chores * **docs:** name both causes of the tool use limit er…",
+      "content_text": "### Features * **api:** add Google-managed data controls for Google Cloud projects * **api:** add Google-managed data controls for user profiles * **api:** add support for compliance review cases, notices, and items ### Chores * **docs:** name both causes of the tool use limit er…",
+      "date_published": "2026-11-24T21:01:02+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-typescript"
+      ]
+    },
+    {
+      "id": "frontierfeed:f61597ce8eca778e",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.14.0",
+      "title": "v2.14.0",
+      "summary": "### Features * **api:** add Google-managed data controls for Google Cloud projects * **api:** add Google-managed data controls for user profiles * **api:** add support for compliance review cases, notices, and items ### Bug Fixes * **client:** honor proxy and trust_env when proxy…",
+      "content_text": "### Features * **api:** add Google-managed data controls for Google Cloud projects * **api:** add Google-managed data controls for user profiles * **api:** add support for compliance review cases, notices, and items ### Bug Fixes * **client:** honor proxy and trust_env when proxy…",
+      "date_published": "2026-11-24T21:00:57+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "release",
+        "anthropic-sdk-python"
+      ]
+    },
+    {
+      "id": "frontierfeed:f9fd709ada19cdef",
+      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+      "summary": "81 points, 85 comments. Discussion: https://news.ycombinator.com/item?id=50632756",
+      "content_text": "81 points, 85 comments. Discussion: https://news.ycombinator.com/item?id=50632756",
+      "date_published": "2026-11-24T18:55:12+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:97a926fabaa135b2",
+      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+      "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+      "summary": "182 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=50631210",
+      "content_text": "182 points, 97 comments. Discussion: https://news.ycombinator.com/item?id=50631210",
+      "date_published": "2026-11-24T17:10:45+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:6bdae556686c5fa8",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "summary": "175 points, 133 comments. Discussion: https://news.ycombinator.com/item?id=50630809",
+      "content_text": "175 points, 133 comments. Discussion: https://news.ycombinator.com/item?id=50630809",
+      "date_published": "2026-11-24T16:45:44+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:a9b7a78b7470dd31",
+      "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+      "title": "Anthropic is below its IPO price",
+      "summary": "128 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50628932",
+      "content_text": "128 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50628932",
+      "date_published": "2026-11-24T14:41:15+00:00",
+      "tags": [
+        "pricing",
+        "info",
+        "community"
+      ]
+    },
+    {
+      "id": "frontierfeed:0e0d05eb4d4e2fe4",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "title": "Anthropic breaks below $83 IPO price",
+      "summary": "243 points, 502 comments. Discussion: https://news.ycombinator.com/item?id=50627836",
+      "content_text": "243 points, 502 comments. Discussion: https://news.ycombinator.com/item?id=50627836",
+      "date_published": "2026-11-24T13:23:47+00:00",
+      "tags": [
+        "pricing",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:202967d65324dd59",
       "url": "https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents",
       "title": "The enterprise guide to securing coding agents",
@@ -1276,127 +1399,6 @@
         "info",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:408356026979f707",
-      "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
-      "title": "Operate Claude Managed Agents inside your security perimeter",
-      "summary": "Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.",
-      "content_text": "Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.",
-      "date_published": "2026-11-12T20:52:26.295373+00:00",
-      "tags": [
-        "note",
-        "feature",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:c35e1e8657c3a3a7",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.323",
-      "title": "@anthropic-ai/claude-code 2.1.323 published",
-      "summary": "Version 2.1.323 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.323 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-11-12T20:29:28.626000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
-      ]
-    },
-    {
-      "id": "frontierfeed:f629ec1492bbd99b",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.273",
-      "title": "v1.0.273 (breaking changes)",
-      "summary": "## What's Changed ### ⚠️ Breaking changes * Deny code-running commands on PRs from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2001 * Run sessions in auto mode by default by @mhegazy in https://github.com/anthropics/claude-cod…",
-      "content_text": "## What's Changed ### ⚠️ Breaking changes * Deny code-running commands on PRs from authors without write access by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2001 * Run sessions in auto mode by default by @mhegazy in https://github.com/anthropics/claude-cod…",
-      "date_published": "2026-11-12T19:05:05+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:ee4e541e0dd56eed",
-      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-      "summary": "48 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50471650",
-      "content_text": "48 points, 3 comments. Discussion: https://news.ycombinator.com/item?id=50471650",
-      "date_published": "2026-11-12T18:15:48+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:b67ed9554b65ca56",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.272",
-      "title": "v1.0.272",
-      "summary": "## What's Changed * Pass structured output to shell steps through env by @bogini in https://github.com/anthropics/claude-code-action/pull/1963 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.271...v1.0.272",
-      "content_text": "## What's Changed * Pass structured output to shell steps through env by @bogini in https://github.com/anthropics/claude-code-action/pull/1963 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.271...v1.0.272",
-      "date_published": "2026-11-12T17:13:23+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:ce0b747cb609dd19",
-      "url": "https://ipo.anthropic.com/us/",
-      "title": "Anthropic IPO",
-      "summary": "112 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=50465829",
-      "content_text": "112 points, 116 comments. Discussion: https://news.ycombinator.com/item?id=50465829",
-      "date_published": "2026-11-12T11:46:41+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:246469d1ce7c3da6",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "summary": "82 points, 37 comments. Discussion: https://news.ycombinator.com/item?id=50463399",
-      "content_text": "82 points, 37 comments. Discussion: https://news.ycombinator.com/item?id=50463399",
-      "date_published": "2026-11-12T05:29:24+00:00",
-      "tags": [
-        "claude-code",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:83be31095076e215",
-      "url": "https://github.com/klad-app/klad",
-      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-      "summary": "67 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50454951",
-      "content_text": "67 points, 28 comments. Discussion: https://news.ycombinator.com/item?id=50454951",
-      "date_published": "2026-11-11T16:00:50+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
-      ]
-    },
-    {
-      "id": "frontierfeed:ab87b30e0032c54a",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "summary": "139 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50454625",
-      "content_text": "139 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50454625",
-      "date_published": "2026-11-11T15:33:06+00:00",
-      "tags": [
-        "note",
-        "info",
-        "community"
       ]
     }
   ]
