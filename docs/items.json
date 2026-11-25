@@ -1,9 +1,41 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-24T21:18:42.001496+00:00",
+  "generated": "2026-11-25T04:55:07.137658+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "v1.0.290",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.290",
+      "source": "github:anthropics/claude-code-action",
+      "published": "2026-11-25T01:35:12+00:00",
+      "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.290 -->\n\n## What's Changed\n### Other changes\n* Restore GITHUB_OUTPUT when the session ends by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2121\n\n\n**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.289...v1.0.290\n",
+      "summary": "## What's Changed ### Other changes * Restore GITHUB_OUTPUT when the session ends by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2121 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.289...v1.0.290",
+      "version": "1.0.290",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "claude-code-action"
+      ],
+      "uid": "cd2405991f4100a3"
+    },
+    {
+      "title": "@anthropic-ai/claude-code 2.1.332 published",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.332",
+      "source": "npm:@anthropic-ai/claude-code",
+      "published": "2026-11-24T22:06:38.097000+00:00",
+      "body": "Version 2.1.332 of @anthropic-ai/claude-code was published to the npm registry.",
+      "summary": "Version 2.1.332 of @anthropic-ai/claude-code was published to the npm registry.",
+      "version": "2.1.332",
+      "category": "claude-code",
+      "impact": "fix",
+      "tags": [
+        "release",
+        "npm"
+      ],
+      "uid": "0d47ad7b8edae23b"
+    },
     {
       "title": "Turn artifacts into Mac and Windows apps",
       "url": "https://claude.com/resources/articles/install-as-app",
@@ -39,6 +71,21 @@
       "uid": "6d648d256eabe58c"
     },
     {
+      "title": "Working with AI",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "source": "hackernews",
+      "published": "2026-11-24T21:07:38+00:00",
+      "body": "65 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50634734",
+      "summary": "65 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50634734",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "d68ca01781be9187"
+    },
+    {
       "title": "sdk-v1.14.0",
       "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.14.0",
       "source": "github:anthropics/anthropic-sdk-typescript",
@@ -69,6 +116,22 @@
         "anthropic-sdk-python"
       ],
       "uid": "f61597ce8eca778e"
+    },
+    {
+      "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "source": "hackernews",
+      "published": "2026-11-24T20:44:15+00:00",
+      "body": "77 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50634426",
+      "summary": "77 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50634426",
+      "version": "",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "community",
+        "mcp"
+      ],
+      "uid": "bf9f3802e9d30b62"
     },
     {
       "title": "OpenAI reveals they solved VP \u2260 VNP before Anthropic",
@@ -4704,69 +4767,6 @@
         "community"
       ],
       "uid": "c411a0e2f24370bd"
-    },
-    {
-      "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
-      "url": "https://github.com/omnara-ai/omnara",
-      "source": "hackernews",
-      "published": "2026-10-21T16:44:53+00:00",
-      "body": "68 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50183892",
-      "summary": "68 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50183892",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "5fc290bb09157170"
-    },
-    {
-      "title": "google-cloud-sdk-v1.0.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/google-cloud-sdk-v1.0.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-21T15:52:51+00:00",
-      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add support for new API version 2026-10-21",
-      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
-      "version": "google-cloud-sdk-v1.0.0",
-      "category": "api",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "377d27758a4c7ad5"
-    },
-    {
-      "title": "aws-sdk-v1.0.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v1.0.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-21T15:52:49+00:00",
-      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add support for new API version 2026-10-21",
-      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
-      "version": "aws-sdk-v1.0.0",
-      "category": "api",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "3a3fbbd4774eb20b"
-    },
-    {
-      "title": "foundry-sdk-v1.0.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/foundry-sdk-v1.0.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-21T15:52:46+00:00",
-      "body": "### \u26a0 BREAKING CHANGES\n\n* **api:** add support for new API version 2026-10-21\n\n### Features\n\n* **api:** add support for new API version 2026-10-21",
-      "summary": "### \u26a0 BREAKING CHANGES * **api:** add support for new API version 2026-10-21 ### Features * **api:** add support for new API version 2026-10-21",
-      "version": "foundry-sdk-v1.0.0",
-      "category": "api",
-      "impact": "breaking",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "78e6490fa7c6a32a"
     }
   ]
 }

@@ -9,6 +9,34 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:cd2405991f4100a3",
+      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.290",
+      "title": "v1.0.290",
+      "summary": "## What's Changed ### Other changes * Restore GITHUB_OUTPUT when the session ends by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2121 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.289...v1.0.290",
+      "content_text": "## What's Changed ### Other changes * Restore GITHUB_OUTPUT when the session ends by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2121 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.289...v1.0.290",
+      "date_published": "2026-11-25T01:35:12+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:0d47ad7b8edae23b",
+      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.332",
+      "title": "@anthropic-ai/claude-code 2.1.332 published",
+      "summary": "Version 2.1.332 of @anthropic-ai/claude-code was published to the npm registry.",
+      "content_text": "Version 2.1.332 of @anthropic-ai/claude-code was published to the npm registry.",
+      "date_published": "2026-11-24T22:06:38.097000+00:00",
+      "tags": [
+        "claude-code",
+        "fix",
+        "release",
+        "npm"
+      ]
+    },
+    {
       "id": "frontierfeed:933b5f68450ff617",
       "url": "https://claude.com/resources/articles/install-as-app",
       "title": "Turn artifacts into Mac and Windows apps",
@@ -39,6 +67,19 @@
       ]
     },
     {
+      "id": "frontierfeed:d68ca01781be9187",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "title": "Working with AI",
+      "summary": "65 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50634734",
+      "content_text": "65 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50634734",
+      "date_published": "2026-11-24T21:07:38+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:f720bd97668c34ec",
       "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.14.0",
       "title": "sdk-v1.14.0",
@@ -64,6 +105,20 @@
         "feature",
         "release",
         "anthropic-sdk-python"
+      ]
+    },
+    {
+      "id": "frontierfeed:bf9f3802e9d30b62",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "summary": "77 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50634426",
+      "content_text": "77 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50634426",
+      "date_published": "2026-11-24T20:44:15+00:00",
+      "tags": [
+        "api",
+        "feature",
+        "community",
+        "mcp"
       ]
     },
     {
@@ -1342,63 +1397,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:5a13820b1840158c",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.274",
-      "title": "v1.0.274",
-      "summary": "## What's Changed ### Other changes * Let Claude read CI results on outside pull requests by @qing-ant in https://github.com/anthropics/claude-code-action/pull/2009 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.273...v1.0.274",
-      "content_text": "## What's Changed ### Other changes * Let Claude read CI results on outside pull requests by @qing-ant in https://github.com/anthropics/claude-code-action/pull/2009 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.273...v1.0.274",
-      "date_published": "2026-11-12T22:15:12+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:09e1544c981add7d",
-      "url": "https://claude.com/resources/articles/claude-for-manufacturing",
-      "title": "Introducing Claude for Manufacturing",
-      "summary": "A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.",
-      "content_text": "A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.",
-      "date_published": "2026-11-12T20:52:26.295452+00:00",
-      "tags": [
-        "launch",
-        "feature",
-        "official",
-        "product",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:c2eed48552767e9d",
-      "url": "https://claude.com/resources/articles/claude-tag-guide-for-startups",
-      "title": "The Claude Tag guide for startups",
-      "summary": "How leading startups use Claude Tag to ship faster and scale operations",
-      "content_text": "How leading startups use Claude Tag to ship faster and scale operations",
-      "date_published": "2026-11-12T20:52:26.295435+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:385287c52b4a6b7d",
-      "url": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude",
-      "title": "J. Crew brings its signature approach to styling to life with Claude",
-      "summary": "J.Crew's new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.",
-      "content_text": "J.Crew's new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.",
-      "date_published": "2026-11-12T20:52:26.295415+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product"
       ]
     }
   ]

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 21:18:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 04:55:07 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,22 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v1.0.290</title>
+<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.290</link>
+<guid isPermaLink="false">frontierfeed:cd2405991f4100a3</guid>
+<pubDate>Wed, 25 Nov 2026 01:35:12 +0000</pubDate>
+<category>claude-code</category>
+<description>## What&#x27;s Changed ### Other changes * Restore GITHUB_OUTPUT when the session ends by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2121 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.289...v1.0.290</description>
+</item>
+<item>
+<title>@anthropic-ai/claude-code 2.1.332 published</title>
+<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.332</link>
+<guid isPermaLink="false">frontierfeed:0d47ad7b8edae23b</guid>
+<pubDate>Tue, 24 Nov 2026 22:06:38 +0000</pubDate>
+<category>claude-code</category>
+<description>Version 2.1.332 of @anthropic-ai/claude-code was published to the npm registry.</description>
+</item>
 <item>
 <title>Turn artifacts into Mac and Windows apps</title>
 <link>https://claude.com/resources/articles/install-as-app</link>
@@ -32,6 +48,14 @@
 <description>MCP servers can now ship skills, run tasks, and more with Claude</description>
 </item>
 <item>
+<title>Working with AI</title>
+<link>https://www.anthropic.com/research/working-with-ai</link>
+<guid isPermaLink="false">frontierfeed:d68ca01781be9187</guid>
+<pubDate>Tue, 24 Nov 2026 21:07:38 +0000</pubDate>
+<category>note</category>
+<description>65 points, 66 comments. Discussion: https://news.ycombinator.com/item?id=50634734</description>
+</item>
+<item>
 <title>sdk-v1.14.0</title>
 <link>https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.14.0</link>
 <guid isPermaLink="false">frontierfeed:f720bd97668c34ec</guid>
@@ -46,6 +70,14 @@
 <pubDate>Tue, 24 Nov 2026 21:00:57 +0000</pubDate>
 <category>api</category>
 <description>### Features * **api:** add Google-managed data controls for Google Cloud projects * **api:** add Google-managed data controls for user profiles * **api:** add support for compliance review cases, notices, and items ### Bug Fixes * **client:** honor proxy and trust_env when proxy…</description>
+</item>
+<item>
+<title>Launch HN: Versine (YC F26) – MCP to send and receive money</title>
+<link>https://news.ycombinator.com/item?id=50634426</link>
+<guid isPermaLink="false">frontierfeed:bf9f3802e9d30b62</guid>
+<pubDate>Tue, 24 Nov 2026 20:44:15 +0000</pubDate>
+<category>api</category>
+<description>77 points, 62 comments. Discussion: https://news.ycombinator.com/item?id=50634426</description>
 </item>
 <item>
 <title>OpenAI reveals they solved VP ≠ VNP before Anthropic</title>
@@ -782,38 +814,6 @@
 <pubDate>Thu, 12 Nov 2026 23:14:27 +0000</pubDate>
 <category>claude-code</category>
 <description>## What&#x27;s Changed ### Other changes * Make the git wrappers independent of the session&#x27;s environment by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2018 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.274...v1.0.275</description>
-</item>
-<item>
-<title>v1.0.274</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.274</link>
-<guid isPermaLink="false">frontierfeed:5a13820b1840158c</guid>
-<pubDate>Thu, 12 Nov 2026 22:15:12 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed ### Other changes * Let Claude read CI results on outside pull requests by @qing-ant in https://github.com/anthropics/claude-code-action/pull/2009 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.273...v1.0.274</description>
-</item>
-<item>
-<title>Introducing Claude for Manufacturing</title>
-<link>https://claude.com/resources/articles/claude-for-manufacturing</link>
-<guid isPermaLink="false">frontierfeed:09e1544c981add7d</guid>
-<pubDate>Thu, 12 Nov 2026 20:52:26 +0000</pubDate>
-<category>launch</category>
-<description>A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.</description>
-</item>
-<item>
-<title>The Claude Tag guide for startups</title>
-<link>https://claude.com/resources/articles/claude-tag-guide-for-startups</link>
-<guid isPermaLink="false">frontierfeed:c2eed48552767e9d</guid>
-<pubDate>Thu, 12 Nov 2026 20:52:26 +0000</pubDate>
-<category>note</category>
-<description>How leading startups use Claude Tag to ship faster and scale operations</description>
-</item>
-<item>
-<title>J. Crew brings its signature approach to styling to life with Claude</title>
-<link>https://claude.com/resources/articles/j-crew-style-advisor-with-claude</link>
-<guid isPermaLink="false">frontierfeed:385287c52b4a6b7d</guid>
-<pubDate>Thu, 12 Nov 2026 20:52:26 +0000</pubDate>
-<category>note</category>
-<description>J.Crew&#x27;s new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.</description>
 </item>
 </channel>
 </rss>
