@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-25T04:55:07.137658+00:00",
+  "generated": "2026-11-25T15:42:19.920281+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "source": "hackernews",
+      "published": "2026-11-25T15:08:44+00:00",
+      "body": "45 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50643065",
+      "summary": "45 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50643065",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "4378de8773648f25"
+    },
     {
       "title": "v1.0.290",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.290",
@@ -19,6 +34,21 @@
         "claude-code-action"
       ],
       "uid": "cd2405991f4100a3"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/",
+      "source": "hackernews",
+      "published": "2026-11-24T22:27:19+00:00",
+      "body": "50 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50635706",
+      "summary": "50 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50635706",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "73d27686d22db9ef"
     },
     {
       "title": "@anthropic-ai/claude-code 2.1.332 published",
@@ -4736,37 +4766,6 @@
         "news"
       ],
       "uid": "f28145f8cf320c8a"
-    },
-    {
-      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "source": "anthropic-news",
-      "published": "2026-10-21T18:41:55.302681+00:00",
-      "body": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic\u2019s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.",
-      "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic\u2019s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "aa9fefa2be90e4ed"
-    },
-    {
-      "title": "Anthropic's Public Benefit Charter",
-      "url": "https://www.anthropic.com/public-benefit-charter",
-      "source": "hackernews",
-      "published": "2026-10-21T18:29:54+00:00",
-      "body": "45 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50185438",
-      "summary": "45 points, 49 comments. Discussion: https://news.ycombinator.com/item?id=50185438",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "c411a0e2f24370bd"
     }
   ]
 }

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 04:55:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 15:42:19 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -16,12 +16,28 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
 <item>
+<title>Rumors swirling that labs might have cracked Factoring in P</title>
+<link>https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/</link>
+<guid isPermaLink="false">frontierfeed:4378de8773648f25</guid>
+<pubDate>Wed, 25 Nov 2026 15:08:44 +0000</pubDate>
+<category>note</category>
+<description>45 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50643065</description>
+</item>
+<item>
 <title>v1.0.290</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.290</link>
 <guid isPermaLink="false">frontierfeed:cd2405991f4100a3</guid>
 <pubDate>Wed, 25 Nov 2026 01:35:12 +0000</pubDate>
 <category>claude-code</category>
 <description>## What&#x27;s Changed ### Other changes * Restore GITHUB_OUTPUT when the session ends by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2121 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.289...v1.0.290</description>
+</item>
+<item>
+<title>Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO</title>
+<link>https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/</link>
+<guid isPermaLink="false">frontierfeed:73d27686d22db9ef</guid>
+<pubDate>Tue, 24 Nov 2026 22:27:19 +0000</pubDate>
+<category>note</category>
+<description>50 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50635706</description>
 </item>
 <item>
 <title>@anthropic-ai/claude-code 2.1.332 published</title>
@@ -798,22 +814,6 @@
 <pubDate>Fri, 13 Nov 2026 01:52:54 +0000</pubDate>
 <category>launch</category>
 <description>Add Claude to your video call and get the work started while you talk</description>
-</item>
-<item>
-<title>Using Claude Opus 5.5 as your daily driver for knowledge work</title>
-<link>https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work</link>
-<guid isPermaLink="false">frontierfeed:7695cb6b9d29f5c4</guid>
-<pubDate>Fri, 13 Nov 2026 01:52:54 +0000</pubDate>
-<category>note</category>
-<description>Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here&#x27;s how it compares with our other models, and how to get the most from it for knowledge work.</description>
-</item>
-<item>
-<title>v1.0.275</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.275</link>
-<guid isPermaLink="false">frontierfeed:fc43c3b01663e77e</guid>
-<pubDate>Thu, 12 Nov 2026 23:14:27 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed ### Other changes * Make the git wrappers independent of the session&#x27;s environment by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2018 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.274...v1.0.275</description>
 </item>
 </channel>
 </rss>

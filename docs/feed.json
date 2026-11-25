@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:4378de8773648f25",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "summary": "45 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50643065",
+      "content_text": "45 points, 17 comments. Discussion: https://news.ycombinator.com/item?id=50643065",
+      "date_published": "2026-11-25T15:08:44+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:cd2405991f4100a3",
       "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.290",
       "title": "v1.0.290",
@@ -20,6 +33,19 @@
         "fix",
         "release",
         "claude-code-action"
+      ]
+    },
+    {
+      "id": "frontierfeed:73d27686d22db9ef",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/",
+      "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
+      "summary": "50 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50635706",
+      "content_text": "50 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50635706",
+      "date_published": "2026-11-24T22:27:19+00:00",
+      "tags": [
+        "note",
+        "info",
+        "community"
       ]
     },
     {
@@ -1368,35 +1394,6 @@
         "feature",
         "official",
         "product"
-      ]
-    },
-    {
-      "id": "frontierfeed:7695cb6b9d29f5c4",
-      "url": "https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work",
-      "title": "Using Claude Opus 5.5 as your daily driver for knowledge work",
-      "summary": "Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here's how it compares with our other models, and how to get the most from it for knowledge work.",
-      "content_text": "Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here's how it compares with our other models, and how to get the most from it for knowledge work.",
-      "date_published": "2026-11-13T01:52:54.999167+00:00",
-      "tags": [
-        "note",
-        "info",
-        "official",
-        "product",
-        "opus"
-      ]
-    },
-    {
-      "id": "frontierfeed:fc43c3b01663e77e",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.275",
-      "title": "v1.0.275",
-      "summary": "## What's Changed ### Other changes * Make the git wrappers independent of the session's environment by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2018 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.274...v1.0.275",
-      "content_text": "## What's Changed ### Other changes * Make the git wrappers independent of the session's environment by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2018 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.274...v1.0.275",
-      "date_published": "2026-11-12T23:14:27+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "claude-code-action"
       ]
     }
   ]
