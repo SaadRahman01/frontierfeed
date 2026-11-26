@@ -1,6 +1,230 @@
 {
   "items": [
     {
+      "title": "Effective harnesses for long-running agents",
+      "url": "https://www.anthropic.com/research/effective-harnesses-for-long-running-agents",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.211036+00:00",
+      "body": "We developed a two-fold solution to enable the Claude Agent SDK to work effectively across many context windows: an initializer agent that sets up the environment on the first run, and a coding agent that is tasked with making incremental progress in every session while leaving clear artifacts for the next session.",
+      "summary": "We developed a two-fold solution to enable the Claude Agent SDK to work effectively across many context windows: an initializer agent that sets up the environment on the first run, and a coding agent that is tasked with making incremental progress in every session while leaving c\u2026",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "b5f900c211bf24ba"
+    },
+    {
+      "title": "Demystifying evals for AI agents",
+      "url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.211020+00:00",
+      "body": "Guidance on how to design more rigorous and useful evals for agents across a range of agent architectures and use cases in real-world deployment.",
+      "summary": "Guidance on how to design more rigorous and useful evals for agents across a range of agent architectures and use cases in real-world deployment.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "c43ad2d66b220c71"
+    },
+    {
+      "title": "Designing AI-resistant technical evaluations",
+      "url": "https://www.anthropic.com/research/AI-resistant-technical-evaluations",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.211004+00:00",
+      "body": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
+      "summary": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "e448c0186ac33d60"
+    },
+    {
+      "title": "Building a C compiler with a team of parallel Claudes",
+      "url": "https://www.anthropic.com/research/building-c-compiler",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.210988+00:00",
+      "body": "Nicholas Carlini, a researcher on our Safeguards team, explains how he tasked 16 agents with writing a Rust-based C compiler, from scratch, capable of compiling the Linux kernel.",
+      "summary": "Nicholas Carlini, a researcher on our Safeguards team, explains how he tasked 16 agents with writing a Rust-based C compiler, from scratch, capable of compiling the Linux kernel.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "f26747cd77e40576"
+    },
+    {
+      "title": "Quantifying infrastructure noise in agentic coding evals",
+      "url": "https://www.anthropic.com/research/infrastructure-noise",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.210972+00:00",
+      "body": "Agentic coding benchmarks are often treated as precise measurements of relative model capability. However, we\u2019ve found that infrastructure configuration alone can produce meaningful differences in the scores.",
+      "summary": "Agentic coding benchmarks are often treated as precise measurements of relative model capability. However, we\u2019ve found that infrastructure configuration alone can produce meaningful differences in the scores.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "95ac1f7755c42dbe"
+    },
+    {
+      "title": "Eval awareness in Claude Opus 4.6\u2019s BrowseComp performance",
+      "url": "https://www.anthropic.com/research/eval-awareness-browsecomp",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.210956+00:00",
+      "body": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it\u2014raising questions about eval integrity in web-enabled environments.",
+      "summary": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it\u2014raising questions about eval integrity in web-enabled environments.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering",
+        "opus"
+      ],
+      "uid": "67b820295c2def45"
+    },
+    {
+      "title": "Harness design for long-running application development",
+      "url": "https://www.anthropic.com/research/harness-design-long-running-apps",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.210940+00:00",
+      "body": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
+      "summary": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "d7af4282c26b2995"
+    },
+    {
+      "title": "How we built Claude Code auto mode: a safer way to skip permissions",
+      "url": "https://www.anthropic.com/research/claude-code-auto-mode",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.210922+00:00",
+      "body": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.",
+      "summary": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "e8109e646553a5b7"
+    },
+    {
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/research/managed-agents",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.210892+00:00",
+      "body": "Harnesses encode assumptions that go stale as models improve. Managed Agents\u2014our hosted service for long-horizon agent work\u2014is built around interfaces that stay stable as harnesses change.",
+      "summary": "Harnesses encode assumptions that go stale as models improve. Managed Agents\u2014our hosted service for long-horizon agent work\u2014is built around interfaces that stay stable as harnesses change.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "e0578653f5c4fca4"
+    },
+    {
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/research/april-23-postmortem",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.210876+00:00",
+      "body": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened and what we're changing.",
+      "summary": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened and what we're changing.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "7cd855a9dc93a047"
+    },
+    {
+      "title": "How we contain Claude across products",
+      "url": "https://www.anthropic.com/research/how-we-contain-claude",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.210859+00:00",
+      "body": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here\u2019s what we\u2019ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "summary": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here\u2019s what we\u2019ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "8a655ad8eac3c2fd"
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/research/redesigning-source-control",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.210840+00:00",
+      "body": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "9a18ada52b37c221"
+    },
+    {
+      "title": "Migrating our Messages API to Rust",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "source": "anthropic-engineering",
+      "published": "2026-11-26T00:27:33.210758+00:00",
+      "body": "How we migrated our Messages API from Python to Rust.",
+      "summary": "How we migrated our Messages API from Python to Rust.",
+      "version": "",
+      "category": "api",
+      "impact": "info",
+      "tags": [
+        "official",
+        "engineering"
+      ],
+      "uid": "2ad8404cf5491f75"
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "source": "hackernews",
+      "published": "2026-11-25T21:48:10+00:00",
+      "body": "217 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=50648050",
+      "summary": "217 points, 96 comments. Discussion: https://news.ycombinator.com/item?id=50648050",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "9c87a7d1d8cf930c"
+    },
+    {
       "title": "Rumors swirling that labs might have cracked Factoring in P",
       "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
       "source": "hackernews",
@@ -4535,233 +4759,6 @@
         "product"
       ],
       "uid": "7ee50b4eb9b11588"
-    },
-    {
-      "title": "Show HN: OnKey \u2013 I'm a bad singer, so I built an app to show where I'm off-key",
-      "url": "https://github.com/dsmurrell/onkey",
-      "source": "hackernews",
-      "published": "2026-10-22T14:04:44+00:00",
-      "body": "90 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50195488",
-      "summary": "90 points, 47 comments. Discussion: https://news.ycombinator.com/item?id=50195488",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "48c60ba99abcff69"
-    },
-    {
-      "title": "Invisibilization as a Source of Probability Bias in Language Models",
-      "url": "https://arxiv.org/abs/2610.30785v1",
-      "source": "arxiv",
-      "published": "2026-10-22T06:03:35+00:00",
-      "body": "Language models are aligned to avoid using protected attributes such as race, ethnicity, and gender to inform their responses. Therefore, they increasingly refuse or hedge when such attributes appear in a prompt. However, if a system must decide how much to learn from what people tell it, it is costly to refuse valuable information because of its source. In this article, we measure the cost of declining information in a two-urn game with an exact Bayesian answer. We present leading LLM models from two developers (OpenAI and Anthropic) with a prompt that requires them to decide how far to trust an unverifiable report from a participant whose description we randomize across ten configurations (6,600 sessions). We show that leading models often decline to assess the reporter, treating information as worthless at rates set by the description rather than by the evidence. At its widest, models decline a Black-described reporter 46% of the time and a white-described reporter 9%; yet, when they do assess the information, the Black-described reporter receives slightly more trust. The bias is invisible to audits that compare average trust or look only at assessed cases. It grows with reasoning effort, follows words rather than categories (models invoke race for \"Black\" but not for its Spanish translation negro, and never for \"Indigenous\"), and worsens under warning instructions a practitioner would try first. We also present a scoring option that reduces the refusal rate bias. When a model's trust is scored against revealed truth over repeated rounds, it credits identical records equally. In four of five configurations from Anthropic and OpenAI, the racial gap in trust falls below 0.02 by the last rounds.",
-      "summary": "Language models are aligned to avoid using protected attributes such as race, ethnicity, and gender to inform their responses. Therefore, they increasingly refuse or hedge when such attributes appear in a prompt.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "51ab381366afbcf7"
-    },
-    {
-      "title": "v1.0.258",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.258",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-22T04:37:34+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.257...v1.0.258",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.257...v1.0.258",
-      "version": "1.0.258",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "f9c9866883caa08f"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.308 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.308",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-22T04:19:48.902000+00:00",
-      "body": "Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.308",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "b4c84646a5590fbf"
-    },
-    {
-      "title": "From Clinical Judgment to Checkable Rules: Clinician-Led Guardrails for Mental-Health Chatbots",
-      "url": "https://arxiv.org/abs/2610.30690v1",
-      "source": "arxiv",
-      "published": "2026-10-22T04:02:51+00:00",
-      "body": "Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult to inspect or explain. Common approaches to improving safety rely on prompt engineering, LLM-as-a-Judge, and Constitutional AI. In this work, we describe a clinician-led alternative in which two clinicians define, finalize, and adjudicate the four safety checks of a rule base, which is formally verified for internal consistency and applied as a guardrail over LLM outputs. Here and in the title, clinician-led refers to this rule base, not to the fact extractor or the uncertainty default, which are ours. Every verdict of the resulting verification layer is recomputable from a named rule and sixteen facts. Against an LLM judge matched in model, revision, quantization, rule text, and decoding but without the layer's computed 988/911 fact, the largest disagreement class, the satisfied-rule class, is structured: the Llama-3.3-70B judge, on its primary prompt, demands a crisis resource from 55 of the 65 replies (84.6%) that already contain one, while the same model, asked as a fact extractor, reports a recognized resource present on 54 of the 55. The verification layer never raises that demand, by construction. We report with equal prominence where this judge is stronger: fewer false crisis alarms on the one reference-scored check. We also report the measured cost (a specification revision raised block-class outcomes on held-out boundary prompts of an over-refusal benchmark from 6.0% to 16.0%, chiefly by changing fact extraction), the clinicians' decision to keep our uncertainty default, and the analysis of the result. The contribution is not a safer verdict. It is a guardrail whose disagreements with the judge localize to named rules and facts and whose measured costs trace to named facts and the uncertainty default.",
-      "summary": "Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult to inspect or explain. Common approaches to improving safety rely on prompt engineering, LLM-as-a-Judge, and Constitutional AI.",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "research",
-        "paper"
-      ],
-      "uid": "68317242ffea8e07"
-    },
-    {
-      "title": "Introducing Claude Duet",
-      "url": "https://claude.com/resources/articles/claude-duet",
-      "source": "claude-blog",
-      "published": "2026-10-21T22:24:26.745805+00:00",
-      "body": "A research preview is available by waitlist today, starting with US Pro and Max subscribers.",
-      "summary": "A research preview is available by waitlist today, starting with US Pro and Max subscribers.",
-      "version": "",
-      "category": "launch",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "efb4512850a8c472"
-    },
-    {
-      "title": "HCLTech joins the Claude Partner Network as a Global Premier partner",
-      "url": "https://claude.com/resources/articles/hcltech-joins-claude-partner-network",
-      "source": "claude-blog",
-      "published": "2026-10-21T22:24:26.745741+00:00",
-      "body": "HCLTech will bring Claude into the solutions it provides for banks, hospitals, telecom companies, and manufacturers.",
-      "summary": "HCLTech will bring Claude into the solutions it provides for banks, hospitals, telecom companies, and manufacturers.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "4bbca170c9b4495f"
-    },
-    {
-      "title": "v1.0.257",
-      "url": "https://github.com/anthropics/claude-code-action/releases/tag/v1.0.257",
-      "source": "github:anthropics/claude-code-action",
-      "published": "2026-10-21T22:21:23+00:00",
-      "body": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.256...v1.0.257",
-      "summary": "**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.256...v1.0.257",
-      "version": "1.0.257",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "claude-code-action"
-      ],
-      "uid": "67314818381c68bd"
-    },
-    {
-      "title": "v2.1.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.1.0",
-      "source": "github:anthropics/anthropic-sdk-python",
-      "published": "2026-10-21T22:00:30+00:00",
-      "body": "### Features\n\n* **api:** add enforcement status, actions and filter to user profiles",
-      "summary": "### Features * **api:** add enforcement status, actions and filter to user profiles",
-      "version": "2.1.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-python"
-      ],
-      "uid": "c76128999b4e56d3"
-    },
-    {
-      "title": "sdk-v1.1.0",
-      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.1.0",
-      "source": "github:anthropics/anthropic-sdk-typescript",
-      "published": "2026-10-21T21:54:03+00:00",
-      "body": "### Features\n\n* **api:** add enforcement status, actions and filter to user profiles",
-      "summary": "### Features * **api:** add enforcement status, actions and filter to user profiles",
-      "version": "sdk-v1.1.0",
-      "category": "api",
-      "impact": "feature",
-      "tags": [
-        "release",
-        "anthropic-sdk-typescript"
-      ],
-      "uid": "a5b2dd7f53a9015f"
-    },
-    {
-      "title": "@anthropic-ai/claude-code 2.1.307 published",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.307",
-      "source": "npm:@anthropic-ai/claude-code",
-      "published": "2026-10-21T20:47:18.383000+00:00",
-      "body": "Version 2.1.307 of @anthropic-ai/claude-code was published to the npm registry.",
-      "summary": "Version 2.1.307 of @anthropic-ai/claude-code was published to the npm registry.",
-      "version": "2.1.307",
-      "category": "claude-code",
-      "impact": "fix",
-      "tags": [
-        "release",
-        "npm"
-      ],
-      "uid": "702337d079007172"
-    },
-    {
-      "title": "Claude Security now scans continuously and tracks fixes",
-      "url": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes",
-      "source": "claude-blog",
-      "published": "2026-10-21T18:41:57.397566+00:00",
-      "body": "Claude Security now keeps up with your repositories as code changes, tracks findings until they\u2019re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.",
-      "summary": "Claude Security now keeps up with your repositories as code changes, tracks findings until they\u2019re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.",
-      "version": "",
-      "category": "api",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product",
-        "mcp",
-        "enterprise"
-      ],
-      "uid": "f98a755d299d399a"
-    },
-    {
-      "title": "Introducing the Life Sciences Verification Program",
-      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "source": "anthropic-news",
-      "published": "2026-10-21T18:41:55.303111+00:00",
-      "body": "The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.",
-      "summary": "The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.",
-      "version": "",
-      "category": "launch",
-      "impact": "feature",
-      "tags": [
-        "official",
-        "news",
-        "opus",
-        "sonnet"
-      ],
-      "uid": "773e2f6fa0b8f009"
-    },
-    {
-      "title": "Partnering with Accenture on embedded evaluation",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "source": "anthropic-news",
-      "published": "2026-10-21T18:41:55.303086+00:00",
-      "body": "Partnering with Accenture on embedded evaluation",
-      "summary": "Partnering with Accenture on embedded evaluation",
-      "version": "",
-      "category": "research",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news"
-      ],
-      "uid": "f28145f8cf320c8a"
     }
   ]
 }

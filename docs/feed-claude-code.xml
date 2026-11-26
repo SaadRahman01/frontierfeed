@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 15:42:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 00:27:44 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,30 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>How we built Claude Code auto mode: a safer way to skip permissions</title>
+<link>https://www.anthropic.com/research/claude-code-auto-mode</link>
+<guid isPermaLink="false">frontierfeed:e8109e646553a5b7</guid>
+<pubDate>Thu, 26 Nov 2026 00:27:33 +0000</pubDate>
+<category>claude-code</category>
+<description>Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here&#x27;s what it catches, and what it misses.</description>
+</item>
+<item>
+<title>An update on recent Claude Code quality reports</title>
+<link>https://www.anthropic.com/research/april-23-postmortem</link>
+<guid isPermaLink="false">frontierfeed:7cd855a9dc93a047</guid>
+<pubDate>Thu, 26 Nov 2026 00:27:33 +0000</pubDate>
+<category>claude-code</category>
+<description>We traced recent reports of Claude Code quality issues to three separate changes. Here&#x27;s what happened and what we&#x27;re changing.</description>
+</item>
+<item>
+<title>How we contain Claude across products</title>
+<link>https://www.anthropic.com/research/how-we-contain-claude</link>
+<guid isPermaLink="false">frontierfeed:8a655ad8eac3c2fd</guid>
+<pubDate>Thu, 26 Nov 2026 00:27:33 +0000</pubDate>
+<category>claude-code</category>
+<description>As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.</description>
+</item>
 <item>
 <title>v1.0.290</title>
 <link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.290</link>
@@ -590,38 +614,6 @@
 <pubDate>Thu, 22 Oct 2026 20:34:13 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.309 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.0.258</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.258</link>
-<guid isPermaLink="false">frontierfeed:f9c9866883caa08f</guid>
-<pubDate>Thu, 22 Oct 2026 04:37:34 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.257...v1.0.258</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.308 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.308</link>
-<guid isPermaLink="false">frontierfeed:b4c84646a5590fbf</guid>
-<pubDate>Thu, 22 Oct 2026 04:19:48 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.308 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>v1.0.257</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.257</link>
-<guid isPermaLink="false">frontierfeed:67314818381c68bd</guid>
-<pubDate>Wed, 21 Oct 2026 22:21:23 +0000</pubDate>
-<category>claude-code</category>
-<description>**Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.256...v1.0.257</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.307 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.307</link>
-<guid isPermaLink="false">frontierfeed:702337d079007172</guid>
-<pubDate>Wed, 21 Oct 2026 20:47:18 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.307 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>
