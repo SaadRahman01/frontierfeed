@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 09:37:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 19:41:05 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>One guy is doing a hunger strike outside Anthropic, currently in his 3rd day</title>
+<link>https://twitter.com/ElliotC1/status/2125689373337489419</link>
+<guid isPermaLink="false">frontierfeed:6a309ed25e82e6c1</guid>
+<pubDate>Thu, 26 Nov 2026 16:55:15 +0000</pubDate>
+<category>note</category>
+<description>53 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50657110</description>
+</item>
 <item>
 <title>Effective harnesses for long-running agents</title>
 <link>https://www.anthropic.com/research/effective-harnesses-for-long-running-agents</link>
@@ -806,14 +814,6 @@
 <pubDate>Mon, 16 Nov 2026 18:43:39 +0000</pubDate>
 <category>claude-code</category>
 <description>Version 2.1.326 of @anthropic-ai/claude-code was published to the npm registry.</description>
-</item>
-<item>
-<title>Show HN: Fakemetrics.com – &quot;build in public&quot; like a superstar</title>
-<link>https://fakemetrics.com/</link>
-<guid isPermaLink="false">frontierfeed:c2bb01afd756441d</guid>
-<pubDate>Mon, 16 Nov 2026 18:08:04 +0000</pubDate>
-<category>note</category>
-<description>43 points, 21 comments. Discussion: https://news.ycombinator.com/item?id=50520741</description>
 </item>
 </channel>
 </rss>

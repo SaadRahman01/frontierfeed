@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
+      "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
+      "source": "hackernews",
+      "published": "2026-11-26T16:55:15+00:00",
+      "body": "53 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50657110",
+      "summary": "53 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50657110",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "6a309ed25e82e6c1"
+    },
+    {
       "title": "Effective harnesses for long-running agents",
       "url": "https://www.anthropic.com/research/effective-harnesses-for-long-running-agents",
       "source": "anthropic-engineering",
@@ -4743,22 +4758,6 @@
         "npm"
       ],
       "uid": "fad8ef5c63648d68"
-    },
-    {
-      "title": "Building agents: When to fold subagents into your main agent loop",
-      "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
-      "source": "claude-blog",
-      "published": "2026-10-22T18:35:08.128527+00:00",
-      "body": "When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here\u2019s when and how to migrate.",
-      "summary": "When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here\u2019s when and how to migrate.",
-      "version": "",
-      "category": "pricing",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "7ee50b4eb9b11588"
     }
   ]
 }
