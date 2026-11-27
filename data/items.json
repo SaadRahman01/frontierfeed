@@ -1,6 +1,23 @@
 {
   "items": [
     {
+      "title": "v2.6.0",
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.6.0",
+      "source": "github:modelcontextprotocol/servers",
+      "published": "2026-11-27T09:51:35+00:00",
+      "body": "## Security fixes\n\nv2.6.0 fixes eight vulnerabilities in three servers, and completes two fixes that v2.5.0 left open. Upgrade `mcp-server-git` to 2026.11.27,\n`@modelcontextprotocol/server-memory` to 2.2.2 and `mcp-server-fetch` to 2026.11.27; on Windows, also `@modelcontextprotocol/server-filesystem` to 2.4.1.\n\n| Package | Affected | Fixed in |\n| --- | --- | --- |\n| `mcp-server-git` | through 2026.11.18 | 2026.11.27 |\n| `@modelcontextprotocol/server-memory` | 1.0.0 through 2.2.1 | 2.2.2 |\n| `mcp-server-fetch` | 2026.10.10 through 2026.11.18 | 2026.11.27 |\n| `@modelcontextprotocol/server-filesystem` | on Windows, through 2.4.0 | 2.4.1 |\n\n### `mcp-server-git` 2026.11.27\n\n* **Git LFS no longer runs programs that a repository's configuration names.** With Git LFS installed (the official Docker image installs it system-wide), the server kept the LFS filter from the user's own configuration, and Git LFS then read keys from the repository's `.git/config` that name programs (`lfs.extension.<name>.clean` and `.smudge`, `lfs.customtransfer.<name>.path` and `.args`, `lfs.standalonetransferagent`). The read-only `git_status`, and `git_diff_unstaged`, `git_diff`, `git_add`, `git_checkout` and `git_merge`, could run them with the server's privileges. Those keys are now emptied at repository scope, and LFS downloads are turned off (`GIT_LFS_SKIP_SMUDGE=1`) ([GHSA-6663-fm5v-gqm5](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-6663-fm5v-gqm5))\n* **The `--repository` root can no longer be pointed at another repository.** A root whose `.git` file or `commondir` named a Git directory elsewhere was accepted as the root's own, so `git_show` and the other tools served another repository's content. The root's Git directories are now recorded when the server starts, and must be the root's own: inside it, or those of a linked worktree or submodule checkout that its main repository confirms. **A root whose `.git` file names any other Git directory is now refused** ([GHSA-3whj-m8jj-x97q](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-3whj-m8jj-x97q))\n* **`git_remote` no longer returns a credential through a crafted remote name or URL.** A remote name holding a tab shifted the URL column, and a URL that did not start its value skipped redaction, so with a credential-bearing `url.<base>.insteadOf` in the user's own configuration the tool returned that credential. Remote names are now matched against `git remote`'s own list, and a value that holds a URL anywhere but at its start is withheld as `<redacted>` ([GHSA-wvv2-676g-r57j](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-wvv2-676g-r57j))\n* **`repo_path` is taken literally.** GitPython expanded `$NAME` and `${NAME}` in it, and the error for a path that does not exist returned the expanded path, so a tool call could read any environment variable of the server process. Neither `repo_path` nor `--repository` is expanded now ([GHSA-f33v-89w7-f9vc](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-f33v-89w7-f9vc))\n* **Under `--repository`, objects are read only from the repository's own store.** An `objects/info/alternates` file that was empty when the server checked it could be rewritten before Git looked an object up, and `git_show` then returned an object from another repository. Each call now runs Git on a private object directory that links only the repository's own objects, so Git never reads an alternates file. Without `--repository`, alternates keep working ([GHSA-5pwg-5xfw-x322](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-5pwg-5xfw-x322))\n* **`git_merge` refuses a merge commit that would overwrite ignored local files.** Git honors `--no-overwrite-ignore` only on a fast-forward, so a merge of diverged branches replaced an ignored file, such as `.env`, with the source branch's version and reported success. The server now checks the incoming paths first and refuses the merge, changing nothing ([GHSA-qf89-h82f-h5r5](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-qf89-h82f-h5r5))\n* **The `--repository` check is repeated after a tool writes the working tree** (#5599). This completes [GHSA-9vjp-x34c-xg6v](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-9vjp-x34c-xg6v) from v2.5.0. A checkout or merge can write configuration that moves the repository's working tree outside `--repository`. `git_checkout`, `git_merge` and the abort after a conflict now check again after writing, and if the check fails they stop without running another Git command\n\n### `@modelcontextprotocol/server-memory` 2.2.2\n\n* **A save no longer changes the permissions of a file outside the memory path.** `saveGraph` set the temporary file's mode and renamed it by path, so an account that can write the graph's directory could swap the temporary name for a symlink and have the graph's mode applied to the link's target. The temporary file is now created exclusively and written and set through its own handle, and a save whose temporary name was replaced is refused ([GHSA-48j5-hj63-c82c](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-48j5-hj63-c82c))\n\n### `mcp-server-fetch` 2026.11.27\n\n* **robots.txt rules are also matched against backslash and path-parameter spellings.** This completes [GHSA-3rxj-6jhw-qfv7](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-3rxj-6jhw-qfv7). The autonomous fetch matched a disallowed path as spelled and as an nginx- or Apache-style origin resolves it, but not as an origin resolves it that reads `\\` or `%5C` as a separator (IIS, Windows-backed servers) or drops `;` path parameters (Java servlet containers). Both readings are now checked ([GHSA-g7v6-hfx3-8rv6](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-g7v6-hfx3-8rv6))\n\n### `@modelcontextprotocol/server-filesystem` 2.4.1\n\n* **On Windows, a listed directory is checked before and after the read** (#5600). This narrows the Windows gap left by [GHSA-rq2p-q7c4-6g27](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-rq2p-q7c4-6g27) in v2.4.0. `list_directory`, `list_directory_with_sizes`, `directory_tree` and `search_files` now refuse a path with a junction or symlink on it, or one that names a different directory after the read, with \"Access denied - a directory on the path changed during the operation\". **A swap made and undone while the directory is being read is still not detected on Windows.** macOS and Linux are unchanged\n\n### Upgrading from a date-versioned npm release\n\nThe TypeScript servers moved from date versions (2025.x, 2026.x) to semantic versions in 1.0.0. Package managers rank 2.2.2 and 2.4.1 below every 2025.x and 2026.x version, so they won't offer them as an upgrade. If you are on a date version of `@modelcontextprotocol/server-memory` or `@modelcontextprotocol/server-filesystem`, install the new version explicitly: `npm install @modelcontextprotocol/server-memory@2.2.2` or `npm install @modelcontextprotocol/server-filesystem@2.4.1`.\n\n## Packages\n\n| Package | Version | Registry | In this release |\n| --- | --- | --- | --- |\n| `@modelcontextprotocol/server-everything` | `2.4.0` | npm | **published** |\n| `@modelcontextprotocol/server-filesystem` | `2.4.1` | npm | **published** |\n| `@modelcontextprotocol/server-memory` | `2.2.2` | npm | **published** |\n| `@modelcontextprotocol/server-sequential-thinking` | `2.2.0` | npm | unchanged |\n| `mcp-server-fetch` | `2026.11.27` | PyPI | **published** |\n| `mcp-server-git` | `2026.11.27` | PyPI | **published** |\n| `mcp-server-time` | `2026.11.27` | PyPI | **published** |\n\nRelease ledger: [v2/chore/5681-release-v2.6.0](https://claude.ai/artifact/BuF5MN3gNzNFCZ9y6z9ai8)\n\n## @modelcontextprotocol/server-everything 2.4.0\n\n### What's Changed\n\n* test(everything): pin that requestState expires after its 600-second TTL by @cliffhall in https://github.com/modelcontext",
+      "summary": "## Security fixes v2.6.0 fixes eight vulnerabilities in three servers, and completes two fixes that v2.5.0 left open.",
+      "version": "2.6.0",
+      "category": "api",
+      "impact": "feature",
+      "tags": [
+        "release",
+        "servers",
+        "mcp"
+      ],
+      "uid": "15258d03a7992a56"
+    },
+    {
       "title": "Notion's official MCP inject hidden upsell instructions into agent context",
       "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
       "source": "hackernews",
@@ -30,6 +47,22 @@
         "community"
       ],
       "uid": "6a309ed25e82e6c1"
+    },
+    {
+      "title": "Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route",
+      "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
+      "source": "hackernews",
+      "published": "2026-11-26T14:38:57+00:00",
+      "body": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50655798",
+      "summary": "43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50655798",
+      "version": "",
+      "category": "note",
+      "impact": "info",
+      "tags": [
+        "community",
+        "opus"
+      ],
+      "uid": "db8727a0b5e6ea11"
     },
     {
       "title": "Effective harnesses for long-running agents",
@@ -4726,38 +4759,6 @@
         "product"
       ],
       "uid": "863144bde0789b93"
-    },
-    {
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "source": "anthropic-news",
-      "published": "2026-10-22T22:23:21.491739+00:00",
-      "body": "We\u2019re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.",
-      "summary": "We\u2019re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation.",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "official",
-        "news",
-        "skills"
-      ],
-      "uid": "d9b5ef0e7d125d65"
-    },
-    {
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "url": "https://news.ycombinator.com/item?id=50200997",
-      "source": "hackernews",
-      "published": "2026-10-22T21:03:55+00:00",
-      "body": "42 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50200997",
-      "summary": "42 points, 23 comments. Discussion: https://news.ycombinator.com/item?id=50200997",
-      "version": "",
-      "category": "note",
-      "impact": "info",
-      "tags": [
-        "community"
-      ],
-      "uid": "f8c8047888c2f494"
     }
   ]
 }

@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 02:54:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 12:35:59 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>v2.6.0</title>
+<link>https://github.com/modelcontextprotocol/servers/releases/tag/v2.6.0</link>
+<guid isPermaLink="false">frontierfeed:15258d03a7992a56</guid>
+<pubDate>Fri, 27 Nov 2026 09:51:35 +0000</pubDate>
+<category>api</category>
+<description>## Security fixes v2.6.0 fixes eight vulnerabilities in three servers, and completes two fixes that v2.5.0 left open.</description>
+</item>
 <item>
 <title>Notion&#x27;s official MCP inject hidden upsell instructions into agent context</title>
 <link>https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/</link>
@@ -30,6 +38,14 @@
 <pubDate>Thu, 26 Nov 2026 16:55:15 +0000</pubDate>
 <category>note</category>
 <description>53 points, 44 comments. Discussion: https://news.ycombinator.com/item?id=50657110</description>
+</item>
+<item>
+<title>Testers think they&#x27;re hitting Claude Opus 5.6 through an Opus 5.5 Extra route</title>
+<link>https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/</link>
+<guid isPermaLink="false">frontierfeed:db8727a0b5e6ea11</guid>
+<pubDate>Thu, 26 Nov 2026 14:38:57 +0000</pubDate>
+<category>note</category>
+<description>43 points, 15 comments. Discussion: https://news.ycombinator.com/item?id=50655798</description>
 </item>
 <item>
 <title>Effective harnesses for long-running agents</title>
@@ -798,22 +814,6 @@
 <pubDate>Tue, 17 Nov 2026 00:12:40 +0000</pubDate>
 <category>research</category>
 <description>Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…</description>
-</item>
-<item>
-<title>v1.0.278</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.278</link>
-<guid isPermaLink="false">frontierfeed:e3ed5c263b6b5d6c</guid>
-<pubDate>Mon, 16 Nov 2026 22:14:53 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed ### Other changes * Read the run step&#x27;s script whole and turn off Bun&#x27;s transpiler cache by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2060 **Full Changelog**: https://github.com/anthropics/claude-code-action/compare/v1.0.277...v1.0.278</description>
-</item>
-<item>
-<title>v1.0.277 (breaking changes)</title>
-<link>https://github.com/anthropics/claude-code-action/releases/tag/v1.0.277</link>
-<guid isPermaLink="false">frontierfeed:e8cffd4f65e7de3c</guid>
-<pubDate>Mon, 16 Nov 2026 19:05:07 +0000</pubDate>
-<category>claude-code</category>
-<description>## What&#x27;s Changed ### ⚠️ Breaking changes * Use the base branch&#x27;s AGENTS.md on pull requests by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2059 ### Other changes * Use the base branch&#x27;s npm and Bun config on outside pull requests by @mhegazy in https://gith…</description>
 </item>
 </channel>
 </rss>
