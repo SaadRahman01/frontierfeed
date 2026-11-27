@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 19:41:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 02:54:48 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Notion&#x27;s official MCP inject hidden upsell instructions into agent context</title>
+<link>https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/</link>
+<guid isPermaLink="false">frontierfeed:2f7251dae7b40143</guid>
+<pubDate>Thu, 26 Nov 2026 18:28:30 +0000</pubDate>
+<category>api</category>
+<description>50 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50658093</description>
+</item>
 <item>
 <title>One guy is doing a hunger strike outside Anthropic, currently in his 3rd day</title>
 <link>https://twitter.com/ElliotC1/status/2125689373337489419</link>
@@ -806,14 +814,6 @@
 <pubDate>Mon, 16 Nov 2026 19:05:07 +0000</pubDate>
 <category>claude-code</category>
 <description>## What&#x27;s Changed ### ⚠️ Breaking changes * Use the base branch&#x27;s AGENTS.md on pull requests by @mhegazy in https://github.com/anthropics/claude-code-action/pull/2059 ### Other changes * Use the base branch&#x27;s npm and Bun config on outside pull requests by @mhegazy in https://gith…</description>
-</item>
-<item>
-<title>@anthropic-ai/claude-code 2.1.326 published</title>
-<link>https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.326</link>
-<guid isPermaLink="false">frontierfeed:8a05034080368e8b</guid>
-<pubDate>Mon, 16 Nov 2026 18:43:39 +0000</pubDate>
-<category>claude-code</category>
-<description>Version 2.1.326 of @anthropic-ai/claude-code was published to the npm registry.</description>
 </item>
 </channel>
 </rss>

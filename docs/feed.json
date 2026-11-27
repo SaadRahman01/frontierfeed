@@ -9,6 +9,20 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:2f7251dae7b40143",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
+      "title": "Notion's official MCP inject hidden upsell instructions into agent context",
+      "summary": "50 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50658093",
+      "content_text": "50 points, 20 comments. Discussion: https://news.ycombinator.com/item?id=50658093",
+      "date_published": "2026-11-26T18:28:30+00:00",
+      "tags": [
+        "api",
+        "info",
+        "community",
+        "mcp"
+      ]
+    },
+    {
       "id": "frontierfeed:6a309ed25e82e6c1",
       "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
       "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
@@ -1381,20 +1395,6 @@
         "fix",
         "release",
         "claude-code-action"
-      ]
-    },
-    {
-      "id": "frontierfeed:8a05034080368e8b",
-      "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.326",
-      "title": "@anthropic-ai/claude-code 2.1.326 published",
-      "summary": "Version 2.1.326 of @anthropic-ai/claude-code was published to the npm registry.",
-      "content_text": "Version 2.1.326 of @anthropic-ai/claude-code was published to the npm registry.",
-      "date_published": "2026-11-16T18:43:39.005000+00:00",
-      "tags": [
-        "claude-code",
-        "fix",
-        "release",
-        "npm"
       ]
     }
   ]
