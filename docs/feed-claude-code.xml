@@ -5,7 +5,7 @@
 <link>https://saadrahman01.github.io/frontierfeed</link>
 <description>Release and news tracker for Anthropic&#x27;s Claude, Claude Code only. Unofficial; not affiliated with Anthropic.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 13:08:32 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 20:59:24 +0000</lastBuildDate>
 <atom:link href="https://saadrahman01.github.io/frontierfeed/feed-claude-code.xml" rel="self" type="application/rss+xml"/>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <generator>frontierfeed</generator>
@@ -15,6 +15,14 @@
 <title>frontierfeed — Claude Code</title>
 <link>https://saadrahman01.github.io/frontierfeed</link>
 </image>
+<item>
+<title>Claude Code sabotage: preliminary benchmarking</title>
+<link>https://xinyadu.github.io/blog/claude-code-sabotage.html</link>
+<guid isPermaLink="false">frontierfeed:0b3b3d534d00e3f7</guid>
+<pubDate>Sat, 28 Nov 2026 10:37:40 +0000</pubDate>
+<category>claude-code</category>
+<description>818 points, 277 comments. Discussion: https://news.ycombinator.com/item?id=50676390</description>
+</item>
 <item>
 <title>How we built Claude Code auto mode: a safer way to skip permissions</title>
 <link>https://www.anthropic.com/research/claude-code-auto-mode</link>

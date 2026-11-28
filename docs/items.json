@@ -1,9 +1,24 @@
 {
   "title": "frontierfeed",
   "description": "Release and news tracker for Anthropic's Claude",
-  "generated": "2026-11-28T13:08:32.572285+00:00",
+  "generated": "2026-11-28T20:59:24.272387+00:00",
   "count": 300,
   "items": [
+    {
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "source": "hackernews",
+      "published": "2026-11-28T10:37:40+00:00",
+      "body": "818 points, 277 comments. Discussion: https://news.ycombinator.com/item?id=50676390",
+      "summary": "818 points, 277 comments. Discussion: https://news.ycombinator.com/item?id=50676390",
+      "version": "",
+      "category": "claude-code",
+      "impact": "info",
+      "tags": [
+        "community"
+      ],
+      "uid": "0b3b3d534d00e3f7"
+    },
     {
       "title": "v2.6.0",
       "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.6.0",
@@ -4747,22 +4762,6 @@
         "claude-code-action"
       ],
       "uid": "436b37aeb7d8ec95"
-    },
-    {
-      "title": "The full Claude Platform, available on Google Cloud",
-      "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
-      "source": "claude-blog",
-      "published": "2026-10-22T22:23:23.605891+00:00",
-      "body": "Use Claude Models on Google Cloud (Anthropic managed) to access Claude Platform features with Google Cloud authentication, billing, and commitment retirement.",
-      "summary": "Use Claude Models on Google Cloud (Anthropic managed) to access Claude Platform features with Google Cloud authentication, billing, and commitment retirement.",
-      "version": "",
-      "category": "deprecation",
-      "impact": "info",
-      "tags": [
-        "official",
-        "product"
-      ],
-      "uid": "863144bde0789b93"
     }
   ]
 }

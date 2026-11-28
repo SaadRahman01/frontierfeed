@@ -9,6 +9,19 @@
   "language": "en",
   "items": [
     {
+      "id": "frontierfeed:0b3b3d534d00e3f7",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "summary": "818 points, 277 comments. Discussion: https://news.ycombinator.com/item?id=50676390",
+      "content_text": "818 points, 277 comments. Discussion: https://news.ycombinator.com/item?id=50676390",
+      "date_published": "2026-11-28T10:37:40+00:00",
+      "tags": [
+        "claude-code",
+        "info",
+        "community"
+      ]
+    },
+    {
       "id": "frontierfeed:15258d03a7992a56",
       "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.6.0",
       "title": "v2.6.0",
@@ -1371,21 +1384,6 @@
     {
       "id": "frontierfeed:8aca54bd6b2fe7c7",
       "url": "https://arxiv.org/abs/2611.22017v1",
-      "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
-      "summary": "Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…",
-      "content_text": "Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…",
-      "date_published": "2026-11-17T00:12:40+00:00",
-      "tags": [
-        "research",
-        "info",
-        "research",
-        "paper",
-        "skills"
-      ]
-    },
-    {
-      "id": "frontierfeed:ec58cfc9458fe424",
-      "url": "https://arxiv.org/abs/2611.22017v2",
       "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
       "summary": "Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…",
       "content_text": "Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the…",
